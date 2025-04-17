@@ -1,6 +1,0 @@
-pandas
-requests
-python-dotenv
-google-generativeai
-SpeechRecognition
-gTTS
