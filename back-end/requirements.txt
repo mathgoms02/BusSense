@@ -1,0 +1,7 @@
+django
+python-dotenv
+gtts
+google-api-python-client
+pandas
+requests
+SpeechRecognition
