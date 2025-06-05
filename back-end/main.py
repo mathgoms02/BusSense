@@ -9,7 +9,7 @@ def fetch_routes(url: str) -> pd.DataFrame:
     if response.status_code == 200:
         data = response.json()
         df = pd.DataFrame(data)
-        df = df[['routeShortName', 'routeNameStart', 'routeNameEnd']]
+        df = df[['route_short_name', 'route_name_start', 'route_name_end']]
         df.columns = ['RouteCode', 'RouteStart', 'RouteEnd']
         return df
     else:
@@ -19,7 +19,7 @@ if __name__ == "__main__":
     load_dotenv()
     api_key = os.getenv("GOOGLE_API_KEY")
 
-    url = "http://localhost:3333/bus/all"
+    url = "http://localhost:8000/api/bus-route"
     routes_df = fetch_routes(url)
 
     assistant = GeminiThinking(api_key=api_key, routes_data=routes_df)

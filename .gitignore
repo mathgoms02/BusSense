@@ -2,3 +2,4 @@ venv/
 __pycache__/
 **/__pycache__/
 back-end/.env
+back-end/bus_sense_tool/__pycache__

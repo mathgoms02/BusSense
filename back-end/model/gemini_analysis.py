@@ -10,7 +10,7 @@ class GeminiThinking:
             raise ValueError("API key is mandatory! Check your .env file.")
 
         genai.configure(api_key=api_key)
-        self.model = genai.GenerativeModel('gemini-1.5-pro')
+        self.model = genai.GenerativeModel('gemini-2.0-flash')
 
         self.recorder = AudioCapture()
         self.routes_data = routes_data
