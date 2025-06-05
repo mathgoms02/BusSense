@@ -19,7 +19,7 @@ if __name__ == "__main__":
     load_dotenv()
     api_key = os.getenv("GOOGLE_API_KEY")
 
-    url = "http://localhost:8000/api/bus-route"
+    url = "http://localhost:8000/api/bus-route/"
     routes_df = fetch_routes(url)
 
     assistant = GeminiThinking(api_key=api_key, routes_data=routes_df)

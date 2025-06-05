@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     
     # My apps
-    'emtu_api.core',
+    'emtu_api',
     'rest_framework',
 ]
 
