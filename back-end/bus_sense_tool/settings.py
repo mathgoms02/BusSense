@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
 from pathlib import Path
+from mongoengine import connect
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -39,8 +40,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     
     # My apps
-    'emtu_api',
+    'bus_sense_tool',
     'rest_framework',
+    'rest_framework_mongoengine',
 ]
 
 MIDDLEWARE = [
@@ -73,6 +75,14 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'bus_sense_tool.wsgi.application'
 
+# Database with mongoengine
+connect(
+    db="emtu_db",                  # Nome do seu banco
+    host="localhost",              # Ou IP/host do MongoDB
+    port=27017,                    # Porta padrão
+    username="",                   # Se estiver usando autenticação
+    password="",                   # Se estiver usando autenticação
+)
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
@@ -133,5 +143,8 @@ REST_FRAMEWORK = {
     'DEFAULT_RENDERER_CLASSES': (
         'rest_framework.renderers.JSONRenderer',
         'rest_framework.renderers.BrowsableAPIRenderer',
+    ),
+    'DEFAULT_PARSER_CLASSES': (
+        'rest_framework.parsers.JSONParser',
     )
 }

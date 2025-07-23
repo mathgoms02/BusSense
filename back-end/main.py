@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import requests
 from dotenv import load_dotenv
-from model.gemini_analysis import GeminiThinking
+from AI.model.gemini_analysis import GeminiThinking
 
 def fetch_routes(url: str) -> pd.DataFrame:
     response = requests.get(url)
