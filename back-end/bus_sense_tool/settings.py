@@ -76,6 +76,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'bus_sense_tool.wsgi.application'
 
 # Database with mongoengine
+
 connect(
     db="emtu_db",                  # Nome do seu banco
     host="localhost",              # Ou IP/host do MongoDB
@@ -89,14 +90,12 @@ connect(
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'emtu',               # ou o nome correto do banco dentro do container
-        'USER': 'postgres',          # ou o usuário que você configurou
-        'PASSWORD': '1234',  # a senha do usuário
-        'HOST': '127.0.0.1',          # ou 'localhost', já que o container expõe a porta
-        'PORT': '5432',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
+DATABASE_ROUTERS = ['core.routers.CoreRouter']
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators

@@ -1,6 +1,7 @@
 from mongoengine import Document, StringField, IntField
 
 class Cid(Document):
+    id = IntField(unique=True)
     cod = StringField(max_length=255)
     diagnostic = StringField()
     observations = StringField()

@@ -7,3 +7,4 @@ from core.views.reports_view_set import ReportsViewSet
 from core.views.search_view_set import SearchViewSet
 from core.views.user_view_set import UserViewSet
 from core.views.vehicle_view_set import VehicleViewSet
+from core.views.dynamic_form_view import DynamicFormView

@@ -1,6 +1,7 @@
 from mongoengine import Document, StringField, IntField, BooleanField
 
 class Search(Document):
+    id = IntField(unique=True)
     id_cidade_origem = IntField(required=True)
     id_cidade_destino = IntField(required=True)
     id_cid = IntField(required=True)

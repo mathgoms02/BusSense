@@ -5,5 +5,6 @@ from core.documents.city_document import City
 from core.documents.group_document import Group
 from core.documents.reports_document import Reports
 from core.documents.search_document import Search
+from core.documents.sequence_document import SequenceDocument
 from core.documents.user_document import User
 from core.documents.vehicle_document import Vehicle
