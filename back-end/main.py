@@ -3,6 +3,8 @@ import pandas as pd
 import requests
 from dotenv import load_dotenv
 from model.gemini_analysis import GeminiThinking
+from model.llama_analysis import LlamaThinking
+import time
 
 def fetch_routes(url: str) -> pd.DataFrame:
     response = requests.get(url)
@@ -22,5 +24,26 @@ if __name__ == "__main__":
     url = "http://localhost:8000/api/bus-route"
     routes_df = fetch_routes(url)
 
-    assistant = GeminiThinking(api_key=api_key, routes_data=routes_df)
-    assistant.run()
+    while True:
+        # assistant_choose = input(
+        #     "Choose the model:\n"
+        #     "  1 - Gemini\n"
+        #     "  2 - Llama\n"
+        #     "Enter your choice (1 or 2): "
+        # )
+
+        assistant_choose = "2"
+
+        if assistant_choose == "1":
+            print('gemini')
+            assistant = GeminiThinking(api_key=api_key, routes_data=routes_df)
+        elif assistant_choose == "2":
+            assistant = LlamaThinking(routes_data=routes_df)
+            print('llama')
+        else:
+            print("\nEscolhe 1 ou 2 seu cabaço")
+            time.sleep(2)
+            os.system("clear")
+            continue
+        assistant.run()
+        break

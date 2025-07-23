@@ -1,0 +1,16 @@
+timestamp,interaction_id,user_query,extracted_origin,extracted_destination,suggested_route_code,suggestion_confidence,assistant_response,user_feedback
+,,Sou de Monte Mor e quero ir para Campinas,Sou de Monte,Campinas,709.0,0.579628,,
+,,Sou de Monte Mor e quero ir para Campinas,Sou de Monte,Campinas,709.0,0.579628,,
+,,Sou de Monte Mor e quero ir para Campinas,Sou de Monte,Campinas,,,"A melhor rota é a Linha 709, que vai de Monte Mor até Campinas.",
+,,show de Hortolândia quero ir para,,,,,"Desculpe, não consegui entender a solicitação. Tente novamente com menos detalhes.",
+,,tá eu eu todo mundo sou de Hortolândia quero ir para,,,,,"Desculpe, não consegui entender a solicitação. Tente novamente com menos detalhes.",
+,,Hortolândia senhor de Hortolândia quero ir para,,,,,"Desculpe, não consegui entender a solicitação. Tente novamente com menos detalhes.",
+,,estou em Hortolândia quero ir para Campinas,,,,,"Desculpe, não consegui entender a solicitação. Tente novamente com menos detalhes.",
+,,Hortolândia Campinas,,,,,"Desculpe, não consegui entender a solicitação. Tente novamente com menos detalhes.",
+,,o Gusttavo Lima aí sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campinas.",
+,,assistir o filme do Five nights freddy's,,,,,"“A melhor rota é a Linha 1, que vai de São Paulo até Pinheiral.”",
+,,meu ônibus atrasou,,,,,"The best route is the Linha 51, which goes from DIADEMA (VILA SAO JOSE) to SAUDE in São Paulo.",
+,,obrigado obrigado obrigado obrigado obrigado obrigado obrigado obrigado,,,,,"The best route is the Linha 487, which connects Maughan to Santo Andre.",
+,5ff3bf43-d4b5-4564-9780-06e9ca97ca06,estou de Hortolândia quero ir para,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campinas.",feedback_positivo_concluido: obrigado
+,ff6a320f-0581-43c0-b106-901d553a2b2f,cheguei no meu ponto muito obrigado,,,,,"A melhor rota é a Linha 708, que vai de Monte Mor até Campinas.",feedback_problema_viagem: meu ônibus atrasou
+,658e94b5-47db-4592-afc8-505439f1970a,meu ônibus atrasou,,,,,"The best route is the Linha 51, which goes from DIADEMA (VILA SAO JOSE) to SAUDE in São Paulo.",

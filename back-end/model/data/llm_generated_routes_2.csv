@@ -1,0 +1,910 @@
+RouteCode,RouteStart,RouteEnd,llm_generated
+001,ITAPECERICA DA SERRA (PARQUE PARAISO),SAO PAULO (METRO CAPAO REDONDO),"oi, como eu faco pra chegar em sao paulo saindo de sao jose do rio preto?"
+002,EMBU DAS ARTES (ENGENHO VELHO),SAO PAULO (METRO CAPAO REDONDO),como eu faco pra chegar em sao paulo saindo de embuadas artes?
+003,GUARULHOS (COCAIA),SAO PAULO (METRO TUCURUVI),"oi, como eu faco pra ir de guarulhos (cocaia) ate sao paulo?"
+004,SAO BERNARDO DO CAMPO (PARQUE ALVARENGA),SAO PAULO (TERMINAL SACOMA),"oi, to em parque alvarena e quero saber como chegar em sao paulo."
+006,SAO BERNARDO DO CAMPO (JARDIM NAZARETH),SAO PAULO (TERMINAL SACOMA),como eu faco pra chegar do jardim nazareth em sao bernardo do campo ate o terminal sacramento?
+008,SAO CAETANO DO SUL (NOVA GERTI),SAO PAULO (TERMINAL SACOMA),como eu faco pra chegar de sao paulo ate sao casemiro (nova gerti)?
+011,GUARULHOS (PARQUE CONTINENTAL II),SAO PAULO (METRO ARMENIA),como eu faco pra chegar de guarulhos (parque continental ii) em sao paulo?
+011PR1,GUARULHOS (PARQUE CONTINENTAL III),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar do parque continental iii em sao paulo?"
+012,EMBU-GUACU (VILA DIRCE),SAO PAULO (TERMINAL GRAJAU),"oi, como eu faco pra chegar de embu-guacu em sao paulo?"
+014,FRANCO DA ROCHA (PARQUE VITORIA),CAIEIRAS (TERMINAL RODOVIARIO ALIPIO MARTINHO),"oi, como eu faco pra sair do franco da rocha e ir ate as cairias?"
+016,GUARULHOS (TERMINAL METROPOLITANO TABOAO),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar de guarulhos ate o metro armenia?"
+020,CARAPICUIBA (VILA DIRCE),OSASCO (VILA YARA),"oi, como eu faco pra ir de carapicuiba (vila dirce) ate a vila yara?"
+022,CARAPICUIBA (VILA DIRCE),OSASCO (VILA YARA),"oi, como eu faco pra ir de carapicuiba pra osasco?"
+023,CARAPICUIBA (COHAB V),OSASCO (VILA YARA),"oi, como eu faco pra chegar em osasco saindo da cabaricuiba (cohab v)?"
+024,ITAPEVI (JARDIM AMADOR BUENO),COTIA (TERMINAL METROPOLITANO DE COTIA),como eu faco pra ir do itapevi (jardim amador bueno) ate o terminal metropolitano de cotia?
+025,SUZANO (CIDADE EDSON),MOGI DAS CRUZES (ESTACAO CPTM ESTUDANTES),"oi, como eu faco pra chegar em mogi das cruzes a partir de suzano?"
+027,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE-LESTE),SAO PAULO (JARDIM TIETE),como eu faco pra chegar do terminal metropolitano santo anderro-leste em sao paulo?
+027EX1,SANTO ANDRE (HOSPITAL MARIO COVAS),SAO PAULO (JARDIM TIETE),"oi, como eu faco pra ir do hospital mario voz ate sao paulo?"
+030,JUQUITIBA (BARNABES),ITAPECERICA DA SERRA (VALO VELHO),"oi, como eu faco pra pegar um onibus saindo de juquitiba e indo para vale velho?"
+030BI1,JUQUITIBA (BAIRRO DOS JUSTINOS),ITAPECERICA DA SERRA (VALO VELHO),"oi, como eu faco pra chegar no valo velho saindo de juquitiba?"
+031,EMBU-GUACU (CHACARA FLORIDA),ITAPECERICA DA SERRA (VALO VELHO),"oi, como eu faco pra chegar em vale velho saindo de embu-guacuba?"
+032,ITAPECERICA DA SERRA (PARQUE PARAISO),SAO PAULO (METRO VILA SONIA),como eu faco pra ir do parque paraiso ate a vila sonia?
+032DV1,ITAPECERICA DA SERRA (PARQUE PARAISO),SAO PAULO (METRO VILA SONIA),"oi, como eu faco pra ir do parque paraiso ate a sao paulo?"
+033,EMBU DAS ARTES (ENGENHO VELHO),SAO PAULO (METRO VILA SONIA),"como eu faco pra ir de engenho velho ate a vila sonia e, em seguida, chegar em sao paulo?"
+034,ITAPECERICA DA SERRA (JARDIM SAO MARCOS),ITAPECERICA DA SERRA (JARDIM DAS OLIVEIRAS),"oi, como eu faco pra ir de jardim sao marcos pra jardim das oliveiras?"
+035,COTIA (MIRANTE DA MATA),SAO PAULO (METRO BUTANTA),"oi, como eu faco pra chegar em sao paulo saindo de mirante da mata?"
+036,VARGEM GRANDE PAULISTA (JARDIM SAO MARCOS),SAO PAULO (METRO MORUMBI),como eu faco pra chegar em sao paulo saindo do jardim sao marcos?
+036BI1,EMBU DAS ARTES (JARDIM TOME),SAO PAULO (METRO MORUMBI),como eu faco pra ir do jardim tome pro metro morumbi?
+038,MOGI DAS CRUZES (ESTACAO CPTM ESTUDANTES),SAO PAULO (METRO ARMENIA),como eu faco pra ir de mogi das cruzes pra sao paulo usando o metro armenia?
+038VP1,SAO PAULO (SAO MIGUEL PAULISTA),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar de sao paulo (sao paulo) ate sao paulo (metro armenia)?"
+039,SUZANO (CIDADE EDSON),MOGI DAS CRUZES (ESTACAO CPTM ESTUDANTES),como eu faco pra chegar em mogi das cruzes saindo de suzano?
+040,SANTO ANDRE (PARANAPIACABA),SANTO ANDRE (ESTACAO CPTM PREFEITO SALADINO),"oi, como eu faco pra ir de santo andre (paranapiacaba) ate santo andre (estacao cptm prefeito saladino)?"
+040EX1,SANTO ANDRE (PARQUE ANDREENSE),SANTO ANDRE (ESTACAO CPTM PREFEITO SALADINO),"oi, como eu faco pra ir do parque andreense ate o estacao cptm saladino?"
+041,RIO GRANDE DA SERRA (CENTRO),RIBEIRAO PIRES (TERMINAL RODOVIARIO DE RIBEIRAO PIRES),"oi, como eu faco pra chegar em ribeirao pires partindo do centro de rio grande da serra?"
+042,MAIRIPORA (DIVISA),SAO PAULO (TERMINAL RODOVIARIO TIETE),"oi, como eu faco pra ir de miropolis (mairipora) ate o terminal rodoviario tiete?"
+042VP1,MAIRIPORA (TERMINAL RODOVIARIO SIGUEMI AIACYDA),SAO PAULO (TERMINAL RODOVIARIO TIETE),como eu faco pra chegar do terminal rodoviario siga me aidia?
+043,SAO CAETANO DO SUL (TERMINAL RODOVIARIO NICOLAU DELIC),SANTO ANDRE (CATA PRETA),"oi, como eu faco pra chegar em santo andre saindo do terminal rodoviario nicolau delic?"
+043BI1,SAO CAETANO DO SUL (TERMINAL RODOVIARIO NICOLAU DELIC),SANTO ANDRE (REPRESA),como eu faco pra ir do terminal rodoaviario nicolau delic ate santo andre?
+047,SANTO ANDRE (VILA PALMARES),SAO PAULO (TAMANDUATEI),"como eu faco pra ir do santo andre, vila palmares, ate sao paulo?"
+049,MAIRIPORA (TERMINAL RODOVIARIO SIGUEMI AIACYDA),FRANCO DA ROCHA (CENTRO),"oi, como eu faco pra chegar no centro a partir do terminal rodoviario mariopora?"
+050,SAO BERNARDO DO CAMPO (TERMINAL METROPOLITANO FERRAZOPOLIS),SAO PAULO (SAUDE),como eu faco pra chegar do terminal metro fernao adecsao em sao paulo ate sao paulo?
+050EX1,SAO BERNARDO DO CAMPO (TERMINAL METROPOLITANO FERRAZOPOLIS),SAO PAULO (CAMPO BELO),"oi, como eu faco pra ir do terminal ferroazopolis ate o campo belo?"
+051,DIADEMA (VILA SAO JOSE),SAO PAULO (SAUDE),"oi, como eu faco pra ir do diadema ate sao paulo?"
+052,OSASCO (JARDIM ELVIRA),SAO PAULO (LAPA),como eu faco pra ir de osasco (jardim elvira) pra sao paulo?
+053,BARUERI (PARQUE IMPERIAL),SAO PAULO (LAPA),como eu faco pra ir de barqueeri ate sao paulo?
+053BI1,OSASCO (JARDIM COLINAS D OESTE),SAO PAULO (LAPA),como eu faco pra ir de osasco pra sao paulo?
+054,CAJAMAR (JORDANESIA),SAO PAULO (LAPA),"oi, como eu faco pra ir de jamar ate sao paulo?"
+055,CAJAMAR (CTE - VILA NOVA),SAO PAULO (LAPA),como eu faco pra ir de jamar para sao paulo?
+056,EMBU DAS ARTES (CENTRO),SAO PAULO (METRO CAMPO LIMPO),como eu faco pra chegar no metro campo limpo saindo de embu das artes?
+058,OSASCO (TERMINAL RODOVIARIO HELENA MARIA),SAO PAULO (PINHEIROS),"oi, como eu faco pra ir do terminal rodoviario helena maria ate sao paulo?"
+059,OSASCO (CONJUNTO DOS METALURGICOS),SAO PAULO (METRO BUTANTA),como eu faco pra pegar um onibus saindo do conjunto dos metalurgicos e ir para o metro butana?
+059PR1,CARAPICUIBA (JARDIM NOVO HORIZONTE),SAO PAULO (METRO BUTANTA),"oi, como eu faco pra chegar em sao paulo saindo do jardim novo horizonte?"
+060,OSASCO (OLARIA DO NINO),SAO PAULO (METRO BUTANTA),"oi, como eu faco pra chegar em sao paulo saindo de osasco?"
+060BI1,OSASCO (JARDIM SANTA MARIA),SAO PAULO (METRO BUTANTA),como eu faco pra chegar no metro butanaca saindo de osasco?
+061,CARAPICUIBA (JARDIM GUAPIUVA),SAO PAULO (METRO BUTANTA),"oi, como eu faco pra chegar em sao paulo saindo de carapicuiba?"
+063,RIBEIRAO PIRES (OURO FINO PAULISTA),SAO PAULO (TERMINAL SACOMA),"como eu faco pra ir de ribeirao pires (ouro finopaulista) para sao paulo, saindo de sao paulo?"
+063EX1,RIO GRANDE DA SERRA (SANTA TEREZA),SAO PAULO (TERMINAL SACOMA),"oi, como eu faco pra chegar em sao paulo saindo de santa teresa?"
+064,MAUA (JARDIM GUAPITUBA),SAO CAETANO DO SUL (BAIRRO SANTO ANTONIO),"oi, tudo bem? preciso saber como chego de maua (jardim guapituba) ate sao caetano do sul (bairro santo antonio)?"
+066,SANTO ANDRE (JARDIM LAS VEGAS),SAO PAULO (TERMINAL SACOMA),como eu faco pra chegar do jardim las vegas em sao paulo?
+068,TABOAO DA SERRA (PARQUE LAGUNA),SAO PAULO (METRO VILA SONIA),"como eu faco pra ir do taboao da serra ate a vila sonia, e depois a sao paulo?"
+069,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE LESTE),SAO PAULO (FABRICA TROL),"oi, como eu faco pra chegar na fabrica trol saindo do terminal metropolitano santa andre?"
+070,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE LESTE),SAO PAULO (FABRICA TROL),"oi, como eu faco pra sair do terminal metropolitano santo andre ate a fabrica trol?"
+073,GUARULHOS (NOVA BONSUCESSO),SAO PAULO (SAO MIGUEL PAULISTA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+075,ARUJA (PARQUE RODRIGO BARRETO),SAO PAULO (SAO MIGUEL PAULISTA),"oi, como eu faco pra ir do parque rodrigo barreto ate sao paulo?"
+076,ITAQUAQUECETUBA (TERMINAL URBANO ENGENHEIRO MANOEL FEIO),SAO PAULO (METRO BRAS),"oi, como eu faco pra chegar no metro do brasil de itaquaquecetuba?"
+077,GUARULHOS (VILA ANY),SAO PAULO (METRO BRAS),"oi, como eu faco pra chegar de vila any ate sao paulo no metro?"
+078,EMBU DAS ARTES (PARQUE PIRAJUSSARA),SAO PAULO (METRO VILA SONIA),"oi, como eu faco pra chegar do embu das artes no parque pirajussara?"
+079,TABOAO DA SERRA (JARDIM SAO JUDAS TADEU),SAO PAULO (METRO VILA SONIA),como eu faco pra chegar em sao paulo a partir do jardim sao judas tadeu?
+080,OSASCO (JARDIM BONANCA),SAO PAULO (PINHEIROS),como eu faco pra chegar em sao paulo saindo de osasco?
+082,PIRAPORA DO BOM JESUS (JARDIM BOM JESUS),OSASCO (VILA YARA),"oi, como eu faco pra ir da praca bom jesus em pirapora do bom jesus ate a vila yara em osasco?"
+082BI1,PIRAPORA DO BOM JESUS (IGAVETA),OSASCO (VILA YARA),"oi, preciso saber como chegar em vila yara, que eu to em pirapora do bom jesus (igaveta)."
+082DV1,PIRAPORA DO BOM JESUS (JARDIM BOM JESUS),OSASCO (VILA YARA),"oi, como eu faco pra sair do pirapora do bom jesus (jardim bom jesus) e ir ate a vila yara?"
+084,FRANCO DA ROCHA (PARQUE VITORIA),FRANCISCO MORATO (CENTRO),"oi, como eu faco pra chegar em francisco moro do parque vitoria?"
+085,SANTANA DE PARNAIBA (PARQUE SANTANA),SAO PAULO (LAPA),como eu faco pra chegar em sao paulo saindo de santana de paranaiba?
+085VP1,SANTANA DE PARNAIBA (PARQUE SANTANA),OSASCO (ESTACAO),"oi, como eu faco pra ir de santana de paraniba ate osasco?"
+086,OSASCO (JARDIM VELOSO),SAO PAULO (LAPA),como eu faco pra ir de osasco em sao paulo?
+086PR1,CARAPICUIBA (JARDIM GUAPIUVA),SAO PAULO (LAPA),"oi, como eu faco pra ir de carapicuiba ate sao paulo?"
+087,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE-LESTE),SAO PAULO (METRO ITAQUERA),"oi, como eu faco pra chegar no metro itaquera saindo do terminal metropolitano santo andre-leste?"
+088,POA (TERMINAL RODOVIARIO PEDRO FAVA - CIDADE KEMEL),SAO PAULO (ESTACAO CPTM  ITAIM PAULISTA),"oi, como eu faco pra chegar em sao paulo a partir do terminal rodoviario pedro ava, na cidade de sao paulo?"
+089,TABOAO DA SERRA (JARDIM SAO JUDAS TADEU),SAO PAULO (METRO VILA SONIA),como eu faco pra ir do jardim sao judas tadeu pra sao paulo?
+090,EMBU DAS ARTES (TERMINAL CASA BRANCA),SAO PAULO (METRO VILA SONIA),"oi, como eu faco pra chegar do terminal casa branca em sao paulo?"
+091,SAO LOURENCO DA SERRA (VILA RITA SOARES),ITAPECERICA DA SERRA (PARQUE PARAISO),como eu faco pra chegar em parque paraiso saindo da vila rita soares?
+093,GUARULHOS (TERMINAL METROPOLITANO VILA GALVAO),SAO PAULO (METRO CARRAO),"oi, como eu faco pra pegar um onibus saindo do terminal metropolitano vila galvao e ir ate o metro carrao?"
+094,GUARULHOS (COCAIA),SAO PAULO (PENHA),"oi, como eu faco pra chegar em saopaulo saindo de guarulhos?"
+095,GUARULHOS (TERMINAL METROPOLITANO TABOAO),SAO PAULO (METRO BRAS),"oi, como eu faco pra chegar de guarulhos ate sao paulo?"
+096,GUARULHOS (HAROLDO VELOSO),SAO PAULO (METRO BRAS),"oi, como eu faco pra sair de guarulhos (haroldo veloso) e chegar em sao paulo?"
+100,GUARULHOS (PARQUE PRIMAVERA),SAO PAULO (PENHA),"oi, como eu faco pra pegar um onibus saindo do parque primavera e ir para sao paulo, penha?"
+100BI1,GUARULHOS (JARDIM DOS EUCALIPTOS),SAO PAULO (PENHA),"oi, como eu faco pra chegar em sao paulo a partir do jardim dos caliopes?"
+101,SAO CAETANO DO SUL (VILA PROSPERIDADE),SAO PAULO (VILA DAS OLARIAS),como eu faco pra ir da vila prospersidade ate a vila das olarias?
+102,SAO CAETANO DO SUL (BAIRRO FUNDACAO),SAO PAULO (IV CENTENARIO),"oi, como eu faco pra chegar em sao paulo a partir de sao caetano do sul, no bairro do fundacao?"
+103,GUARULHOS (PARQUE CONTINENTAL),SAO PAULO (METRO PARADA INGLESA),"oi, como eu faco pra ir de guarulhos (parque continental) ate sao paulo, na metro parada inglesa?"
+104,GUARULHOS (BOM CLIMA),SAO PAULO (METRO TUCURUVI),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+105,GUARULHOS (JARDIM MOREIRA),SAO PAULO (METRO TUCURUVI),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+107,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE-LESTE),SAO PAULO (JARDIM ESTHER),"oi, como eu faco pra ir do terminal metropolitano santo andre-leste ate sao paulo?"
+110,GUARULHOS (COCAIA),SAO PAULO (METRO TUCURUVI),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+111,GUARULHOS (JARDIM LEDA),SAO PAULO (METRO PARADA INGLESA),"oi, como eu faco pra pegar um onibus de guarulhos (jardim leda) e ir ate a metro parada inglaterra?"
+112,DIADEMA (TERMINAL METROPOLITANO PIRAPORINHA),SAO PAULO (SANTO AMARO),"oi, como eu faco pra chegar do terminal metropolitano pirapora para sao aro?"
+113,OSASCO (JARDIM SANTA FE),SAO PAULO (LAPA),como eu faco pra chegar na sao paulo saindo do jardim santa fe?
+114,FERRAZ DE VASCONCELOS (PARQUE SAO FRANCISCO),MOGI DAS CRUZES (ESTACAO CPTM ESTUDANTES),"oi, como eu faco pra ir do parque sao francisco ate mogi das cruzes?"
+115,ARUJA (CENTRO),GUARULHOS (JARDIM SANTA MENA),como eu faco pra chegar de aruja no guarulhos?
+116,BARUERI (CENTRO),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar de barao (centro) em sao paulo?"
+117,RIBEIRAO PIRES (TERMINAL RODOVIARIO DE RIBEIRAO PIRES),SANTO ANDRE (ELCLOR),"oi, como eu faco pra ir do terminal rodoviario de ribeiraos pires ate santo andre?"
+120,CAJAMAR (VAU NOVO),SAO PAULO  (PERUS),"oi, como eu faco pra chegar em sao paulo saindo de cajamar?"
+120PR1,CAJAMAR (LAGO AZUL),SAO PAULO (PERUS),"oi, como eu faco pra sair de cajaram (lago azul) e chegar em sao paulo?"
+121,GUARULHOS (TERMINAL METROPOLITANO TABOAO),SAO PAULO (PENHA),"oi, como eu faco pra chegar em sao paulo, saindo do terminal metropolitano taboa?"
+122,BARUERI (PETROBRAS),OSASCO (VILA YARA),"oi, como eu faco pra ir do barueri (petrobras) ate a vila yara?"
+123,SAO CAETANO DO SUL (TERMINAL RODOVIARIO NICOLAU DELIC),SAO PAULO (TERMINAL SACOMA),"oi, como eu faco pra chegar no terminal rodoviario nicolau delic em sao paulo?"
+124,EMBU DAS ARTES (JARDIM SANTO EDUARDO),SAO PAULO (METRO VILA SONIA),"oi, como eu faco pra chegar em sao paulo saindo do embuas das artes?"
+125,EMBU DAS ARTES (JARDIM SAO MARCOS),SAO PAULO (METRO VILA SONIA),como eu faco pra ir do embuadas artes (jardim sao marcos) ate sao paulo?
+125BI1,EMBU DAS ARTES (JARDIM NOSSA SENHORA DE FATIMA),SAO PAULO (METRO VILA SONIA),como eu faco pra chegar de embuadas artes (jardim nossa senhora de fatima) em sao paulo?
+128,EMBU DAS ARTES (JARDIM DO COLEGIO),SAO PAULO (METRO VILA SONIA),"oi, como eu faco pra chegar em sao paulo a partir de embuadas artes (jardim do colegio)?"
+130,JANDIRA (JARDIM NOSSA SENHORA DE FATIMA),OSASCO (VILA YARA),"oi, como eu faco pra chegar na vila yara saindo da jardim nossa senhora de fatima?"
+133,ITAPEVI (COHAB/JARDIM PAULISTA),OSASCO (VILA YARA),"oi, como eu faco pra ir do itapevi ate a vila yara, saindo daqui?"
+133BI1,ITAPEVI (VILA GIOIA),OSASCO (VILA YARA),como eu faco pra ir de itapevi ate osasco?
+134,BARUERI (PARQUE VIANA),OSASCO (CENTRO),"oi, como eu faco pra sair do barueri e chegar em osasco?"
+137,GUARULHOS (JARDIM FORTALEZA),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+138,OSASCO (MUNHOZ JUNIOR),SAO PAULO (METRO VILA MADALENA),como eu faco pra chegar da osasco em sao paulo?
+139,SAO PAULO (SAO MIGUEL PAULISTA),GUARULHOS (TERMINAL METROPOLITANO CECAP),como eu faco pra chegar em guarulhos saindo de sao paulo?
+140,SAO CAETANO DO SUL (TERMINAL RODOVIARIO NICOLAU DELIC),SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE-LESTE),"oi, como eu faco pra chegar no terminal rodoviario nicolau delic em santo andre?"
+141,SANTA ISABEL (MONTE SERRAT),MOGI DAS CRUZES (ESTACAO CPTM ESTUDANTES),"oi, tudo bem? to em santa isabel e quero saber como chegar de monte serrat ate mogi das cruz."
+145,SUZANO (CIDADE EDSON),SAO PAULO (ESTACAO CPTM ITAIM PAULISTA),"oi, como eu faco pra chegar em sao paulo saindo de suzano?"
+147,SAO CAETANO DO SUL (TERMINAL RODOVIARIO NICOLAU DELIC),SAO BERNARDO DO CAMPO (JARDIM JOAO DE BARRO),"oi, como eu faco pra chegar do terminal rodoviario nicolau delic em sao bernardo do campo?"
+148,SAO CAETANO DO SUL (TERMINAL RODOVIARIO NICOLAU DELIC),SAO BERNARDO DO CAMPO (JARDIM LEBLON),"oi, como eu faco pra chegar no terminal rodoviario nicolau delic em sao bernardo do campo a partir de sao caetano do sul?"
+148EX1,SAO BERNARDO DO CAMPO (UFABC),SAO BERNARDO DO CAMPO (AVENIDA KENNEDY),"oi, como eu faco pra ir de sao bernardo do campo pra avenida kennedy?"
+149,SAO CAETANO DO SUL (TERMINAL RODOVIARIO DOUTOR NICOLAU DELIC),SAO BERNARDO DO CAMPO (VILA SAO JOSE),"oi, to no terminal rodoviario do dr. nicolau delic, preciso saber como chegar em sao bernardo do campo."
+151,SANTO ANDRE (JARDIM CAMBUI),SAO PAULO (FABRICA TROL),como eu faco pra ir do jardim cambui pra sao paulo?
+152,SAO BERNARDO DO CAMPO (AREA VERDE),SAO PAULO (TERMINAL SACOMA),"oi, como eu faco pra chegar no terminal saopaulo saindo da area verde em sao bernardo do campo?"
+153,SAO BERNARDO DO CAMPO (CONJUNTO TERRA NOVA II),SAO PAULO (TERMINAL SACOMA),como eu faco pra chegar em sao paulo saindo de sao bernardo do campo?
+154,SAO BERNARDO DO CAMPO (JARDIM NAZARETH),SAO PAULO (TERMINAL SACOMA),como eu faco pra chegar no jardim nazare ate o terminal sacramento?
+156,DIADEMA (ELDORADO),SAO BERNARDO DO CAMPO (BAETA NEVES),como eu faco pra ir de diadema (eldorado) ate sao bernardo do campo?
+156BI1,DIADEMA (ELDORADO),SAO BERNARDO DO CAMPO (BAETA NEVES),como eu faco pra ir de diadema (eldorado) em sao bernardo do campo?
+156VP1,DIADEMA (ELDORADO),SAO BERNARDO DO CAMPO (PACO MUNICIPAL),"oi, como eu faco pra chegar em sao bernardo do campo saindo de diadema?"
+157,MAUA (SILVIA MARIA),SANTO ANDRE (TERMINAL URBANO DE PREFEITO SALADINO),como eu faco pra pegar o onibus do maua saindo do santo andre?
+158,MAUA (JARDIM ZAIRA),SAO PAULO (TERMINAL SACOMA),como eu faco pra chegar no terminal saoma?
+158BI1,MAUA (JARDIM ZAIRA),SAO CAETANO DO SUL (BAIRRO SANTO ANTONIO),"oi, como eu faco pra chegar no jardim zaira em sao caetano?"
+160,MAUA (JARDIM ADELINA),SAO PAULO (TERMINAL SACOMA),"oi, como eu faco pra chegar em sao paulo saindo do jardim adelina?"
+160EX1,MAUA  (JARDIM ITAPEVA),SAO CAETANO DO SUL (BAIRRO SANTO ANTONIO),"oi, como eu faco pra ir de mau ate sao caetano do sul?"
+163,GUARULHOS (JD. PALMIRA - PARQUE CONTINENTAL),SAO PAULO (METRO TUCURUVI),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+165,RIBEIRAO PIRES (TERMINAL RODOVIARIO DE RIBEIRAO PIRES),SAO BERNARDO DO CAMPO (TERMINAL PACO - SAO BERNARDO),"oi, como eu faco pra pegar um onibus saindo do terminal rodoaviario de ribeirao preto e ir ate o terminal sao bernardo?"
+165BI1,SANTO ANDRE (PARQUE REPRESA BILLINGS),SAO BERNARDO DO CAMPO (TERMINAL PACO - SAO BERNARDO),"oi, tudo bem? preciso saber como chego de santo andre ate o terminal pacesso de sao bernardo, na sao bernardo do campo?"
+165EX1,RIO GRANDE DA SERRA (CENTRO),SAO BERNARDO DO CAMPO (TERMINAL PACO - SAO BERNARDO),como eu faco pra chegar no terminal paco saindo do rio grande da serra?
+166,ARUJA (CENTRO),SAO PAULO (METRO ARMENIA),como eu faco pra ir do centro de arju ate o metro armenia?
+166BI1,GUARULHOS (JARDIM ALAMO),SAO PAULO (METRO ARMENIA),como eu faco pra chegar em sao paulo saindo de guarulhos?
+167,GUARULHOS (VILA CARMELA),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar de vila carmela ate o metro armenia?"
+167PR1,GUARULHOS (PARQUE RESIDENCIAL BAMBI),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar no parque residencial bambi saindo de guarulhos?"
+170,SAO CAETANO DO SUL (ESTACAO),SAO PAULO (JARDIM TIETE),"oi, como eu faco pra sair de sao caetano do sul em direcao a sao paulo?"
+171,SAO CAETANO DO SUL (ESTACAO),SAO PAULO (VILA INDUSTRIAL),como eu faco pra ir de sao caetano do sul ate a vila industrial?
+173,SANTO ANDRE (JARDIM SANTA CRISTINA),SAO PAULO (JARDIM PLANALTO),como eu faco pra chegar em sao paulo saindo de santo andre?
+175,GUARULHOS (COCAIA),SAO PAULO (METRO ARMENIA),como eu faco pra chegar no sao paulo saindo de guarulhos?
+177,RIBEIRAO PIRES (TERMINAL RODOVIARIO DE RIBEIRAO PIRES),SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE-LESTE),"oi, como eu faco pra sair do terminal rodoviario de ribeirao pires e chegar no terminal metropolitano santo andre?"
+178,EMBU DAS ARTES (JARDIM VAZAME),SAO PAULO (METRO CAMPO LIMPO),"oi, como eu faco pra ir de embu das artes ate o metro campo limpo?"
+178BI1,EMBU DAS ARTES (JARDIM NOSSA SENHORA DE FATIMA),SAO PAULO (METRO CAMPO LIMPO),"oi, como eu faco pra chegar em sao paulo saindo do embuas das artes?"
+180,OSASCO (JARDIM PRIMEIRO DE MAIO),SAO PAULO (LAPA),"oi, como eu faco pra chegar em sao paulo saindo de osasco?"
+180DV1,OSASCO (JARDIM PRIMEIRO DE MAIO),SAO PAULO (LAPA),como eu faco pra ir do jardim primeiro de maio pra sao paulo?
+180DV2,OSASCO (JARDIM PRIMEIRO DE MAIO),SAO PAULO (LAPA),como eu faco pra ir do jardim primeiro de maio pra sao paulo?
+181,CARAPICUIBA (PARQUE SANTA TEREZA),SAO PAULO (LAPA),como eu faco pra ir do parque santa teresa ate sao paulo?
+182,SAO BERNARDO DO CAMPO (ACAMPAMENTO DOS ENGENHEIROS),DIADEMA (TERMINAL METROPOLITANO DIADEMA),"oi, como eu faco pra chegar em diadema saindo de acampamento dos engenheiros?"
+187,MAIRIPORA (TERMINAL RODOVIARIO SIGUEMI AIACYDA),SAO PAULO (CAMPOS ELISEOS),"oi, como eu faco pra chegar no terminal rodoviario seguime aiacyda em sao paulo?"
+190,TABOAO DA SERRA (JARDIM SAO JUDAS TADEU),SAO PAULO (METRO BUTANTA),"oi, tudo bem? preciso saber como chego de taboao da serra ate sao paulo, ta ligado?"
+191,TABOAO DA SERRA (CONDOMINIO JOAO CANDIDO),SAO PAULO (METRO VILA SONIA),como eu faco pra chegar em sao paulo saindo do taboao da serra?
+193,EMBU DAS ARTES (JARDIM SANTA TEREZA),SAO PAULO (METRO CAPAO REDONDO),como eu faco pra chegar em sao paulo saindo de embu das artes (jardim santa teresa)?
+194,SAO CAETANO DO SUL (TERMINAL RODOVIARIO NICOLAU DELIC),SANTO ANDRE (CATA PRETA),"oi, como eu faco pra chegar do terminal rodoaviario nicolau delic em santo andre?"
+195,SAO BERNARDO DO CAMPO (TERMINAL METROPOLITANO FERRAZOPOLIS),DIADEMA (TERMINAL METROPOLITANO PIRAPORINHA),"oi, como eu faco pra sair do terminal ferroazul e ir pra diadia?"
+196,SAO BERNARDO DO CAMPO (PARQUE SELECTA),SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE-OESTE),"oi, como eu faco pra ir do parque selecta ate o terminal metropolitano santo andre-oeste?"
+197,FRANCISCO MORATO (PARQUE PAULISTA),SAO PAULO (LAPA),"oi, como eu faco pra chegar do parque paulista em sao paulo ate sao paulo?"
+198,CAIEIRAS (LARANJEIRAS),SAO PAULO (LAPA),"oi, como eu faco pra chegar em sao paulo saindo de caieiras, faz favor?"
+199,FRANCO DA ROCHA (JARDIM LUCIANA),SAO PAULO (PERUS),"oi, como eu faco pra ir do jardim luciania em franco da rocha ate sao paulo?"
+200,MOGI DAS CRUZES (TERMINAL RODOVIARIO GERALDO SCAVONE),SAO PAULO (TERMINAL RODOVIARIO TIETE),"oi, to no terminal rodoviario geraldo scavone em mogi das cruzes e quero saber como chegar ao terminal rodoviario tiete."
+201,MOGI DAS CRUZES (TERMINAL RODOVIARIO GERALDO SCAVONE),SAO PAULO (TERMINAL RODOVIARIO TIETE),como eu faco pra chegar do terminal rodoviario geraldo scavone em sao paulo?
+202,OSASCO (JARDIM ADALGISA),SAO PAULO (PIRITUBA),como eu faco pra chegar em saopaulo saindo de osasco?
+203,OSASCO (BEL JARDIM),SAO PAULO (LAPA),como eu faco pra ir de osasco (bel jardim) para sao paulo?
+204,OSASCO (MUNHOZ JUNIOR),SAO PAULO (LAPA),"oi, como eu faco pra ir do munhoz junior ate sao paulo?"
+206,GUARAREMA (CENTRO),SAO PAULO (TERMINAL RODOVIARIO TIETE),"oi, como eu faco pra chegar de guararema no terminal rodoviario tiete?"
+208,GUARAREMA (TERMINAL RODOVIARIO DE GUARAREMA),MOGI DAS CRUZES (TERMINAL RODOVIARIO GERALDO SCAVONE),"oi, como eu faco pra chegar em mogi das cruzes partindo do terminal rodoviario de guararema?"
+210,BIRITIBA MIRIM (CASA GRANDE),MOGI DAS CRUZES (CENTRO),como eu faco pra ir do biritiba mirim (casa grande) ate mogi das cruzes (centro)?
+211,OSASCO (VILA MENCK),SAO PAULO (PINHEIROS),como eu faco pra ir de osasco para sao paulo?
+212,DIADEMA (JARDIM SAPOPEMA),SAO PAULO (TERMINAL SACOMA),"oi, como eu faco pra chegar em sao paulo saindo de jardim sapopema?"
+213,TABOAO DA SERRA (JARDIM SAO JUDAS TADEU),OSASCO (CENTRO),"oi, como eu faco pra chegar no centro saindo do jardim sao judas tadeu?"
+214,SUZANO (CENTRO),SAO PAULO (TERMINAL RODOVIARIO TIETE),"oi, como eu faco pra chegar do centro de suzano ate o terminal rodoviario tiete?"
+214VP1,ITAQUAQUECETUBA (RANCHO GRANDE),SAO PAULO (TERMINAL RODOVIARIO TIETE),"oi, como eu faco pra chegar em sao paulo saindo de itaquaquecetuba?"
+215,RIBEIRAO PIRES (TERMINAL RODOVIARIO DE RIBEIRAO PIRES),SUZANO (CENTRO),como eu faco pra chegar no centro saindo do terminal rodoviario de ribeiraos pires?
+216,FRANCISCO MORATO (JARDIM DA ALEGRIA),FRANCO DA ROCHA (CENTRO),como eu faco pra ir do jardim da alegria ate o franco da rocha?
+217,SAO BERNARDO DO CAMPO (CONJUNTO TERRA NOVA II),SAO PAULO (TERMINAL RODOVIARIO TIETE),como eu faco pra chegar do conjunto terra nova ii em sao paulo no terminal rodoviario tiete?
+218,SAO BERNARDO DO CAMPO (AREA VERDE),SAO PAULO (TERMINAL RODOVIARIO TIETE),como eu faco pra ir de sao bernardo do campo pra sao paulo?
+218EX1,SAO BERNARDO DO CAMPO (TERMINAL METROPOLITANO FERRAZOPOLIS),SAO PAULO (GLICERIO),"oi, como eu faco pra chegar no glicerio saindo do terminal ferrozona?"
+218EX2,SAO BERNARDO DO CAMPO (TERMINAL METROPOLITANO FERRAZOPOLIS),SAO PAULO (GLICERIO),como eu faco pra chegar em sao paulo saindo do terminal ferroazul?
+219,SANTA ISABEL (MONTE SERRAT),SAO PAULO (METRO ARMENIA),como eu faco pra ir do santa isabel (monte serrat) ate o metro armenia?
+219BI1,SANTA ISABEL (MONTE SERRAT),GUARULHOS (CENTRO),"oi, como eu faco pra chegar em guarulhos partindo de santa isabel?"
+223,CARAPICUIBA (COHAB V),OSASCO (VILA YARA),"oi, como eu faco pra chegar na vila yara saindo da habco?"
+226,EMBU-GUACU (CHACARA FLORIDA),SAO PAULO (TERMINAL GRAJAU),"oi, como eu faco pra chegar em sao paulo saindo de embu-guacuba (chacara florida)?"
+227,GUARULHOS (JARDIM LEBLON),SAO PAULO (METRO ARMENIA),como eu faco pra ir de guarulhos (jardim leblon) em direcao a sao paulo?
+227DV1,GUARULHOS (JARDIM LEBLON),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+228,BARUERI (ALPHAVILLE 3 / BRADESCO),SAO PAULO (LAPA),como eu faco pra chegar do barueri (alphaville 3 / bradesco) em sao paulo?
+229,OSASCO (JARDIM ACUCARA),SAO PAULO (LAPA),como eu faco pra chegar em sao paulo saindo de osasco?
+230,BARUERI (ALPHAVILLE),OSASCO (VILA YARA),como eu faco pra ir de barueri (alphavite) para vila yara?
+231,OSASCO (JARDIM ELVIRA),SAO PAULO (METRO ARMENIA),como eu faco pra chegar no metro armenia saindo da osasco?
+231BI1,OSASCO (MUNHOZ JUNIOR),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar do osasco (munhoz junior) em sao paulo?"
+236,DIADEMA (TERMINAL METROPOLITANO PIRAPORINHA),SAO PAULO (TERMINAL SACOMA),como eu faco pra chegar do terminal metropolitano pirapora para o terminal sacramento?
+237,ITAPECERICA DA SERRA (JARDIM SAO PEDRO),SAO PAULO (METRO CAPAO REDONDO),"oi, tudo bem? to na itapecerica da serra e preciso saber como chegar no metro capaao redondo."
+238,SAO BERNARDO DO CAMPO (PARQUE LOS ANGELES),SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE-OESTE),"oi, tudo bem? preciso saber como chego de sao bernardo do campo (parque los angeles) em santa andre, saindo do terminal metropolitano santa andre-oeste?"
+239,ITAPECERICA DA SERRA (JARDIM SAO MARCOS),COTIA (TERMINAL METROPOLITANO COTIA),"oi, como eu faco pra ir do jardim sao marcos pra cotia de onibus?"
+240,MAIRIPORA (TERMINAL RODOVIARIO SIGUEMI AIACYDA),SAO PAULO (TERMINAL RODOVIARIO DO TIETE),"oi, como eu faco pra chegar no terminal rodoviario de maisparra no terminal rodoviario do tiete?"
+241,TABOAO DA SERRA (PARQUE JACARANDA),SAO PAULO (METRO VILA SONIA),como eu faco pra ir do parque jacaranda ate a vila sonia?
+242,ITAQUAQUECETUBA (JARDIM PINHEIRINHO),SAO PAULO (METRO CARRAO),"oi, como eu faco pra chegar em sao paulo saindo de itaquaquecetuba?"
+242BI1,ITAQUAQUECETUBA (PEQUENO CORACAO),SAO PAULO (METRO CARRAO),"oi, como eu faco pra sair de itaquaquecetuba e chegar em sao paulo?"
+243,SANTA ISABEL (MONTE SERRAT),SAO PAULO (TERMINAL RODOVIARIO TIETE),"oi, como eu faco pra chegar em sao paulo saindo de santa isabel?"
+243DV1,SANTA ISABEL (MONTE SERRAT),SAO PAULO (TERMINAL RODOVIARIO TIETE),"oi, como eu faco pra chegar do monte serrat no terminal rodoviario tiete?"
+244,OSASCO (CENTRO),COTIA (RODOVIA RAPOSO TAVARES - KM 21),como eu faco pra sair da osasco (centro) e chegar em cotia pela rodovia dos assis?
+244BI1,OSASCO (VILA YARA),COTIA (RODOVIA RAPOSO TAVARES SP-270 - KM 21),"oi, como eu faco pra ir de osasco ate cotia?"
+244VP1,OSASCO (CIDADE DE DEUS),COTIA (RODOVIA RAPOSO TAVARES - SP 270 - KM 21),como eu faco pra chegar em cotia saindo de osasco?
+245,TABOAO DA SERRA (JARDIM SAO JUDAS TADEU),SAO PAULO (METRO CAMPO LIMPO),"oi, como eu faco pra ir de taboao da serra ate sao paulo?"
+246,SANTANA DE PARNAIBA (JARDIM SAO LUIS),OSASCO (VILA YARA),"oi, como eu faco pra ir de santana de parnaiba ate osasco?"
+246BI1,SANTANA DE PARNAIBA (REFUGIO DOS BANDEIRANTES),OSASCO (VILA YARA),"oi, como eu faco pra chegar em osasco saindo de santana de parnaiba?"
+247,BARUERI (ALDEIA DA SERRA),COTIA (TERMINAL METROPOLITANO DE COTIA),como eu faco pra ir de barueri para o terminal metropolitano de cotia?
+247VP1,JANDIRA (JARDIM ALVORADA),COTIA (TERMINAL METROPOLITANO DE COTIA),"oi, como eu faco pra chegar em cotia partindo de jandira (jardim alvorada)?"
+247VP2,BARUERI (ALDEIA DA SERRA),COTIA  (JARDIM ROSEMARY),"oi, como eu faco pra chegar de bardei da serra em jardim rosemary?"
+248,GUARULHOS (PARQUE SANTOS DUMONT),SAO PAULO (METRO PENHA),como eu faco pra ir do parque santos dumont para sao paulo?
+249,GUARULHOS (JARDIM PAULISTA),SAO PAULO (METRO PENHA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+250,GUARULHOS (COCAIA),SAO PAULO (METRO PENHA),"como eu faco pra ir de guarulhos (cocaia) ate sao paulo, saindo daqui?"
+252,GUARULHOS (JARDIM CUMBICA),SAO PAULO (METRO CARRAO),como eu faco pra chegar no metro carrao saindo de guarulhos?
+253,GUARULHOS (JARDIM PARAISO),SAO PAULO (METRO PENHA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+254,SAO CAETANO DO SUL (TERMINAL RODOVIARIO NICOLAU DELIC),DIADEMA (TERMINAL METROPOLITANO DIADEMA),"oi, como eu faco pra chegar do terminal rodoaviario nicolau delic em diamaesa?"
+254DV1,SAO CAETANO DO SUL (TERMINAL RODOVIARIO NICOLAU DELIC),DIADEMA (TERMINAL METROPOLITANO DIADEMA),"oi, como eu faco pra chegar do terminal rodoviario nicolau delic na diadema?"
+255,DIADEMA (JARDIM PADRE ANCHIETA),SAO BERNARDO DO CAMPO (TERMINAL PACO - SAO BERNARDO),"oi, como eu faco pra chegar de diadema em sao bernardo do campo?"
+256,COTIA (CAUCAIA DO ALTO),COTIA (PORTAO),"oi, como eu faco pra chegar em cotia a partir de aqui?"
+257,GUARULHOS (AEROPORTO INTERNACIONAL DE SAO PAULO),SAO PAULO (METRO TATUAPE),como eu faco pra chegar do aeroporto internacional de guarulhos em sao paulo?
+258,GUARULHOS (AEROPORTO INTERNACIONAL DE SAO PAULO),SAO PAULO (AEROPORTO DE CONGONHAS),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+260,BARUERI (ALPHAVILLE),COTIA (KM 30 RODOVIA RAPOSO TAVARES),como eu faco pra chegar no cotia (km 30 rodovia raposo tavares) saindo de barueri?
+260EX1,BARUERI (ALPHAVILLE),COTIA (KM 30 RODOVIA RAPOSO TAVARES),como eu faco pra chegar em cotia a partir do barphiele?
+261,SANTANA DE PARNAIBA (VARZEA DE SOUZA),SAO PAULO (LAPA),"oi, como eu faco pra sair de santana de souza e chegar em sao paulo?"
+262,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE LESTE),SAO PAULO (ARTUR ALVIM),"oi, como eu faco pra ir do terminal metropolitano santos andre estado ate sao paulo?"
+263,CARAPICUIBA (JARDIM NOVO HORIZONTE),OSASCO (VILA YARA),"oi, como eu faco pra ir de carapicuiba ate osasco?"
+264,SANTANA DE PARNAIBA (PARQUE SANTANA),SANTANA DE PARNAIBA (RESIDENCIAL BURLE MARX),como eu faco pra chegar no residencial burle marx saindo de santana de paranaiba?
+264BI1,BARUERI (JARDIM CALIFORNIA),SANTANA DE PARNAIBA (RESIDENCIAL BURLE MARX),como eu faco pra ir de barueri pra santana de paraiba?
+265,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE,LESTE) - SP (CONJUNTO HABITACIONAL TEOTONIO VILELA),"oi, como eu faco pra chegar do metro santo andre ate o conjunto habitacional teotonio vilela?"
+266,GUARULHOS (INOCOOP),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+266DV1,GUARULHOS (INOCOOP),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+269,POA (TERMINAL RODOVIARIO PEDRO FAVA - CIDADE KEMEL),SAO PAULO (METRO CORINTHIANS-ITAQUERA),como eu faco pra chegar do terminal rodoviario pedro fava (cidade kemel) em sao paulo?
+272,EMBU DAS ARTES (TERMINAL CASA BRANCA),SAO PAULO (METRO VILA SONIA),como eu faco pra ir do terminal casa branca ate a metro vila sonia?
+273,SUZANO (CENTRO),ARUJA (PARQUE RODRIGO BARRETO),como eu faco pra ir do centro de suzano ate o parque rodolfo gaudi?
+277,SANTA ISABEL (MONTE SERRAT),MOGI DAS CRUZES (ESTACAO CPTM ESTUDANTES),"oi, como eu faco pra chegar em mogi das cruz saindo de santa isabel?"
+278,OSASCO (CENTRO),GUARULHOS (TERMINAL URBANO GUARULHOS),como eu faco pra chegar no terminal urbano guarulhos saindo da osasco?
+279,DIADEMA (TERMINAL METROPOLITANO DE DIADEMA),SAO PAULO (METRO SAO JUDAS),como eu faco pra chegar do terminal metropolitano de diadema ate o metro sao judas?
+280,OSASCO (CENTRO),SAO BERNARDO DO CAMPO (TERMINAL PACO - SAO BERNARDO),como eu faco pra ir do centro de osasco ate o terminal pacos de sao bernardo?
+280BI1,SAO PAULO (CIDADE UNIVERSITARIA),SAO BERNARDO DO CAMPO (TERMINAL PACO - SAO BERNARDO),"oi, to na universidade de sao paulo e preciso saber como chegar ao terminal paco em sao bernardo."
+281,MAIRIPORA (TERMINAL RODOVIARIO SIGUEMI AIACYDA),SAO PAULO (PEDRA BRANCA),"oi, como eu faco pra chegar em sao paulo saindo do terminal rodoviario aqui aiacyda?"
+283,CARAPICUIBA (CIDADE ARISTON),OSASCO (VILA YARA),"oi, como eu faco pra ir de carapicuiba ate osasco?"
+283VP1,CARAPICUIBA (CIDADE ARISTON),OSASCO (CENTRO),como eu faco pra chegar em osasco saindo de carapicuva?
+284,SAO PAULO (TERMINAL METROPOLITANO SAO MATEUS),SANTO ANDRE(TERMINAL METROPOLITANO SANTO ANDRE OESTE),como eu faco pra chegar do metro sao paulo ate santo andre?
+284M,SAO PAULO (TERMINAL METROPOLITANO SAO MATEUS),SAO BERNARDO DO CAMPO (SHOPPING METROPOLE),"oi, como eu faco pra chegar do metro sao paulo ate o shopping metropole?"
+285,SAO PAULO (TERMINAL METROPOLITANO SAO MATEUS),SAO BERNARDO DO CAMPO  (TERMINAL METROPOLITANO FERRAZOPOLIS),"oi, como eu faco pra ir do terminal metropolitano sao paulo ate o terminal metropolitano de sao bernardo do campo?"
+286,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE OESTE),SAO BERNARDO DO CAMPO (TERMINAL METROPOLITANO FERRAZOPOLIS),"oi, como eu faco pra sair do terminal metropolitano santa andre e ir para o terminal metropolitano sao bernardo?"
+287,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE OESTE),DIADEMA (TERMINAL METROPOLITANO DIADEMA),"oi, como eu faco pra chegar no terminal metropolitano santo andre do oriente ate o terminal metropolitano diadema?"
+287PIR,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE OESTE),DIADEMA (TERMINAL METROPOLITANO PIRAPORINHA),"oi, como eu faco pra ir do terminal metropolitano santo andre oeste ate o terminal metropolitano pirapora?"
+287UBUS,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE LESTE),DIADEMA (TERMINAL METROPOLITANO DIADEMA),"oi, preciso saber como chegar no terminal metropolitano santo andre ate o terminal metropolitano diaema."
+288,SAO BERNARDO DO CAMPO (TERMINAL METROPOLITANO FERRAZOPOLIS),SAO PAULO (TERMINAL METROPOLITANO JABAQUARA),como eu faco pra chegar do terminal metro ferroazopolisis em sao paulo?
+288PIR,SAO BERNARDO DO CAMPO (TERMINAL METROPOLITANO FERRAZOPOLIS),DIADEMA (TERMINAL METROPOLITANO PIRAPORINHA),como eu faco pra chegar do terminal metro ferroapolis em diadema?
+289,DIADEMA (TERMINAL METROPOLITANO PIRAPORINHA),SAO PAULO (TERMINAL METROPOLITANO JABAQUARA),como eu faco pra ir do diadema ate o jabaquara?
+290,DIADEMA (TERMINAL METROPOLITANO DIADEMA),SAO PAULO (TERMINAL METROPOLITANO JABAQUARA),"oi, como eu faco pra chegar do terminal metropolitano diadema em sao paulo?"
+291,JANDIRA (JARDIM NOSSA SENHORA DE FATIMA),SANTANA DE PARNAIBA (RESIDENCIAL BURLE MARX),como eu faco pra chegar na residencial burle marx a partir de jandira (jardim nossa senhora de fatima)?
+291BI1,ITAPEVI (JARDIM BELA VISTA),SANTANA DE PARNAIBA (RESIDENCIAL BURLE MARX),como eu faco pra chegar na residencial burle marx a partir do itapevi?
+292,GUARULHOS (JARDIM ANGELICA),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra ir de guarulhos ate sao paulo?"
+292DV1,GUARULHOS (JARDIM ANGELICA),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em saopaulo saindo de guarulhos?"
+293,POA (TERMINAL RODOVIARIO PEDRO FAVA - CIDADE KEMEL),SAO PAULO (ESTACAO CPTM GUAIANAZES),como eu faco pra chegar do terminal rodoaviario pedro fava na cidade sao paulo ate sao paulo?
+297,COTIA (CAUCAIA DO ALTO),SAO PAULO (METRO MORUMBI),"oi, como eu faco pra chegar em sao paulo saindo de cotia?"
+300,TABOAO DA SERRA (JARDIM SAO JUDAS TADEU),SAO PAULO (METRO VILA SONIA),"oi, como eu faco pra sair de taboao da serra e ir ate a sao paulo?"
+302,ITAQUAQUECETUBA (TERMINAL URBANO ENGENHEIRO MANOEL FEIO),ITAQUAQUECETUBA (JARDIM PINHEIRINHO),"oi, como eu faco pra chegar no jardim pinheirinho de la do terminal urbano engenheiro manoel feio?"
+303,BARUERI (PARQUE IMPERIAL),OSASCO (VILA YARA),como eu faco pra ir de barueri (parque imperial) ate a vila yara?
+305,DIADEMA (JARDIM PADRE ANCHIETA),SAO BERNARDO DO CAMPO (JARDIM DO LAGO),como eu faco pra ir de diadema ate sao bernardo do campo?
+307,CARAPICUIBA (TERMINAL METROPOLITANO CARAPICUIBA),COTIA (KM 24 - RODOVIA RAPOSO TAVARES),"oi, to no terminal metropolitano de carapicuva e quero saber como chegar a cotia, que fica na rodovia raposo tavares, ne?"
+308,COTIA (ATALAIA),SAO PAULO (TERMINAL RODOVIARIO BARRA FUNDA),como eu faco pra chegar no terminal rodoviario barra funda a partir de cotia?
+309,SANTANA DE PARNAIBA (PARQUE SANTANA),SAO PAULO (PINHEIROS),como eu faco pra chegar em sao paulo saindo da santana de paranaiba?
+310,SANTANA DE PARNAIBA (COLINAS DA ANHANGUERA),SAO PAULO (LAPA),"oi, como eu faco pra chegar em sao paulo partindo de santana da anhanguera?"
+311,SALESOPOLIS (TREVO DA PETROBRAS),MOGI DAS CRUZES (CENTRO),como eu faco pra chegar de salesopolis (trevo da petrobras) em mogi das cruzes?
+311DV1,SALESOPOLIS (TREVO DA PETROBRAS),MOGI DAS CRUZES (CENTRO),como eu faco pra chegar em mogi das cruz saindo de salesopolis?
+312,SANTANA DE PARNAIBA (COLINAS DA ANHANGUERA),SANTANA DE PARNAIBA (CENTRO),"oi, como eu faco pra chegar em santana de paraibana do centro?"
+313,ITAPEVI (DIVISA SAO ROQUE),SANTANA DE PARNAIBA (RESIDENCIAL BURLE MARX),"oi, como eu faco pra chegar na residencial burle marx de la na santana de parnaiba?"
+314,SAO BERNARDO DO CAMPO (JARDIM LAS PALMAS),SAO PAULO (TERMINAL RODOVIARIO TIETE),como eu faco pra chegar no jardim las palms de sao paulo (terminal rodoviario tiete) saindo de sao bernencar do campo?
+315,POA (TERMINAL RODOVIARIO AYRTON SENNA DA SILVA),SAO PAULO (ESTACAO CPTM ITAIM PAULISTA),"oi, como eu faco pra chegar do terminal rodoviario ayrton senna da silva em sao paulo?"
+316,GUARULHOS (AEROPORTO INTERNACIONAL DE SAO PAULO),SAO PAULO (CIRCUITO DOS HOTEIS),como eu faco pra chegar em sao paulo saindo de guarulhos?
+317,FRANCISCO MORATO (CENTRO),FRANCO DA ROCHA (PARQUE PAULISTA),como eu faco pra ir do francisco morato ate o parque paulista?
+318,POA (TERMINAL RODOVIARIO PEDRO FAVA - CIDADE KEMEL),GUARULHOS (TERMINAL METROPOLITANO CECAP),"oi, como eu faco pra sair do terminal rodoviario pedro ava, em guarulhos, e ir ate o terminal metropolitano cecap?"
+319,GUARULHOS (VILA ANY),SAO PAULO (METRO CORINTHIANS/ITAQUERA),"oi, como eu faco pra chegar em sao paulo saindo da vila any?"
+321,CARAPICUIBA (COHAB V),SANTANA DE PARNAIBA (ALPHAVILLE 10),"oi, como eu faco pra chegar de carapicuiba (cohab v) em santana de paraniba?"
+322,BARUERI (PARQUE IMPERIAL),SAO PAULO (PINHEIROS),"oi, como eu faco pra chegar do barueri (parque impural) em sao paulo?"
+323,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE LESTE),SAO PAULO (JARDIM CLIMAX),"oi, tudo bem? preciso saber como chego do terminal metropolitano santo andre ate sao paulo."
+324,SANTANA DE PARNAIBA (COLINAS DA ANHANGUERA),BARUERI (PARQUE IMPERIAL),como eu faco pra chegar em barueri saindo de santana de paranaiba?
+324BI1,SANTANA DE PARNAIBA (JARDIM SAO LUIS),BARUERI (PARQUE IMPERIAL),como eu faco pra chegar em barueri saindo de santana de pina?
+327,POA (TERMINAL RODOVIARIO PEDRO FAVA - CIDADE KEMEL),SAO PAULO (METRO CORINTHIANS-ITAQUERA),"oi, como eu faco pra pegar um onibus saindo do terminal rodoaviario pedro fava, em poa, e ir para sao paulo?"
+329,CARAPICUIBA (VILA MENCK),SAO PAULO (METRO BUTANTA),"oi, como eu faco pra chegar no metro butana na vila menck?"
+331,CAIEIRAS (LARANJEIRAS),SAO PAULO (TERMINAL RODOVIARIO BARRA FUNDA),como eu faco pra chegar em sao paulo saindo de caieiras e depois de lajares?
+332,ITAQUAQUECETUBA (JARDIM ADRIANE),SUZANO (VILA SOL NASCENTE),"oi, como eu faco pra ir de itaquaquecetuba (jardim adriane) em direcao a suzano?"
+334,COTIA (JARDIM DO ENGENHO),SAO PAULO (METRO MORUMBI),como eu faco pra ir do jardim do engenho ate sao paulo?
+335,POA (TERMINAL RODOVIARIO PEDRO FAVA - CIDADE KEMEL),ITAQUAQUECETUBA (MARENGO),"oi, como eu faco pra chegar em itaquaquecetuba a partir do terminal rodoviario pedro fava?"
+336,RIBEIRAO PIRES (TERMINAL RODOVIARIO DE RIBEIRAO PIRES),MAUA (CAPBURGO),"oi, como eu faco pra chegar no terminal rodoviario de riberao pires em mua?"
+337,GUARULHOS (TERMINAL METROPOLITANO TABOAO),SAO PAULO (TERMINAL RODOVIARIO TIETE),"oi, como eu faco pra chegar de guarulhos no terminal rodoviario tiete?"
+337BI1,GUARULHOS (RECREIO SAO JORGE),SAO PAULO (TERMINAL RODOVIARIO TIETE),"oi, como eu faco pra sair de guarulhos e chegar em sao paulo?"
+339,ITAPECERICA DA SERRA (JARDIM VICTORIA),SAO PAULO (METRO CAPAO REDONDO),"oi, como eu faco pra ir do jardim victoria pra sao paulo?"
+340,ITAPECERICA DA SERRA (JARDIM SAO MARCOS),SAO PAULO (METRO CAPAO REDONDO),como eu faco pra sair do jardim sao marcos e chegar no metro capao redondo?
+341,GUARULHOS (VILA ANY),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+341DV1,GUARULHOS (VILA ANY),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo da vila any?"
+342,GUARULHOS (JARDIM MARIA DIRCE),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+342DV1,GUARULHOS (JARDIM MARIA DIRCE),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+343,EMBU DAS ARTES (JARDIM DO COLEGIO),SAO PAULO (METRO CAMPO LIMPO),"oi, como eu faco pra ir de embu das artes (jardim do colegio) ate sao paulo?"
+345,BARUERI (VALE DO SOL),OSASCO (VILA YARA),"oi, como eu faco pra ir de barueri (vale do sol) ate osasco?"
+346,JANDIRA (JARDIM NOSSA SENHORA DE FATIMA),SANTANA DE PARNAIBA (TERMINAL RODOVIARIO ALPHAVILLE),"oi, como eu faco pra ir da jardim nossa senhora de fatima em santos ate o terminal rodoaviario alphaville?"
+347,EMBU DAS ARTES (PARQUE INDUSTRIAL),TABOAO DA SERRA (CENTRO),"oi, como eu faco pra chegar no parque industrial e depois no taboa da serra?"
+348,ARUJA (TERMINAL RODOVIARIO DE ARUJA),ITAQUAQUECETUBA (JARDIM NOSSA SENHORA DAS GRACAS),"oi, como eu faco pra ir do terminal rodoaviario de arju ate itaquetauba?"
+349,GUARULHOS (JARDIM MARIA DIRCE),SAO PAULO (ITAIM PAULISTA),como eu faco pra chegar em sao paulo saindo de guarulhos?
+350,ITAPEVI (COHAB),OSASCO (VILA YARA),"oi, como eu faco pra chegar na vila yara saindo do itapevi?"
+350BI1,ITAPEVI (VILA GIOIA),OSASCO (VILA YARA),como eu faco pra chegar na vila yara saindo da vila gioia no itapevi?
+351,COTIA (CAUCAIA DO ALTO),COTIA (TERMINAL METROPOLITANO COTIA),"oi, como eu faco pra chegar no terminal metropolitano cotia saindo de cotia?"
+351BI1,COTIA (CAUCAIA DO ALTO),COTIA (TERMINAL METROPOLITANO COTIA),como eu faco pra chegar no terminal metropolitano cotia saindo de caucaia do alto?
+351PR1,COTIA (JARDIM MONTE VERDE),COTIA (TERMINAL METROPOLITANO COTIA),"oi, como eu faco pra chegar no terminal metropolitano cotia saindo do jardim monte verde?"
+352,SANTANA DE PARNAIBA (CIDADE DE SAO PEDRO),SAO PAULO (LAPA),como eu faco pra chegar em sao paulo saindo de santana de paraiba?
+353,ARUJA (TERMINAL RODOVIARIO DE ARUJA),ITAQUAQUECETUBA (RESIDENCIAL VILLAGE),como eu faco pra chegar do terminal rodoaviario de aruacao em itaquaquecetuba?
+354,GUARULHOS (BAIRRO DOS LAVRAS),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+356,TABOAO DA SERRA (JARDIM LEME),SAO PAULO (METRO VILA SONIA),como eu faco pra ir do jardim leme ate a sao paulo?
+358,DIADEMA (VILA SAO JOSE),SAO PAULO (SAUDE),"oi, como eu faco pra chegar em sao paulo saindo da vila sao jose?"
+359,SAO BERNARDO DO CAMPO (TERMINAL METROPOLITANO FERRAZOPOLIS),SAO PAULO (SAUDE),como eu faco pra chegar do terminal metro ferrozapolis em sao paulo?
+360,BARUERI (PARQUE VIANA),BARUERI (ALPHAVILLE 1),"oi, como eu faco pra chegar de barueri ate o parque viana?"
+361,FRANCISCO MORATO (PARQUE 120),SAO PAULO (TERMINAL RODOVIARIO BARRA FUNDA),como eu faco pra ir do parque 120 ate o terminal rodoviario barra funda?
+361VP1,FRANCISCO MORATO (PARQUE120),CAIEIRAS (TREVO DE LARANJEIRAS),como eu faco pra ir do francisco morato ate cairias?
+362,ITAQUAQUECETUBA (JARDIM CALIFORNIA),GUARULHOS (JARDIM SANTA MENA),"oi, como eu faco pra chegar em guarulhos saindo do jardim california?"
+363,ARUJA (TERMINAL RODOVIARIO DE ARUJA),ARUJA (RECANTO PRIMAVERA),preciso saber como chegar do terminal rodoaviario de arju em arju.
+366,SAO BERNARDO DO CAMPO (PARQUE SELECTA),SANTO ANDRE (JARDIM CRISTIANE),como eu faco pra chegar do parque selecta em sao bernardo do campo?
+367,SUZANO (JARDIM VITORIA),MOGI DAS CRUZES (CONDOMINIO ARUA),como eu faco pra ir do jardim vitoria ate mogi das cruzes?
+372,SUZANO (JARDIM COLORADO),MOGI DAS CRUZES (JARDIM PIATA),preciso saber como chegar de jardim coracao para jardim princesa.
+374,RIO GRANDE DA SERRA (SITIO MARIA JOANA),RIBEIRAO PIRES (TERMINAL RODOVIARIO DE RIBEIRAO PIRES),"oi, como eu faco pra chegar em ribeiraos pires saindo de sitio maria joao?"
+375,MAIRIPORA (DIVISA),SAO PAULO (TERMINAL RODOVIARIO DO TIETE),como eu faco pra chegar do terminal rodoaviario do tiete em sao paulo?
+376,DIADEMA (TERMINAL METROPOLITANO DIADEMA),SAO PAULO (BROOKLIN),"oi, como eu faco pra chegar do terminal metropolitano diadema em sao paulo?"
+377,POA (JARDIM NOVA POA),SAO PAULO (METRO CORINTHIANS-ITAQUERA),como eu faco pra chegar em sao paulo a partir do jardim nova poa?
+378,SANTANA DE PARNAIBA (TERMINAL RODOVIARIO ALPHAVILLE),SAO PAULO (METRO PARAISO),"oi, como eu faco pra ir do terminal rodoviarial alphaville ate sao paulo?"
+379,FERRAZ DE VASCONCELOS (CENTRO),SAO PAULO (TERMINAL RODOVIARIO TIETE),como eu faco pra chegar de ferraz de vasconcelos (centro) no terminal rodoviario tiete?
+380,DIADEMA (TERMINAL METROPOLITANO DE DIADEMA),SAO PAULO (JARDIM GUACURI),"oi, como eu faco pra chegar no terminal metropolitano de diadema daqui da saao paulo?"
+381,RIBEIRAO PIRES (TERMINAL RODOVIARIO DE RIBEIRAO PIRES),SUZANO (BARUEL),"oi, tudo bem? preciso saber como chego de ribeirao pires ate suzano?"
+381BI1,RIBEIRAO PIRES (TERMINAL RODOVIARIO DE RIBEIRAO PIRES),SUZANO (VILA FATIMA),como eu faco pra chegar na vila fatima saindo do terminal rodoviario de riberiao pires?
+382,MAUA (BAIRRO FEITAL),SAO CAETANO DO SUL ( BAIRRO SANTO ANTONIO),como eu faco pra chegar em sao caiato do sul saindo de mawa (feital)?
+382EX1,MAUA (JARDIM ITAPEVA),SAO CAETANO DO SUL (BAIRRO SANTO ANTONIO),como eu faco pra chegar em sao caetano do sul saindo do maua (jardim itapeva)?
+384,ITAQUAQUECETUBA (JARDIM CALIFORNIA),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra ir de itaquaquecetuba (jardim california) ate sao paulo?"
+386,SANTANA DE PARNAIBA (VARZEA DE SOUZA),SAO PAULO (PINHEIROS),como eu faco pra chegar em sao paulo saindo de santana de nossaza?
+390,OSASCO (JARDIM VELOSO),BARUERI (ALPHAVILLE 3 / BRADESCO),como eu faco pra ir de osasco (jardim veloso) para barueri?
+390BI1,OSASCO (JARDIM SANTO ANTONIO),BARUERI (ALPHAVILLE 3 / BRADESCO),como eu faco pra chegar em barueri saindo de osasco?
+392,CARAPICUIBA (JARDIM ANA ESTELA),BARUERI (ALPHAVILLE),como eu faco pra chegar em baruerei saindo de carapicuiba?
+394,BIRITIBA MIRIM (JARDIM DOS EUCALIPTOS),MOGI DAS CRUZES (CENTRO),como eu faco pra ir do biritiba mirim ate mogi das cruzes?
+396,COTIA (TERMINAL METROPOLITANO COTIA),SAO PAULO (METRO BUTANTA),como eu faco pra chegar do metro cotia em sao paulo?
+399,BARUERI (PARQUE IMPERIAL),SAO PAULO (TERMINAL RODOVIARIO BARRA FUNDA),"oi, como eu faco pra ir do parque imperial pra sao paulo?"
+402,RIO GRANDE DA SERRA (CENTRO),RIBEIRAO PIRES (TERMINAL RODOVIARIO DE RIBEIRAO PIRES),"oi, to meio perdido aqui. como eu faco pra ir de rio grande da serra (centro) ate riberiao pires, consegue me ajudar?"
+403,MAUA (VILA NOVA MAUA),SAO CAETANO DO SUL (SANTO ANTONIO),"oi, como eu faco pra chegar em sao caetano saindo de vila nova mua?"
+404,OSASCO (NOVO OSASCO),SAO PAULO (METRO VILA SONIA),como eu faco pra chegar do osasco no metro vila sonia?
+405,SUZANO (CENTRO),ITAQUAQUECETUBA (RANCHO GRANDE),como eu faco pra ir do centro para o itaquaquebeu?
+407,CARAPICUIBA (VILA DIRCE),SANTANA DE PARNAIBA (RESIDENCIAL BURLE MARX),"oi, como eu faco pra chegar em santana de paranaiba partindo da vila dirce?"
+408,GUARULHOS (CIDADE SOBERANA),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+409,SAO BERNARDO DO CAMPO (JARDIM LAS PALMAS),SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE-OESTE),"oi, como eu faco pra chegar no terminal metropolitano santo andre-oeste saindo do jardim las palmas?"
+409BI1,SAO BERNARDO DO CAMPO (PARQUE ALVARENGA),SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE-OESTE),como eu faco pra chegar no terminal metropolitano santo andre do parque alvarena?
+411,SANTA ISABEL (MONTE SERRAT),MOGI DAS CRUZES (TERMINAL RODOVIARIO GERALDO SCAVONE),"oi, como eu faco pra chegar no terminal rodoviario geraldo scavone do mogi das cruzes, comecando na santa isabel?"
+412,EMBU DAS ARTES (JARDIM SAO MARCOS),SAO PAULO (TERMINAL RODOVIARIO TIETE),como eu faco pra ir de embu das artes (jardim sa marcos) ate o terminal rodoviario tiete?
+415,SANTA ISABEL (MONTE SERRAT),GUARAREMA (CHACARA GUANABARA),"oi, como eu faco pra chegar em guararema partindo de santa isabel?"
+416,POA (JARDIM MEDINA),MOGI DAS CRUZES (ESTACAO CPTM ESTUDANTES),"oi, como eu faco pra chegar no jardim medina daqui pra mogi das cruzes?"
+417,SANTANA DE PARNAIBA (PARQUE SANTANA),BARUERI (CENTRO),como eu faco pra chegar no barreu daqui da santana de parnaiba?
+418,PIRAPORA DO BOM JESUS (JARDIM BOM JESUS),BARUERI (CENTRO),"oi, como eu faco pra chegar em barueri partindo de pirapora do bom jesus?"
+419,ITAPEVI (COHAB/JARDIM PAULISTA),SANTANA DE PARNAIBA (RESIDENCIAL BURLE MARX),"oi, como eu faco pra chegar na residencial burle marx saindo do itapevi?"
+420,OSASCO (VILA YARA),COTIA (TERMINAL METROPOLITANO DE COTIA),como eu faco pra pegar um onibus saindo da osasco e indo para o terminal metropolitano de cotia?
+420DV1,OSASCO (VILA YARA),COTIA (TERMINAL METROPOLITANO DE COTIA),"oi, como eu faco pra chegar no terminal metropolitano de cotia saindo da vila yara?"
+421,ITAPEVI (CIDADE DA SAUDE),VARGEM GRANDE PAULISTA (CENTRO),"oi, tudo bem? to em itapevi e preciso saber como chego de la em varrega grande paulista."
+422,ITAPEVI (VILA NOVA ESPERANCA),SAO PAULO (METRO MORUMBI),"oi, como eu faco pra ir de itapevi ate o metro morumbi?"
+424,RIO GRANDE DA SERRA (CENTRO),SANTO ANDRE (PARANAPIACABA),como eu faco pra chegar em santo andre saindo de rio grande da serra?
+426,FRANCO DA ROCHA (CENTRO),CAJAMAR (POLVILHO),"oi, como eu faco pra chegar de franco da rocha ate camaram?"
+427,GUARULHOS (PARQUE CONTINENTAL II),SAO PAULO (PARAISO),"oi, como eu faco pra chegar do parque continental ii em sao paulo?"
+428,BARUERI (JARDIM DO LIBANO),OSASCO (VILA YARA),"oi, como eu faco pra sair do jardim do libano e chegar na vila yara?"
+429,CAIEIRAS (LARANJEIRAS),SAO PAULO (JARDIM DO RUSSO),"oi, como eu faco pra chegar em sao paulo saindo de caieiras, laranjeiras?"
+430,FRANCO DA ROCHA (CENTRO),FRANCISCO MORATO (CENTRO),como eu faco pra ir do franco da rocha ate francisco moro?
+431,SAO BERNARDO DO CAMPO (JARDIM LAS PALMAS),SAO PAULO (TERMINAL SACOMA),como eu faco pra ir de jardim las palmas pra sao paulo?
+432,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE-LESTE),SAO BERNARDO DO CAMPO (BAIRRO DO TABOAO),"oi, como eu faco pra sair do terminal metropolitano santo andre-leste e ir para sao bernardo do campo?"
+436,FRANCISCO MORATO (TERMINAL RAUL SHIGUEMITSU SUNAO),FRANCO DA ROCHA (CENTRO),"oi, como eu faco pra ir de francisco morato ate franco da rocha?"
+438,FRANCO DA ROCHA (PARQUE VITORIA),SAO PAULO (LAPA),"oi, como eu faco pra ir do parque vitoriana ate sao paulo?"
+439,BARUERI (ALPHAVILLE),SAO PAULO (PIRITUBA),"oi, como eu faco pra chegar em saopaulo saindo do barphille?"
+439VP1,BARUERI (ALPHAVILLE),OSASCO (JARDIM HELENA MARIA),"oi, como eu faco pra chegar de barueri (alphaville) em osasco?"
+442,CAIEIRAS (JARDIM NOVA ERA),SAO PAULO (TERMINAL RODOVIARIO BARRA FUNDA),"oi, como eu faco pra sair de caieiras (jardim nova era) e chegar no terminal rodoviario barra funda em sao paulo?"
+443,GUARULHOS (COCAIA),SAO PAULO (METRO PENHA),"oi, tudo bem? to em guarulhos e queria saber como chegar em sao paulo, passando por saopaulo."
+446,SAO BERNARDO DO CAMPO (JARDIM BORBOREMA),SAO PAULO (SAUDE),como eu faco pra ir do jardim borborema em sao bernardo do campo ate sao paulo?
+448,CARAPICUIBA (ALDEIA),SANTANA DE PARNAIBA (RESIDENCIAL TAMBORE III),"como eu faco pra chegar na residencial tamboreiro, daqui da carapicuiba?"
+449,CARAPICUIBA (ALDEIA),SANTANA DE PARNAIBA (ALPHAVILLE 10),"oi, como eu faco pra chegar em santana de parnaiba saindo da aldea carapicuva?"
+450,CARAPICUIBA (JARDIM NOVO HORIZONTE),BARUERI (ALPHAVILLE 2),como eu faco pra chegar em barueri a partir do jardim novo horizonte?
+451,ITAPECERICA DA SERRA (JARDIM BRANCA FLOR),SAO PAULO (METRO CAPAO REDONDO),"oi, como eu faco pra chegar em sao paulo saindo do jardim brasilia da serra?"
+452,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE-LESTE),SAO PAULO (JARDIM SAO ROBERTO),como eu faco pra chegar no jardim sao joao do sul do terminal metropolitano santo andre-leste?
+454,JANDIRA (CONDOMINIO RESERVA DE SANTA MARIA),BARUERI (TERMINAL RODOFERROVIARIO GUALBERTO TOLAINE),"oi, como eu faco pra sair de jandira e chegar em barueri?"
+455,BARUERI (ALPHAVILLE),CARAPICUIBA (ALDEIA),"oi, como eu faco pra ir de barueri (alphaville) em direcao a carapicuiba?"
+456,BARUERI CENTRO),OSASCO (KM 19.5 - RAPOSO TAVARES),"oi, como eu faco pra chegar no osasco saindo de barueri centro, na raposo tiba?"
+459,EMBU DAS ARTES (TERMINAL CASA BRANCA),SAO PAULO (ITAIM BIBI),como eu faco pra chegar no terminal casa branca saindo de embuas artes?
+460,FERRAZ DE VASCONCELOS (VILA SAO PAULO),SAO PAULO ( ESTACAO CPTM GUAIANAZES),como eu faco pra chegar em sao paulo saindo de ferraz de vasconcelos?
+461,ARUJA (TERMINAL RODOVIARIO DE ARUJA),GUARULHOS (NOVA BONSUCESSO),"oi, como eu faco pra chegar em guarulhos partindo do terminal rodoaviario de arju?"
+462,SANTANA DE PARNAIBA (CIDADE SAO PEDRO),OSASCO (CENTRO),como eu faco pra sair de santana de parnaiba e chegar em osasco?
+462BI1,SANTANA DE PARNAIBA (VARZEA DE SOUZA),OSASCO (CENTRO),como eu faco pra chegar em osasco saindo de santana de paraiba?
+463,ITAPEVI (JARDIM VITAPOLIS),SANTANA DE PARNAIBA (RESIDENCIAL TAMBORE III),como eu faco pra pegar um onibus saindo do jardim vitapolis e ir ate a santana de parnaiba?
+466,OSASCO (CONJUNTO DOS METALURGICOS),BARUERI (ALPHAVILLE/GREEN VALLEY),como eu faco pra ir do conjunto dos metalurgicos pro barreu?
+466EX1,OSASCO (TERMINAL SANTA MARIA),BARUERI (ALPHAVILLE/GREEN VALLEY),"como eu faco pra ir do terminal santa maria ate o novo bairro, novo?"
+466EX2,OSASCO (SANTA MARIA),BARUERI (ALPHAVILLE / GREEN VALLEY),"oi, como eu faco pra chegar do osasco (santa maria) em barueri?"
+467,SANTANA DE PARNAIBA (CENTRO),SAO PAULO (LAPA),como eu faco pra ir de santana de parnaiba ate sao paulo?
+468,SANTANA DE PARNAIBA (TERMINAL RODOVIARIO ALPHAVILLE),COTIA (TERMINAL METROPOLITANO COTIA),como eu faco pra chegar no terminal rodoaviario alphaville do toto e depois chegar em cotia?
+468BI1,BARUERI (SHOPPING TAMBORE),COTIA (TERMINAL METROPOLITANO DE COTIA),como eu faco pra ir do shopping barulho ate o terminal metropolitano de cotia?
+469,FRANCO DA ROCHA (JARDIM LAGO AZUL),CAIEIRAS (JARDIM NOVA ERA),"oi, como eu faco pra chegar de franco da rocha ate cairias?"
+470,SANTO ANDRE (TERMINAL METROPOLITANO SANTO ANDRE LESTE),SAO PAULO (AEROPORTO DE CONGONHAS),"oi, como eu faco pra chegar do terminal metropolitano santa andre ate o aeroporto de congonhas?"
+472,GUARULHOS (AEROPORTO INTERNACIONAL DE SAO PAULO),SAO PAULO (TERMINAL RODOVIARIO BARRA FUNDA),"oi, como eu faco pra sair do guarulhos (aeroporto internacional de sao paulo) e chegar em sao paulo no terminal rodoviario barra funda?"
+473,ITAQUAQUECETUBA (PARQUE PIRATININGA II),SAO PAULO (METRO ARMENIA),como eu faco pra ir do parque piratinha ii em itaquaquecetuba ate o metro armenia?
+478,GUARULHOS (CONJUNTO PAES DE BARROS),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em saopaulo saindo de guarulhos?"
+478BI1,GUARULHOS (JARDIM DAS NACOES),SAO PAULO (METRO ARMENIA),como eu faco pra chegar em sao paulo saindo de guarulhos?
+479,CARAPICUIBA (PARQUE SANTA TEREZA),OSASCO (CENTRO),"oi, como eu faco pra chegar no parque santa teresa daqui de carapicuiba?"
+480,ARUJA (PARQUE RODRIGO BARRETO),POA (ESTACAO CPTM POA),"oi, como eu faco pra chegar do parque rodolfo bourlier ate estacao central de trem do parana?"
+481,POA (TERMINAL RODOVIARIO JARDIM SAO JOSE),MOGI DAS CRUZES (ESTACAO CPTM ESTUDANTES),"oi, como eu faco pra sair do terminal rodoviario jardim sao jose e ir pra mogi das cruzes?"
+484,EMBU DAS ARTES (JARDIM BATISTA),SAO PAULO (METRO CAPAO REDONDO),"como eu faco pra chegar no sao paulo saindo de embuas das artes, jardim batista?"
+487,MAUA (TERMINAL METROPOLITANO SONIA MARIA),SANTO ANDRE (SHOPPING ABC),como eu faco pra ir do terminal metropolitano sonia maria ate o shopping abc?
+488,CARAPICUIBA (VILA MENCK),SAO PAULO (METRO BUTANTA),"oi, como eu faco pra chegar em sao paulo saindo da vila menck?"
+489,ITAPEVI (CIDADE DA SAUDE),EMBU DAS ARTES (CENTRO),"oi, como eu faco pra chegar em embuadas artes saindo do itapevi?"
+490,TABOAO DA SERRA (JARDIM MONTE ALEGRE),OSASCO (CENTRO),como eu faco pra ir do jardim monte alegre ate os arredores de osasco?
+492,CARAPICUIBA (PARQUE JANDAIA),SAO PAULO (METRO VILA SONIA),"oi, como eu faco pra chegar do parque jandaia em sao paulo?"
+493,SANTO ANDRE (PRINCIPE DE GALES),SAO PAULO (TERMINAL SACOMA),como eu faco pra chegar no terminal sacramento saindo de santo andre?
+493DV1,SANTO ANDRE (PRINCIPE DE GALES),SAO PAULO (TERMINAL SACOMA),"oi, como eu faco pra chegar em sao paulo saindo de santo andre?"
+494,SAO CAETANO DO SUL (TERMINAL RODOVIARIO NICOLAU DELIC),SAO PAULO (TERMINAL SACOMA),"oi, como eu faco pra sair do terminal rodoaviario nicolau delinio e chegar em sao paulo?"
+496,SAO PAULO (JARDIM JOAO XXIII),BARUERI (ALPHAVILLE/GREEN VALLEY),como eu faco pra chegar do jardim joao xxiii em barueri?
+496VP1,SAO PAULO (RODOVIA RAPOSO TAVARES - KM 17.8),BARUERI (ALPHAVILLE/GREEN VALLEY),"como eu faco pra chegar em barueri saindo da rodovia raposo tavares, km 17.8?"
+497,CARAPICUIBA (VILA DIRCE),SANTANA DE PARNAIBA (COLINAS DA ANHANGUERA),"oi, como eu faco pra chegar em santana de paranaiba partindo de carapicuiba?"
+498,CARAPICUIBA (JARDIM NOVO HORIZONTE),SANTANA DE PARNAIBA (TERMINAL RODOVIARIO ALPHAVILLE),"oi, como eu faco pra chegar de carapicuiba em santana de paraibuna?"
+499,GUARULHOS (TERMINAL METROPOLITANO CECAP),SAO PAULO (ESTACAO CPTM DOM BOSCO),como eu faco pra ir do terminal metropolitano cecap ate o estacao cptm bosco?
+500,GUARULHOS (TERMINAL METROPOLITANO VILA GALVAO),SAO PAULO (TERMINAL RODOVIARIO TIETE),como eu faco pra chegar do terminal metropolitano vila galvao em sao paulo?
+500DV1,GUARULHOS (TERMINAL METROPOLITANO VILA GALVAO),SAO PAULO (TERMINAL RODOVIARIO TIETE),"oi, como eu faco pra chegar em sao paulo saindo do metro vila galvao?"
+501,ITAQUAQUECETUBA (PARQUE PIRATININGA),SAO PAULO (METRO ARMENIA),como eu faco pra chegar no sao paulo saindo do parque piratini?
+503,COTIA (CAUCAIA DO ALTO),COTIA (PORTAO),"oi, como eu faco pra sair de cotia e chegar em portao?"
+506,COTIA (JARDIM SANDRA),SAO PAULO (CARREFOUR),como eu faco pra chegar de cotia (jardim sandra) em sao paulo?
+507,VARGEM GRANDE PAULISTA (JARDIM SAO MARCOS),COTIA (PORTAO),"oi, como eu faco pra chegar no jardim sao marcos e depois em cotia?"
+508,COTIA (JARDIM JAPAO),COTIA (PORTAO),como eu faco pra ir do jardim japao ate o portao?
+509,VARGEM GRANDE PAULISTA (PARQUE DO AGRESTE),COTIA (TERMINAL METROPOLITANO COTIA),"oi, como eu faco pra chegar no parque do agreste saindo do parque do metropolitano cotia?"
+510,EMBU DAS ARTES (JARDIM VAZAME),SAO PAULO (METRO VILA SONIA),como eu faco pra ir de embuas artes ate o metro vila sonia?
+5104,IGARATA (TERMINAL RODOVIARIO DE IGARATA),JACAREI (TERMINAL RODOVIARIO DE JACAREI),como eu faco pra ir do terminal rodoviario de igarata ate o terminal rodoviario de jacarei?
+5105,PARAIBUNA (TERMINAL RODOVIARIO DE PARAIBUNA),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),"oi, como eu faco pra chegar em sao jose dos campos partindo do terminal rodoviario de paraibuna?"
+5106,JAMBEIRO (TERMINAL RODOVIARIO DE JAMBEIRO),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),"oi, como eu faco pra chegar no saao jose dos campenses saindo do terminal rodoviario de jambeiro?"
+5107,MONTEIRO LOBATO (TERMINAL RODOVIARIO DE MONTEIRO LOBATO),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),"oi, preciso saber como chegar do terminal rodoviario de monteiro lobato ate o terminal rodoviario de sao jose dos campos."
+5109,SAO JOSE DOS CAMPOS (SAO FRANCISCO XAVIER),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),"como eu faco pra chegar no terminal rodoviario frederico ozan, saindo de sao jose dos campos?"
+511,EMBU DAS ARTES (JARDIM SANTO ANTONIO),SAO PAULO (METRO VILA SONIA),como eu faco pra ir de embu das artes em jardim santo antonio ate a vila sonia e depois a sao paulo?
+5110,CACAPAVA (TERMINAL RODOVIARIO DE CACAPAVA),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),como eu faco pra chegar do terminal rodoaviario de cacapava em saao jose dos campos?
+5111,CACAPAVA (TERMINAL RODOVIARIO DE CACAPAVA),TAUBATE (TERMINAL RODOVIARIO URBANO JOAO FRANCISCO DOS SANTOS),"oi, como eu faco pra chegar no terminal rodoviario de taubate a partir do terminal rodoviario de cacapava?"
+5112,JAMBEIRO (TERMINAL RODOVIARIO DE JAMBEIRO),CACAPAVA (TERMINAL RODOVIARIO DE CACAPAVA),como eu faco pra chegar la?
+5113,SANTA BRANCA (TERMINAL RODOVIARIO DE SANTA BRANCA),JACAREI (TERMINAL RODOVIARIO DE JACAREI),"oi, como eu faco pra chegar do terminal rodoviario de santa brasilia em jacarei?"
+5114,JACAREI (TERMINAL RODOVIARIO DE JACAREI),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),"oi, como eu faco pra chegar de jacarei no saogones?"
+5116,JACAREI (TERMINAL RODOVIARIO DE JACAREI),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),"oi, como eu faco pra pegar um onibus saindo do jacarei e ir para sao jose dos campos?"
+5117,SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),CACAPAVA (TERMINAL RODOVIARIO DE CACAPAVA),"oi, como eu faco pra chegar em cacapa saindo do terminal rodoviario frederico ozanam?"
+5118,JACAREI (PARQUE MEIA LUA),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),"oi, como eu faco pra ir do parque meia lua ate o terminal rodoviario frederico ozanam?"
+512,ITAQUAQUECETUBA (PARQUE PIRATININGA),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de itaquaquecetuba?"
+513,ITAPECERICA DA SERRA (JARDIM DAS OLIVEIRAS),SAO PAULO (METRO CAPAO REDONDO),preciso saber como chegar no metro capao redondo saindo do jardim das oliveiras.
+517,ITAPEVI (COHAB),OSASCO (VILA YARA),como eu faco pra ir de itapevi (cohab) ate a vila yara?
+518,BARUERI (JARDIM DO LIBANO),SANTANA DE PARNAIBA (RESIDENCIAL BURLE MARX),como eu faco pra ir do jardim do lebanon para a residencial santana de parana?
+520,GUARULHOS (JARDIM LEBLON),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+5201,PINDAMONHANGABA (ARARETAMA),TAUBATE (TAUBATE SHOPPING CENTER),como eu faco pra chegar no taubate shopping center a partir do pindamonhangaba (araretama)?
+5202,TREMEMBE (TERMINAL RODOVIARIO DE TREMEMBE),CACAPAVA (TERMINAL RODOVIARIO DE CACAPAVA),"oi, como eu faco pra chegar no terminal rodoaviario de cacapa a partir do tremembe?"
+5203,TAUBATE (TERMINAL RODOVIARIO VELHO DE TAUBATE),TREMEMBE (TERMINAL RODOVIARIO DE TREMEMBE),"oi, como eu faco pra chegar do terminal rodoviario velho de taubate ate o terminal rodoviario de tremembe?"
+5204,NATIVIDADE DA SERRA (CENTRO),TAUBATE (TERMINAL RODOVIARIO NOVO DE TAUBATE),como eu faco pra ir do centro da natividade da serra ate o terminal rodoviario novo de tauba?
+5204BI1,REDENCAO DA SERRA (CENTRO),TAUBATE (TERMINAL RODOVIARIO NOVO DE TAUBATE),como eu faco pra chegar do centro de redencao da serra em taubate?
+5205,ROSEIRA (TERMINAL RODOVIARIO DE ROSEIRA),TAUBATE (TERMINAL RODOVIARIO E URBANO JOAO FRANCISCO DOS SANTOS),como eu faco pra chegar do roseira no taubate?
+5206,PINDAMONHANGABA (CENTRO),TAUBATE (TERMINAL RODOVIARIO E URBANO JOAO FRANCISCO DOS SANTOS),"oi, como eu faco pra ir do pindamonhangaba para o terminal rodoviario e urbano joao francisco dos santos?"
+5207,TAUBATE (TERMINAL RODOVIARIO NOVO DE TAUBATE),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),como eu faco pra chegar do terminal rodoviario novo de tauba pra sao jose dos campos?
+5207DV1,TAUBATE (TERMINAL RODOVIARIO NOVO DE TAUBATE),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),como eu faco pra chegar em saao jose dos campos saindo do terminal rodoviario novo de tauba?
+5208,SAO BENTO DO SAPUCAI (CENTRO),CAMPOS DO JORDAO (TERMINAL RODOVIARIO DE CAMPOS DO JORDAO),como eu faco pra ir de sao bento do sapucai (centro) ate campos do jodoro?
+5209,PINDAMONHANGABA (TERMINAL RODOVIARIO DE PINDAMONHANGABA),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),como eu faco pra chegar em saao jose saindo do pindamonhangaba?
+5209DV1,PINDAMONHANGABA (TERMINAL RODOVIARIO DE PINDAMONHANGABA),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),como eu faco pra chegar do terminal rodoviario de pindamonhangaba em saogoness?
+521,GUARULHOS (JARDIM ANGELICA),SAO PAULO (METRO ARMENIA),como eu faco pra chegar no sao paulo saindo de guarulhos?
+5210,CAMPOS DO JORDAO (TERMINAL RODOVIARIO DE CAMPOS DO JORDAO),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),"oi, como eu faco pra ir do terminal rodoviario de campos do jodoro pra sao jose dos campos?"
+5211,PINDAMONHANGABA (CENTRO),TAUBATE (TERMINAL RODOVIARIO E URBANO JOAO FRANCISCO DOS SANTOS),"oi, preciso saber como chegar no terminal rodoaviario e urbano joao francisco dos santos, estou em pindamonhangaba (centro)."
+5211PR1,PINDAMONHANGABA (TERMINAL RODOVIARIO DE PINDAMONHANGABA),TAUBATE (TERMINAL RODOVIARIO E URBANO JOAO FRANCISCO DOS SANTOS),"oi, como eu faco pra chegar no terminal rodoviario de pindamonhangaba em taubate?"
+5212,CAMPOS DO JORDAO (TERMINAL RODOVIARIO DE CAMPOS DO JORDAO),TAUBATE (TERMINAL RODOVIARIO NOVO DE TAUBATE),como eu faco pra ir do terminal rodoviario de campos do jodoro pra taubate?
+5213,SAO BENTO DO SAPUCAI (TERMINAL RODOVIARIO DE SAO BENTO DO SAPUCAI),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),"oi, como eu faco pra ir de sao bento do sapucai ate sao jose dos campos?"
+5214,LAGOINHA (CENTRO),TAUBATE (TERMINAL RODOVIARIO NOVO DE TAUBATE),"oi, como eu faco pra ir do lagoa (centro) ate o terminal rodoviario novo de taubate?"
+5214EX1,LAGOINHA (CENTRO),TAUBATE (TERMINAL RODOVIARIO NOVO DE TAUBATE),como eu faco pra chegar no terminal rodoviario novo de lagoa a partir do centro?
+5216,SAO LUIZ DO PARAITINGA (TERMINAL RODOVIARIO DE SAO LUIZ DO PARATITINGA),TAUBATE (TERMINAL RODOVIARIO NOVO DE TAUBATE),"oi, como eu faco pra ir do terminal rodoviario de sao luiz do paratinga ate o terminal rodoviario de taubate?"
+5217,SAO LUIZ DO PARAITINGA (CATUCABA),TAUBATE (TERMINAL RODOVIARIO NOVO DE TAUBATE),"oi, como eu faco pra chegar em taubate saindo de sao luiz do paraitinga?"
+5218,SAO BENTO DO SAPUCAI (CENTRO),PINDAMONHANGABA (TERMINAL RODOVIARIO DE PINDAMONHANGABA),"oi, como eu faco pra chegar em pindamonhangaba a partir de sao bento do sapucai?"
+5219,CAMPOS DO JORDAO (TERMINAL RODOVIARIO DE CAMPOS DO JORDAO),PINDAMONHANGABA (TERMINAL RODOVIARIO DE PINDAMONHANGABA),como eu faco pra chegar no terminal rodoviario de pindamonhangaba saindo do terminal rodoviario de campos do jodoro?
+522,GUARULHOS (JARDIM CUMBICA/PARQUE BRASILIA),SAO PAULO (METRO ARMENIA),como eu faco pra sair do jardim cumbica/parque brasil e chegar em sao paulo?
+5220,TAUBATE (TERMINAL RODOVIARIO VELHO DE TAUBATE),TREMEMBE (TERMINAL RODOVIARIO DE TREMEMBE),"oi, como eu faco pra chegar no terminal rodoviario velho de taubate?"
+5221,PINDAMONHANGABA (CENTRO),TAUBATE (TERMINAL RODOVIARIO VELHO DE TAUBATE),"oi, como eu faco pra chegar no terminal rodoviario velho de taubate partindo do centro?"
+523,GUARULHOS (JARDIM CUMBICA/PARQUE BRASILIA),SAO PAULO (METRO ARMENIA),como eu faco pra chegar em sao paulo saindo de guarulhos?
+524,BARUERI (TREVO DE ALPHAVILLE),SAO PAULO (TERMINAL RODOVIARIO BARRA FUNDA),"oi, como eu faco pra chegar em sao paulo saindo de barueri (trevo de alphaverville)?"
+525,GUARULHOS (JARDIM SANTA PAULA),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+526,GUARAREMA (CHACARA GUANABARA),MOGI DAS CRUZES (TERMINAL RODOVIARIO GERALDO SCAVONE),"oi, tudo bem? preciso saber como chego de guararema (chacara guanabara) ate mogi das cruzes (terminal rodoviario geraldo scavone)?"
+528,CARAPICUIBA (CIDADE ARISTON),BARUERI (ALPHAVILLE),"oi, como eu faco pra chegar em barueri a partir de carapicuiba?"
+529,ARUJA (MIRANTE),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra pegar um onibus saindo de aruja e chegando em sao paulo?"
+530,ARUJA (PARQUE RODRIGO BARRETO),SAO PAULO (METRO ARMENIA),como eu faco pra ir do parque rodigo barreto pra sao paulo?
+5301,APARECIDA (TERMINAL RODOVIARIO DE APARECIDA),CRUZEIRO (TERMINAL RODOVIARIO DE CRUZEIRO),como eu faco pra ir do terminal rodoviario de aparecida ate o terminal rodoviario de cruzeiro?
+5303,ROSEIRA (TERMINAL RODOVIARIO DE ROSEIRA),PINDAMONHANGABA (TERMINAL RODOVIARIO DE PINDAMONHANGABA),"oi, como eu faco pra ir do terminal rodoviario de roseira pra pindamonhangaba?"
+5304,PIQUETE (TERMINAL RODOVIARIO DE PIQUETE),LORENA (TERMINAL RODOVIARIO DE LORENA),"oi, como eu faco pra chegar em lorena saindo do terminal rodoviario de piquete?"
+5304PR1,PIQUETE (TERMINAL RODOVIARIO DE PIQUETE),LORENA (CENTRO - ETEC),como eu faco pra sair do terminal rodoviario de piquete e ir ate a escola de educacao tutorial (lorena)?
+5304PR2,PIQUETE (IMBEL),LORENA (TERMINAL RODOVIARIO DE LORENA),como eu faco pra ir do piquete (imbel) ate a terminal rodoviario de lorena?
+5305,LORENA (TERMINAL RODOVIARIO DE LORENA),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),como eu faco pra chegar em sao jose dos campos saindo da lorena?
+5306,LORENA (TERMINAL RODOVIARIO DE LORENA),TAUBATE (TERMINAL RODOVIARIO NOVO DE TAUBATE),"oi, como eu faco pra ir do terminal rodoviario de lorena ate o terminal rodoviario novo de taubate?"
+5306VP1,LORENA (TERMINAL RODOVIARIO DE LORENA),APARECIDA (TERMINAL RODOVIARIO DE APARECIDA),"oi, como eu faco pra chegar na aparecida saindo do terminal rodoviario de lorena?"
+5307,PIQUETE (TERMINAL RODOVIARIO DE PIQUETE),CRUZEIRO (TERMINAL RODOVIARIO DE CRUZEIRO),"oi, como eu faco pra ir do terminal rodoviario piquete ate o terminal rodoviario cruzeiro?"
+5308,POTIM (MIGUEL VIEIRA),APARECIDA (TERMINAL RODOVIARIO DE APARECIDA),como eu faco pra sair do potim e chegar na aparecida?
+5308VP1,POTIM (MINAS GERAIS),APARECIDA (TERMINAL RODOVIARIO DE APARECIDA),"como eu faco pra chegar na aparecida, saindo de potim?"
+5309,CACHOEIRA PAULISTA (TERMINAL RODOVIARIO DE CACHOEIRA PAULISTA),CRUZEIRO (TERMINAL RODOVIARIO DE CRUZEIRO),"oi, como eu faco pra chegar no terminal rodoviario de cruzeiro saindo de cachoeira paulista?"
+531,ITAPECERICA DA SERRA (RECREIO PRIMAVERA),SAO PAULO (METRO CAPAO REDONDO),como eu faco pra chegar em sao paulo saindo de itapecerica da serra?
+5310,CACHOEIRA PAULISTA (TERMINAL RODOVIARIO DE CACHOEIRA PAULISTA ),CRUZEIRO (TERMINAL RODOVIARIO DE CRUZEIRO),"oi, como eu faco pra chegar no cruz saindo da cachoeira paulista?"
+5311,GUARATINGUETA (TERMINAL RODOVIARIO DE GUARATINGUETA),PINDAMONHANGABA (TERMINAL RODOVIARIO DE PINDAMONHANGABA),"oi, como eu faco pra chegar no terminal rodoaviario de pindamonhangaba a partir do terminal rodoviario de guaratingueta?"
+5312,LORENA (TERMINAL RODOVIARIO DE LORENA),GUARATINGUETA (TERMINAL RODOVIARIO DE GUARATINGUETA),"oi, como eu faco pra chegar em guaratingueta saindo do terminal rodoviario de lorena?"
+5313,CACHOEIRA PAULISTA (TERMINAL RODOVIARIO DE CACHOEIRA PAULISTA),LORENA (TERMINAL RODOVIARIO DE LORENA),"oi, tudo bem? preciso saber como chego de cachoeira paulista ate a lorena?"
+5313DV1,CACHOEIRA PAULISTA (TERMINAL RODOVIARIO DE CACHOEIRA PAULISTA),LORENA (TERMINAL RODOVIARIO DE LORENA),"oi, como eu faco pra chegar na lorena saindo da cachoeira paulista?"
+5316,APARECIDA (CENTRO),GUARATINGUETA (CENTRO),"oi, como eu faco pra ir do centro para guaratingueta?"
+5317,ROSEIRA (TERMINAL RODOVIARIO DE ROSEIRA),APARECIDA (TERMINAL RODOVIARIO DE APARECIDA),como eu faco pra chegar na aparecida saindo do terminal rodoviario de roseira?
+5317DV1,ROSEIRA (TERMINAL RODOVIARIO DE ROSEIRA),APARECIDA (TERMINAL RODOVIARIO DE APARECIDA),"oi, como eu faco pra chegar do terminal rodoaviario de roseira ate a aparecida?"
+5318,POTIM (LOTEAMENTO DOS VIEIRAS),GUARATINGUETA (TERMINAL RODOVIARIO DE GUARATINGUETA),como eu faco pra chegar no terminal rodoviario de guarantuatuza a partir do potim?
+5319,CUNHA (TERMINAL RODOVIARIO DE CUNHA),GUARATINGUETA (TERMINAL RODOVIARIO DE GUARATINGUETA),"oi, como eu faco pra chegar no terminal rodoviario de guaratingueta?"
+532,GUARULHOS (TERMINAL METROPOLITANO TABOAO),SAO PAULO (METRO TUCURUVI),"oi, como eu faco pra ir do terminal metropolitano taboa ate o metro tucuruvi?"
+5320,CANAS (CENTRO),LORENA (TERMINAL RODOVIARIO DE LORENA),"oi, como eu faco pra chegar em lorena saindo da canas?"
+533,JANDIRA (JARDIM NOSSA SENHORA DE FATIMA),BARUERI (PARQUE IMPERIAL),como eu faco pra chegar do jandira (jardim nossa senhora de fatima) em barueri?
+534,JANDIRA (JARDIM NOSSA SENHORA DE FATIMA),SANTANA DE PARNAIBA (GENESIS II),"oi, como eu faco pra chegar de jandira na santana de paraniba?"
+535,GUARULHOS (PARQUE CONTINENTAL III),SAO PAULO (METRO ARMENIA),como eu faco pra chegar no parque continental iii saindo de guarulhos?
+536,FRANCO DA ROCHA (CENTRO),CAIEIRAS (VILA DOS PINHEIROS),"oi, como eu faco pra chegar em cairias, comecando aqui em franco da rocha?"
+537,ARUJA (PARQUE RODRIGO BARRETO),GUARULHOS (JARDIM SANTA MENA),como eu faco pra chegar do parque rodrigo barreto em guarulhos?
+538,ARUJA (CENTRO),GUARULHOS (AEROPORTO INTERNACIONAL DE SAO PAULO),"oi, como eu faco pra chegar em guarulhos partindo de aruja?"
+540,BARUERI (ALDEIA DA SERRA),COTIA (TERMINAL METROPOLITANO DE COTIA),como eu faco pra chegar de barueri (aldeia da serra) no terminal metropolitano de cotia?
+5401,CRUZEIRO (TERMINAL RODOVIARIO DE CRUZEIRO),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),como eu faco pra chegar do cruzeiro ate o sao jose dos campos?
+5402,BANANAL (TERMINAL RODOVIARIO AQUINO CARVALHO DOS SANTOS),GUARATINGUETA (TERMINAL RODOVIARIO DE GUARATINGUETA),"oi, tudo bem? preciso saber como chego de bananal (terminal rodoviario aquino carvalho dos santos) em guaratingueta?"
+5403,AREIAS (CENTRO),CRUZEIRO (TERMINAL RODOVIARIO DE CRUZEIRO),"como eu faco pra chegar no cruzeiro de cruzio, comecando aqui em areias?"
+5404,QUELUZ (TERMINAL RODOVIARIO DE QUELUZ),CRUZEIRO (TERMINAL RODOVIARIO DE CRUZEIRO),"oi, como eu faco pra sair do terminal rodoviario de queluz e chegar no terminal rodoviario de cruzeiro?"
+5404PR1,QUELUZ (TERMINAL RODOVIARIO DE QUELUZ),CRUZEIRO (VILA BRASIL),como eu faco pra ir do terminal rodoviario de queluz ate a vila brasil?
+5405,LAVRINHAS (CAPELA DO JACU),CRUZEIRO (TERMINAL RODOVIARIO DE CRUZEIRO),como eu faco pra chegar de lavrinhas (capela do jacel) ate o cruzeiro (terminal rodoviario de cruzeiro)?
+5406,CRUZEIRO (TERMINAL RODOVIARIO DE CRUZEIRO),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),"oi, como eu faco pra sair do cruzeiro e chegar em saao jose?"
+5407,LORENA (TERMINAL RODOVIARIO DE LORENA),CRUZEIRO (TERMINAL RODOVIARIO DE CRUZEIRO),"oi, como eu faco pra chegar no cruzeiro saindo do terminal rodoaviario de lorena?"
+5407VP1,LORENA (TERMINAL RODOVIARIO DE LORENA),CACHOEIRA PAULISTA (BAIRRO MARGEM ESQUERDA),"oi, como eu faco pra chegar na cachoeira paulista saindo do terminal rodoviario de lorea?"
+5407VP2,CACHOEIRA PAULISTA (TERMINAL RODOVIARIO DE CACHOEIRA PAULISTA),CRUZEIRO ((TERMINAL RODOVIARIO DE CRUZEIRO),"oi, como eu faco pra ir do terminal rodoviario de cachoeira paulista ate o terminal rodoviario de cruzeiro?"
+541,ARUJA (TERMINAL RODOVIARIO DE ARUJA),GUARULHOS (SHOPPING BONSUCESSO),"oi, como eu faco pra chegar em guarulhos saindo do terminal rodoaviario de arju?"
+542,CARAPICUIBA (ALDEIA),SANTANA DE PARNAIBA (ALPHAVILLE 10),"oi, como eu faco pra sair da aldeia de carapicuiba e chegar em santana de paraniba?"
+543,COTIA (JARDIM SANTA ISABEL),SAO PAULO (METRO MORUMBI),como eu faco pra chegar em sao paulo saindo de cotia?
+549,ARUJA (MIRANTE),SAO PAULO (SAO MIGUEL PAULISTA),como eu faco pra ir do mirante ate sao paulo?
+550,PIRAPORA DO BOM JESUS (JARDIM BOM JESUS),BARUERI (ALPHAVILLE 3 / BRADESCO),como eu faco pra ir do jardim bom jesus ate barruieri?
+5501,SAO SEBASTIAO (TERMINAL RODOVIARIO DE SAO SEBASTIAO),TAUBATE (TERMINAL RODOVIARIO NOVO DE TAUBATE),"oi, como eu faco pra chegar do terminal rodoviario de sao sebastiao em taubate?"
+5503,SAO SEBASTIAO (TERMINAL RODOVIARIO DE SAO SEBASTIAO),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),"oi, como eu faco pra chegar de sao sebastiao no terminal rodoviario de sao jose dos campos?"
+5504,CARAGUATATUBA (TERMINAL RODOVIARIO DE CARAGUATATUBA),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),"oi, como eu faco pra chegar em saao jose dos campos saindo do terminal rodoviario de caraguatatuba?"
+5505,SAO SEBASTIAO (BALSA),CARAGUATATUBA (TERMINAL RODOVIARIO DE CARAGUATATUBA),"oi, como eu faco pra chegar no terminal rodoviario de caraguattuba a partir de aqui?"
+5506,UBATUBA (TERMINAL RODOVIARIO NAIM ELIAS ABDALLA),CARAGUATATUBA (TERMINAL RODOVIARIO DE CARAGUATATUBA),"oi, como eu faco pra chegar no terminal rodoviario de caraguata do meu terminal rodoviario na ubatuba?"
+5506DV1,UBATUBA (TERMINAL RODOVIARIO NAIM ELIAS ABDALLA),CARAGUATATUBA (TERMINAL RODOVIARIO DE CARAGUATATUBA),"oi, como eu faco pra sair do terminal rodoviario nain elias abdalla e chegar no terminal rodoviario de caraguatatuba?"
+5508,UBATUBA (TERMINAL RODOVIARIO DE UBATUBA - LITORANEA),SAO JOSE DOS CAMPOS (TERMINAL RODOVIARIO FREDERICO OZANAM),como eu faco pra chegar em saao jose dos campos saindo do terminal rodoviario de ubatuba?
+5509,NATIVIDADE DA SERRA (BAIRRO ALTO),CARAGUATATUBA (TERMINAL RODOVIARIO DE CARAGUATATUBA),"oi, como eu faco pra chegar em caraguatuuba saindo da natividade da serra?"
+551,EMBU DAS ARTES (JARDIM MIMAS),SAO PAULO (METRO CAPAO REDONDO),"oi, como eu faco pra sair de embu das artes (jardim mimas) e chegar em sao paulo (metro capao redondo)?"
+5510,UBATUBA (TERMINAL RODOVIARIO DE UBATUBA - SAO JOSE),PINDAMONHANGABA (TERMINAL RODOVIARIO DE PINDAMONHANGABA),como eu faco pra chegar do terminal rodoaviario de ubatuba (sao jose) em pindamonhangaba?
+5511,UBATUBA (TERMINAL RODOVIARIO DE UBATUBA - SAO JOSE),TAUBATE (TERMINAL RODOVIARIO NOVO DE TAUBATE),"oi, como eu faco pra sair do terminal rodoviario de ubatuba (terminal rodoviario de ubatuba - sao jose) e chegar em taubate?"
+551VP1,EMBU DAS ARTES (JARDIM SANTA TEREZA),SAO PAULO (METRO CAPAO REDONDO),"oi, como eu faco pra sair do embu das artes (jardim santa tereza) e chegar no sao paulo?"
+552,GUARULHOS (PARQUE SANTOS DUMONT),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar do parque santos dumont em guarulhos ate o metro armenia?"
+555,GUARULHOS (COCAIA),SAO PAULO (METRO ARMENIA),como eu faco pra ir de guarulhos para sao paulo?
+557,JANDIRA (JARDIM NOSSA SENHORA DE FATIMA),OSASCO (VILA YARA),como eu faco pra ir de jandira para osasco?
+558,EMBU-GUACU (CHACARA FLORIDA),SAO PAULO (METRO CAPAO REDONDO),"oi, como eu faco pra sair de embu-guacu e chegar no metro capao redondo?"
+559,CARAPICUIBA (COHAB V),SANTANA DE PARNAIBA (TERMINAL RODOVIARIO ALPHAVILLE),"oi, como eu faco pra ir da carapicuiba (cohab v) ate santana de paranaiba?"
+560,OSASCO (LARGO DE OSASCO),SAO PAULO (METRO ARMENIA),como eu faco pra chegar no metro armenia saindo de osasco?
+563,EMBU-GUACU (VILA LOURO),SAO PAULO (METRO CAPAO REDONDO),"como eu faco pra chegar de embu-guacu em sao paulo, passando pelo metro capao redondo?"
+564,SANTANA DE PARNAIBA (CENTRO),SAO PAULO (MORRO DOCE),"como eu faco pra ir de santana de parnaiba (centro) ate sao paulo, sao paulo?"
+565,SANTANA DE PARNAIBA (CIDADE DE SAO PEDRO,GLEBA C) - SAO PAULO (LAPA),"oi, como eu faco pra chegar em lapao a partir de santana de paranaiba?"
+566,MAIRIPORA (TERMINAL RODOVIARIO SIGUEMI AIACYDA),SAO PAULO (TERMINAL RODOVIARIO TIETE),"oi, como eu faco pra chegar no terminal rodoviario sigaime aiacyda saindo de maipora?"
+568,ARUJA (VILA PEDROSO),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra ir de aruja pra sao paulo de onibus?"
+572,OSASCO (JARDIM SANTA MARIA),SAO PAULO (METRO MORUMBI),como eu faco pra chegar no metro morumbi saindo do jardim santa maria?
+573,GUARULHOS (PARQUE CONTINENTAL II),SAO PAULO (METRO CARRAO),"oi, como eu faco pra chegar no metro carrazo saindo de guarulhos?"
+574,GUARULHOS (JARDIM CUMBICA),SAO PAULO (METRO CARRAO),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+578,GUARULHOS (VILA MOREIRA),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo da vila moreira?"
+579,OSASCO (VILA YOLANDA),BARUERI (ALPHAVILLE / GREEN VALLEY),"oi, como eu faco pra chegar em barueri saindo da vila yolanda?"
+580,GUARULHOS (CIDADE SOBERANA),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+581,OSASCO (TERMINAL METROPOLITANO LUIZ BORTOLOSSO - KM 21),COTIA (KM 24 - RODOVIA RAPOSO TAVARES),como eu faco pra ir do terminal metropolitano luiz bortolosso em osasco ate a cotia?
+582,EMBU-GUACU (VILA DIRCE),SAO PAULO (CIPO DO MEIO),"oi, como eu faco pra chegar de embu-guacu (vila dirce) em sao paulo?"
+584,GUARULHOS (PARQUE PRIMAVERA),SAO PAULO (METRO CARRAO),"oi, como eu faco pra chegar no parque primavera saindo de guarulhos?"
+585,GUARULHOS (COCAIA),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+587,TABOAO DA SERRA (JARDIM MONTE ALEGRE),SAO PAULO (METRO CAMPO LIMPO),como eu faco pra ir de taboao da serra pra sao paulo?
+588,GUARULHOS (VILA ANY),SAO PAULO (METRO ARMENIA),como eu faco pra chegar em sao paulo saindo de guarulhos?
+589,POA (TERMINAL RODOVIARIO JARDIM SAO JOSE),SAO PAULO (PENHA),"oi, como eu faco pra ir do terminal rodoviario jardim sao jose pra sao paulo, penha?"
+591,GUARULHOS (JARDIM PARAISO),SAO PAULO (METRO PENHA),"oi, como eu faco pra ir de guarulhos para sao paulo?"
+591DV1,GUARULHOS (JARDIM PARAISO),SAO PAULO (METRO PENHA),"oi, como eu faco pra chegar em sao paulo saindo de guarulhos?"
+596,GUARULHOS (VILA ANY),SAO PAULO (ESTACAO CPTM SAO MIGUEL PAULISTA),como eu faco pra chegar em saopaulo saindo da vila any?
+597,GUARULHOS (VILA ANY),SAO PAULO (METRO BRAS),"oi, como eu faco pra chegar em sao paulo saindo de vila any?"
+598,ARUJA (MIRANTE),GUARULHOS (JARDIM SANTA MENA),como eu faco pra chegar em guarulhos saindo de arju?
+600,INDAIATUBA (TERMINAL RODOVIARIO VEREADOR MAURILIO GONCALVES PINTO),CAMPINAS (TERMINAL METROPOLITANO MAGALHAES TEIXEIRA),como eu faco pra chegar do terminal rodoviario vereador maurilio goncalves pinto em campinas?
+601,INDAIATUBA (TERMINAL RODOVIARIO VEREADOR MAURILIO GONCALVES PINTO),CAMPINAS (TERMINAL METROPOLITANO MAGALHAES TEIXEIRA),como eu faco pra chegar no terminal rodoviario vereador maurilio goncalves pinto daqui de indaiatutaba e depois em campinas?
+604,PAULINIA (PAULINIA RODOVIARIA SHOPPING),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),como eu faco pra ir do paulinia rodoviaria shopping ate o terminal metropolitano teixeira?
+604DV1,PAULINIA (PAULINIA RODOVIARIA SHOPPING),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar na campinas, passando por paulinia?"
+604EX1,PAULINIA (PAULINIA RODOVIARIA SHOPPING),CAMPINAS (SHOPPING PARQUE DOM PEDRO I),"como eu faco pra chegar em campinas, partindo de paulinia rodoviaria shopping?"
+605,PAULINIA (PAULINIA RODOVIARIA SHOPPING),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas saindo de paulinia?"
+606,COSMOPOLIS (TERMINAL RODOVIARIO DE COSMOPOLIS),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),como eu faco pra ir do terminal rodoviario de cosmo polis pra terminal metropolitano presidente magalhaes teixeira?
+606DV1,COSMOPOLIS (TERMINAL RODOVIARIO DE COSMOPOLIS),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),como eu faco pra ir do terminal rodoviario de cosmopolis pra campinas?
+606EX1,ARTUR NOGUEIRA (CORACAO CRIANCA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas, passando pelo artur nogueira?"
+607,COSMOPOLIS (TERMINAL RODOVIARIO DE COSMOPOLIS),CAMPINAS (SHOPPING PARQUE DOM PEDRO I),"oi, como eu faco pra chegar em shopping parque pedro i saindo do terminal rodoviario de cosmopolis?"
+608,COSMOPOLIS (VILA FONTANA),ENGENHEIRO COELHO (TERMINAL RODOVIARIO DE ENGENHEIRO COELHO),como eu faco pra chegar do vila fontana em engenheiro coelho?
+609,PAULINIA (PAULINIA RODOVIARIA SHOPPING),COSMOPOLIS (TERMINAL RODOVIARIO DE COSMOPOLIS),como eu faco pra chegar no terminal rodoviario de cosmopolis a partir de paulinia rodoviaria shopping?
+6101,BOITUVA (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra chegar em sorocaba saindo de boituva?"
+6104,CAPELA DO ALTO (JARDIM NOVA CAPELA),IPERO (CENTRO),"oi, como eu faco pra chegar do jardim nova capela ate o ipero?"
+6105,SARAPUI (CENTRO),SOROCABA (CENTRO),como eu faco pra ir do centro para sorocaba?
+6105EX1,SARAPUI (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra ir do sarapui em centro pra sorocaba?"
+6105EX2,SARAPUI (CENTRO),SOROCABA (UNISO - UNIP - FACENS),como eu faco pra chegar do centro de sarapui em sorocaba?
+6106,TIETE (CENTRO),CERQUILHO (JARDIM NOVA CERQUILHO),"oi, to em tiete (centro) e queria saber como chego no cerquilio, que fica perto aqui?"
+6107,TIETE (CENTRO),CERQUILHO (JARDIM NOVA CERQUILHO),"como eu faco pra ir do tiete ate o cerquilha, nesse jardim?"
+6108,TATUI (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra ir de tatui em centro para sorocaba?"
+6108EX1,TATUI (CENTRO),SOROCABA (FACENS),"oi, como eu faco pra ir do centro para sorocaba?"
+6108EX2,TATUI (CENTRO),SOROCABA (UNIP),"oi, to no tatui ate a sorocaba, e preciso saber como chegar la."
+6108EX3,TATUI (CENTRO),SOROCABA (UNIP),"oi, como eu faco pra chegar do centro em sorocaba?"
+6108EX4,CAPELA DO ALTO (CENTRO),TATUI (JARDIM AEROPORTO),"oi, como eu faco pra chegar na capela do alto (centro) e depois em tatui, no jardim aeroporto?"
+6108VP2,TATUI (CENTRO),ARACOIABA DA SERRA (CENTRO),"oi, tudo bem? preciso saber como chego de tatui em aracoaiaba da serra, por favor."
+6109,CESARIO LANGE (HARAS DO SUL),TIETE (CENTRO),como eu faco pra chegar no tiete saindo da cesario lange (haras do sul)?
+6110,TATUI (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra chegar no sorocaba saindo do tatui?"
+6111,TATUI (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra ir do tatui em centro ate sorocaba?"
+6113,ITAPETININGA (TERMINAL RODOVIARIO DE ITAPETININGA),SOROCABA (TERMINAL RODOVIARIO DE SOROCABA),"oi, como eu faco pra ir de itapetininga ate sorocaba?"
+6114,ITAPETININGA (TERMINAL RODOVIARIO DE ITAPETININGA),SOROCABA (TERMINAL RODOVIARIO DE SOROCABA),"oi, to no terminal rodoviario de itapetininga e preciso saber como chegar em sorocaba."
+6115,ITAPETININGA (TERMINAL RODOVIARIO DE ITAPETININGA),TATUI (TERMINAL RODOVIARIO DE TATUI),"oi, como eu faco pra ir do terminal rodoviario de itapetininga ate o terminal rodoviario de tatui?"
+6116,SARAPUI (CENTRO),ITAPETININGA (CENTRO),"oi, como eu faco pra chegar em itapetinga saindo de sarapioup?"
+612,JAGUARIUNA (JOAO NASSIF),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),como eu faco pra chegar no terminal metropolitano presidente teixeira saindo de jaguaruna (joao cassi) ?
+612DV1,JAGUARIUNA (JOAO NASSIF),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra ir do jaguariuna em joao nassif para o terminal metropolitano presidente mendes?"
+614,ITATIBA (TERMINAL RODOVIARIO ELIAS BAPTISTA ALVES),CAMPINAS (TERMINAL MULTIMODAL RAMOS AZEVEDO),"oi, como eu faco pra chegar de itatiba ate campinas?"
+615,ITATIBA (TERMINAL RODOVIARIO ELIAS BAPTISTA ALVES),CAMPINAS (TERMINAL MULTIMODAL RAMOS DE AZEVEDO),como eu faco pra ir do terminal rodoviario elias batista alves ate a campinas?
+616,PEDREIRA (JARDIM ANDRADE),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"como eu faco pra chegar na campinas, saindo da pedreira (jardim andrade)?"
+617,JAGUARIUNA (CENTRO),HOLAMBRA (CENTRO),"oi, como eu faco pra ir de jaguariuna (centro) ate holambra (centro)?"
+617DV1,JAGUARIUNA (CENTRO),HOLAMBRA (CENTRO),como eu faco pra ir de jaguariuna (centro) em holambra (centro)?
+617PR1,JAGUARIUNA (VILA SAO JOSE),HOLAMBRA (CENTRO),"oi, como eu faco pra chegar de jaguariuna (vila sao jose) em holambra (centro)?"
+618,SANTO ANTONIO DE POSSE (JARDIM SAO JUDAS),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas, saindo de santo antonio de posse?"
+619,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SANTA BARBARA D OESTE (CIDADE NOVA),"oi, como eu faco pra chegar do terminal rodoviario francisco luiz bendilatti em santa barbara d oeste?"
+619EX1,AMERICANA (TERMINAL METROPOLITANO DE AMERICANA),SANTA BARBARA D OESTE (CIDADE NOVA),como eu faco pra chegar na santa barbara d oeste a partir da terminal metropolitano de americana?
+620,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SANTA BARBARA D OESTE (JARDIM MOLLON),"oi, como eu faco pra chegar de americana (terminal rodoviario francisco luico luiz bendilatti ate santa barbara d oeste)?"
+6201,PORTO FELIZ (CENTRO),SOROCABA (CENTRO),como eu faco pra ir de porto feliz (centro) para sorocaba (centro)?
+6206,SALTO (CENTRO),ITU (CENTRO),"oi, como eu faco pra ir do centro para o itu?"
+6207,SALTO (CENTRO),ITU (CENTRO),"oi, como eu faco pra chegar do centro ate o itu?"
+6207VP1,SALTO (AVENIDA DOS TRABALHADORES),ITU (CENTRO),"oi, to na avenida dos trabalhadores e preciso saber como chegar no centro."
+6208,SALTO (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra chegar do centro em sorocaba?"
+6209,ITU (CENTRO),SOROCABA (CENTRO),preciso saber como chegar do itu para a sorocaba.
+620EX1,AMERICANA (TERMINAL METROPOLITANO DE AMERICANA),SANTA BARBARA D OESTE (JARDIM MOLLON),"oi, to no terminal metropolitano de america para ir ate santa barbara d oeste."
+621,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SANTA BARBARA D OESTE (CONJ. HAB. ROBERTO ROMANO),"oi, como eu faco pra ir da terminal rodoviario francisco luiz bendil ate santa barbara d oeste?"
+6211,IBIUNA (CENTRO),SOROCABA (TERMINAL RODOVIARIO DE SOROCABA),"oi, como eu faco pra ir de ibiuna ate o terminal rodoviario de sorocaba?"
+6212,IBIUNA (CENTRO),PIEDADE (CENTRO),como eu faco pra ir do ibiuna ate a piedade?
+6213,BOITUVA (CENTRO),TATUI (CENTRO),"oi, como eu faco pra chegar no centro de boa vista e depois no centro de tatu?"
+6213EX1,PORTO FELIZ (CENTRO),BOITUVA (CENTRO),"oi, como eu faco pra chegar em boituva saindo de portos do rio?"
+6213EX2,TATUI (CENTRO),BOITUVA (FACULDADE IFSP),"oi, como eu faco pra sair do terminal central e ir pra faculdade de educacao fisica?"
+6214,MAIRINQUE (JARDIM CRUZEIRO),SAO ROQUE (TERMINAL INTERMUNICIPAL ALCIDES DE SOUZA),"oi, como eu faco pra chegar em sao roque saindo de mairinque?"
+6215,MAIRINQUE (JARDIM CRUZEIRO),SAO ROQUE (JARDIM VILLACA),como eu faco pra chegar em sao roque saindo de maringque?
+6216,MAIRINQUE (JARDIM CRUZEIRO),SAO ROQUE (CATARINA FASHION OUTLET),como eu faco pra sair de mairinque e ir pra sao roque?
+6218,SAO ROQUE (TERMINAL INTERMUNICIPAL ALCIDES DE SOUZA),IBIUNA (CENTRO),"oi, como eu faco pra chegar em ibiuna saindo do terminal municipal aludes de souza?"
+6219,SAO ROQUE (TERMINAL INTERMUNICIPAL ALCIDES DE SOUZA),ALUMINIO (BAIRRO PEDAGIO),como eu faco pra ir do terminal municipal alcidas de souza ate o bairro pedio?
+622,AMERICANA (TERMINAL METROPOLITANO DE AMERICANA),SANTA BARBARA D OESTE (RODOTERMINAL DE STA BARBARA D OESTE),"oi, como eu faco pra chegar do terminal metropolitano de america ate a rodoterramal de santa barbara d'este?"
+6220,ALUMINIO (BAIRRO PEDAGIO),SAO ROQUE (CATARINA FASHION OUTLET),"oi, como eu faco pra chegar em saao rocha do sul saindo de aliminio?"
+6220EX1,SAO ROQUE (CENTRO),SAO ROQUE (CATARINA FASHION OUTLET),como eu faco pra chegar em sao roque a partir de sao roque?
+6222,PORTO FELIZ (CENTRO),ITU (CENTRO),"oi, como eu faco pra chegar no itu do porto feliz?"
+6222BI1,PORTO FELIZ (JARDIM VANTE),ITU (CENTRO),preciso saber como chegar de porto feliz (jardim vante) em itu.
+6222BI2,PORTO FELIZ (VILA POPULAR),ITU (CENTRO),como eu faco pra ir de vila popular ate o centro?
+6223,IBIUNA (CENTRO),PIEDADE (CENTRO),"oi, to em ibiuna (centro) e quero saber como chegar em piedade (centro)?"
+6224,MAIRINQUE (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra pegar um onibus saindo de mairinque e indo para sorocaba?"
+6224EX1,SAO ROQUE (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra ir de sao roque para sorocaba?"
+6224VP1,ALUMINIO (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra ir de aluminio para sorocaba?"
+6225,ITU (TERMINAL CIDADE NOVA - PIRAPITINGUI),SAO ROQUE (CATARINA FASHION OUTLET),como eu faco pra ir do terminal cidade nova - pirapitingui ate saeroque?
+6225EX1,ARACARIGUAMA (CENTRO),ITU (TERMINAL CIDADE NOVA - PIRAPITINGUI),como eu faco pra chegar no terminal cidade nova - pirapitingui saindo de aracariguama?
+6226,ITU (TERMINAL CIDADE NOVA - PIRAPITINGUI),MAIRINQUE (BAIRRO SAO JOSE),como eu faco pra sair do terminal cidade nova - pirapitingui e ir pra miranque?
+622EX1,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SANTA BARBARA D OESTE (RODOTERMINAL DE STA BARBARA D OESTE),como eu faco pra chegar na santa barbara d esterea saindo do terminal rodoviario francisco luiz bendil?
+623,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SANTA BARBARA D OESTE (CIDADE NOVA),"oi, como eu faco pra chegar no terminal rodoviario francisco luiz bendilatti em santa barbara d oeste?"
+624,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SANTA BARBARA D OESTE (JARDIM EUROPA),"oi, como eu faco pra sair do terminal rodoviario francisco luiz bendil ate santa barbara d oeste?"
+624DV1,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SANTA BARBARA D OESTE (JARDIM EUROPA),"oi, como eu faco pra chegar na santa barbara d oeste saindo do terminal rodoviario francisco luiz bendilatti?"
+625,AMERICANA (TERMINAL METROPOLITANO DE AMERICANA),SANTA BARBARA D OESTE (JARDIM EUROPA),"como eu faco pra chegar na santa barbara d. este de trem, preciso saber como chegar de americana?"
+626,AMERICANA (TERMINAL METROPOLITANO DE AMERICANA),SANTA BARBARA D OESTE (JARDIM EUROPA),como eu faco pra chegar na santa barbara d oeste a partir do terminal metropolitano de america?
+627,AMERICANA (TERMINAL METROPOLITANO DE AMERICANA),SANTA BARBARA D OESTE (RODOTERMINAL DE STA BARBARA D OESTE),como eu faco pra pegar o trem metropolitano de americana e ir ate a rodoterminal de santa barbara d'este?
+628,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SANTA BARBARA D OESTE (RODOTERMINAL DE STA BARBARA D OESTE),como eu faco pra chegar na santa barbara d este do trem?
+629,AMERICANA (TERMINAL METROPOLITANO DE AMERICANA),SANTA BARBARA D OESTE (SAO JOAQUIM),como eu faco pra chegar na santa barbara d oeste saindo da americana?
+629EX1,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SANTA BARBARA D OESTE (SAO JOAQUIM),"oi, como eu faco pra ir do terminal rodoviario francisco luiz bendilatti ate santa barbara d oeste?"
+630,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SANTA BARBARA D OESTE (SAO JOAQUIM),"oi, como eu faco pra sair da americana (terminal rodoviario francisco luito bendilatti) e chegar em santa barbara d oeste?"
+6301,PILAR DO SUL (BAIRRO CAMPO GRANDE),PIEDADE (CENTRO),"oi, como eu faco pra ir do pilao do sul ate piedade?"
+6302,TAPIRAI (CENTRO),PIEDADE (CENTRO),"oi, como eu faco pra pegar um onibus saindo de tapirai e ir ate a pedra do sal?"
+6303,PIEDADE (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra ir de piedade ate sorocaba?"
+6305,VOTORANTIM (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra chegar de votorantim ate sorocaba?"
+6306,PIEDADE (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra chegar em sorocaba partindo da pedra bonita?"
+6307,VOTORANTIM (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra chegar no centro de votorantim em sorocaba?"
+6307DV1,VOTORANTIM (CENTRO),SOROCABA (CENTRO),"oi, to em votorantim (centro) e quero saber como chegar em sorocaba (centro)."
+6308,VOTORANTIM (CENTRO),SOROCABA (CENTRO),"oi, to em votorantim (centro) e quero saber como chegar em sorocaba (centro)."
+6308DV1,VOTORANTIM (CENTRO),SOROCABA (CENTRO),como eu faco pra ir de votorantim (centro) em sorocaba?
+6309,VOTORANTIM (JARDIM FORTALEZA),SOROCABA (CENTRO),"oi, como eu faco pra chegar em sorocaba saindo de votorantim?"
+631,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SANTA BARBARA D OESTE (VILA RICA),como eu faco pra chegar na vila barba de oeste saindo do terminal rodoviario francisco luiz bendilatti?
+6310,VOTORANTIM (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra chegar em sorocaba partindo de votorantim?"
+6311,VOTORANTIM (VILA NOVA),SOROCABA (CENTRO),"oi, to em vila nova e quero saber como chegar no centro ate sorocaba."
+6312,VOTORANTIM (CENTRO),SOROCABA (CENTRO),"oi, to em votorantim e quero saber como chego em sorocaba."
+6314,SALTO DE PIRAPORA (BAIRRO CAMPO LARGO),SOROCABA (CENTRO),"oi, como eu faco pra chegar em sorocaba partindo do campo largo?"
+6315,SALTO DE PIRAPORA (CAMPO LARGO),SOROCABA (CENTRO),"oi, como eu faco pra chegar de salto de pirapora (campo largo) em sorocaba?"
+6315VP1,SALTO DE PIRAPORA (JARDIM PRIMAVERA),SOROCABA (CENTRO),"oi, como eu faco pra chegar do jardim primavera em sorocaba?"
+6316,SALTO DE PIRAPORA (CAMPO LARGO),SOROCABA (CENTRO),"oi, como eu faco pra chegar em sorocaba saindo de campo largo?"
+6316VP1,SALTO DE PIRAPORA (JARDIM PRIMAVERA),SOROCABA (CENTRO),"oi, como eu faco pra chegar de salto de pirapora (jardim primavera) em sorocaba?"
+6317,SALTO DE PIRAPORA (CAMPO LARGO),SOROCABA (CENTRO),"oi, como eu faco pra chegar em sorocaba partindo de salto de pirapora (campo largo)?"
+632,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SANTA BARBARA D OESTE (VILA RICA),"oi, como eu faco pra ir da terminal rodoviario francisco luico luiz bendilatti ate santa barbara d oeste?"
+6320,ARACOIABA DA SERRA (MARIA PAULA ESPOSITO),SOROCABA (CENTRO),como eu faco pra ir de aracoiaba da serra ate sorocaba?
+6320BI1,ARACOIABA DA SERRA (BAIRRO FARIAS),SOROCABA (CENTRO),como eu faco pra ir de aracoiaba da serra (bairro farias) para sorocaba?
+6320DV1,ARACOIABA DA SERRA (MARIA PAULA ESPOSITO),SOROCABA (CENTRO),"oi, como eu faco pra ir de aracoiaba da serra ate sorocaba?"
+6321,ARACOIABA DA SERRA (MARIA PAULA ESPOSITO),SOROCABA (CENTRO),como eu faco pra ir de aracoiaba da serra ate sorocaba?
+6322,IPERO (JARDIM VITORINO),BOITUVA (CENTRO),como eu faco pra ir do ipero (jardim vitorino) ate boituva?
+6323,IPERO (CENTRO),TATUI (CENTRO),"oi, como eu faco pra ir do ipero em tatui?"
+6324,IPERO (CENTRO),SOROCABA (BAIRRO BOM JESUS),"oi, como eu faco pra ir do ipero ate a sorocaba?"
+6325,IPERO (CENTRO),SOROCABA (CENTRO),preciso saber como chegar do ipero ate a sorocaba.
+6326,IPERO (PRESIDIO ODON RAMOS MARANHAO),SOROCABA (CENTRO),como eu faco pra ir do ipero (presidio odon ramos maranhao) em direcao a sorocaba?
+6327,IPERO (VILA DO DEPOSITO),BOITUVA (CENTRO),como eu faco pra chegar do ipero ate o boituva?
+6328,IPERO (PRESIDIO ODON RAMOS MARANHAO),BOITUVA (CENTRO),"oi, como eu faco pra ir de ipero (presidio odon ramos maranhao) ate boituva?"
+6329,PIEDADE (CENTRO),SOROCABA (TERMINAL RODOVIARIO DE SOROCABA),"oi, como eu faco pra chegar em sorocaba saindo de centro?"
+633,SANTA BARBARA D OESTE (RODOTERMINAL DE SANTA BARBARA D OESTE),CAMPINAS (TERMINAL MULTIMODAL RAMOS DE AZEVEDO),"oi, como eu faco pra ir de santa barbara d este ate campos?"
+6330,IPERO (GEORGE OETTERER),SOROCABA (CENTRO),como eu faco pra ir de ipero ate sorocaba?
+6330PR1,IPERO (G. OETTERER - INDUSTRIA DE ARTEFATOS),SOROCABA (CENTRO),"oi, como eu faco pra chegar no sorocaba saindo do ipero?"
+6333,SAO MIGUEL ARCANJO (TERMINAL RODOVIARIO BENTO FRANCA),SOROCABA (TERMINAL RODOVIARIO DE SOROCABA),"oi, como eu faco pra ir do terminal rodoaviario bento franco ate sorocaba?"
+6334,SAO MIGUEL ARCANJO (TERMINAL RODOVIARIO BENTO FRANCA),SOROCABA (TERMINAL RODOVIARIO DE SOROCABA),"oi, como eu faco pra ir do terminal rodoaviario bento franca pra sorocaba?"
+6335,ARACOIABA DA SERRA (CERCADO),SOROCABA (CENTRO),como eu faco pra chegar em sorocaba saindo de araucuba da serra?
+6338,PIEDADE (CENTRO),SOROCABA (CENTRO),"oi, como eu faco pra chegar em sorocaba partindo de piedade?"
+6339,SAO MIGUEL ARCANJO (CENTRO),ITAPETININGA (CENTRO),como eu faco pra chegar em itapetinga saindo de sao miguel arcanjo?
+633VP1,AMERICANA (TERMINAL METROPOLITANO DE AMERICANA),CAMPINAS (TERMINAL MULTIMODAL RAMOS DE AZEVEDO),"oi, como eu faco pra chegar na campina, indo do metro da americana?"
+634,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),NOVA ODESSA (JARDIM SANTA ROSA),"oi, como eu faco pra chegar de americana (terminal rodoviario francisco luiz bendilatti) em jardim santa rosa?"
+6340,SAO MIGUEL ARCANJO (CENTRO),ITAPETININGA (CENTRO),"oi, como eu faco pra ir de sao miguel arcanjo centro pra itapetininga centro?"
+635,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),CAMPINAS (TERMINAL MULTIMODAL RAMOS DE AZEVEDO),"como eu faco pra chegar na campina, saindo do terminal rodoviario francisco luiz bendil?"
+636,SUMARE (TERMINAL RODOVIARIO DE SUMARE),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra sair do sumare e ir pra campinas?"
+636EX1,NOVA ODESSA (ESTACAO RODOVIARIA DONA CATHARINA FERNANDEZ WELSH),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas saindo de nova odessa?"
+636PR1,SUMARE (JD. JOAO PAULO II),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra sair do sumare e chegar no terminal metropolitano prefeito joao paulo ii?"
+636PR2,SUMARE (JARDIM MACARENKO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),como eu faco pra chegar do sumare no terminal metropolieta governador em campinas?
+637,SUMARE (JARDIM LUCELIA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),como eu faco pra chegar de sumare em campinas?
+638,SUMARE (JARDIM JOAO PAULO II),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, tudo bem? to em sumare (jardim joao paulo ii) e quero saber como chegar em campinas (terminal metropolitano prefeitor magalhaes teixeira)."
+639,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SUMARE (TERMINAL RODOVIARIO DE SUMARE),"oi, como eu faco pra chegar no terminal rodoviario francisco luiz bendilatti em sumare?"
+640,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SUMARE (JARDIM RESIDENCIAL BORDON),"oi, como eu faco pra chegar no terminal rodoviario francisco luiz bendil e depois no jardim residencial gordon?"
+640EX1,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SUMARE (JARDIM RESIDENCIAL BORDON),"oi, como eu faco pra chegar no terminal rodoviario francisco luiz bendil e depois no jardim residencial borao?"
+642,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),CAMPINAS (UNICAMP),como eu faco pra chegar do terminal rodoviario francisco luiz bendilatti em campinas?
+644,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),SUMARE (TERMINAL RODOVIARIO DE SUMARE),"oi, como eu faco pra chegar de americana ate o terminal rodoviario de sumare?"
+647,AMERICANA (TERMINAL RODOVIARIO FRANCISCO LUIZ BENDILATTI),NOVA ODESSA (JARDIM DAS PALMEIRAS),"oi, como eu faco pra sair da americana (terminal rodoviario francisco luico) em direcao a nova odsa?"
+649,PAULINIA (CONJUNTO HABITACIONAL TEREZA Z. VEDOVELO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas, saindo de paulinia?"
+649EX1,SUMARE (JARDIM NOVA TERRA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),como eu faco pra ir do sumare ate o terminal metropolitano presidente magalhaes teixeira?
+651,SUMARE (RESIDENCIAL REAL PARQUE),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, to em sumare e quero saber como chegar na campina, que fica perto do metro?"
+652,SUMARE (JARDIM JOAO PAULO II),CAMPINAS (UNICAMP),"como eu faco pra ir do sumare (jardim jopaulo ii) em direcao a campinas, no unicamp?"
+652EX1,SUMARE (JARDIM DALL ORTO),CAMPINAS (UNICAMP),"oi, como eu faco pra ir do sumare ate a campinas, passando pelo unicamp?"
+652EX2,SUMARE (JARDIM DALL ORTO),CAMPINAS (CAMPINAS SHOPPING IGUATEMI),"oi, como eu faco pra ir de sumare ate campinas?"
+653,SUMARE (TERMINAL RODOVIARIO DE SUMARE),CAMPINAS (UNICAMP),como eu faco pra chegar no unicamp a partir do terminal rodoviar de sumare?
+654,SUMARE (TERMINAL RODOVIARIO DE SUMARE),CAMPINAS (SHOPPING IGUATEMI),como eu faco pra chegar do sumare em shopping iguatemi?
+654BI1,SUMARE (PARQUE RESIDENCIAL IPIRANGA),CAMPINAS (SHOPPING IGUATEMI),como eu faco pra chegar no shopping iguatemi do sumare?
+655,SUMARE (TERMINAL RODOVIARIO DE SUMARE),CAMPINAS (SHOPPING IGUATEMI),como eu faco pra chegar no shopping iguatemi saindo do terminal rodoviario de sumare?
+655DV1,SUMARE (TERMINAL RODOVIARIO DE SUMARE),CAMPINAS (SHOPPING IGUATEMI),como eu faco pra chegar no shopping iguatemi saindo do terminal rodoaviario de sumare?
+655PR1,SUMARE (JARDIM JOAO PAULO II),CAMPINAS (SHOPPING IGUATEMI),como eu faco pra ir de sumare (jardim joao paulo ii) ate shopping iguatemi?
+657,SUMARE (PARQUE IDEAL),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),como eu faco pra ir do parque ideal pra campinas?
+658,SUMARE (ESTACAO DE TRANSFERENCIA KM 110 - JARDIM MARIA ANTONIA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),como eu faco pra ir do sumare (estacao de transferencia km 110 - jardim maria antonia) em direcao a campinas (terminal metropolitano prefeito magalhaes teixeira)?
+659,SUMARE (PARQUE RESIDENCIAL IPIRANGA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar no terminal metropolitano presidente dos ministros do ato, saindo de sumare?"
+660,SUMARE (JARDIM SAO GERONIMO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar no terminal metropolitano sao jose do rio grande do sul da sumare (jardim sao geronimo)?"
+661,PAULINIA (CONJUNTO HABITACIONAL TEREZA Z. VEDOVELO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"como eu faco pra chegar em campinas, saindo do conjunto habitacional tereza z. vedevelo?"
+662,SUMARE (JARDIM SAO GERONIMO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, tudo bem? preciso saber como chego de sumare (jardim sao geronimo) ate o terminal metropolitano presidente teixeira, ne?"
+663,SUMARE (PARQUE RESIDENCIAL SALERNO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),como eu faco pra ir de sumare ate o campinas?
+664,PAULINIA (CONJUNTO HABITACIONAL TEREZA Z. VEDOVELO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas saindo de paulinia?"
+666,SUMARE (TERMINAL RODOVIARIO DE SUMARE),PAULINIA (CENTRO),como eu faco pra chegar de sumare em paulina?
+668,SUMARE (TERMINAL RODOVIARIO DE SUMARE),HORTOLANDIA (ROSOLEM),"oi, como eu faco pra chegar de sumare ate o rosolem?"
+673,SANTO ANTONIO DE POSSE (CENTRO),HOLAMBRA (CENTRO),"oi, como eu faco pra ir de santo antonio de posecao para holambra?"
+673EX1,SANTO ANTONIO DE POSSE (CENTRO),HOLAMBRA (CENTRO),"oi, como eu faco pra chegar em holambra saindo de santo antonio de pose?"
+673EX2,SANTO ANTONIO DE POSSE (CENTRO),HOLAMBRA (CENTRO),"oi, como eu faco pra chegar em holambra do centro?"
+674,VINHEDO (CAPELA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),como eu faco pra ir de vinhedo para o terminal metropolitano prefeito caetano teixeira?
+674VP1,VINHEDO (CAPELA),VALINHOS (TERMINAL RODOVIARIO MARIO ROLIM TELLES),como eu faco pra chegar em valinhos saindo da capela?
+674VP2,VINHEDO (TERMINAL RODOVIARIO DE VINHEDO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas saindo do terminal rodoviario de vinhedo?"
+675,VALINHOS (TERMINAL RODOVIARIO MARIO ROLIM TELLES),CAMPINAS (CENTRO),"oi, como eu faco pra chegar de valinhos (terminal rodoviario mario rolim telles) em campinas (centro)?"
+676,VALINHOS (JARDIM DO LAGO),CAMPINAS (CENTRO),"oi, como eu faco pra chegar em campinas saindo de valinhos?"
+677,VALINHOS (PARQUE DAS COLINAS),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas daqui de valinhos?"
+677DV1,VALINHOS (PARQUE DAS COLINAS),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas a partir de valinhos?"
+678,VALINHOS (TERMINAL RODOVIARIO MARIO ROLIM TELLES),CAMPINAS (ESCOLA DE CADETES),"oi, como eu faco pra chegar em campinas saindo do terminal rodoaviario mario rolim teles?"
+679,VALINHOS (PARQUE DAS FIGUEIRAS),CAMPINAS (TREVO DA BOSCH),como eu faco pra chegar no parque das figuras saindo de valinhos?
+680,VALINHOS (PARQUE DAS FIGUEIRAS),CAMPINAS (TREVO DA BOSCH),"oi, como eu faco pra chegar no parque das figuras, saindo de valinho?"
+680VP1,VALINHOS (TERMINAL RODOVIARIO MARIO ROLIM TELLES),CAMPINAS (TREVO DA BOSCH),"oi, como eu faco pra chegar em campinas saindo do terminal rodoaviario mario rolim terrelles?"
+683,VALINHOS (JARDIM SAO LUIZ),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, to meio perdido aqui. como eu faco pra ir de valinhos (jardim sao luiz) ate campinas (terminal metropolitano prefeito magalhaes teixeira)?"
+685,VALINHOS (TERMINAL RODOVIARIO MARIO ROLIM TELLES),VINHEDO (TERMINAL RODOVIARIO DE VINHEDO),"oi, como eu faco pra chegar em vinhoedo saindo do terminal rodoaviario mario rolim."
+686,VINHEDO (TERMINAL RODOVIARIO DE VINHEDO),CAMPINAS (JARDIM SAO DOMINGOS),como eu faco pra sair do terminal rodoviario de vinhedo e ir para jardim sao domingos?
+686BI1,VINHEDO (CAPELA),CAMPINAS (JARDIM SAO DOMINGOS),como eu faco pra ir de vinhedo (capela) para jardim sao domingos?
+687,VINHEDO (TERMINAL RODOVIARIO DE VINHEDO),CAMPINAS (AEROPORTO INTERNACIONAL DE VIRACOPOS),como eu faco pra ir do terminal rodooviario de vinhedo pra aeroporto internacional de viracoropolis?
+687EX1,VINHEDO (TERMINAL RODOVIARIO DE VINHEDO),CAMPINAS (JARDIM CAMPO BELO),"oi, como eu faco pra chegar no jardim campo belo saindo do terminal rodoaviario de vinhedo?"
+687EX2,VINHEDO (TERMINAL RODOVIARIO DE VINHEDO),CAMPINAS (JARDIM CAMPO BELO),como eu faco pra chegar no terminal rodoaviario de vinhedo e depois no jardim campo belo?
+688,VINHEDO (TERMINAL RODOVIARIO DE VINHEDO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),como eu faco pra chegar do terminal rodoaviario de vinhedo na central metropolitana de campos?
+688BI1,VINHEDO (CAPELA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, tudo bem? preciso saber como chego de vinhedo (capela) em campinas (metropolitano prefeito magalhaes teixeira)?"
+689,VALINHOS (TERMINAL RODOVIARIO MARIO ROLIM TELLES),VINHEDO (TERMINAL RODOVIARIO DE VINHEDO),"oi, como eu faco pra chegar do terminal rodoaviario mario rolim antes em vinho?"
+693,ARTUR NOGUEIRA (CORACAO CRIANCA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas, partindo do artur nogueira?"
+694,HORTOLANDIA (BOA ESPERANCA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas?"
+825,SAO PAULO (SAO MIGUEL PAULISTA),GUARULHOS (CENTRO),"oi, como eu faco pra chegar em guarulhos saindo de sao paulo (sao paulo)?"
+695,HORTOLANDIA (JARDIM SANTIAGO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas?"
+696,HORTOLANDIA (PARQUE DO HORTO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas saindo da hortolandia?"
+697,HORTOLANDIA (TERMINAL METROPOLITANO HORTOLANDIA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),preciso saber como chegar do terminal metropolitano hortolandia ate o terminal metropolitano presidente teixeira.
+698,HORTOLANDIA (TERMINAL METROPOLITANO HORTOLANDIA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra ir do terminal metropolitano hortolandia ate o terminal prefeito teixeira?"
+699,HORTOLANDIA (NOVA HORTOLANDIA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas, saindo da hortolandia?"
+699BI1,HORTOLANDIA (PARQUE DOS PINHEIROS),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, tudo bem? to em parque dos pinheiros e quero saber como chegar no terminal metro teixeira."
+700,HORTOLANDIA (JARDIM AMANDA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas saindo do jardim amanda?"
+701,HORTOLANDIA (JARDIM AMANDA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas saindo de hortolandia?"
+702,HORTOLANDIA (PARQUE ORESTE ONGARO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar no parque orestes ongaro e depois no terminal metropolitano teixeira?"
+703,HORTOLANDIA (JARDIM NOVO CAMBUI),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas saindo de hortolandia?"
+703BI1,HORTOLANDIA (JARDIM SANTA FE),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas partindo do jardim santa fe?"
+704,HORTOLANDIA (SUMAREZINHO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra sair do sumarezinho e chegar no terminal metropolitano presidente campos do espirito santo?"
+705,HORTOLANDIA (JARDIM ROSOLEM),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra ir do jardim rosolem ate o metro teixeire?"
+706,HORTOLANDIA (CHACARA ASSAY),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em terminal metropolitano presidente temosheu da chacara assay?"
+707,HORTOLANDIA (JARDIM NOVA AMERICA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, tudo bem? to em hortolandia e quero saber como chegar em campinas (terminal metropolitano prefeito magalhaes teixeira)."
+708,MONTE MOR (TERMINAL RODOVIARIO VEREADOR GERALDO BENINI),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar no terminal rodoviario geraldo benini de la?"
+708BI1,MONTE MOR (JARDIM SAO SEBASTIAO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar do jardim sao sebastiao em campinas?"
+708BI2,MONTE MOR (JARDIM PAULISTA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas saindo de monte mor?"
+709,MONTE MOR (TERMINAL RODOVIARIO DE MONTE MOR),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas a partir do terminal rodoviario de monte mor?"
+709EX1,MONTE MOR (JARDIM CAPUAVINHA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas, comecando aqui em jardim capuavinha?"
+714,JAGUARIUNA (DISTRITO INDUSTRIAL),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"como eu faco pra ir do jaguariuna (distrito industrial) em campinas, pelo metro?"
+715,JAGUARIUNA (JOAO NASSIF),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas saindo de jaguariuna?"
+719,JAGUARIUNA (TERMINAL RODOVIARIO DE JAGUARIUNA),SANTO ANTONIO DE POSSE (CENTRO),como eu faco pra chegar no terminal rodoviario de jaguaru em santo antonio de pose?
+724,VINHEDO (TERMINAL RODOVIARIO DE VINHEDO),CAMPINAS (UNICAMP),como eu faco pra ir do terminal rodoaviario de vinhedo ate o unicamp?
+727,VINHEDO (TERMINAL RODOVIARIO DE VINHEDO),CAMPINAS (JARDIM CAMPINEIRO),como eu faco pra ir do terminal rodoviario de vinhedo pra jardim campino?
+727EX1,VINHEDO (TERMINAL RODOVIARIO DE VINHEDO),CAMPINAS (SHOPPING PARQUE DOM PEDRO I),"oi, preciso saber como chegar no shopping parque dom pedro i a partir do terminal rodoviario de vinho."
+734,SANTO ANTONIO DE POSSE (CENTRO),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar em campinas saindo de santo antonio de posse?"
+736,ARTUR NOGUEIRA (CORACAO CRIANCA),HOLAMBRA (CENTRO),"oi, como eu faco pra ir de artur nogueira (coracao crianca) ate centro?"
+737,COSMOPOLIS (TERMINAL RODOVIARIO DE COSMOPOLIS),HOLAMBRA (CENTRO),como eu faco pra chegar no terminal rodoviario de cosmopolis ate holambra?
+738,INDAIATUBA (TERMINAL RODOVIARIO VEREADOR MAURILIO GONCALVES PINTO),VINHEDO (TERMINAL RODOVIARIO DE VINHEDO),"oi, como eu faco pra chegar do terminal rodoviario vereador municipal de indaiatuba ate o terminal rodoviario de vinho?"
+738VP1,INDAIATUBA (TERMINAL RODOVIARIO VEREADOR MAURILIO GONCALVES PINTO),CAMPINAS (AEROPORTO INTERNACIONAL DE VIRACOPOS),"oi, como eu faco pra chegar no terminal rodoaviario vereador maurilio goncalves pinto em campinas?"
+739,HORTOLANDIA (TERMINAL METROPOLITANO DE HORTOLANDIA),CAMPINAS (CAMPINAS SHOPPING CENTER),"oi, como eu faco pra chegar no terminal metropolitano de hortolandia e depois no campinhas shopping center?"
+740,SUMARE (JARDIM JOAO PAULO II),CAMPINAS (CAMPINAS SHOPPING CENTER),como eu faco pra chegar de sumare (jardim joao paulo ii) em campinas (campinas shopping center)?
+741,HORTOLANDIA (TERMINAL METROPOLITANO HORTOLANDIA),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra chegar do terminal metropolitano hortolandia em campinas?"
+742,HORTOLANDIA (TERMINAL METROPOLITANO DE HORTOLANDIA),CAMPINAS (TERMINAL CAMPO GRANDE),"oi, como eu faco pra chegar no terminal metropolitano de hortolandia em campinas?"
+744,COSMOPOLIS (TERMINAL RODOVIARIO DE COSMOPOLIS),CAMPINAS (TERMINAL METROPOLITANO PREFEITO MAGALHAES TEIXEIRA),"oi, como eu faco pra sair do terminal rodoviario de cospinas e ir para a campina?"
+745,HORTOLANDIA (TERMINAL METROPOLITANO DE HORTOLANDIA),MONTE MOR (TERMINAL RODOVIARIO DE MONTE MOR),"oi, como eu faco pra chegar no terminal metropolitano de hortolanda em monta mor?"
+746,HORTOLANDIA (TERMINAL METROPOLITANO HORTOLANDIA),CAMPINAS (UNICAMP),"oi, como eu faco pra chegar no unicamp saindo do terminal metropolitano hortolandia?"
+749,SUMARE (TERMINAL RODOVIARIO DE SUMARE),AMERICANA (TERMINAL METROPOLITANO DE AMERICANA),como eu faco pra ir do sumare ate a america?
+750,SANTA BARBARA D OESTE (RODOTERMINAL DE SANTA BARBARA D OESTE),AMERICANA ( TERMINAL METROPOLITANO DE AMERICANA),"oi, como eu faco pra chegar na americaira saindo de santa barbara d oeste?"
+751,SUMARE (CEPAP),HORTOLANDIA (JARDIM AMANDA),"oi, como eu faco pra sair do sumare (cepap) e chegar em hortolandia (jardim amanda)?"
+752,HORTOLANDIA (NOVA AMERICA),SUMARE (CECAP),"oi, como eu faco pra chegar em sumare saindo de hortolandia?"
+755,SUMARE (CECAP),HORTOLANDIA (JARDIM MINDA),como eu faco pra chegar do sumare (cecap) em hortolandia?
+756,SUMARE (CECAP),NOVA ODESSA (MARAJUARA),como eu faco pra chegar de sumare (cebrap) em nova odesia?
+758,ITATIBA (TERMINAL RODOVIARIO ELIAS BAPTISTA ALVES),MORUNGABA (BAIRRO BUENOPOLIS),"oi, como eu faco pra ir do terminal rodoviario elias batista alves ate morungaba?"
+800,MOGI DAS CRUZES (TERMINAL RODOVIARIO GERALDO SCAVONE),GUARULHOS (AEROPORTO INTERNACIONAL DE SAO PAULO),"oi, tudo bem? preciso saber como chego de mogi das cruzes (terminal rodoviario geraldo scavone) ate guarulhos (aeroporto internacional de sao paulo)?"
+802,GUARULHOS (TERMINAL METROPOLITANO TABOAO),SAO PAULO (METRO TUCURUVI),"oi, tudo bem? to em guarulhos e preciso saber como chego em sao paulo."
+806,ITAPECERICA DA SERRA (JARDIM MONTEZANO),ITAPECERICA DA SERRA (JARDIM DAS OLIVEIRAS),"oi, como eu faco pra sair do jardim montezano e chegar no jardim das oliveiras?"
+807,ARUJA (PARQUE RODRIGO BARRETO),SAO PAULO (METRO ARMENIA),"como eu faco pra pegar um onibus saindo do parque rodolfo barra, indo pra sao paulo?"
+808,JUQUITIBA (FAZENDA SAMA),ITAPECERICA DA SERRA (VALO VELHO),"oi, como eu faco pra chegar em itapecerica da serra saindo de juabiga?"
+809,PIRAPORA DO BOM JESUS (JARDIM BOM JESUS),BARUERI (ALDEIA DA SERRA),como eu faco pra chegar do jardim bom jesus ate o barueri?
+810,SANTA ISABEL (JARDIM ELDORADO),ARUJA (CENTRO),como eu faco pra ir de santa isabel (jardim eldorado) em direcao a aruja?
+811,EMBU-GUACU (CHACARA FLORIDA),ITAPECERICA DA SERRA (VALO VELHO),"oi, como eu faco pra ir de embu-guacuba para o vale do seguro?"
+814,BARUERI (VALE DO SOL),SANTANA DE PARNAIBA (RESIDENCIAL BURLE MARX),"oi, como eu faco pra chegar na santana de paraiba, que fica perto do vale do sol, saindo de barueri?"
+815,ITAPEVI (CIDADE DA SAUDE),EMBU DAS ARTES (CENTRO),"oi, to em itapevi (cidade da saude) e queria saber como chego em embu das artes (centro)?"
+816,ARUJA (CENTRO),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar em sao paulo saindo de arju?"
+818,BARUERI (ALPHAVILLE),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra chegar de barueri (alphaville) em sao paulo?"
+819,OSASCO (TERMINAL SANTA MARIA),BARUERI (ALPHAVILLE 3 / BRADESCO),como eu faco pra chegar do terminal santa maria em barueri?
+820,SANTA ISABEL (JARDIM ELDORADO),SAO PAULO (METRO ARMENIA),"oi, como eu faco pra ir de jardim eldorado para sao paulo?"
+821,BARUERI (SHOPPING TAMBORE),COTIA (JARDIM ROSEMARY),"oi, como eu faco pra sair do barueri e ir para o cotia?"
+822,MAIRIPORA (TERMINAL RODOVIARIO SIGUEMI AIACYDA),SAO PAULO (METRO PARADA INGLESA),"oi, como eu faco pra chegar em sao paulo saindo de maora?"
+823,OSASCO (RECANTO DAS ROSAS),SAO PAULO (METRO VILA SONIA),como eu faco pra chegar de osasco em sao paulo?
+824,PIRAPORA DO BOM JESUS (JARDIM BOM JESUS),BARUERI (CENTRO),como eu faco pra sair do pirapora do bom jesus (jardim bom jesus) e ir pra barueri?
+824VP1,PIRAPORA DO BOM JESUS (PARQUE PAIOL),BARUERI (CENTRO),como eu faco pra chegar do parque paiol em pirapora do bom jesus?
+826,POA (TERMINAL RODOVIARIO PEDRO FAVA - CIDADE KEMEL),GUARULHOS (CENTRO),"oi, como eu faco pra chegar no terminal rodoviario pedro ava (cidade kemel) em guarulhos?"
+827,SANTANA DE PARNAIBA (TERMINAL RODOVIARIO DA FAZENDINHA),SAO PAULO (METRO PARAISO),"oi, como eu faco pra chegar em sao paulo saindo da fazendinha?"
+828,JANDIRA (JARDIM NOSSA SENHORA DE FATIMA),SANTANA DE PARNAIBA (TERMINAL RODOVIARIO ALPHAVILLE),"oi, como eu faco pra chegar de jardim nossa senhora de fatima ate o terminal rodoaviario alphaville?"
+829,ITAPECERICA DA SERRA (PARQUE PARAISO),TABOAO DA SERRA (CENTRO),"oi, como eu faco pra ir do parque paraiso ate o centro?"
+831,CARAPICUIBA (JARDIM PLANALTO),BARUERI (ALPHAVILLE),"oi, como eu faco pra chegar em barueri partindo do jardim planalto?"
+833,ITAPEVI (COHAB),SANTANA DE PARNAIBA (COLINAS DA ANHANGUERA),preciso saber como chegar de itapevi (cohab) em santana de paranaiba.
+834,TABOAO DA SERRA (JARDIM SAINT MORITZ),SAO PAULO (METRO CAMPO LIMPO),como eu faco pra ir de taboao da serra (jardim saint moritz) ate sao paulo (metro campo limpo)?
+835,SAO PAULO (METRO VILA SONIA),BARUERI (ALPHAVILLE/GREEN VALLEY),como eu faco pra chegar do metro vila sonia em barueri?
+836,SUZANO (JARDIM BOA VISTA),ITAQUAQUECETUBA ( ESTACAO CPTM ARACARE),"oi, como eu faco pra ir de jardim boa vista pra estacao capitanio araucaria?"
+838,SAO PAULO (METRO MORUMBI),BARUERI (ALPHAVILLE / GREEN VALLEY),"oi, como eu faco pra chegar do metro morumbi em barueri?"
+838EX1,SAO PAULO (METRO MORUMBI),BARUERI (ALPHAVILLE / GREEN VALLEY),"oi, como eu faco pra chegar do metro morumbi em barueri?"
+840,OSASCO (TERMINAL METROPOLITANO LUIZ BORTOLOSSO - KM 21),SAO PAULO (METRO BUTANTA),como eu faco pra chegar no metro butanaca saindo do terminal metropolitano luiz bortolo?
+841,EMBU DAS ARTES (JARDIM VALO VERDE),SAO PAULO (METRO VILA SONIA),"como eu faco pra ir de embu das artes ate a vila sonia, que fica em sao paulo?"
+842,COTIA (MIRANTE DA MATA),SAO PAULO (METRO MORUMBI),"oi, tudo bem? to em cotia (mirante da mata) e preciso saber como chego de sao paulo (metro morumbi)?"
+843,POA (JARDIM NOVA POA),SUZANO (ESTACAO CPTM SUZANO),"oi, como eu faco pra chegar do jardim nova poa ate suzano?"
+845,TABOAO DA SERRA (CONDOMINIO JOAO CANDIDO),SAO PAULO (METRO CAMPO LIMPO),"oi, como eu faco pra chegar em sao paulo saindo do taboa da serra?"
+850,OSASCO (TERMINAL METROPOLITANO LUIZ BORTOLOSSO - KM 21),SAO PAULO (LAPA),"oi, como eu faco pra chegar em sao paulo saindo do terminal metropolitano luz botelho?"
+850EX1,OSASCO (TERMINAL METROPOLITANO  LUIZ BORTOLOSSO - KM 21),SAO PAULO (LAPA),"como eu faco pra sair do terminal metropolitano luiz bortolosso, em osasco, e chegar em sao paulo?"
+852,FRANCISCO MORATO (CENTRO),SANTANA DE PARNAIBA (TERMINAL RODOVIARIO DA FAZENDINHA),como eu faco pra ir de francisco morato ate a santana de parnaiba?
+855,DIADEMA (TABOAO),SAO PAULO (JABAQUARA),"como eu faco pra ir de diadema ate sao paulo, sao pau?"
+900,SAO VICENTE (JOQUEI CLUB),SANTOS (CENTRO),"oi, como eu faco pra chegar de sao vicente (joquei club) em santos?"
+901,SAO VICENTE (VILA MARGARIDA),SANTOS (CENTRO),"oi, como eu faco pra chegar em santos partindo da vila margarida?"
+901BI1,SAO VICENTE (ESPLANADA DOS BARREIROS),SANTOS (CENTRO),"oi, como eu faco pra sair da avenida dos barreiros e chegar em santos?"
+902,SAO VICENTE (CONJUNTO TANCREDO NEVES),SANTOS (CENTRO),"oi, como eu faco pra chegar em santos partindo do conjunto tancredo neves?"
+903,SAO VICENTE (JAPUI),SANTOS (PRACA DOS ANDRADAS),"oi, como eu faco pra ir de sao paulo para santos dumont?"
+904,PRAIA GRANDE (TERMINAL RODOVIARIO E URBANO TUDE BASTOS),SANTOS (CENTRO),"oi, como eu faco pra chegar em santos, saindo da praia grande no terminal rodoviario e urbano de botbu?"
+905,PERUIBE (TERMINAL RODOVIARIO DE PERUIBE),SAO VICENTE (TERMINAL BARREIROS),como eu faco pra ir do terminal rodoviario de perube para o terminal barreiros?
+906,CUBATAO (FABRIL),SANTOS (PONTA DA PRAIA),"oi, como eu faco pra chegar em santos (fabril) saindo de cubatao (fabril)?"
+907,SAO VICENTE (CONJUNTO TANCREDO NEVES),SANTOS (CENTRO),"oi, como eu faco pra ir de sao vicente (conjunto tancredo neves) em santos para santos?"
+908,SAO VICENTE (PARQUE BITARU),SANTOS (PONTA DA PRAIA),como eu faco pra ir de sao vicente pra ponta da praia?
+909,GUARUJA (FERRY BOAT),CUBATAO (JARDIM CASQUEIRO),"oi, como eu faco pra chegar no jardim casqueiro saindo do ferry boat em guaraju?"
+910,PERUIBE (TERMINAL RODOVIARIO DE PERUIBE),SANTOS (TERMINAL RODOVIARIO DE SANTOS),como eu faco pra ir do terminal rodoviario de peruibe pra santos?
+911,PRAIA GRANDE (TERMINAL RODOVIARIO E URBANO TATICO FRANCISCO GOMES DA SILVA),CUBATAO (USIMINAS),como eu faco pra chegar de praia grande no cubatao?
+911DV1,PRAIA GRANDE (TERMINAL RODOVIARIO E URBANO TATICO FRANCISCO GOMES DA SILVA),CUBATAO (USIMINAS),"oi, como eu faco pra ir do terminal rodoviario e urbano tatico francisco gomes da silva ate cubatao?"
+912,PRAIA GRANDE (TERM. ROD. E URBANO TATICO FRANCISCO GOMES DA SILVA),CUBATAO (USIMINAS),"oi, preciso saber como chegar do term. rod. e urbano tecnico francisco gomes da silva ate cubatao."
+912BI1,PRAIA GRANDE (TERMINAL RODOVIARIO E URBANO TATICO FRANCISCO GOMES DA SILVA),CUBATAO (CENTRO),como eu faco pra ir da praia grande ate cubatao?
+912DV1,PRAIA GRANDE (TERM.ROD. E URBANO TATICO FRANCISCO GOMES DA SILVA),CUBATAO (USIMINAS),"oi, tudo bem? to na praia grande e preciso saber como chegar em cubatao."
+913,SAO VICENTE (PARQUE DAS BANDEIRAS GLEBA II),CUBATAO (USIMINAS),"oi, como eu faco pra ir do parque das bandeiras gleba ii ate cubatao?"
+914,SAO VICENTE (HUMAITA),CUBATAO (USIMINAS),como eu faco pra ir do centro de sao vicente (humaita) ate cubatao (usiminas)?
+915,SAO VICENTE (NAUTICA III),SANTOS (CANAL 4),"oi, como eu faco pra ir da nautica iii em sao paulo ate santos?"
+917,CUBATAO (USIMINAS),SANTOS (PONTA DA PRAIA),"oi, como eu faco pra chegar em santos (usiminas) saindo de cubatao?"
+918,CUBATAO (JARDIM  CARAGUATA),SANTOS (PONTA DA PRAIA),como eu faco pra chegar em santos saindo do jardim caraguata?
+919,CUBATAO (JARDIM NOVA REPUBLICA),SANTOS (PONTA DA PRAIA),como eu faco pra ir do jardim nova republica para ponta da praia?
+921,ITANHAEM (TERMINAL RODOVIARIO DE ITANHAEM),SANTOS (TERMINAL RODOVIARIO DE SANTOS),"oi, como eu faco pra pegar o onibus do terminal rodoviario de itanhaem e ir ate o terminal rodoviario de santos?"
+925,SAO VICENTE (NAUTICA III),SANTOS (CENTRO),como eu faco pra ir da sao vicente (nautica iii) em santos para santos?
+927,PRAIA GRANDE (JARDIM SAMAMBAIA),SANTOS (PONTA DA PRAIA),"como eu faco pra chegar em ponta da praia, saindo de praia grande no jardim samambaia?"
+928,SAO VICENTE (HUMAITA),PRAIA GRANDE (TERMINAL RODOVIARIO E URBANO TUDE BASTOS),"como eu faco pra ir de sao vicente (humaita) pra praia grande, hein?"
+929,BERTIOGA (RIVIERA DE SAO LOURENCO),GUARUJA (TERMINAL FERRY BOAT),"oi, como eu faco pra chegar em guaraju saindo da riviera de sao lourenco?"
+930,GUARUJA (FERRY BOAT),BERTIOGA (RIVIERA DE SAO LOURENCO),"oi, como eu faco pra chegar em bertioga saindo do ferryboat em guara?"
+931,PRAIA GRANDE (JARDIM SAMAMBAIA),SANTOS (PAQUETA),como eu faco pra ir de praia grande ate santos?
+932,SAO VICENTE (PARQUE DAS BANDEIRAS GLEBA II),SANTOS (PAQUETA),como eu faco pra ir do parque das bandeiras gleba ii pra santos?
+933,SAO VICENTE (HUMAITA),SANTOS (PAQUETA),"oi, como eu faco pra ir de sao vicente ate santos?"
+933BI1,SAO VICENTE (PARQUE CONTINENTAL),SANTOS (PAQUETA),"oi, como eu faco pra ir do parque continental pra pacotes?"
+933DV1,SAO VICENTE (HUMAITA),SANTOS (PAQUETA),"oi, como eu faco pra ir de sao vicente a santos?"
+934,PRAIA GRANDE (TERMINAL RODOVIARIO E URBANO TATICO FRANCISCO GOMES DA SILVA),SANTOS (PAQUETA),"oi, como eu faco pra ir do terminal rodoviario e urbano tatico gomnes para santos?"
+934EX1,PRAIA GRANDE (TERMINAL RODOVIARIO E URBANO TATICO FRANCISCO GOMES DA SILVA),SANTOS (PAQUETA),"oi, como eu faco pra chegar em santos partindo da praia grande?"
+936,CUBATAO (COTA 200),SANTOS (PONTA DA PRAIA),como eu faco pra ir de cubatao (cota 200) para santos?
+937,PRAIA GRANDE (TERM ROD. URB. TATICO FRANCISCO GOMES DA SILVA),SAO VICENTE (SAMARITA),"oi, como eu faco pra chegar no sao vicente saindo da praia grande?"
+938,CUBATAO (VILA ESPERANCA),SAO VICENTE (ITARARE),"oi, como eu faco pra chegar em sao vicente saindo da vila esperanca?"
+939,SAO VICENTE (PARQUE CONTINENTAL),SANTOS (PAQUETA),"oi, como eu faco pra chegar em santos partindo de sao vicente?"
+940,SAO VICENTE (HUMAITA),SANTOS (PONTA DA PRAIA),como eu faco pra ir de sao vicente pra ponta da praia?
+941,PRAIA GRANDE (JARDIM MELVI),SANTOS (CONJUNTO ATHIE JORGE CURY),como eu faco pra chegar em santos saindo de praia grande?
+942,SAO VICENTE (HUMAITA),SANTOS (PONTA DA PRAIA),"oi, como eu faco pra chegar em santos depois de humaita?"
+942VP1,SAO VICENTE (RIO BRANCO),SANTOS (PONTA DA PRAIA),como eu faco pra chegar em santos saindo de sao vicente?
+943,SAO VICENTE (PARQUE DAS BANDEIRAS GLEBA II),SANTOS (PONTA DA PRAIA),como eu faco pra pegar um onibus saindo de sao vicente e ir pra santos?
+944,SANTOS (JARDIM RADIO CLUBE),SANTOS (BOQUEIRAO),"oi, como eu faco pra chegar do jardim radio clube em santos?"
+945,SAO VICENTE (PARQUE DAS BANDEIRAS),CUBATAO (USIMINAS),"oi, como eu faco pra chegar do parque das bandeiras em cubatao?"
+947,SAO VICENTE (HUMAITA),SANTOS (PONTA DA PRAIA),como eu faco pra ir de sao vicente (humaita) em humaita pra ponta da praia?
+947VP1,SAO VICENTE (RIO BRANCO),SANTOS (PONTA DA PRAIA),"oi, como eu faco pra ir de sao vicente (rio branco) para santos?"
+948,SAO VICENTE (PARQUE DAS BANDEIRAS GLEBA II),SANTOS (PONTA DA PRAIA),como eu faco pra ir do parque das bandeiras gleba ii pra ponta da praia?
+949,GUARUJA (FERRY BOAT),SANTOS (CARUARA),"oi, tudo bem? to em guaruja e quero saber como ir de ferry boat para caruaru."
+949DV1,GUARUJA (FERRY BOAT),SANTOS (CARUARA),"oi, como eu faco pra sair do ferry boat em guaruje e chegar em caruaru?"
+950,SAO VICENTE (PARQUE DAS BANDEIRAS GLEBA II),CUBATAO (CENTRO),como eu faco pra chegar no cubatao a partir do parque das bandeiras gleba ii?
+951,GUARUJA (CENTRO),SANTOS (MONTE CABRAO),"oi, como eu faco pra chegar em santos saindo de guaraju?"
+952,SAO VICENTE (NAUTICA III),SANTOS (PONTA DA PRAIA),"oi, como eu faco pra ir de sao vicente (nautica iii) em santos?"
+953,SAO VICENTE (TERMINAL BARREIROS),SANTOS (TERMINAL PORTO),"oi, como eu faco pra chegar no terminal barreiros em santos?"
+954,CUBATAO (RESIDENCIAL VALE VERDE),SANTOS (PAQUETA),"oi, como eu faco pra chegar em pacotes saindo da residencial vale verde?"
+955,PERUIBE (TERMINAL RODOVIARIO DE PERUIBE),PRAIA GRANDE (TERMINAL RODOVIARIO E URBANO TATICO FRANCISCO GOMES DA SILVA),como eu faco pra ir do terminal rodoviario de perubie ate a praia grande?
+961,SANTOS (CARUARA),BERTIOGA (RIVIERA DE SAO LOURENCO),"oi, como eu faco pra chegar em bertoga saindo de caruaru?"
