@@ -32,8 +32,8 @@ if __name__ == "__main__":
             assistant = LlamaThinking(routes_data=routes_df)
             print('llama')
         else:
-            print("\nEscolhe 1 ou 2 seu cabaço")
-            time.sleep(2)
+            print("\nEscolha apenas 1 ou 2.\n")
+            time.sleep(1)
             os.system("clear")
             continue
         assistant.run()
