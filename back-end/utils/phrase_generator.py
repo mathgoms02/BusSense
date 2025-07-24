@@ -1,6 +1,7 @@
 from smart_agents.agent_db_generator import LlamaAgents
 import pandas as pd
 import requests
+from config import constants
 
 def fetch_routes(url: str) -> pd.DataFrame:
     response = requests.get(url)
@@ -14,7 +15,7 @@ def fetch_routes(url: str) -> pd.DataFrame:
         raise Exception(f"API Error: {response.status_code}")
 
 if __name__ == "__main__":
-    url = "http://localhost:8000/api/bus-route"
+    url = constants.REST_API_URL + "/bus-route"
     routes_df = fetch_routes(url)
 
     agent = LlamaAgents(routes_data=routes_df)
@@ -40,5 +41,5 @@ if __name__ == "__main__":
         print("\n")
 
     all_data = pd.DataFrame(all_data)
-    all_data.to_csv('llm_generated_routes_plus.csv', index=False)
+    all_data.to_csv(constants.DATA_FILE_PATH + 'llm_generated_routes_plus.csv', index=False)
     # routes_df.to_csv('llm_generated_routes_2.csv', index=False)

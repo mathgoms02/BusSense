@@ -3,13 +3,14 @@ import requests
 import re
 import json
 
-from model.route_embeddings import RouteEmbeddings
-from model.smart_agents.feedback_classifier_agent import FeedbackClassifierAgent
-from model.utils.logger import InteractionLogger
-from audio_capture.audio_capture import AudioCapture
-from audio_output.text_to_speach import TextTSpeech
+from audio.audio_capture import AudioCapture
+from audio.text_to_speach import TextTSpeech
+from model.agents.agent_feedback_classifier import FeedbackClassifierAgent
+from config import constants
+from utils.route_embeddings import RouteEmbeddings
+from utils.logger import InteractionLogger
 
-# FUCKING TODO:
+#TODO:
 # - [ ] Refatorar para usar uma máquina de estados
 # - [ ] Melhorar a lógica de feedback (retornar um "OK" ou "Obrigado" para o usuário)
 # - [ ] Estudar melhor ideia do Llama
@@ -27,7 +28,7 @@ class BusSenseAssistant:
         self.feedback_classifier = FeedbackClassifierAgent()
 
         # --- Componentes para interagir com o LLM (da sua classe Llama) ---
-        self.llm_url = 'http://127.0.0.1:8080/v1/chat/completions'
+        self.llm_url = constants.LLAMA_API_URL
 
         # --- MÁQUINA DE ESTADOS ---
         self.state = "AGUARDANDO_ROTA"
@@ -37,7 +38,7 @@ class BusSenseAssistant:
 
     def start(self):
             """ Inicia o loop de escuta do assistente. """
-            print("\n✅ Assistente pronto. Clique na tela (simulado) para falar.")
+            print("\nAssistente pronto. Clique na tela (simulado) para falar.")
             while True:
                 # Esta chamada simula o usuário tocando na tela e falando.
                 # Em um app real, isso seria um evento de clique.
@@ -55,7 +56,7 @@ class BusSenseAssistant:
             # Se estamos esperando uma rota, processamos o texto como uma nova solicitação.
             self._process_new_route_request(text)
 
-        #TODO: Adicionar modelo para verificar se o input é feedback
+        #TODO: Adicionar modelo para verificar se o input é feedback 9FEITO
         elif self.state == "AGUARDANDO_FEEDBACK":
             # Se acabamos de dar uma rota, o input é provavelmente um feedback.
             self._process_potential_feedback(text)
@@ -64,7 +65,7 @@ class BusSenseAssistant:
     def _process_new_route_request(self, text: str):
         """ Lógica para lidar com uma nova solicitação de rota. """
         # (Esta é a lógica principal da sua antiga classe LlamaThinking)
-        print("🔎 Interpretando como uma nova solicitação de rota...")
+        print("Interpretando como uma nova solicitação de rota...")
         log_data = {'user_query': text}
 
         # Extrai locais, busca embedding, gera prompt, etc.
@@ -78,7 +79,7 @@ class BusSenseAssistant:
 
         # Obtém a resposta do LLM
         response_text = self._call_llm(system_message, user_message)
-        print("🤖 Resposta do Assistente:", response_text)
+        print("Resposta do Assistente:", response_text)
         self.tts.text = response_text
         self.tts.convert_to_speech()
 
@@ -98,7 +99,7 @@ class BusSenseAssistant:
 
     def _process_potential_feedback(self, text: str):
         """ Lógica para lidar com um input que pode ser feedback. """
-        print("🤔 Interpretando como potencial feedback...")
+        print("Interpretando como potencial feedback...")
 
         # Usa o agente classificador para entender a intenção
         intent = self.feedback_classifier._classify_intent(text) # Usando o método interno que já criamos
@@ -139,7 +140,7 @@ class BusSenseAssistant:
         ]
 
         response = requests.post(self.llm_url, json={
-            "model": "ggml-org_gemma-3-1b-it-GGUF_gemma-3-1b-it-Q4_K_M.gguf",
+            "model": constants.LLAMA_MODEL_NAME,
             "temperature": 0.3,
             "max_tokens": 100,
             "messages": messages,
@@ -165,19 +166,19 @@ class BusSenseAssistant:
         json_data = filtered_data.to_json(orient='records')
 
         prompt = f"""
-        You are an expert public transport assistant. Based on the following bus routes in JSON format, 
-        suggest the best one to the user. Your task is to identify the best route and respond with a concise sentence.
-        Use 'Linha' for the RouteCode, 'Ponto Inicial' for RouteStart, and 'Ponto Final' for RouteEnd.
-        For example: "A melhor rota é a Linha 708, que vai de Monte Mor até Campinas."
-        Do not include any backticks or additional explanations. Only return the final sentence.
+            You are an expert public transport assistant. Based on the following bus routes in JSON format,
+            suggest the best one to the user. Your task is to identify the best route and respond with a concise sentence.
+            Use 'Linha' for the RouteCode, 'Ponto Inicial' for RouteStart, and 'Ponto Final' for RouteEnd.
+            For example: "A melhor rota é a Linha 708, que vai de Monte Mor até Campinas."
+            Do not include any backticks or additional explanations. Only return the final sentence.
 
-        {json_data}
+            {json_data}
         """
         return prompt
 
     def _call_llm(self, prompt, user_text):
         form = {
-            "model": "ggml-org_gemma-3-1b-it-GGUF_gemma-3-1b-it-Q4_K_M.gguf",
+            "model": constants.LLAMA_MODEL_NAME,
             "temperature": 0.7,
             "max_tokens": 2048,
             "seed": 42,
@@ -208,5 +209,5 @@ class BusSenseAssistant:
 
 # --- Para executar o programa ---
 if __name__ == "__main__":
-    assistant = BusSenseAssistant(routes_data_path='model/data/llm_generated_routes.csv')
+    assistant = BusSenseAssistant(routes_data_path=constants.DATA_FILE_PATH + 'llm_generated_routes.csv')
     assistant.start()

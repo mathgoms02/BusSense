@@ -4,18 +4,19 @@ import re
 import requests
 import unicodedata
 
-from audio_capture.audio_capture import AudioCapture
-from audio_output.text_to_speach import TextTSpeech
-from model.route_embeddings import RouteEmbeddings
-from model.utils.logger import InteractionLogger
-from model.smart_agents.feedback_classifier_agent import FeedbackClassifierAgent
+from audio.audio_capture import AudioCapture
+from audio.text_to_speach import TextTSpeech
+from config import constants
+from utils.route_embeddings import RouteEmbeddings
+from utils.logger import InteractionLogger
+from agents.agent_feedback_classifier import FeedbackClassifierAgent
 
 class LlamaThinking:
     def __init__(self, routes_data: pd.DataFrame):
         self.recorder = AudioCapture()
         self.routes_data = routes_data
         self.tts = TextTSpeech("")
-        self.url = 'http://127.0.0.1:8080/v1/chat/completions'
+        self.url = constants.LLAMA_API_URL
 
         # Otimização: Inicializando o buscador e o Logger aqui
         self.route_search = RouteEmbeddings(self.routes_data)
@@ -41,13 +42,13 @@ class LlamaThinking:
         json_data = filtered_data.to_json(orient='records')
 
         prompt = f"""
-        You are an expert public transport assistant. Based on the following bus routes in JSON format, 
-        suggest the best one to the user. Your task is to identify the best route and respond with a concise sentence.
-        Use 'Linha' for the RouteCode, 'Ponto Inicial' for RouteStart, and 'Ponto Final' for RouteEnd.
-        For example: "A melhor rota é a Linha 708, que vai de Monte Mor até Campinas."
-        Do not include any backticks or additional explanations. Only return the final sentence.
+            You are an expert public transport assistant. Based on the following bus routes in JSON format,
+            suggest the best one to the user. Your task is to identify the best route and respond with a concise sentence.
+            Use 'Linha' for the RouteCode, 'Ponto Inicial' for RouteStart, and 'Ponto Final' for RouteEnd.
+            For example: "A melhor rota é a Linha 708, que vai de Monte Mor até Campinas."
+            Do not include any backticks or additional explanations. Only return the final sentence.
 
-        {json_data}
+            {json_data}
         """
         return prompt
 
@@ -73,7 +74,7 @@ class LlamaThinking:
         ]
 
         response = requests.post(self.url, json={
-            "model": "ggml-org_gemma-3-1b-it-GGUF_gemma-3-1b-it-Q4_K_M.gguf",
+            "model": constants.LLAMA_MODEL_NAME,
             "temperature": 0.3,
             "max_tokens": 100,
             "messages": messages,
@@ -95,7 +96,7 @@ class LlamaThinking:
 
     def route_requisition_llama(self, system_message, user_message):
         form = {
-            "model": "ggml-org_gemma-3-1b-it-GGUF_gemma-3-1b-it-Q4_K_M.gguf",
+            "model": constants.LLAMA_MODEL_NAME,
             "temperature": 0.7,
             "max_tokens": 2048,
             "seed": 42,

@@ -2,6 +2,7 @@ from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
 import pandas as pd
+from config import constants
 
 class RouteEmbeddings:
     def __init__(self, dataframe: pd.DataFrame):
@@ -10,7 +11,7 @@ class RouteEmbeddings:
             lambda row: f"{row['RouteStart']} até {row['RouteEnd']}", axis=1
         )
 
-        self.model = SentenceTransformer('all-MiniLM-L6-v2')
+        self.model = SentenceTransformer(constants.EMBEDDING_MODEL_NAME)
         embeddings = self.model.encode(self.df['route_text'].tolist(), show_progress_bar=True)
 
         dim = embeddings.shape[1]

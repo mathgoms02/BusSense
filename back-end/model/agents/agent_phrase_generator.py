@@ -4,10 +4,11 @@ import pandas as pd
 import re
 import requests
 import unicodedata
+from config import constants
 
 class LlamaAgents:
     def __init__(self, routes_data: pd.DataFrame):
-        self.url = 'http://127.0.0.1:8080/v1/chat/completions'
+        self.url = constants.LLAMA_API_URL
         self.prompt = f"""
         Você é um gerador de frases naturais para simular pessoas perguntando como ir de um local para outro.
 
@@ -62,7 +63,7 @@ class LlamaAgents:
         ]
 
         response = requests.post(self.url, json={
-            "model": "ggml-org_gemma-3-1b-it-GGUF_gemma-3-1b-it-Q4_K_M.gguf",
+            "model": constants.LLAMA_MODEL_NAME,
             "temperature": 0.8,
             "max_tokens": 100,
             "messages": messages,

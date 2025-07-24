@@ -2,10 +2,11 @@ import pandas as pd
 import os
 from datetime import datetime
 import uuid
+from config import constants
 
 class InteractionLogger:
     """ Gerencia o registro de interações do usuário em um arquivo CSV. """
-    def __init__(self, log_file_path: str = 'logs/user_interactions.csv'):
+    def __init__(self, log_file_path: str = constants.LOG_FILE_PATH + 'user_interactions.csv'):
         """
         Inicializa o logger e cria o arquivo de log com cabeçalho, se não existir.
 

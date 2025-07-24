@@ -1,9 +1,10 @@
 import pandas as pd
 import os
+from config import constants
 
 class FeedbackAgent:
     """ Registrar o feedback do usuário nos logs """
-    def __init__(self, log_file_path: str = 'logs/user_interactions.csv'):
+    def __init__(self, log_file_path: str = constants.LOG_FILE_PATH + 'user_interactions.csv'):
         self.log_file_path = log_file_path
         if not os.path.exists(self.log_file_path):
             raise FileNotFoundError(
