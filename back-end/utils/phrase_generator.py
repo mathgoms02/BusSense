@@ -1,4 +1,4 @@
-from smart_agents.agent_db_generator import LlamaAgents
+from model.agents import LlamaAgents
 import pandas as pd
 import requests
 from config import constants

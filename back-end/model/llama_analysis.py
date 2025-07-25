@@ -4,12 +4,10 @@ import re
 import requests
 import unicodedata
 
-from audio.audio_capture import AudioCapture
-from audio.text_to_speach import TextTSpeech
+from audio import AudioCapture, TextTSpeech
 from config import constants
-from utils.route_embeddings import RouteEmbeddings
-from utils.logger import InteractionLogger
-from agents.agent_feedback_classifier import FeedbackClassifierAgent
+from utils import RouteEmbeddings, InteractionLogger
+from model.agents import FeedbackClassifierAgent
 
 class LlamaThinking:
     def __init__(self, routes_data: pd.DataFrame):

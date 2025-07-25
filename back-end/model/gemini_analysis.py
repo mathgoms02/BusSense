@@ -1,8 +1,7 @@
 import os
 import pandas as pd
 import google.generativeai as genai
-from audio.audio_capture import AudioCapture
-from audio.text_to_speach import TextTSpeech
+from audio import AudioCapture, TextTSpeech
 from config import constants
 
 class GeminiThinking:

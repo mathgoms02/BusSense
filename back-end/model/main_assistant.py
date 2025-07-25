@@ -3,12 +3,10 @@ import requests
 import re
 import json
 
-from audio.audio_capture import AudioCapture
-from audio.text_to_speach import TextTSpeech
-from model.agents.agent_feedback_classifier import FeedbackClassifierAgent
+from audio import TextTSpeech, AudioCapture
+from model.agents import FeedbackClassifierAgent
 from config import constants
-from utils.route_embeddings import RouteEmbeddings
-from utils.logger import InteractionLogger
+from utils import RouteEmbeddings, InteractionLogger
 
 #TODO:
 # - [ ] Refatorar para usar uma máquina de estados
