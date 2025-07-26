@@ -51,7 +51,6 @@ class LlamaThinking:
         return prompt
 
 
-
     def extract_location_from_text(self, user_text):
         messages = [
             {
@@ -90,8 +89,6 @@ class LlamaThinking:
         return locations
 
 
-
-
     def route_requisition_llama(self, system_message, user_message):
         form = {
             "model": constants.LLAMA_MODEL_NAME,
@@ -113,11 +110,9 @@ class LlamaThinking:
         return json_list['choices'][0]['message']['content']
 
 
-
     def run(self):
         # user_query = self.recorder.listen()
-        # user_query = "Sou do Jardim Amanda e quero ir para Campinas"
-        user_query = "Sou de Monte Mor e quero ir para Campinas"
+        user_query = "Sou de Monte Mor e quero ir para Campinas"    # Simulação de entrada de usuário
 
         if not user_query:
             print("Nenhum audio detectado,")
@@ -161,6 +156,3 @@ class LlamaThinking:
             self.feedback_classifier.process_feedback_text(interaction_id, feedback_text)
         else:
             print("Nenhum feedback fornecido ou interação ID não encontrado.")
-
-        # self.tts = TextTSpeech(response_text)
-        # self.tts.convert_to_speech()

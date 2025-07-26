@@ -10,9 +10,10 @@ from utils import RouteEmbeddings, InteractionLogger
 
 #TODO:
 # - [ ] Refatorar para usar uma máquina de estados
-# - [ ] Melhorar a lógica de feedback (retornar um "OK" ou "Obrigado" para o usuário)
+# - [X] Melhorar a lógica de feedback (retornar um "OK" ou "Obrigado" para o usuário)
 # - [ ] Estudar melhor ideia do Llama
 # - [ ] Mesclar script com o LlamaThinking
+# - [ ] Criar Client para o Assistente para tools
 
 class BusSenseAssistant:
     def __init__(self, routes_data_path: str):
@@ -25,10 +26,12 @@ class BusSenseAssistant:
         self.route_searcher = RouteEmbeddings(routes_df)
         self.feedback_classifier = FeedbackClassifierAgent()
 
-        # --- Componentes para interagir com o LLM (da sua classe Llama) ---
+        # Interagindo com o modelo Llama via Requests
         self.llm_url = constants.LLAMA_API_URL
 
         # --- MÁQUINA DE ESTADOS ---
+        #TODO:  Adicionar um self.state inicial para controlar o fluxo
+        #       Estado esse que vai separar se é uma interação normal com o usuário, se é uma solicitação de rota ou se é um feedback.
         self.state = "AGUARDANDO_ROTA"
         self.last_interaction_id = None
         print(f"Estado inicial: {self.state}")
@@ -38,8 +41,7 @@ class BusSenseAssistant:
             """ Inicia o loop de escuta do assistente. """
             print("\nAssistente pronto. Clique na tela (simulado) para falar.")
             while True:
-                # Esta chamada simula o usuário tocando na tela e falando.
-                # Em um app real, isso seria um evento de clique.
+                # Simulando toque do usuário na tela para iniciar a interação
                 transcribed_text = self.recorder.listen()
 
                 if transcribed_text:
@@ -50,11 +52,10 @@ class BusSenseAssistant:
         """ Ponto de entrada central que decide o que fazer com base no estado. """
         print(f"\n--- Processando Input no Estado: {self.state} ---")
 
+        #TODO: Adicionar modelo genérico de acordo com o self.state primário ou "Anfitrião"
         if self.state == "AGUARDANDO_ROTA":
-            # Se estamos esperando uma rota, processamos o texto como uma nova solicitação.
             self._process_new_route_request(text)
 
-        #TODO: Adicionar modelo para verificar se o input é feedback 9FEITO
         elif self.state == "AGUARDANDO_FEEDBACK":
             # Se acabamos de dar uma rota, o input é provavelmente um feedback.
             self._process_potential_feedback(text)
@@ -62,16 +63,17 @@ class BusSenseAssistant:
 
     def _process_new_route_request(self, text: str):
         """ Lógica para lidar com uma nova solicitação de rota. """
-        # (Esta é a lógica principal da sua antiga classe LlamaThinking)
         print("Interpretando como uma nova solicitação de rota...")
         log_data = {'user_query': text}
 
-        # Extrai locais, busca embedding, gera prompt, etc.
-        # ... (código de extração e busca) ...
+        # Extrai origin e destination pela query
         locations = self._extract_location_from_text(text)
+        # Filtra no banco pela origin e destination
         filtered_data, _ = self.route_searcher.search(locations['origin'], locations['destination'])
+        # Gera o prompt para o modelo Llama
         prompt = self._generate_route_prompt(filtered_data)
 
+        # Padroniza as mensagens para o LLM
         system_message = self.create_message(prompt, 'system')
         user_message = self.create_message(text, 'user')
 
@@ -85,7 +87,8 @@ class BusSenseAssistant:
         log_data['assistant_response'] = response_text
         self.last_interaction_id = self.logger.log(log_data)
 
-        # *** MUDANÇA DE ESTADO CRUCIAL ***
+        #TODO: Voltar para estado anfitrião
+        # *** MUDANÇA DE ESTADO "CRUCIAL" ***
         self.state = "AGUARDANDO_FEEDBACK"
         print(f"Estado alterado para: {self.state}. Aguardando feedback para a interação {self.last_interaction_id}.")
 
@@ -100,25 +103,29 @@ class BusSenseAssistant:
         print("Interpretando como potencial feedback...")
 
         # Usa o agente classificador para entender a intenção
-        intent = self.feedback_classifier._classify_intent(text) # Usando o método interno que já criamos
+        intent = self.feedback_classifier._classify_intent(text) # Classifica por palavras-chave
         print(f"Intenção detectada: {intent}")
 
         if intent == "nova_solicitacao":
             # O usuário ignorou o contexto de feedback e fez uma nova pergunta.
             print("O usuário fez uma nova solicitação. Resetando o estado.")
             self.state = "AGUARDANDO_ROTA"
-            self.handle_user_input(text) # Processa o mesmo texto novamente, mas no novo estado.
+            self.handle_user_input(text)
         else:
             # É um feedback! Processa e volta ao estado inicial.
             if self.last_interaction_id:
                 self.feedback_classifier._handle_intent(self.last_interaction_id, intent, text)
 
-            # *** MUDANÇA DE ESTADO CRUCIAL ***
+            #TODO: Voltar para estado anfitrião
+            # *** MUDANÇA DE ESTADO "CRUCIAL" ***
             self.state = "AGUARDANDO_ROTA"
+            self.tts.text = f"Feedback processado."
+            self.tts.convert_to_speech()
             print(f"Feedback processado. Estado alterado para: {self.state}.")
 
-    # --- Métodos de Suporte (extraídos da sua classe Llama) ---
+
     def _extract_location_from_text(self, text):
+        """ Extrai a origem e o destino de uma frase do usuário usando o modelo Llama. """
         messages = [
             {
                 "role": "system",
@@ -155,6 +162,7 @@ class BusSenseAssistant:
 
         return locations
 
+
     def _generate_route_prompt(self, filtered_data):
         """ Gera o prompt para o modelo Llama com as rotas filtradas """
 
@@ -174,7 +182,9 @@ class BusSenseAssistant:
         """
         return prompt
 
+
     def _call_llm(self, prompt, user_text):
+        """ Faz a chamada ao modelo Llama (via requests) com o prompt e o texto do usuário. """
         form = {
             "model": constants.LLAMA_MODEL_NAME,
             "temperature": 0.7,
@@ -194,18 +204,7 @@ class BusSenseAssistant:
 
         return json_list['choices'][0]['message']['content']
 
-    # def fetch_routes(url: str) -> pd.DataFrame:
-    #     response = requests.get(url)
-    #     if response.status_code == 200:
-    #         data = response.json()
-    #         df = pd.DataFrame(data)
-    #         df = df[['route_short_name', 'route_name_start', 'route_name_end']]
-    #         df.columns = ['RouteCode', 'RouteStart', 'RouteEnd']
-    #         return df
-    #     else:
-    #         raise Exception(f"API Error: {response.status_code}")
 
-# --- Para executar o programa ---
 if __name__ == "__main__":
     assistant = BusSenseAssistant(routes_data_path=constants.DATA_FILE_PATH + 'llm_generated_routes.csv')
     assistant.start()
