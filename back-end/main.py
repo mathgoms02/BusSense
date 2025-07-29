@@ -15,14 +15,12 @@ if __name__ == "__main__":
     routes_df = get_routes.fetch_routes()
 
     while True:
-        # assistant_choose = input(
-        #     "Choose the model:\n"
-        #     "  1 - Gemini\n"
-        #     "  2 - Llama\n"
-        #     "Enter your choice (1 or 2): "
-        # )
-
-        assistant_choose = "3"
+        assistant_choose = input(
+            "Choose the model:\n"
+            "  1 - Gemini\n"
+            "  2 - Llama\n"
+            "Enter your choice (1 or 2): "
+        )
 
         if assistant_choose == "1":
             print('gemini')
