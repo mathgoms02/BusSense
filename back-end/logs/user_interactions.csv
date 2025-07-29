@@ -17,3 +17,5 @@ timestamp,interaction_id,user_query,extracted_origin,extracted_destination,sugge
 ,7377126f-0f1a-4111-9af4-6eea649d5418,céu de Hortolândia quero ir para,,,,,"The best route is the Linha 746, which goes from Hortolândia to Campinas.",feedback_positivo_concluido: obrigado
 ,8fa5f559-e36c-4f1d-a729-11cb57ec08c8,obrigado obrigado,,,,,"“A melhor rota é a Linha 487, que vai de Monte Mor até Santo André.”",
 ,46b8d221-1c61-4cb4-ba4d-109a26a65f65,lalala,,,,,"The best route is the Linha 487, which goes from MAUÁ to Santo André.",
+,e1ddf92d-3de0-4c5d-a406-ca8276e42c72,céu de Hortolândia quero ir para,,,,,"The best route is the Linha 746, which goes from Hortolândia to Campinas.",feedback_generico: Olá tudo bem
+,d8b19ba9-1c08-4f90-9ca7-e4089209e6e2,sou de Hortolândia quero ir para,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campinas.",feedback_positivo_concluido: Muito obrigado
