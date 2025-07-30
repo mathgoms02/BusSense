@@ -1,6 +1,8 @@
-import pandas as pd
 import os
+import pandas as pd
+
 from config import constants
+
 
 class FeedbackAgent:
     """ Registrar o feedback do usuário nos logs """

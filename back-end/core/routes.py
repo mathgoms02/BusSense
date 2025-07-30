@@ -1,10 +1,11 @@
-import requests
 import pandas as pd
+import requests
 
 
 class RouteFetcher:
     def __init__(self, url: str):
         self.url = url
+
 
     def fetch_routes(self) -> pd.DataFrame:
         response = requests.get(self.url)

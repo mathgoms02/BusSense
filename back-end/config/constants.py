@@ -1,6 +1,5 @@
 # Model Names
 LLAMA_MODEL_NAME = "ggml-org_gemma-3-1b-it-GGUF_gemma-3-1b-it-Q4_K_M.gguf"
-GEMINI_MODEL_NAME = "gemini-1.5-flash"
 EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
 
 # APIs

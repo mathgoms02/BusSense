@@ -1,6 +1,8 @@
-import pandas as pd
 import os
+import pandas as pd
+
 from config import constants
+
 
 class FeedbackClassifierAgent:
     """ ANalisa se o audio é um feedback se esta solicitando uma rota """
@@ -54,7 +56,7 @@ class FeedbackClassifierAgent:
                 return
 
             if intent == "nova_solicitacao":
-                print(f"🔄 Nova solicitação detectada: '{feedback_text}'.")
+                print(f"Nova solicitação detectada: '{feedback_text}'.")
                 # Aqui sinalizamos que uma nova busca deve ser iniciada.
                 # O LlamaThinking tratará disso.
             else:

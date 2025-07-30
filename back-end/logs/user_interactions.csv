@@ -19,3 +19,15 @@ timestamp,interaction_id,user_query,extracted_origin,extracted_destination,sugge
 ,46b8d221-1c61-4cb4-ba4d-109a26a65f65,lalala,,,,,"The best route is the Linha 487, which goes from MAUÁ to Santo André.",
 ,e1ddf92d-3de0-4c5d-a406-ca8276e42c72,céu de Hortolândia quero ir para,,,,,"The best route is the Linha 746, which goes from Hortolândia to Campinas.",feedback_generico: Olá tudo bem
 ,d8b19ba9-1c08-4f90-9ca7-e4089209e6e2,sou de Hortolândia quero ir para,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campinas.",feedback_positivo_concluido: Muito obrigado
+,d1cdbb13-e597-43e3-b0a6-ebe32d01b11d,,,,,,,
+,b95cfeb3-430f-48b3-bea9-b1fd7e034142,,,,,,,
+,5ebf0b54-da50-468e-b08f-dc5cc9fe0078,,,,,,,
+,4fdd8f32-8370-45d4-8318-1aba34db1e03,,,,,,,
+,1a5e3bd2-33cc-48da-8c3c-1afa9d08b626,,,,,,,
+,1463c8dd-e47a-426e-a049-1107e8947c7d,,,,,,,
+,5cf3ed16-5486-4b1e-b3d9-453db9b13813,sou no Jardim Amanda e quero ir para Campinas,,,,,"A melhor rota é a Linha 652EX2, que vai de Jardim Amanda até Campinas.",feedback_generico: coxa
+,0358e223-7d29-4de6-a3d0-5483618ad7ce,você vai pegar,,,,,"A melhor rota é a Linha 487, que vai de Monte Mor até Santo André.",
+,4e1a4aa3-3dff-4822-9d7f-c10f5546a474,eu tô em Hortolândia eu queria ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",feedback_generico: acho que não vai para Campos do Jordão
+,b9b51a76-36d5-4038-ab7f-beceb39a8633,sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",
+,73abeb13-cce0-497b-8960-8f7afe630958,sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",
+,f9c2f855-7601-4f41-beb5-b347938fa0b3,sou de Hortolândia quero ir para,,,,,"A melhor rota é a Linha 746, que vai de Hortolandaia ao Campinas.",feedback_generico: abrir a
