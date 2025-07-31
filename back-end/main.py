@@ -1,7 +1,4 @@
 from dotenv import load_dotenv
-import os
-import pandas as pd
-import time
 
 from config import constants
 from core import RouteFetcher
@@ -10,6 +7,7 @@ from model import BusSenseAssistant
 #TODO:
 # [ ] - Verificar resultados do modelo e melhora-los
 # [ ] - Adicionar os itens restantes no logs/user_interactions.csv pelo script
+# [ ] - Melhorar o output de audio
 
 if __name__ == "__main__":
     load_dotenv()
