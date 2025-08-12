@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     
     # My apps
     'bus_sense_tool',
+    'core',
     'rest_framework',
     'rest_framework_mongoengine',
 ]

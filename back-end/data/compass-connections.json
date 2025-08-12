@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "6b9807df-83fc-42d2-94bb-b4590c907cc2",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1755026899434"
+        }
+      },
+      "favorite": {
+        "name": "BusSense",
+        "color": "color5"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
