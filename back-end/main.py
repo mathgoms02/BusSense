@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 from config import constants
 from core import RouteFetcher
 from model import BusSenseAssistant
+from model import metrics
 
 #TODO:
 # [ ] - Verificar resultados do modelo e melhora-los
@@ -17,3 +18,7 @@ if __name__ == "__main__":
 
     assistant = BusSenseAssistant(routes_data_path=constants.DATA_FILE_PATH + 'llm_generated_routes.csv')
     assistant.start()
+
+    # metric = metrics.ModelEvaluator("/home/matheusg/Documents/UNASP/BusSense/back-end/data/db_metrics.csv")
+
+    # metric.run_full_evaluation()

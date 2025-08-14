@@ -1,6 +1,5 @@
 import json
 import pandas as pd
-import requests
 import re
 
 from audio import TextTSpeech, AudioCapture
@@ -42,6 +41,9 @@ class BusSenseAssistant:
             while True:
                 # Simulando toque do usuário na tela para iniciar a interação
                 transcribed_text = self.recorder.listen()
+                transcribed_text = "Sou de Hortolândia quero ir para Campinas"
+
+                print(f"[DEBUG]: Rota solicitada: {transcribed_text}")
 
                 if transcribed_text:
                     self.state.handle_user_input(transcribed_text)

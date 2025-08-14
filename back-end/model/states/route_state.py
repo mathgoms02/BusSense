@@ -19,6 +19,8 @@ class RouteState(State):
         # Obtém a resposta do LLM
         response_text = self.assistant.llm_client.chat_completion(system_prompt=prompt, user_prompt=text)
 
+        print(f"[DEBUG]: IA Output: {response_text}")
+
         self.assistant.tts.text = response_text
         self.assistant.tts.convert_to_speech()
 
