@@ -22,7 +22,6 @@ isort==5.13.2
 kombu==5.5.3
 lazy-object-proxy==1.11.0
 msgpack==1.1.0
-mysqlclient==2.0.3
 numpy==2.2.6
 oauthlib==3.2.2
 packaging==21.0

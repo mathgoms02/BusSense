@@ -1,0 +1,44 @@
+timestamp,interaction_id,user_query,extracted_origin,extracted_destination,suggested_route_code,suggestion_confidence,assistant_response,user_feedback
+,,Sou de Monte Mor e quero ir para Campinas,Sou de Monte,Campinas,709.0,0.579628,,
+,,Sou de Monte Mor e quero ir para Campinas,Sou de Monte,Campinas,709.0,0.579628,,
+,,Sou de Monte Mor e quero ir para Campinas,Sou de Monte,Campinas,,,"A melhor rota é a Linha 709, que vai de Monte Mor até Campinas.",
+,,show de Hortolândia quero ir para,,,,,"Desculpe, não consegui entender a solicitação. Tente novamente com menos detalhes.",
+,,tá eu eu todo mundo sou de Hortolândia quero ir para,,,,,"Desculpe, não consegui entender a solicitação. Tente novamente com menos detalhes.",
+,,Hortolândia senhor de Hortolândia quero ir para,,,,,"Desculpe, não consegui entender a solicitação. Tente novamente com menos detalhes.",
+,,estou em Hortolândia quero ir para Campinas,,,,,"Desculpe, não consegui entender a solicitação. Tente novamente com menos detalhes.",
+,,Hortolândia Campinas,,,,,"Desculpe, não consegui entender a solicitação. Tente novamente com menos detalhes.",
+,,o Gusttavo Lima aí sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campinas.",
+,,assistir o filme do Five nights freddy's,,,,,"“A melhor rota é a Linha 1, que vai de São Paulo até Pinheiral.”",
+,,meu ônibus atrasou,,,,,"The best route is the Linha 51, which goes from DIADEMA (VILA SAO JOSE) to SAUDE in São Paulo.",
+,,obrigado obrigado obrigado obrigado obrigado obrigado obrigado obrigado,,,,,"The best route is the Linha 487, which connects Maughan to Santo Andre.",
+,5ff3bf43-d4b5-4564-9780-06e9ca97ca06,estou de Hortolândia quero ir para,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campinas.",feedback_positivo_concluido: obrigado
+,ff6a320f-0581-43c0-b106-901d553a2b2f,cheguei no meu ponto muito obrigado,,,,,"A melhor rota é a Linha 708, que vai de Monte Mor até Campinas.",feedback_problema_viagem: meu ônibus atrasou
+,658e94b5-47db-4592-afc8-505439f1970a,meu ônibus atrasou,,,,,"The best route is the Linha 51, which goes from DIADEMA (VILA SAO JOSE) to SAUDE in São Paulo.",
+,7377126f-0f1a-4111-9af4-6eea649d5418,céu de Hortolândia quero ir para,,,,,"The best route is the Linha 746, which goes from Hortolândia to Campinas.",feedback_positivo_concluido: obrigado
+,8fa5f559-e36c-4f1d-a729-11cb57ec08c8,obrigado obrigado,,,,,"“A melhor rota é a Linha 487, que vai de Monte Mor até Santo André.”",
+,46b8d221-1c61-4cb4-ba4d-109a26a65f65,lalala,,,,,"The best route is the Linha 487, which goes from MAUÁ to Santo André.",
+,e1ddf92d-3de0-4c5d-a406-ca8276e42c72,céu de Hortolândia quero ir para,,,,,"The best route is the Linha 746, which goes from Hortolândia to Campinas.",feedback_generico: Olá tudo bem
+,d8b19ba9-1c08-4f90-9ca7-e4089209e6e2,sou de Hortolândia quero ir para,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campinas.",feedback_positivo_concluido: Muito obrigado
+,d1cdbb13-e597-43e3-b0a6-ebe32d01b11d,,,,,,,
+,b95cfeb3-430f-48b3-bea9-b1fd7e034142,,,,,,,
+,5ebf0b54-da50-468e-b08f-dc5cc9fe0078,,,,,,,
+,4fdd8f32-8370-45d4-8318-1aba34db1e03,,,,,,,
+,1a5e3bd2-33cc-48da-8c3c-1afa9d08b626,,,,,,,
+,1463c8dd-e47a-426e-a049-1107e8947c7d,,,,,,,
+,5cf3ed16-5486-4b1e-b3d9-453db9b13813,sou no Jardim Amanda e quero ir para Campinas,,,,,"A melhor rota é a Linha 652EX2, que vai de Jardim Amanda até Campinas.",feedback_generico: coxa
+,0358e223-7d29-4de6-a3d0-5483618ad7ce,você vai pegar,,,,,"A melhor rota é a Linha 487, que vai de Monte Mor até Santo André.",
+,4e1a4aa3-3dff-4822-9d7f-c10f5546a474,eu tô em Hortolândia eu queria ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",feedback_generico: acho que não vai para Campos do Jordão
+,b9b51a76-36d5-4038-ab7f-beceb39a8633,sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",
+,73abeb13-cce0-497b-8960-8f7afe630958,sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",
+,f9c2f855-7601-4f41-beb5-b347938fa0b3,sou de Hortolândia quero ir para,,,,,"A melhor rota é a Linha 746, que vai de Hortolandaia ao Campinas.",feedback_generico: abrir a
+,e391983a-0774-43e6-b32e-0968e176a47c,Sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",
+,02ff7f90-b490-4d1a-b07c-5e7d62bc216e,Sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",
+,5830273d-9cd3-4477-bda7-8464ef2b1f7f,Sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",
+,14a2b937-fa19-4fdc-8cf0-f3f6789c3f43,Sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",
+,a0bd825a-142f-4223-a05c-5e7ed64fd613,Sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",
+,0d7bd24e-1782-4954-a771-994d5f94a920,Sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",
+,57b8c8a8-ad80-4903-b6a4-8644578c08d3,Sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",
+,c8ad573b-60a8-4d4a-b74d-e3c942177765,Sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",
+,e787d736-b80d-42fb-a895-ee5826ff130b,Sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",
+,abd6a431-5e7a-4cc3-9928-a20d8759b040,Sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",
+,f7ee5344-f8e8-459f-aeb9-16696b117e80,Sou de Hortolândia quero ir para Campinas,,,,,"A melhor rota é a Linha 746, que vai de Hortolândia até Campos do Jordão.",

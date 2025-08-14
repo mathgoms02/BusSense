@@ -1,0 +1,613 @@
+text,expected_intent,expected_origin,expected_destination
+"Olá",conversacao_geral,,
+"Bom dia, tudo bem?",conversacao_geral,,
+"E aí, BusSense",conversacao_geral,,
+"Oi",conversacao_geral,,
+"Boa tarde",conversacao_geral,,
+"Boa noite",conversacao_geral,,
+"Obrigado",conversacao_geral,,
+"Valeu pela ajuda!",conversacao_geral,,
+"Muito obrigado!",conversacao_geral,,
+"Tchau",conversacao_geral,,
+"Até mais",conversacao_geral,,
+"Quem é você?",conversacao_geral,,
+"Como você funciona?",conversacao_geral,,
+"Qual o seu nome?",conversacao_geral,,
+"Adorei o aplicativo, muito bom!",feedback,,
+"Esse app é muito útil, parabéns.",feedback,,
+"Funcionou perfeitamente, obrigado.",feedback,,
+"Obrigado, a informação estava correta.",feedback,,
+"O motorista foi muito educado.",feedback,,
+"O app travou e tive que reiniciar.",feedback,,
+"A informação da rota estava errada.",feedback,,
+"O motorista não parou no ponto.",feedback,,
+"O ônibus está muito atrasado.",feedback,,
+"Não consigo ouvir a resposta direito.",feedback,,
+"O serviço hoje está péssimo.",feedback,,
+"Poderia ser melhor.",feedback,,
+"Qual o ônibus para ir de Campinas até Valinhos?",solicitar_rota,Campinas,Valinhos
+"como eu chego em Hortolândia saindo de Sumaré?",solicitar_rota,Sumaré,Hortolândia
+"Itinerário de Monte Mor para Paulínia",solicitar_rota,Monte Mor,Paulínia
+"Me mostra a rota de Valinhos para Campinas",solicitar_rota,Valinhos,Campinas
+"Preciso ir para o centro de Campinas",solicitar_rota,UNKNOWN,centro de Campinas
+"Qual a linha de ônibus que vai para o Shopping Dom Pedro?",solicitar_rota,UNKNOWN,Shopping Dom Pedro
+"De Hortolândia para o centro, qual pego?",solicitar_rota,Hortolândia,centro
+"Linha de ônibus entre Paulínia e Cosmópolis",solicitar_rota,Paulínia,Cosmópolis
+"Como ir de Americana para Santa Bárbara d'Oeste?",solicitar_rota,Americana,"Santa Bárbara d'Oeste"
+"quero ir para Indaiatuba",solicitar_rota,UNKNOWN,Indaiatuba
+"Saindo de Vinhedo, como chego em Campinas?",solicitar_rota,Vinhedo,Campinas
+"Existe ônibus direto de Jundiaí para Campinas?",solicitar_rota,Jundiaí,Campinas
+"ônibus para o terminal de Sumaré",solicitar_rota,UNKNOWN,terminal de Sumaré
+"Partindo de Monte Mor, qual a melhor rota para o aeroporto de Viracopos?",solicitar_rota,Monte Mor,aeroporto de Viracopos
+"Me veja um ônibus de Campinas para São Paulo",solicitar_rota,Campinas,São Paulo
+"Rota para o hospital Mário Gatti",solicitar_rota,UNKNOWN,hospital Mário Gatti
+"Qual o último ônibus de Campinas para Valinhos hoje?",solicitar_rota,Campinas,Valinhos
+"Tem ônibus de Sumaré para a Unicamp?",solicitar_rota,Sumaré,Unicamp
+"Linha que passa no centro de Hortolândia",solicitar_rota,UNKNOWN,centro de Hortolândia
+"Como chegar no terminal metropolitano de Campinas?",solicitar_rota,UNKNOWN,terminal metropolitano de Campinas
+"O app funciona bem",feedback,,
+"Gostaria de registrar uma reclamação",feedback,,
+"Ok, entendi",conversacao_geral,,
+"Pode repetir, por favor?",conversacao_geral,,
+"Não entendi a resposta",conversacao_geral,,
+"Qual o preço da passagem?",conversacao_geral,,
+"Preciso de ajuda",conversacao_geral,,
+"socorro",conversacao_geral,,
+"Qual o horário do primeiro ônibus de Monte Mor para Campinas?",solicitar_rota,Monte Mor,Campinas
+"Me fala uma linha de Paulínia para Americana",solicitar_rota,Paulínia,Americana
+"Estou em Valinhos e quero ir para Vinhedo",solicitar_rota,Valinhos,Vinhedo
+"Como faço para ir ao trabalho em Campinas?",solicitar_rota,UNKNOWN,trabalho em Campinas
+"O som está muito baixo",feedback,,
+"A resposta foi rápida, gostei",feedback,,
+"Isso não me ajudou",feedback,,
+"Poderia ter mais opções de rotas",feedback,,
+"Obrigado, era isso mesmo",conversacao_geral,,
+"Entendido",conversacao_geral,,
+"Certo",conversacao_geral,,
+"Qual a previsão de chegada do ônibus de Sumaré para Campinas?",solicitar_rota,Sumaré,Campinas
+"Quero ir para o Parque Taquaral",solicitar_rota,UNKNOWN,Parque Taquaral
+"Linha que vai de Indaiatuba para o aeroporto",solicitar_rota,Indaiatuba,aeroporto
+"O aplicativo é lento",feedback,,
+"A interface é confusa",feedback,,
+"Muito fácil de usar",feedback,,
+"Me perdi, onde estou?",conversacao_geral,,
+"Chamar a polícia",conversacao_geral,,
+"Emergência",conversacao_geral,,
+"Como ir da minha casa para a faculdade?",solicitar_rota,minha casa,faculdade
+"Rota de Campinas para Jaguariúna",solicitar_rota,Campinas,Jaguariúna
+"O ônibus 708 já passou?",solicitar_rota,UNKNOWN,UNKNOWN
+"Esse feedback é anônimo?",conversacao_geral,,
+"A voz do assistente é agradável",feedback,,
+"A voz é muito robótica",feedback,,
+"Não gosto dessa voz",feedback,,
+"De Campinas para o Terminal Ouro Verde",solicitar_rota,Campinas,Terminal Ouro Verde
+"Qual o ônibus que passa na Avenida das Amoreiras?",solicitar_rota,UNKNOWN,Avenida das Amoreiras
+"Estou no ponto da prefeitura, qual ônibus passa aqui?",solicitar_rota,ponto da prefeitura,UNKNOWN
+"A localização está errada",feedback,,
+"O GPS não funciona",feedback,,
+"Excelente precisão",feedback,,
+"Perfeito!",conversacao_geral,,
+"Maravilha",conversacao_geral,,
+"Joia",conversacao_geral,,
+"Como ir para o centro de Paulínia?",solicitar_rota,UNKNOWN,centro de Paulínia
+"Me leve para casa",solicitar_rota,UNKNOWN,casa
+"Quero ir para a rodoviária de Campinas",solicitar_rota,UNKNOWN,rodoviária de Campinas
+"Onde fica o ponto final da linha 604?",solicitar_rota,UNKNOWN,ponto final da linha 604
+"O motorista correu muito",feedback,,
+"O motorista foi imprudente",feedback,,
+"Me senti seguro na viagem",feedback,,
+"O ônibus estava limpo",feedback,,
+"O ônibus estava muito sujo",feedback,,
+"Tinha muito barulho no ônibus",feedback,,
+"A viagem foi tranquila",feedback,,
+"De novo, por favor",conversacao_geral,,
+"Repita a última informação",conversacao_geral,,
+"Fale mais devagar",conversacao_geral,,
+"Fale mais alto",conversacao_geral,,
+"Não ouvi",conversacao_geral,,
+"Itinerário do 699",solicitar_rota,UNKNOWN,UNKNOWN
+"Qual o trajeto da linha 701?",solicitar_rota,UNKNOWN,UNKNOWN
+"Onde o ônibus 746 passa?",solicitar_rota,UNKNOWN,UNKNOWN
+"Quero ir de um lugar para outro",solicitar_rota,um lugar,outro
+"De A para B",solicitar_rota,A,B
+"Preciso de uma rota de Campinas para Campinas",solicitar_rota,Campinas,Campinas
+"O aplicativo me ajudou muito hoje",feedback,,
+"Sem vocês eu estaria perdido",feedback,,
+"Vocês são os melhores",feedback,,
+"Pior experiência da minha vida",feedback,,
+"Nunca mais uso esse serviço",feedback,,
+"Vou recomendar para meus amigos",feedback,,
+"Como eu salvo uma rota como favorita?",conversacao_geral,,
+"Tem modo escuro?",conversacao_geral,,
+"Posso mudar a voz?",conversacao_geral,,
+"Isso é gratuito?",conversacao_geral,,
+"Como vocês ganham dinheiro?",conversacao_geral,,
+"Quais cidades vocês atendem?",conversacao_geral,,
+"O serviço funciona 24 horas?",conversacao_geral,,
+"Tem suporte para outras línguas?",conversacao_geral,,
+"Como ir de Campinas para o bairro Swift?",solicitar_rota,Campinas,bairro Swift
+"Estou no Jardim Proença, quero ir para o Cambuí",solicitar_rota,Jardim Proença,Cambuí
+"Qual ônibus passa na John Boyd Dunlop?",solicitar_rota,UNKNOWN,John Boyd Dunlop
+"A rota sugerida foi a mais longa",feedback,,
+"A rota foi muito rápida",feedback,,
+"Me levou para o lugar errado",feedback,,
+"Cheguei no destino perfeitamente",feedback,,
+"O mapa não carrega",feedback,,
+"Onde está meu ônibus?",solicitar_rota,UNKNOWN,UNKNOWN
+"O ônibus está vindo?",solicitar_rota,UNKNOWN,UNKNOWN
+"Previsão de chegada para a linha 708 em Sumaré",solicitar_rota,UNKNOWN,Sumaré
+"Saindo do terminal de Americana para o centro",solicitar_rota,terminal de Americana,centro
+"Como chegar na Lagoa do Taquaral?",solicitar_rota,UNKNOWN,Lagoa do Taquaral
+"Obrigado, não preciso de mais nada",conversacao_geral,,
+"Por enquanto é só",conversacao_geral,,
+"Depois eu vejo isso",conversacao_geral,,
+"Cancelar",conversacao_geral,,
+"Parar",conversacao_geral,,
+"Sair",conversacao_geral,,
+"O sistema de avaliação é bom",feedback,,
+"É fácil dar feedback",feedback,,
+"Não encontrei onde avaliar",feedback,,
+"De Valinhos para o shopping Iguatemi",solicitar_rota,Valinhos,shopping Iguatemi
+"Quero ir da rodoviária de Campinas para o aeroporto",solicitar_rota,rodoviária de Campinas,aeroporto
+"Qual a distância de Campinas para Hortolândia?",conversacao_geral,,
+"Quanto tempo leva a viagem de Sumaré para Paulínia?",solicitar_rota,Sumaré,Paulínia
+"O ar condicionado do ônibus não funciona",feedback,,
+"O ônibus estava lotado",feedback,,
+"A viagem foi confortável",feedback,,
+"O motorista me ajudou com o troco",feedback,,
+"O motorista não quis me ajudar",feedback,,
+"O ponto de ônibus é bem sinalizado",feedback,,
+"Não tem cobertura no ponto de ônibus",feedback,,
+"O ponto está em um lugar perigoso",feedback,,
+"Me sinto seguro usando o app",feedback,,
+"Tenho medo de usar o app à noite",feedback,,
+"Como eu reporto um problema?",conversacao_geral,,
+"Fale com um atendente",conversacao_geral,,
+"Quero falar com um humano",conversacao_geral,,
+"Você é um robô?",conversacao_geral,,
+"Você tem sentimentos?",conversacao_geral,,
+"De Campinas para o distrito de Sousas",solicitar_rota,Campinas,distrito de Sousas
+"Saindo de Barão Geraldo para o centro de Campinas",solicitar_rota,Barão Geraldo,centro de Campinas
+"Qual ônibus vai para a PUC de Campinas?",solicitar_rota,UNKNOWN,PUC de Campinas
+"A rota para o trabalho está demorando muito",feedback,,
+"A rota para casa foi ótima hoje",feedback,,
+"Obrigado por me ajudar a chegar mais rápido",feedback,,
+"O app consome muita bateria",feedback,,
+"O app usa muitos dados de internet?",conversacao_geral,,
+"Funciona offline?",conversacao_geral,,
+"Preciso de internet para usar?",conversacao_geral,,
+"Como ir de um ponto A para um ponto B?",solicitar_rota,ponto A,ponto B
+"Me leve daqui para lá",solicitar_rota,daqui,lá
+"Qualquer ônibus serve",solicitar_rota,UNKNOWN,UNKNOWN
+"Apenas me tire daqui",solicitar_rota,daqui,UNKNOWN
+"Onde estamos?",conversacao_geral,,
+"Que lugar é este?",conversacao_geral,,
+"Estou perdido",conversacao_geral,,
+"A sugestão de rota foi ruim",feedback,,
+"A sugestão de rota foi excelente",feedback,,
+"Não há rotas disponíveis para este trajeto",feedback,,
+"Gostaria de mais detalhes sobre a rota",solicitar_rota,UNKNOWN,UNKNOWN
+"A que horas passa o próximo ônibus no meu ponto?",solicitar_rota,meu ponto,UNKNOWN
+"De Vinhedo para a festa da uva",solicitar_rota,Vinhedo,festa da uva
+"Como chegar no Hopi Hari de ônibus?",solicitar_rota,UNKNOWN,Hopi Hari
+"Qual a linha que vai para o Wet'n Wild?",solicitar_rota,UNKNOWN,"Wet'n Wild"
+"O motorista estava ao telefone enquanto dirigia",feedback,,
+"O ônibus estava em alta velocidade",feedback,,
+"O motorista foi muito cauteloso",feedback,,
+"A viagem foi segura",feedback,,
+"O cinto de segurança estava quebrado",feedback,,
+"O ônibus parecia velho",feedback,,
+"O veículo era novo e moderno",feedback,,
+"O acesso para cadeirantes estava bloqueado",feedback,,
+"O elevador para cadeira de rodas não funcionou",feedback,,
+"O espaço para cão-guia era adequado",feedback,,
+"Ninguém respeitou o assento preferencial",feedback,,
+"O motorista ajudou uma pessoa idosa a embarcar",feedback,,
+"Posso levar meu animal de estimação?",conversacao_geral,,
+"Quais as regras para transporte de bagagem?",conversacao_geral,,
+"Perdi um objeto no ônibus, como proceder?",conversacao_geral,,
+"Existe um achados e perdidos?",conversacao_geral,,
+"Como faço para recarregar meu bilhete único?",conversacao_geral,,
+"Onde posso comprar o cartão de transporte?",conversacao_geral,,
+"O app aceita pagamento por aproximação?",conversacao_geral,,
+"Como eu cancelo uma viagem?",conversacao_geral,,
+"Posso descer fora do ponto?",conversacao_geral,,
+"Obrigado pela paciência",conversacao_geral,,
+"Você é muito prestativo",feedback,,
+"Sua ajuda foi inútil",feedback,,
+"Não resolveu meu problema",feedback,,
+"Resolveu meu problema completamente",feedback,,
+"De Campinas para o Swiss Park",solicitar_rota,Campinas,Swiss Park
+"Saindo do Taquaral para o Galleria Shopping",solicitar_rota,Taquaral,Galleria Shopping
+"Qual ônibus passa na FATEC de Hortolândia?",solicitar_rota,UNKNOWN,FATEC de Hortolândia
+"A rota para a escola do meu filho é segura?",solicitar_rota,UNKNOWN,escola do meu filho
+"Me leve para o endereço Rua das Flores, número 123",solicitar_rota,UNKNOWN,Rua das Flores 123
+"O trajeto inclui pedágios?",conversacao_geral,,
+"A rota passa por áreas perigosas?",conversacao_geral,,
+"Qual a rota mais segura para voltar para casa à noite?",solicitar_rota,UNKNOWN,casa
+"Obrigado por tudo",conversacao_geral,,
+"Foi um prazer",conversacao_geral,,
+"Até a próxima",conversacao_geral,,
+"Falou",conversacao_geral,,
+"Fui",conversacao_geral,,
+"Adeus",conversacao_geral,,
+"Fim",conversacao_geral,,
+"Acabou",conversacao_geral,,
+"Chega",conversacao_geral
+"Como vou de Indaiatuba para Salto?",solicitar_rota,Indaiatuba,Salto
+"Linha de ônibus de Itu para Sorocaba",solicitar_rota,Itu,Sorocaba
+"Preciso ir de Jundiaí para Louveira",solicitar_rota,Jundiaí,Louveira
+"Qual o trajeto de Vinhedo para Valinhos?",solicitar_rota,Vinhedo,Valinhos
+"De Itatiba para Bragança Paulista, qual ônibus pegar?",solicitar_rota,Itatiba,"Bragança Paulista"
+"Quero ir para o centro de Jaguariúna",solicitar_rota,UNKNOWN,centro de Jaguariúna
+"Como chegar no Parque da Cidade em Itatiba?",solicitar_rota,UNKNOWN,Parque da Cidade em Itatiba
+"Ônibus que vai para o distrito industrial de Vinhedo",solicitar_rota,UNKNOWN,distrito industrial de Vinhedo
+"Saindo de Louveira, como chego na rodoviária de Jundiaí?",solicitar_rota,Louveira,rodoviária de Jundiaí
+"A rota de Salto para Itu tem muito trânsito?",solicitar_rota,Salto,Itu
+"O app é fantástico!",feedback,,
+"Quebrou um galho enorme",feedback,,
+"Não vivo mais sem",feedback,,
+"O design poderia ser mais moderno",feedback,,
+"As cores são ruins para quem tem baixa visão",feedback,,
+"A fonte é muito pequena",feedback,,
+"Aumentem o contraste, por favor",feedback,,
+"O leitor de tela não funciona bem com o app",feedback,,
+"Os botões são difíceis de clicar",feedback,,
+"A navegação é intuitiva",feedback,,
+"Me perco o tempo todo no aplicativo",feedback,,
+"Como atualizo meus dados?",conversacao_geral,,
+"Esqueci minha senha",conversacao_geral,,
+"Como apago minha conta?",conversacao_geral,,
+"Vocês vendem meus dados?",conversacao_geral,,
+"A política de privacidade é clara?",conversacao_geral,,
+"De onde vêm os dados dos ônibus?",conversacao_geral,,
+"As informações são atualizadas em tempo real?",conversacao_geral,,
+"Qual a frequência de atualização?",conversacao_geral,,
+"Tem como ver a lotação do ônibus?",conversacao_geral,,
+"Posso comprar passagem pelo app?",conversacao_geral,,
+"Como ir de Campinas para o bairro Matão em Sumaré?",solicitar_rota,Campinas,Matão em Sumaré
+"Saindo do centro de Hortolândia para o Jardim Amanda",solicitar_rota,centro de Hortolândia,Jardim Amanda
+"Qual a linha que vai para o Hospital de Clínicas da Unicamp?",solicitar_rota,UNKNOWN,Hospital de Clínicas da Unicamp
+"Preciso ir de Paulínia para a refinaria da Petrobras",solicitar_rota,Paulínia,refinaria da Petrobras
+"De Americana para o zoológico",solicitar_rota,Americana,zoológico
+"A rota para a universidade é acessível para cadeirantes?",solicitar_rota,UNKNOWN,universidade
+"O ônibus tem ar condicionado?",conversacao_geral,,
+"Tem Wi-Fi no ônibus?",conversacao_geral,,
+"Tem tomada para carregar o celular?",conversacao_geral,,
+"O app me mostrou uma rota que não existe mais",feedback,,
+"O ponto de ônibus mudou de lugar e o app não atualizou",feedback,,
+"O horário no app estava diferente do horário real",feedback,,
+"A previsão de chegada foi perfeita",feedback,,
+"O mapa em tempo real é muito preciso",feedback,,
+"O ícone do ônibus no mapa está travado",feedback,,
+"Não consigo ver o mapa",feedback,,
+"A voz do TTS é muito rápida",feedback,,
+"A pronúncia dos nomes das ruas está errada",feedback,,
+"Gostaria de uma voz masculina",feedback,,
+"Gostaria de uma voz feminina",feedback,,
+"O volume é bom",feedback,,
+"Como ir de Campinas para o bairro Nova Europa?",solicitar_rota,Campinas,Nova Europa
+"Saindo de Valinhos para o CLT de Jundiaí",solicitar_rota,Valinhos,CLT de Jundiaí
+"Qual a linha que vai para a Câmara Municipal de Vinhedo?",solicitar_rota,UNKNOWN,Câmara Municipal de Vinhedo
+"Preciso ir de Sumaré para a fábrica da Honda",solicitar_rota,Sumaré,fábrica da Honda
+"De Monte Mor para o centro de Capivari",solicitar_rota,Monte Mor,centro de Capivari
+"Agradeço o esforço de vocês",feedback,,
+"Continuem o bom trabalho",feedback,,
+"Esse projeto tem futuro",feedback,,
+"Espero que consigam mais investimentos",feedback,,
+"Vou divulgar para todos os meus conhecidos",feedback,,
+"Como posso apoiar o projeto?",conversacao_geral,,
+"Vocês têm alguma rede social?",conversacao_geral,,
+"Posso ser um testador beta?",conversacao_geral,,
+"Quando sai a próxima atualização?",conversacao_geral,,
+"Quais são as novidades da versão?",conversacao_geral,,
+"Como ir de Campinas para o bairro Barão Geraldo?",solicitar_rota,Campinas,Barão Geraldo
+"Saindo do centro de Paulínia para o bairro João Aranha",solicitar_rota,centro de Paulínia,João Aranha
+"Qual a linha que vai para o Parque Ecológico de Americana?",solicitar_rota,UNKNOWN,Parque Ecológico de Americana
+"Preciso ir de Hortolândia para a empresa IBM",solicitar_rota,Hortolândia,IBM
+"De Sumaré para o centro de Nova Odessa",solicitar_rota,Sumaré,centro de Nova Odessa
+"O app me salvou hoje!",feedback,,
+"Finalmente um app que pensa nas pessoas cegas",feedback,,
+"Isso deveria ser um serviço público",feedback,,
+"Parabéns pela iniciativa",feedback,,
+"Estou impressionado com a qualidade",feedback,,
+"Como eu configuro as notificações?",conversacao_geral,,
+"Posso desativar o som?",conversacao_geral,,
+"Como eu mudo o idioma?",conversacao_geral,,
+"O app é compatível com o meu celular?",conversacao_geral,,
+"Quais versões do Android são suportadas?",conversacao_geral,,
+"Tem versão para iPhone?",conversacao_geral,,
+"Como ir de Campinas para o bairro Guanabara?",solicitar_rota,Campinas,Guanabara
+"Saindo de Indaiatuba para o Polo Shopping",solicitar_rota,Indaiatuba,Polo Shopping
+"Qual a linha que vai para o SENAI de Sumaré?",solicitar_rota,UNKNOWN,SENAI de Sumaré
+"Preciso ir de Valinhos para a empresa Eaton",solicitar_rota,Valinhos,Eaton
+"De Vinhedo para o Portal da cidade",solicitar_rota,Vinhedo,Portal da cidade
+"O atendimento ao cliente foi rápido",feedback,,
+"O suporte técnico resolveu meu problema",feedback,,
+"Ninguém respondeu meu email",feedback,,
+"Fui mal atendido no chat",feedback,,
+"O tutorial inicial é muito bom",feedback,,
+"Não entendi como usar o app no começo",feedback,,
+"A seção de ajuda é completa",feedback,,
+"Faltam informações na documentação",feedback,,
+"Como eu integro com a minha agenda?",conversacao_geral,,
+"Tem integração com o Google Maps?",conversacao_geral,,
+"Posso compartilhar uma rota com um amigo?",conversacao_geral,,
+"Como eu vejo meu histórico de viagens?",conversacao_geral,,
+"Meus dados estão seguros?",conversacao_geral,,
+"Como ir de Campinas para o bairro Castelo?",solicitar_rota,Campinas,Castelo
+"Saindo de Hortolândia para o GoodBom Supermercados",solicitar_rota,Hortolândia,GoodBom Supermercados
+"Qual a linha que vai para a Dell em Hortolândia?",solicitar_rota,UNKNOWN,Dell em Hortolândia
+"Preciso ir de Paulínia para a empresa Rhodia",solicitar_rota,Paulínia,Rhodia
+"De Americana para o Tivoli Shopping",solicitar_rota,Americana,Tivoli Shopping
+"A paleta de cores é ótima",feedback,,
+"O ícone do app é bonito",feedback,,
+"O nome BusSense é criativo",feedback,,
+"A marca de vocês é forte",feedback,,
+"O marketing é bem feito",feedback,,
+"Descobri o app por um amigo",conversacao_geral,,
+"Vi um anúncio na internet",conversacao_geral,,
+"Apareceu na minha loja de aplicativos",conversacao_geral,,
+"Um jornalista falou de vocês",conversacao_geral,,
+"Vocês ganharam algum prêmio?",conversacao_geral,,
+"Como ir de Campinas para o bairro Mansões Santo Antônio?",solicitar_rota,Campinas,Mansões Santo Antônio
+"Saindo de Sumaré para o Hospital Estadual",solicitar_rota,Sumaré,Hospital Estadual
+"Qual a linha que vai para a 3M de Sumaré?",solicitar_rota,UNKNOWN,3M de Sumaré
+"Preciso ir de Monte Mor para a empresa Magneti Marelli",solicitar_rota,Monte Mor,Magneti Marelli
+"De Hortolândia para o Hospital Mário Covas",solicitar_rota,Hortolândia,Hospital Mário Covas
+"O app me dá mais independência",feedback,,
+"Sinto-me mais seguro para sair de casa",feedback,,
+"Isso mudou minha vida",feedback,,
+"Finalmente posso pegar ônibus sozinho",feedback,,
+"Recomendei para a associação de cegos da minha cidade",feedback,,
+"Vocês estão fazendo a diferença",feedback,,
+"Qual o próximo recurso a ser lançado?",conversacao_geral,,
+"Posso sugerir uma nova funcionalidade?",conversacao_geral,,
+"Onde eu voto para a próxima feature?",conversacao_geral,,
+"Vocês têm um roadmap público?",conversacao_geral,,
+"Quem são os desenvolvedores?",conversacao_geral,,
+"Como entro em contato com a equipe?",conversacao_geral,,
+"Vocês estão contratando?",conversacao_geral,,
+"Posso fazer um estágio com vocês?",conversacao_geral,,
+"Onde fica o escritório de vocês?",conversacao_geral,,
+"Como ir de Campinas para o bairro Jardim das Oliveiras?",solicitar_rota,Campinas,Jardim das Oliveiras
+"Saindo de Valinhos para o Country Club",solicitar_rota,Valinhos,Country Club
+"Qual a linha que vai para o SESI de Americana?",solicitar_rota,UNKNOWN,SESI de Americana
+"Preciso ir de Indaiatuba para a empresa Toyota",solicitar_rota,Indaiatuba,Toyota
+"De Jaguariúna para a empresa Ambev",solicitar_rota,Jaguariúna,Ambev
+"A última atualização deixou o app melhor",feedback,,
+"A nova função de favoritos é ótima",feedback,,
+"Não gostei da última atualização",feedback,,
+"O app ficou mais lento depois de atualizar",feedback,,
+"Apareceu um bug que não existia antes",feedback,,
+"Corrigiram o bug que eu relatei, obrigado!",feedback,,
+"A comunicação de vocês com os usuários é excelente",feedback,,
+"Vocês ouvem a comunidade",feedback,,
+"Parece que vocês não se importam com o feedback",feedback,,
+"A resposta ao meu ticket foi genérica e não ajudou",feedback,,
+"O problema foi resolvido rapidamente",feedback,,
+"Estou aguardando uma resposta há semanas",feedback,,
+"O status do meu chamado não atualiza",feedback,,
+"Como eu acompanho meu pedido de suporte?",conversacao_geral,,
+"Qual o tempo médio de resposta?",conversacao_geral,,
+"O suporte funciona no fim de semana?",conversacao_geral,,
+"Como ir de Campinas para o bairro Parque Industrial?",solicitar_rota,Campinas,Parque Industrial
+"Saindo de Paulínia para o Theatro Municipal",solicitar_rota,Paulínia,Theatro Municipal
+"Qual a linha que vai para a rodoviária de Tietê?",solicitar_rota,UNKNOWN,rodoviária de Tietê
+"Preciso ir de Sorocaba para o Shopping Iguatemi Esplanada",solicitar_rota,Sorocaba,Shopping Iguatemi Esplanada
+"De Itu para a Praça da Matriz",solicitar_rota,Itu,Praça da Matriz
+"Acho que encontrei um erro de segurança",feedback,,
+"Meus dados parecem estar expostos",feedback,,
+"O app pediu uma permissão estranha",feedback,,
+"Por que o app precisa de acesso aos meus contatos?",conversacao_geral,,
+"O uso do microfone é seguro?",conversacao_geral,,
+"As conversas são gravadas?",conversacao_geral,,
+"Como meus dados de localização são usados?",conversacao_geral,,
+"Posso usar o app sem conceder todas as permissões?",conversacao_geral,,
+"A política de cookies é fácil de entender?",conversacao_geral,,
+"Onde os dados são armazenados?",conversacao_geral,,
+"Os servidores são no Brasil?",conversacao_geral,,
+"O projeto segue a LGPD?",conversacao_geral,,
+"Como posso solicitar a exclusão dos meus dados?",conversacao_geral,,
+"O processo de anonimização é eficaz?",conversacao_geral,,
+"Como ir de Campinas para o bairro Jardim Itatinga?",solicitar_rota,Campinas,Jardim Itatinga
+"Saindo de Jundiaí para o Maxi Shopping",solicitar_rota,Jundiaí,Maxi Shopping
+"Qual a linha que vai para o Jardim Botânico de Jundiaí?",solicitar_rota,UNKNOWN,Jardim Botânico de Jundiaí
+"Preciso ir de Louveira para a empresa Pernod Ricard",solicitar_rota,Louveira,Pernod Ricard
+"De Itatiba para o Zooparque",solicitar_rota,Itatiba,Zooparque
+"O consumo de bateria melhorou",feedback,,
+"O app está mais leve e rápido",feedback,,
+"A inicialização do app é demorada",feedback,,
+"Ocupa muito espaço no meu celular",feedback,,
+"O cache do app cresce muito rápido",feedback,,
+"Preciso limpar os dados do app com frequência",feedback,,
+"A otimização de recursos é notável",feedback,,
+"Parabéns à equipe de desenvolvimento pela performance",feedback,,
+"O código-fonte é aberto?",conversacao_geral,,
+"Posso contribuir para o código?",conversacao_geral,,
+"Onde está o repositório do GitHub?",conversacao_geral,,
+"Qual a licença do projeto?",conversacao_geral,,
+"Vocês aceitam doações?",conversacao_geral,,
+"Como posso me tornar um parceiro?",conversacao_geral,,
+"Quais empresas apoiam o BusSense?",conversacao_geral,,
+"O projeto tem apoio governamental?",conversacao_geral,,
+"Como ir de Campinas para o bairro Jardim Garcia?",solicitar_rota,Campinas,Jardim Garcia
+"Saindo de Vinhedo para o Mosteiro de São Bento",solicitar_rota,Vinhedo,Mosteiro de São Bento
+"Qual a linha que vai para a prefeitura de Valinhos?",solicitar_rota,UNKNOWN,prefeitura de Valinhos
+"Preciso ir de Itatiba para a empresa Nivea",solicitar_rota,Itatiba,Nivea
+"De Jaguariúna para o Naga Cable Park",solicitar_rota,Jaguariúna,Naga Cable Park
+"A documentação da API é clara?",conversacao_geral,,
+"Posso usar a API do BusSense em meu próprio projeto?",conversacao_geral,,
+"Quais são os endpoints disponíveis?",conversacao_geral,,
+"Existe um limite de requisições?",conversacao_geral,,
+"A API é paga?",conversacao_geral,,
+"Como obtenho uma chave de API?",conversacao_geral,,
+"Onde está o changelog?",conversacao_geral,,
+"A versão estável é a mesma do ramo principal?",conversacao_geral,,
+"Com que frequência vocês lançam novas versões?",conversacao_geral,,
+"O processo de build é automatizado?",conversacao_geral,,
+"Quais testes vocês rodam antes de um release?",conversacao_geral,,
+"A cobertura de testes do código é alta?",conversacao_geral,,
+"Vocês usam integração contínua?",conversacao_geral,,
+"Qual plataforma de nuvem vocês usam?",conversacao_geral,,
+"A infraestrutura é escalável?",conversacao_geral,,
+"Como vocês monitoram a saúde do sistema?",conversacao_geral,,
+"O que acontece se a API do Llama cair?",conversacao_geral,,
+"Vocês têm um sistema de fallback?",conversacao_geral,,
+"Qual o plano de recuperação de desastres?",conversacao_geral,,
+"O SLA de disponibilidade é de quanto?",conversacao_geral,,
+"Como ir de Campinas para o bairro Vila Industrial?",solicitar_rota,Campinas,Vila Industrial
+"Saindo de Sumaré para o Clube Recreativo",solicitar_rota,Sumaré,Clube Recreativo
+"Qual a linha que vai para o Fórum de Hortolândia?",solicitar_rota,UNKNOWN,Fórum de Hortolândia
+"Preciso ir de Paulínia para o Polo Cinematográfico",solicitar_rota,Paulínia,Polo Cinematográfico
+"De Americana para a Basílica de Santo Antônio",solicitar_rota,Americana,Basílica de Santo Antônio
+"Obrigado, vocês são nota 10",feedback,,
+"Continuem assim",feedback,,
+"Estou muito satisfeito",feedback,,
+"Não tenho do que reclamar",feedback,,
+"O serviço superou minhas expectativas",feedback,,
+"Estou um pouco decepcionado",feedback,,
+"Esperava mais",feedback,,
+"Não atendeu minhas necessidades",feedback,,
+"O resultado foi mediano",feedback,,
+"Pode melhorar bastante",feedback,,
+"Está no caminho certo",feedback,,
+"A ideia é boa, mas a execução precisa de ajustes",feedback,,
+"O potencial é enorme",feedback,,
+"Vejo um futuro brilhante para este app",feedback,,
+"Vocês vão longe",feedback,,
+"Como faço para ser voluntário?",conversacao_geral,,
+"Posso ajudar a traduzir o app?",conversacao_geral,,
+"Posso ajudar a mapear novos pontos de ônibus?",conversacao_geral,,
+"Como a comunidade pode ajudar?",conversacao_geral,,
+"Existe um fórum ou grupo de discussão?",conversacao_geral,,
+"Onde posso encontrar outros usuários do BusSense?",conversacao_geral,,
+"Vocês organizam eventos ou meetups?",conversacao_geral,,
+"Gostaria de dar uma palestra sobre o BusSense",conversacao_geral,,
+"Podemos fazer uma parceria com a minha universidade?",conversacao_geral,,
+"A imprensa já falou sobre vocês?",conversacao_geral,,
+"Como a mídia pode entrar em contato?",conversacao_geral,,
+"Vocês têm um press kit?",conversacao_geral,,
+"Qual o @ de vocês no Twitter?",conversacao_geral,,
+"Qual a página do Facebook?",conversacao_geral,,
+"Vocês têm Instagram?",conversacao_geral,,
+"E LinkedIn?",conversacao_geral,,
+"Tem um canal no YouTube com tutoriais?",conversacao_geral,,
+"O blog de vocês é atualizado com frequência?",conversacao_geral,,
+"Onde posso ler o TCC de vocês?",conversacao_geral,,
+"O trabalho foi publicado em alguma conferência?",conversacao_geral,,
+"Quais foram os principais desafios do projeto?",conversacao_geral,,
+"O que vocês aprenderam no processo?",conversacao_geral,,
+"Qual conselho vocês dariam para quem está começando um TCC?",conversacao_geral,,
+"Como foi a experiência de trabalhar com LLMs locais?",conversacao_geral,,
+"Valeu a pena usar llama.cpp?",conversacao_geral,,
+"Quais as vantagens e desvantagens de rodar o modelo localmente?",conversacao_geral,,
+"O custo computacional é muito alto?",conversacao_geral,,
+"Qual a configuração de hardware recomendada?",conversacao_geral,,
+"Funciona bem em um computador normal?",conversacao_geral,,
+"Precisa de uma placa de vídeo dedicada?",conversacao_geral,,
+"Quanta memória RAM o modelo consome?",conversacao_geral,,
+"O tempo de inferência é aceitável para uma aplicação em tempo real?",conversacao_geral,,
+"Como vocês lidaram com os prompts?",conversacao_geral,,
+"A engenharia de prompt foi muito difícil?",conversacao_geral,,
+"Vocês fizeram fine-tuning no modelo?",conversacao_geral,,
+"Se sim, qual foi o dataset utilizado?",conversacao_geral,,
+"Os resultados melhoraram muito após o fine-tuning?",conversacao_geral,,
+"Qual o tamanho do modelo que vocês estão usando?",conversacao_geral,,
+"Quantos parâmetros ele tem?",conversacao_geral,,
+"O modelo é quantizado?",conversacao_geral,,
+"Qual o nível de quantização?",conversacao_geral,,
+"A perda de precisão foi significativa?",conversacao_geral,,
+"Como vocês avaliam a qualidade das respostas do LLM?",conversacao_geral,,
+"Vocês usam alguma métrica automática como ROUGE ou BLEU?",conversacao_geral,,
+"A avaliação humana é parte do processo?",conversacao_geral,,
+"Como vocês coletam os dados para avaliação?",conversacao_geral,,
+"O que acontece quando o LLM dá uma resposta errada ou sem sentido?",conversacao_geral,,
+"Existe algum mecanismo de segurança para evitar respostas tóxicas?",conversacao_geral,,
+"Como vocês garantem que o modelo não está enviesado?",conversacao_geral,,
+"Quais os próximos passos para a evolução do modelo de IA?",conversacao_geral,,
+"Vocês pretendem experimentar outros modelos?",conversacao_geral,,
+"Como o Gemini ou o Claude?",conversacao_geral,,
+"O que vocês acham sobre a regulamentação de IA?",conversacao_geral,,
+"O BusSense está em conformidade com as futuras leis de IA?",conversacao_geral,,
+"Qual o impacto social que vocês esperam com o projeto?",conversacao_geral,,
+"Como a tecnologia pode promover mais inclusão?",conversacao_geral,,
+"Qual a mensagem final de vocês para a comunidade?",conversacao_geral,,
+"Obrigado e parabéns pelo projeto",feedback,,
+"Estou torcendo por vocês",feedback,,
+"Contem com meu apoio",feedback,,
+"Isso é revolucionário",feedback,,
+"Uma ideia simples e genial",feedback,,
+"Por que ninguém pensou nisso antes?",feedback,,
+"Vocês merecem todo o reconhecimento",feedback,,
+"Espero que isso se torne um produto de verdade",feedback,,
+"Eu pagaria para usar um serviço assim",feedback,,
+"Isso tem que ser gratuito e acessível a todos",feedback,,
+"O poder público deveria financiar este projeto",feedback,,
+"Vou mostrar isso para o vereador da minha cidade",feedback,,
+"Como posso ajudar a divulgar?",conversacao_geral,,
+"Posso compartilhar nas minhas redes sociais?",conversacao_geral,,
+"Vocês têm um material de divulgação pronto?",conversacao_geral,,
+"Qual a hashtag oficial do projeto?",conversacao_geral,,
+"Como citar o projeto em um trabalho acadêmico?",conversacao_geral,,
+"Posso usar screenshots do app em uma apresentação?",conversacao_geral,,
+"Quais são os termos de uso?",conversacao_geral,,
+"Onde encontro a política de privacidade completa?",conversacao_geral,,
+"Como eu sei que uma nova versão está disponível?",conversacao_geral,,
+"O app atualiza automaticamente?",conversacao_geral,,
+"Preciso reinstalar para ter a nova versão?",conversacao_geral,,
+"Onde eu vejo o número da versão atual?",conversacao_geral,,
+"O log de mudanças é acessível?",conversacao_geral,,
+"Como eu volto para uma versão anterior se a nova tiver um bug?",conversacao_geral,,
+"Existe um programa de testes beta?",conversacao_geral,,
+"Como me inscrevo para ser um testador?",conversacao_geral,,
+"Os testadores beta têm acesso antecipado às novas features?",conversacao_geral,,
+"Existe alguma recompensa para quem encontra bugs?",conversacao_geral,,
+"O que é 'GGUF'?",conversacao_geral,,
+"Por que usar GGUF e não outro formato?",conversacao_geral,,
+"Qual a diferença entre Llama e Alpaca?",conversacao_geral,,
+"O que é um modelo 'instrucional'?",conversacao_geral,,
+"O que significa 'quantização' de um modelo?",conversacao_geral,,
+"O que é 'fine-tuning'?",conversacao_geral,,
+"Qual a diferença entre 'embedding' e 'fine-tuning'?",conversacao_geral,,
+"O que é 'FAISS'?",conversacao_geral,,
+"Por que usar FAISS e não outro banco de vetores?",conversacao_geral,,
+"O que são 'embeddings'?",conversacao_geral,,
+"Como os embeddings ajudam na busca de rotas?",conversacao_geral,,
+"O que é 'SentenceTransformers'?",conversacao_geral,,
+"Qual modelo de embedding vocês usam?",conversacao_geral,,
+"Por que escolheram esse modelo específico?",conversacao_geral,,
+"A busca semântica é melhor que a busca por palavras-chave?",conversacao_geral,,
+"Como vocês lidam com sinônimos e gírias na busca?",conversacao_geral,,
+"O que é 'temperatura' em um LLM?",conversacao_geral,,
+"O que é 'max_tokens'?",conversacao_geral,,
+"O que é um 'system prompt'?",conversacao_geral,,
+"O que é 'few-shot prompting'?",conversacao_geral,,
+"Por que o few-shot prompting funciona tão bem?",conversacao_geral,,
+"Quais são outras técnicas de engenharia de prompt?",conversacao_geral,,
+"O que é o 'Princípio da Responsabilidade Única'?",conversacao_geral,,
+"Por que é importante separar o código em classes e módulos?",conversacao_geral,,
+"O que é uma 'dependência circular' e como evitar?",conversacao_geral,,
+"O que é um 'ambiente virtual' em Python?",conversacao_geral,,
+"Por que é uma boa prática usar ambientes virtuais?",conversacao_geral,,
+"O que faz o arquivo 'requirements.txt'?",conversacao_geral,,
+"O que significa 'pip install -r'?",conversacao_geral,,
+"O que é o `__init__.py` em uma pasta Python?",conversacao_geral,,
+"O que faz o `if __name__ == '__main__':`?",conversacao_geral,,
+"O que é 'type hinting' em Python?",conversacao_geral,,
+"Por que usar dicas de tipo é bom para o código?",conversacao_geral,,
+"O que é 'seaborn' e 'matplotlib'?",conversacao_geral,,
+"Para que serve a 'matriz de confusão'?",conversacao_geral,,
+"O que 'acurácia' mede?",conversacao_geral,,
+"O que são 'precisão' e 'recall'?",conversacao_geral,,
+"O que é a 'pontuação F1'?",conversacao_geral,,
+"Quando a acurácia não é uma boa métrica?",conversacao_geral,,
+"O que é 'latência' em um sistema?",conversacao_geral,,
+"Por que a baixa latência é importante para a experiência do usuário?",conversacao_geral,,
+"Como posso medir a latência do meu próprio código?",conversacao_geral,,
+"O que é um 'TCC'?",conversacao_geral,,
+"Quais são as etapas para fazer um bom TCC?",conversacao_geral,,
+"Como escolher um bom tema para o TCC?",conversacao_geral,,
+"Qual a importância da revisão bibliográfica?",conversacao_geral,,
+"Como apresentar os resultados de forma clara?",conversacao_geral,,
+"Qual a estrutura de um relatório de TCC?",conversacao_geral"
