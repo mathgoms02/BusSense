@@ -1,78 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Formulário Dinâmico</title>
+    <title>Cadastro de {{ model_title }}</title>
+    <style>
+        body { font-family: sans-serif; margin: 2em; }
+        form { display: flex; flex-direction: column; max-width: 400px; }
+        p { display: flex; flex-direction: column; }
+        label { margin-bottom: 5px; }
+        input { padding: 8px; margin-bottom: 10px; }
+        button { padding: 10px; cursor: pointer; }
+        .errorlist { color: red; list-style-type: none; padding: 0;}
+    </style>
 </head>
 <body>
+    <h1>Cadastro de Novo {{ model_title }}</h1>
 
-    <h1>Criar Novo Documento</h1>
-
-    <form method="post" id="mainForm">
+    <form method="post">
         {% csrf_token %}
+        
+        {{ form.as_p }}
 
-        <label for="document_type">Selecione o Tipo de Documento:</label>
-        <select name="document_type" id="document_type_selector" required>
-            <option value="">-- Selecione --</option>
-            {% for type in document_types %}
-                <option value="{{ type }}">{{ type }}</option>
-            {% endfor %}
-        </select>
-
-        <hr>
-
-        <div id="dynamic_fields_container">
-            </div>
-
-        <button type="submit">Criar Documento</button>
+        <button type="submit">Salvar {{ model_title }}</button>
     </form>
-
-    <script>
-        // CORREÇÃO: As chaves agora estão em minúsculas para corresponder ao back-end
-        const fieldsConfig = {
-            'city': [
-                {name: 'name', label: 'Nome da Cidade', type: 'text'}
-            ],
-            'bus_route': [
-                {name: 'route_short_name', label: 'Código da Rota', type: 'text'},
-                {name: 'route_name_start', label: 'Ponto Inicial', type: 'text'},
-                {name: 'route_name_end', label: 'Ponto Final', type: 'text'},
-                {name: 'route_type', label: 'Tipo da Rota', type: 'number'}
-            ],
-            'cid': [
-                {name: 'cod', label: 'Código CID', type: 'text'},
-                {name: 'diagnostic', label: 'Diagnóstico', type: 'text'}
-            ]
-        };
-
-        const selector = document.getElementById('document_type_selector');
-        const container = document.getElementById('dynamic_fields_container');
-
-        selector.addEventListener('change', function() {
-            container.innerHTML = '';
-            const selectedType = this.value; // ex: "city", "bus_route"
-            const fields = fieldsConfig[selectedType];
-
-            if (fields) {
-                fields.forEach(field => {
-                    const label = document.createElement('label');
-                    label.setAttribute('for', field.name);
-                    label.innerText = field.label + ':';
-
-                    const input = document.createElement('input');
-                    input.setAttribute('type', field.type);
-                    input.setAttribute('name', field.name);
-                    input.setAttribute('id', field.name);
-                    input.required = true;
-
-                    container.appendChild(label);
-                    container.appendChild(input);
-                    container.appendChild(document.createElement('br'));
-                    container.appendChild(document.createElement('br'));
-                });
-            }
-        });
-    </script>
 
 </body>
 </html>

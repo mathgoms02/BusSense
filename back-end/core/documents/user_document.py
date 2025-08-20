@@ -1,9 +1,20 @@
-from mongoengine import Document, StringField, EmailField, IntField
+from django.contrib.auth.hashers import make_password, check_password
+
+from mongoengine import Document, StringField, EmailField, IntField, ListField, ReferenceField, BooleanField
 
 class User(Document):
-    id = IntField(unique=True)
-    name = StringField(max_length=255, required=True)
+    name = StringField(required=True)
+    last_name = StringField(required=True)
     email = EmailField(required=True, unique=True)
-    password = StringField(max_length=255, required=True)
+    password = StringField(required=True)    
+    is_visually_impaired = BooleanField(default=False)
 
-    meta = {'collection': 'users'}
+    def set_password(self, raw_password):
+        self.password = make_password(raw_password)
+
+    def check_password(self, raw_password):
+        return check_password(raw_password, self.password)
+
+    meta = {
+        'collection': 'users'
+    }
