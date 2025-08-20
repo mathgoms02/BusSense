@@ -38,7 +38,6 @@ gTTS==2.5.4
 gunicorn==22.0.0
 h11==0.16.0
 httplib2==0.22.0
-httptools==0.2.0
 idna==3.10
 isort==5.13.2
 Jinja2==3.1.6
@@ -49,7 +48,6 @@ MarkupSafe==3.0.2
 mccabe==0.6.1
 mongoengine==0.29.1
 msgpack==1.1.0
-mysqlclient==2.0.3
 numpy==2.2.6
 oauthlib==3.2.2
 packaging==21.0
@@ -102,7 +100,6 @@ unittest-xml-reporting==3.2.0
 uritemplate==4.2.0
 urllib3==2.4.0
 uvicorn==0.15.0
-uvloop==0.21.0
 vine==5.1.0
 watchgod==0.8.2
 wcwidth==0.2.13
