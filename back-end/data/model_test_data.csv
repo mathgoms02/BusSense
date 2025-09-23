@@ -1,0 +1,501 @@
+text,expected_intent,expected_origin,expected_destination
+Oi,conversacao_geral,,
+Quero ir de Paulínia para Shopping,solicitar_rota,Paulínia,Shopping
+Qual seu nome?,conversacao_geral,,
+Motorista foi educado,feedback,,
+Sou de Centro quero ir para Campinas,solicitar_rota,Centro,Campinas
+Como fazer bolo de cenoura?,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+Qual ônibus para Campinas?,solicitar_rota,Paulínia,Campinas
+Preciso ir até Praça Matriz saindo de Terminal A,solicitar_rota,Terminal A,Praça Matriz
+Como investir em ações?,desconhecido,,
+Como chego em Hospital Municipal?,solicitar_rota,Centro,Hospital Municipal
+Ar-condicionado não estava funcionando,feedback,,
+Quero assistir um filme agora,desconhecido,,
+Sou de Paulínia quero ir para Terminal B,solicitar_rota,Paulínia,Terminal B
+Você pode me ajudar?,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Quero ir de Vila Nova para Hospital Municipal,solicitar_rota,Vila Nova,Hospital Municipal
+Qual seu nome?,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Traduza isto para francês,desconhecido,,
+Oi,conversacao_geral,,
+Valeu,conversacao_geral,,
+Rota do ponto Vila Nova ao Universidade,solicitar_rota,Vila Nova,Universidade
+Quero assistir um filme agora,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Aplicativo travando,feedback,,
+Quero ir de Hortolândia para Terminal B,solicitar_rota,Hortolândia,Terminal B
+"Olá, tudo bem?",conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Você pode me ajudar?,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Quero ir de Paulínia para Universidade,solicitar_rota,Paulínia,Universidade
+Pode explicar como usar?,conversacao_geral,,
+Traduza isto para francês,desconhecido,,
+Qual ônibus para Shopping?,solicitar_rota,Terminal A,Shopping
+Aplicativo travando,feedback,,
+Tem ônibus Sumaré -> Shopping?,solicitar_rota,Sumaré,Shopping
+Como investir em ações?,desconhecido,,
+Qual ônibus para Universidade?,solicitar_rota,Sumaré,Universidade
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Gostei do atendimento,feedback,,
+Qual ônibus para Campinas?,solicitar_rota,Centro,Campinas
+Tem ônibus Hortolândia -> Campinas?,solicitar_rota,Hortolândia,Campinas
+Sou de Centro quero ir para Shopping,solicitar_rota,Centro,Shopping
+Quero ir de Hortolândia para Universidade,solicitar_rota,Hortolândia,Universidade
+Quero assistir um filme agora,desconhecido,,
+Como chego em Universidade?,solicitar_rota,Paulínia,Universidade
+Como chego em Hospital Municipal?,solicitar_rota,Vila Nova,Hospital Municipal
+Ar-condicionado não estava funcionando,feedback,,
+Ônibus muito lotado,feedback,,
+sudo apt-get install algo,desconhecido,,
+Motorista foi educado,feedback,,
+Qual ônibus para Terminal B?,solicitar_rota,Sumaré,Terminal B
+Aplicativo travando,feedback,,
+Quero ir de Vila Nova para Hospital Municipal,solicitar_rota,Vila Nova,Hospital Municipal
+Aplicativo travando,feedback,,
+Qual ônibus para Hospital Municipal?,solicitar_rota,Centro,Hospital Municipal
+Como investir em ações?,desconhecido,,
+Obrigado!,conversacao_geral,,
+Quem é você?,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Preciso ir até Shopping saindo de Sumaré,solicitar_rota,Sumaré,Shopping
+Tem ônibus Terminal A -> Praça Matriz?,solicitar_rota,Terminal A,Praça Matriz
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Rota do ponto Paulínia ao Campinas,solicitar_rota,Paulínia,Campinas
+Ar-condicionado não estava funcionando,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+Oi,conversacao_geral,,
+"Olá, tudo bem?",conversacao_geral,,
+Estou testando,conversacao_geral,,
+Quem é você?,conversacao_geral,,
+Valeu,conversacao_geral,,
+Pode explicar como usar?,conversacao_geral,,
+Quero ir de Paulínia para Shopping,solicitar_rota,Paulínia,Shopping
+sudo apt-get install algo,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Rota do ponto Vila Nova ao Universidade,solicitar_rota,Vila Nova,Universidade
+Qual o preço do dólar hoje?,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Obrigado!,conversacao_geral,,
+Rota do ponto Centro ao Terminal B,solicitar_rota,Centro,Terminal B
+Gostei do atendimento,feedback,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Obrigado!,conversacao_geral,,
+Oi,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Qual o preço do dólar hoje?,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+Oi,conversacao_geral,,
+Como fazer bolo de cenoura?,desconhecido,,
+Valeu,conversacao_geral,,
+Preciso ir até Campinas saindo de Paulínia,solicitar_rota,Paulínia,Campinas
+Tem ônibus Vila Nova -> Hospital Municipal?,solicitar_rota,Vila Nova,Hospital Municipal
+Quero assistir um filme agora,desconhecido,,
+Sou de Hortolândia quero ir para Terminal B,solicitar_rota,Hortolândia,Terminal B
+Gostei do atendimento,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Qual ônibus para Terminal B?,solicitar_rota,Vila Nova,Terminal B
+Valeu,conversacao_geral,,
+Quem é você?,conversacao_geral,,
+Quero ir de Vila Nova para Shopping,solicitar_rota,Vila Nova,Shopping
+Você pode me ajudar?,conversacao_geral,,
+Motorista foi educado,feedback,,
+Estou testando,conversacao_geral,,
+O ônibus atrasou 10 minutos,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Como investir em ações?,desconhecido,,
+Oi,conversacao_geral,,
+Sou de Paulínia quero ir para Universidade,solicitar_rota,Paulínia,Universidade
+Me mostra a previsão do tempo de Paris,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+Gostei do atendimento,feedback,,
+Ônibus muito lotado,feedback,,
+Sou de Paulínia quero ir para Praça Matriz,solicitar_rota,Paulínia,Praça Matriz
+Como chego em Terminal B?,solicitar_rota,Centro,Terminal B
+Ônibus muito lotado,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+O ônibus atrasou 10 minutos,feedback,,
+Ar-condicionado não estava funcionando,feedback,,
+Ônibus muito lotado,feedback,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Ônibus muito lotado,feedback,,
+Ar-condicionado não estava funcionando,feedback,,
+Qual seu nome?,conversacao_geral,,
+Como chego em Terminal B?,solicitar_rota,Centro,Terminal B
+Quero ir de Hortolândia para Terminal B,solicitar_rota,Hortolândia,Terminal B
+Como fazer bolo de cenoura?,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+Motorista foi educado,feedback,,
+Sou de Hortolândia quero ir para Shopping,solicitar_rota,Hortolândia,Shopping
+Motorista foi educado,feedback,,
+Rota do ponto Sumaré ao Praça Matriz,solicitar_rota,Sumaré,Praça Matriz
+Como chego em Praça Matriz?,solicitar_rota,Sumaré,Praça Matriz
+Você pode me ajudar?,conversacao_geral,,
+Rota do ponto Terminal A ao Universidade,solicitar_rota,Terminal A,Universidade
+Sugestão: mais horários no pico,feedback,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Quero ir de Vila Nova para Shopping,solicitar_rota,Vila Nova,Shopping
+Qual seu nome?,conversacao_geral,,
+Pode explicar como usar?,conversacao_geral,,
+Como chego em Hospital Municipal?,solicitar_rota,Centro,Hospital Municipal
+Motorista foi educado,feedback,,
+Valeu,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+Sou de Paulínia quero ir para Campinas,solicitar_rota,Paulínia,Campinas
+Tem ônibus Terminal A -> Campinas?,solicitar_rota,Terminal A,Campinas
+Sou de Sumaré quero ir para Campinas,solicitar_rota,Sumaré,Campinas
+Qual ônibus para Universidade?,solicitar_rota,Terminal A,Universidade
+Como investir em ações?,desconhecido,,
+Quem é você?,conversacao_geral,,
+Como chego em Shopping?,solicitar_rota,Sumaré,Shopping
+Motorista foi educado,feedback,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Rota do ponto Hortolândia ao Hospital Municipal,solicitar_rota,Hortolândia,Hospital Municipal
+Preciso ir até Terminal B saindo de Terminal A,solicitar_rota,Terminal A,Terminal B
+Oi,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Tem ônibus Terminal A -> Praça Matriz?,solicitar_rota,Terminal A,Praça Matriz
+Qual o preço do dólar hoje?,desconhecido,,
+Como investir em ações?,desconhecido,,
+Como chego em Hospital Municipal?,solicitar_rota,Terminal A,Hospital Municipal
+Sou de Vila Nova quero ir para Universidade,solicitar_rota,Vila Nova,Universidade
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Quero ir de Centro para Hospital Municipal,solicitar_rota,Centro,Hospital Municipal
+Sou de Hortolândia quero ir para Shopping,solicitar_rota,Hortolândia,Shopping
+Aplicativo travando,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+Rota do ponto Hortolândia ao Terminal B,solicitar_rota,Hortolândia,Terminal B
+Qual ônibus para Terminal B?,solicitar_rota,Sumaré,Terminal B
+Gostei do atendimento,feedback,,
+Oi,conversacao_geral,,
+Motorista foi educado,feedback,,
+Gostei do atendimento,feedback,,
+Valeu,conversacao_geral,,
+Traduza isto para francês,desconhecido,,
+Aplicativo travando,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Traduza isto para francês,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+Tem ônibus Paulínia -> Universidade?,solicitar_rota,Paulínia,Universidade
+Ônibus muito lotado,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Traduza isto para francês,desconhecido,,
+Traduza isto para francês,desconhecido,,
+Traduza isto para francês,desconhecido,,
+Oi,conversacao_geral,,
+Qual ônibus para Terminal B?,solicitar_rota,Terminal A,Terminal B
+Motorista foi educado,feedback,,
+Motorista foi educado,feedback,,
+Qual ônibus para Campinas?,solicitar_rota,Vila Nova,Campinas
+Gostei do atendimento,feedback,,
+Obrigado!,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Rota do ponto Centro ao Universidade,solicitar_rota,Centro,Universidade
+Aplicativo travando,feedback,,
+Motorista foi educado,feedback,,
+Ar-condicionado não estava funcionando,feedback,,
+O ônibus atrasou 10 minutos,feedback,,
+Motorista foi educado,feedback,,
+Sou de Sumaré quero ir para Universidade,solicitar_rota,Sumaré,Universidade
+sudo apt-get install algo,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Oi,conversacao_geral,,
+Preciso ir até Universidade saindo de Paulínia,solicitar_rota,Paulínia,Universidade
+Estou testando,conversacao_geral,,
+Qual seu nome?,conversacao_geral,,
+"Olá, tudo bem?",conversacao_geral,,
+Oi,conversacao_geral,,
+Traduza isto para francês,desconhecido,,
+Gostei do atendimento,feedback,,
+"Olá, tudo bem?",conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+Valeu,conversacao_geral,,
+Preciso ir até Terminal B saindo de Vila Nova,solicitar_rota,Vila Nova,Terminal B
+O ônibus atrasou 10 minutos,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Valeu,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Como investir em ações?,desconhecido,,
+Valeu,conversacao_geral,,
+Como chego em Praça Matriz?,solicitar_rota,Centro,Praça Matriz
+Preciso ir até Shopping saindo de Sumaré,solicitar_rota,Sumaré,Shopping
+Rota do ponto Paulínia ao Universidade,solicitar_rota,Paulínia,Universidade
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Tem ônibus Terminal A -> Hospital Municipal?,solicitar_rota,Terminal A,Hospital Municipal
+Pode explicar como usar?,conversacao_geral,,
+Obrigado!,conversacao_geral,,
+Estou testando,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Aplicativo travando,feedback,,
+Aplicativo travando,feedback,,
+sudo apt-get install algo,desconhecido,,
+Gostei do atendimento,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Sou de Terminal A quero ir para Hospital Municipal,solicitar_rota,Terminal A,Hospital Municipal
+Como fazer bolo de cenoura?,desconhecido,,
+Rota do ponto Hortolândia ao Campinas,solicitar_rota,Hortolândia,Campinas
+Tem ônibus Centro -> Shopping?,solicitar_rota,Centro,Shopping
+Tem ônibus Centro -> Shopping?,solicitar_rota,Centro,Shopping
+Quem é você?,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Traduza isto para francês,desconhecido,,
+Quem é você?,conversacao_geral,,
+Como fazer bolo de cenoura?,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+Traduza isto para francês,desconhecido,,
+O ônibus atrasou 10 minutos,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+O ônibus atrasou 10 minutos,feedback,,
+Quero assistir um filme agora,desconhecido,,
+Valeu,conversacao_geral,,
+Como chego em Campinas?,solicitar_rota,Paulínia,Campinas
+Pode explicar como usar?,conversacao_geral,,
+Tem ônibus Hortolândia -> Praça Matriz?,solicitar_rota,Hortolândia,Praça Matriz
+Ar-condicionado não estava funcionando,feedback,,
+Aplicativo travando,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Preciso ir até Terminal B saindo de Vila Nova,solicitar_rota,Vila Nova,Terminal B
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Sou de Hortolândia quero ir para Campinas,solicitar_rota,Hortolândia,Campinas
+Motorista foi educado,feedback,,
+Ônibus muito lotado,feedback,,
+Motorista foi educado,feedback,,
+Oi,conversacao_geral,,
+Obrigado!,conversacao_geral,,
+Oi,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+Obrigado!,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Valeu,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Como investir em ações?,desconhecido,,
+Motorista foi educado,feedback,,
+Motorista foi educado,feedback,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+Qual seu nome?,conversacao_geral,,
+Quem é você?,conversacao_geral,,
+Qual seu nome?,conversacao_geral,,
+Como fazer bolo de cenoura?,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+Como chego em Shopping?,solicitar_rota,Paulínia,Shopping
+Aplicativo travando,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+Traduza isto para francês,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+Traduza isto para francês,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+Motorista foi educado,feedback,,
+O ônibus atrasou 10 minutos,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Valeu,conversacao_geral,,
+Ar-condicionado não estava funcionando,feedback,,
+Quero ir de Sumaré para Terminal B,solicitar_rota,Sumaré,Terminal B
+Sou de Terminal A quero ir para Terminal B,solicitar_rota,Terminal A,Terminal B
+Qual seu nome?,conversacao_geral,,
+O ônibus atrasou 10 minutos,feedback,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+O ônibus atrasou 10 minutos,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Preciso ir até Shopping saindo de Hortolândia,solicitar_rota,Hortolândia,Shopping
+Obrigado!,conversacao_geral,,
+"Olá, tudo bem?",conversacao_geral,,
+O ônibus atrasou 10 minutos,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Preciso ir até Campinas saindo de Sumaré,solicitar_rota,Sumaré,Campinas
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Preciso ir até Terminal B saindo de Hortolândia,solicitar_rota,Hortolândia,Terminal B
+Valeu,conversacao_geral,,
+Qual ônibus para Terminal B?,solicitar_rota,Hortolândia,Terminal B
+Aplicativo travando,feedback,,
+Ar-condicionado não estava funcionando,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+O ônibus atrasou 10 minutos,feedback,,
+Preciso ir até Shopping saindo de Paulínia,solicitar_rota,Paulínia,Shopping
+Sou de Paulínia quero ir para Shopping,solicitar_rota,Paulínia,Shopping
+Qual ônibus para Hospital Municipal?,solicitar_rota,Hortolândia,Hospital Municipal
+Gostei do atendimento,feedback,,
+Gostei do atendimento,feedback,,
+Quero assistir um filme agora,desconhecido,,
+Obrigado!,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Preciso ir até Universidade saindo de Terminal A,solicitar_rota,Terminal A,Universidade
+Sou de Terminal A quero ir para Shopping,solicitar_rota,Terminal A,Shopping
+Aplicativo travando,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Ônibus muito lotado,feedback,,
+Preciso ir até Shopping saindo de Vila Nova,solicitar_rota,Vila Nova,Shopping
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+"Olá, tudo bem?",conversacao_geral,,
+Valeu,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Qual ônibus para Hospital Municipal?,solicitar_rota,Terminal A,Hospital Municipal
+Estou testando,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Rota do ponto Terminal A ao Terminal B,solicitar_rota,Terminal A,Terminal B
+Sugestão: mais horários no pico,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Ônibus muito lotado,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Preciso ir até Hospital Municipal saindo de Terminal A,solicitar_rota,Terminal A,Hospital Municipal
+Quem é você?,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Rota do ponto Sumaré ao Shopping,solicitar_rota,Sumaré,Shopping
+Sou de Sumaré quero ir para Shopping,solicitar_rota,Sumaré,Shopping
+Quero ir de Hortolândia para Terminal B,solicitar_rota,Hortolândia,Terminal B
+Quem é você?,conversacao_geral,,
+Obrigado!,conversacao_geral,,
+Ar-condicionado não estava funcionando,feedback,,
+Como investir em ações?,desconhecido,,
+Qual ônibus para Praça Matriz?,solicitar_rota,Terminal A,Praça Matriz
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+Obrigado!,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Tem ônibus Sumaré -> Universidade?,solicitar_rota,Sumaré,Universidade
+Ônibus muito lotado,feedback,,
+O ônibus atrasou 10 minutos,feedback,,
+sudo apt-get install algo,desconhecido,,
+Quero ir de Paulínia para Terminal B,solicitar_rota,Paulínia,Terminal B
+Oi,conversacao_geral,,
+Como fazer bolo de cenoura?,desconhecido,,
+Como chego em Universidade?,solicitar_rota,Hortolândia,Universidade
+Quem é você?,conversacao_geral,,
+Qual ônibus para Universidade?,solicitar_rota,Paulínia,Universidade
+Gostei do atendimento,feedback,,
+Como chego em Hospital Municipal?,solicitar_rota,Paulínia,Hospital Municipal
+sudo apt-get install algo,desconhecido,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Como investir em ações?,desconhecido,,
+Aplicativo travando,feedback,,
+Quem é você?,conversacao_geral,,
+Como fazer bolo de cenoura?,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Gostei do atendimento,feedback,,
+Gostei do atendimento,feedback,,
+"Olá, tudo bem?",conversacao_geral,,
+Como fazer bolo de cenoura?,desconhecido,,
+Qual seu nome?,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Qual o preço do dólar hoje?,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+Você pode me ajudar?,conversacao_geral,,
+Valeu,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Aplicativo travando,feedback,,
+Sou de Sumaré quero ir para Shopping,solicitar_rota,Sumaré,Shopping
+Sugestão: mais horários no pico,feedback,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Motorista foi educado,feedback,,
+Valeu,conversacao_geral,,
+Valeu,conversacao_geral,,
+Quero ir de Vila Nova para Universidade,solicitar_rota,Vila Nova,Universidade
+Tem ônibus Hortolândia -> Terminal B?,solicitar_rota,Hortolândia,Terminal B
+Qual o preço do dólar hoje?,desconhecido,,
+Rota do ponto Sumaré ao Campinas,solicitar_rota,Sumaré,Campinas
+sudo apt-get install algo,desconhecido,,
+Como investir em ações?,desconhecido,,
+Sou de Paulínia quero ir para Praça Matriz,solicitar_rota,Paulínia,Praça Matriz
+Traduza isto para francês,desconhecido,,
+Sou de Paulínia quero ir para Universidade,solicitar_rota,Paulínia,Universidade
+Ar-condicionado não estava funcionando,feedback,,
+Tem ônibus Paulínia -> Universidade?,solicitar_rota,Paulínia,Universidade
+Qual seu nome?,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Oi,conversacao_geral,,
+Rota do ponto Centro ao Terminal B,solicitar_rota,Centro,Terminal B
+Pode explicar como usar?,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Como chego em Shopping?,solicitar_rota,Paulínia,Shopping
+Pode explicar como usar?,conversacao_geral,,
+Quem é você?,conversacao_geral,,
+O ônibus atrasou 10 minutos,feedback,,
+Preciso ir até Campinas saindo de Paulínia,solicitar_rota,Paulínia,Campinas
+Oi,conversacao_geral,,
+Rota do ponto Vila Nova ao Campinas,solicitar_rota,Vila Nova,Campinas
+Como fazer bolo de cenoura?,desconhecido,,
+Valeu,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Obrigado!,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Aplicativo travando,feedback,,
+Valeu,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+Obrigado!,conversacao_geral,,
+Motorista foi educado,feedback,,
+Como chego em Campinas?,solicitar_rota,Sumaré,Campinas
+"Olá, tudo bem?",conversacao_geral,,
+Preciso ir até Praça Matriz saindo de Centro,solicitar_rota,Centro,Praça Matriz
+Como investir em ações?,desconhecido,,
+Aplicativo travando,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Ônibus muito lotado,feedback,,
+Motorista foi educado,feedback,,
+Qual ônibus para Praça Matriz?,solicitar_rota,Hortolândia,Praça Matriz
+Quero ir de Centro para Praça Matriz,solicitar_rota,Centro,Praça Matriz
+Oi,conversacao_geral,,
+O ônibus atrasou 10 minutos,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+Sou de Terminal A quero ir para Praça Matriz,solicitar_rota,Terminal A,Praça Matriz
+Você pode me ajudar?,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Motorista foi educado,feedback,,
+Quem é você?,conversacao_geral,,
+Qual o preço do dólar hoje?,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+sudo apt-get install algo,desconhecido,,
+Obrigado!,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Qual seu nome?,conversacao_geral,,
+Você pode me ajudar?,conversacao_geral,,
+Aplicativo travando,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Ônibus muito lotado,feedback,,
+Quem é você?,conversacao_geral,,
+Qual ônibus para Shopping?,solicitar_rota,Terminal A,Shopping
+Estou testando,conversacao_geral,,
+Rota do ponto Sumaré ao Campinas,solicitar_rota,Sumaré,Campinas
+Traduza isto para francês,desconhecido,,
+Estou testando,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Quero assistir um filme agora,desconhecido,,
+Sou de Sumaré quero ir para Terminal B,solicitar_rota,Sumaré,Terminal B
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Qual ônibus para Hospital Municipal?,solicitar_rota,Centro,Hospital Municipal
+Motorista foi educado,feedback,,
+Qual ônibus para Shopping?,solicitar_rota,Centro,Shopping
+Como chego em Praça Matriz?,solicitar_rota,Centro,Praça Matriz
+Você pode me ajudar?,conversacao_geral,,
+Estou testando,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Como chego em Universidade?,solicitar_rota,Hortolândia,Universidade

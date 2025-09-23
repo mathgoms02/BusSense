@@ -1,0 +1,901 @@
+﻿test_case,task,expected,predicted,confidence,source,is_correct
+Obrigado ae,intent_classification,conversacao_geral,conversacao_geral,0.9888253990275175,svm,True
+Esse aplicativo esta travando,intent_classification,feedback,feedback,0.98347024320045,svm,True
+Pode conversar comigo?,intent_classification,conversacao_geral,conversacao_geral,0.9955680958216014,svm,True
+Como chego em Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.9940559014331063,svm,True
+Me fala noticias de quarta,intent_classification,desconhecido,conversacao_geral,0.609873667339299,svm,False
+Houve mudança na rota,intent_classification,feedback,feedback,0.4806529637056254,llm,True
+O ultimo banco do onibus esta quebrado,intent_classification,feedback,feedback,0.9478174618141485,svm,True
+Valeu,intent_classification,conversacao_geral,conversacao_geral,0.9955611380745285,svm,True
+Qual ônibus para Shopping?,intent_classification,solicitar_rota,solicitar_rota,0.9905708680441835,svm,True
+Traduz essa frase,intent_classification,desconhecido,desconhecido,0.9001659185031406,svm,True
+O que é um sudo?,intent_classification,desconhecido,conversacao_geral,0.9390547977509879,svm,False
+Traçar rota para Hospital Municipal,intent_classification,solicitar_rota,solicitar_rota,0.9953819495495417,svm,True
+Qual ônibus para Shopping?,intent_classification,solicitar_rota,solicitar_rota,0.9905708680441835,svm,True
+Testanto aqui,intent_classification,conversacao_geral,conversacao_geral,0.9704695711147929,svm,True
+Sapo faz qual som?,intent_classification,desconhecido,conversacao_geral,0.8958103858917862,svm,False
+Não estou reconhecendo essa rota,intent_classification,feedback,conversacao_geral,0.6755139712488806,svm,False
+Agora estou em horario de pico,intent_classification,feedback,feedback,0.4817500319343377,llm,True
+Qual o ponto mais perto de Praça Matriz?,intent_classification,solicitar_rota,solicitar_rota,0.9953221899112098,svm,True
+Baguete é gostoso?,intent_classification,desconhecido,conversacao_geral,0.876741998124421,svm,False
+Carros é um bom filme?,intent_classification,desconhecido,desconhecido,0.7347081555196745,svm,True
+Rota do ponto Jardim Amanda ao Hospital Municipal,intent_classification,solicitar_rota,solicitar_rota,0.9933392637839203,svm,True
+Como chego em Terminal B?,intent_classification,solicitar_rota,solicitar_rota,0.9947609182586441,svm,True
+Onibus esta super lotado,intent_classification,feedback,feedback,0.8043730501553673,svm,True
+Obrigado!,intent_classification,conversacao_geral,conversacao_geral,0.9955254074425935,svm,True
+Ponto de onibus muito escuro,intent_classification,feedback,feedback,0.9296057840914136,svm,True
+Me fala um filme ai,intent_classification,desconhecido,desconhecido,0.6878344558442923,svm,True
+Existe navegador?,intent_classification,desconhecido,desconhecido,0.9772474139846333,svm,True
+Motorista muito simpático,intent_classification,feedback,feedback,0.9982297598196137,svm,True
+Traçar rota para Hospital Municipal,intent_classification,solicitar_rota,solicitar_rota,0.9953819495495417,svm,True
+A rota mudou do nada,intent_classification,feedback,feedback,0.9515532034334976,svm,True
+Não gostei desse motorista,intent_classification,feedback,feedback,0.9900104221012924,svm,True
+Valeu,intent_classification,conversacao_geral,conversacao_geral,0.9955611380745285,svm,True
+Preciso ir até Praça Matriz saindo de Paulínia,intent_classification,solicitar_rota,solicitar_rota,0.9944562340628705,svm,True
+Ta chovendo em Paris?,intent_classification,desconhecido,desconhecido,0.59673205425157,svm,True
+Saindo de Sumaré indo até Rodoviária,intent_classification,solicitar_rota,solicitar_rota,0.9943865269905338,svm,True
+Parada muito escuro,intent_classification,feedback,feedback,0.9908640393284864,svm,True
+Bom dia,intent_classification,conversacao_geral,conversacao_geral,0.9850082925676289,svm,True
+Como chego em Universidade?,intent_classification,solicitar_rota,solicitar_rota,0.9943754846865619,svm,True
+Como chego em Shopping?,intent_classification,solicitar_rota,solicitar_rota,0.9805856588113976,svm,True
+Ponto sem luz,intent_classification,feedback,feedback,0.5938669316534643,svm,True
+Qual ônibus para Praça Matriz?,intent_classification,solicitar_rota,solicitar_rota,0.9966717004554018,svm,True
+Qual ônibus para Terminal B?,intent_classification,solicitar_rota,solicitar_rota,0.9968847994698925,svm,True
+Traçar rota para Rodoviária,intent_classification,solicitar_rota,solicitar_rota,0.9952938290240617,svm,True
+Qual ônibus para Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.996258257248425,svm,True
+"Olá, tudo bem?",intent_classification,conversacao_geral,conversacao_geral,0.995459468152759,svm,True
+Boa noite,intent_classification,conversacao_geral,conversacao_geral,0.9814878684484581,svm,True
+Me liga,intent_classification,desconhecido,desconhecido,0.8209730935939016,svm,True
+Qual ônibus para Praça Matriz?,intent_classification,solicitar_rota,solicitar_rota,0.9966717004554018,svm,True
+lkjhgfd,intent_classification,desconhecido,conversacao_geral,0.966327799424645,svm,False
+Boa tarde,intent_classification,conversacao_geral,conversacao_geral,0.995404152234563,svm,True
+Motorista foi muito legal,intent_classification,feedback,feedback,0.9975293336705501,svm,True
+Valeu ai,intent_classification,conversacao_geral,conversacao_geral,0.9955710819755419,svm,True
+Sou de Parque das Flores quero ir para Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9958283735502339,svm,True
+Qual o resultado do jogo do Brasil?,intent_classification,desconhecido,desconhecido,0.9944187690787376,svm,True
+Sou de Paulínia quero ir para Universidade,intent_classification,solicitar_rota,solicitar_rota,0.9961955789329373,svm,True
+O que você joga?,intent_classification,desconhecido,conversacao_geral,0.8915368489073483,svm,False
+Sentei em um banco quebrado,intent_classification,feedback,feedback,0.9729632119461283,svm,True
+O aplicativo esta muito bugado,intent_classification,feedback,feedback,0.9882049122351545,svm,True
+Curte um valorant?,intent_classification,desconhecido,conversacao_geral,0.9188161567410496,svm,False
+Peguei muita gente voltando do trabalho agora,intent_classification,feedback,feedback,0.6120098859750307,svm,True
+Qual o ponto mais perto de Rodoviária?,intent_classification,solicitar_rota,solicitar_rota,0.9945181758218707,svm,True
+Qual o ponto mais perto de Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.9957562462749022,svm,True
+Elogio para o motorista da linha 522,intent_classification,feedback,feedback,0.9931100782695195,svm,True
+Quero ir de Terminal A para Shopping,intent_classification,solicitar_rota,solicitar_rota,0.9929067247635354,svm,True
+Qual ônibus para Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.996258257248425,svm,True
+O motorista me atendeu bem,intent_classification,feedback,feedback,0.9600644761242164,svm,True
+Onibus extremamente lotado,intent_classification,feedback,feedback,0.8704386201923753,svm,True
+Linha 701 demorou demais,intent_classification,feedback,feedback,0.9943372813485548,svm,True
+E aí?,intent_classification,conversacao_geral,conversacao_geral,0.9955904140051345,svm,True
+Saindo de Hortolândia indo até Universidade,intent_classification,solicitar_rota,solicitar_rota,0.9951144803365405,svm,True
+Muito obrigado,intent_classification,conversacao_geral,conversacao_geral,0.87948015390717,svm,True
+Quero investir na bolsa,intent_classification,desconhecido,desconhecido,0.9846411028018958,svm,True
+Voce fala alemão?,intent_classification,desconhecido,conversacao_geral,0.9878445768413271,svm,False
+Obrigadinho,intent_classification,conversacao_geral,conversacao_geral,0.9912697752184948,svm,True
+Rota do ponto Jardim Amanda ao Praça Matriz,intent_classification,solicitar_rota,solicitar_rota,0.9931057732352926,svm,True
+Saindo de Vila Nova indo até Campinas,intent_classification,solicitar_rota,solicitar_rota,0.9891744877989405,svm,True
+Quanto é um Fiat Uno?,intent_classification,desconhecido,desconhecido,0.6507097559679843,svm,True
+Qual é o carro mais popular?,intent_classification,desconhecido,desconhecido,0.8377988881900733,svm,True
+Qual a senha do Wi-Fi?,intent_classification,desconhecido,desconhecido,0.9941242776182205,svm,True
+Que jogo esta rolando hoje?,intent_classification,desconhecido,desconhecido,0.7498543761576856,svm,True
+Quem é você?,intent_classification,conversacao_geral,conversacao_geral,0.9956357413120318,svm,True
+Fala comigo,intent_classification,conversacao_geral,conversacao_geral,0.9892498531167222,svm,True
+Peguei o horario de pico,intent_classification,feedback,feedback,0.4627080288965333,llm,True
+Converse comigo,intent_classification,conversacao_geral,conversacao_geral,0.9883607892839684,svm,True
+Tudo bem ai?,intent_classification,conversacao_geral,conversacao_geral,0.9849710343752834,svm,True
+Saindo de Terminal A indo até Praça Matriz,intent_classification,solicitar_rota,solicitar_rota,0.9962295237755784,svm,True
+Tem alguma cadeira barata?,intent_classification,desconhecido,desconhecido,0.5922546559062535,svm,True
+Banco estava desconfortavel,intent_classification,feedback,feedback,0.9243410410007519,svm,True
+Cala a boca,intent_classification,desconhecido,conversacao_geral,0.9111584162833034,svm,False
+Fedendo,intent_classification,desconhecido,desconhecido,0.8209953551800435,svm,True
+Qual ônibus para Aeroporto?,intent_classification,solicitar_rota,solicitar_rota,0.9966910845572912,svm,True
+Aplicativo esta bem ruim,intent_classification,feedback,feedback,0.5039162366952762,llm,True
+Noticias,intent_classification,desconhecido,conversacao_geral,0.8190994914145717,svm,False
+Essa rota não parece a comum,intent_classification,feedback,solicitar_rota,0.6789711827216163,svm,False
+Obrigado,intent_classification,conversacao_geral,conversacao_geral,0.9943057133800167,svm,True
+Rota do ponto Terminal A ao Universidade,intent_classification,solicitar_rota,solicitar_rota,0.9958741092588884,svm,True
+Como investir em ações?,intent_classification,desconhecido,desconhecido,0.9943464671199957,svm,True
+Qual o melhor site de apostas?,intent_classification,desconhecido,solicitar_rota,0.8265630533509007,svm,False
+Como chego em Praça Matriz?,intent_classification,solicitar_rota,solicitar_rota,0.9944769187443168,svm,True
+Tem algum tutorial?,intent_classification,conversacao_geral,conversacao_geral,0.7538369876795953,svm,True
+Tudo certo!,intent_classification,conversacao_geral,conversacao_geral,0.9849962585320785,svm,True
+Saindo de Centro indo até Campinas,intent_classification,solicitar_rota,solicitar_rota,0.9942710629797628,svm,True
+Como chego em Aeroporto?,intent_classification,solicitar_rota,solicitar_rota,0.9944779969935494,svm,True
+Bom dia Bussense,intent_classification,conversacao_geral,conversacao_geral,0.9742969000590261,svm,True
+Ônibus está horrivel,intent_classification,feedback,solicitar_rota,0.7772804041386263,svm,False
+O motorista foi mal educado comigo,intent_classification,feedback,feedback,0.9864309691236822,svm,True
+Olá!,intent_classification,conversacao_geral,conversacao_geral,0.9788443924021973,svm,True
+Qual ônibus para Terminal B?,intent_classification,solicitar_rota,solicitar_rota,0.9968847994698925,svm,True
+Como chego em Shopping?,intent_classification,solicitar_rota,solicitar_rota,0.9805856588113976,svm,True
+Como que usa isso?,intent_classification,conversacao_geral,desconhecido,0.7128292713002119,svm,False
+fale um filme de terror,intent_classification,desconhecido,desconhecido,0.9743859246630472,svm,True
+Saindo de Vila Nova indo até Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9940421802210802,svm,True
+Qual jogo esta passando agora,intent_classification,desconhecido,solicitar_rota,0.7872013485529051,svm,False
+Você tem nome?,intent_classification,conversacao_geral,conversacao_geral,0.9945760167646811,svm,True
+Como chego em Universidade?,intent_classification,solicitar_rota,solicitar_rota,0.9943754846865619,svm,True
+Obrigado demais,intent_classification,conversacao_geral,conversacao_geral,0.7385012418275775,svm,True
+Traçar rota para Terminal B,intent_classification,solicitar_rota,solicitar_rota,0.9954666137138969,svm,True
+Sou de Centro quero ir para Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9969456459647299,svm,True
+Você me passou uma informação errada,intent_classification,feedback,conversacao_geral,0.5560345303752473,svm,False
+Tudo certo?,intent_classification,conversacao_geral,conversacao_geral,0.98223917315892,svm,True
+Qual a capital da alemanha?,intent_classification,desconhecido,desconhecido,0.988957639858539,svm,True
+Maioria dos bancos esta quebrado,intent_classification,feedback,feedback,0.962306936271332,svm,True
+Linha 417 demorou mais que o costume,intent_classification,feedback,feedback,0.9802185879909007,svm,True
+Ajuda por favor,intent_classification,conversacao_geral,conversacao_geral,0.9955158049036555,svm,True
+Onibus tá entupido de gente,intent_classification,feedback,feedback,0.3877055250916805,llm,True
+Não estou entendendo,intent_classification,conversacao_geral,conversacao_geral,0.8610108454456439,svm,True
+Boa noite Bussense,intent_classification,conversacao_geral,conversacao_geral,0.9669149089619694,svm,True
+O ponto de onibus estava sem luz no poste,intent_classification,feedback,feedback,0.8407584130103688,svm,True
+Me passou informação errada,intent_classification,feedback,feedback,0.8666005135933998,svm,True
+Motorista ruim,intent_classification,feedback,feedback,0.9917654399512806,svm,True
+Comandos linux?,intent_classification,desconhecido,feedback,0.5007785834194608,llm,False
+Linha 202 demorou bastante,intent_classification,feedback,feedback,0.9631524838625585,svm,True
+Obrigadão,intent_classification,conversacao_geral,conversacao_geral,0.9946715613833065,svm,True
+Me ouve?,intent_classification,conversacao_geral,conversacao_geral,0.9866318328673463,svm,True
+A parada estava perigosa,intent_classification,feedback,feedback,0.6888322746488914,svm,True
+Preciso ir até Terminal B saindo de Centro,intent_classification,solicitar_rota,solicitar_rota,0.996516883042953,svm,True
+Preciso ir até Hospital Municipal saindo de Parque das Flores,intent_classification,solicitar_rota,solicitar_rota,0.9959345822687075,svm,True
+Você esta funcionando bem?,intent_classification,conversacao_geral,conversacao_geral,0.79885003890096,svm,True
+Estou perdido,intent_classification,feedback,conversacao_geral,0.9725672326386562,svm,False
+Adele,intent_classification,desconhecido,conversacao_geral,0.9760504821295944,svm,False
+Que horas são no Japão?,intent_classification,desconhecido,solicitar_rota,0.9697103412780423,svm,False
+Aplicativo bugado demais,intent_classification,feedback,feedback,0.9652190414988562,svm,True
+Quero assistir um filme agora,intent_classification,desconhecido,desconhecido,0.9942976824382582,svm,True
+Qual a capital da Noruega?,intent_classification,desconhecido,desconhecido,0.9942914081555113,svm,True
+Na escuta?,intent_classification,conversacao_geral,conversacao_geral,0.9485716828338893,svm,True
+Quero ir de Parque das Flores para Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9968899731541002,svm,True
+Opa,intent_classification,conversacao_geral,conversacao_geral,0.966327799424645,svm,True
+Me mostra a previsão do tempo de Paris,intent_classification,desconhecido,desconhecido,0.9944090977385359,svm,True
+Belezinha?,intent_classification,conversacao_geral,conversacao_geral,0.9857260346221919,svm,True
+Saindo de Hortolândia indo até Rodoviária,intent_classification,solicitar_rota,solicitar_rota,0.9950254962697116,svm,True
+Tudo certo ai?,intent_classification,conversacao_geral,conversacao_geral,0.9835066034150257,svm,True
+Me mostra a previsão do tempo de Paris,intent_classification,desconhecido,desconhecido,0.9944090977385359,svm,True
+Tem coisa errada,intent_classification,feedback,conversacao_geral,0.8740532899635941,svm,False
+Preciso de ajuda,intent_classification,conversacao_geral,desconhecido,0.5465242677070864,llm,False
+Preciso ir até Rodoviária saindo de Vila Nova,intent_classification,solicitar_rota,solicitar_rota,0.9935097272493846,svm,True
+Ajuda por favor,intent_classification,conversacao_geral,conversacao_geral,0.9955158049036555,svm,True
+Saindo de Centro indo até Shopping,intent_classification,solicitar_rota,solicitar_rota,0.9929712452006884,svm,True
+Quero assistir um filme agora,intent_classification,desconhecido,desconhecido,0.9942976824382582,svm,True
+Obrigado Bussense,intent_classification,conversacao_geral,conversacao_geral,0.9864633125934534,svm,True
+Abre o navegador,intent_classification,desconhecido,desconhecido,0.9935427517869101,svm,True
+Boa tarde ai viu,intent_classification,conversacao_geral,conversacao_geral,0.9930150993200342,svm,True
+Me escuta bem?,intent_classification,conversacao_geral,conversacao_geral,0.9598343434507558,svm,True
+Qual ônibus para Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.996258257248425,svm,True
+Tem ônibus Terminal A -> Terminal B?,intent_classification,solicitar_rota,solicitar_rota,0.9928425603939028,svm,True
+Olá,intent_classification,conversacao_geral,conversacao_geral,0.9788443924021973,svm,True
+Não conheço essa rua,intent_classification,feedback,conversacao_geral,0.6801002180607267,svm,False
+Sou de Hortolândia quero ir para Praça Matriz,intent_classification,solicitar_rota,solicitar_rota,0.9965549388703869,svm,True
+asdfghjk,intent_classification,desconhecido,desconhecido,0.9941530863017872,svm,True
+Qual o preço do dólar hoje?,intent_classification,desconhecido,desconhecido,0.9942332604197489,svm,True
+Qual o ponto mais perto de Shopping?,intent_classification,solicitar_rota,solicitar_rota,0.9882336549754444,svm,True
+asdfghjk,intent_classification,desconhecido,desconhecido,0.9941530863017872,svm,True
+Mostre notícias de tecnologia,intent_classification,desconhecido,desconhecido,0.9943646509956409,svm,True
+Noite,intent_classification,conversacao_geral,conversacao_geral,0.966327799424645,svm,True
+onibus lotado,intent_classification,feedback,feedback,0.9364257663774973,svm,True
+Qual o preço do dólar hoje?,intent_classification,desconhecido,desconhecido,0.9942332604197489,svm,True
+Linha 101 atrasou,intent_classification,feedback,feedback,0.9835932113745017,svm,True
+E ai?,intent_classification,conversacao_geral,conversacao_geral,0.9775029383422601,svm,True
+Boa noite,intent_classification,conversacao_geral,conversacao_geral,0.9814878684484581,svm,True
+Tem ônibus Paulínia -> Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.996147740970788,svm,True
+Como que usa esse aplicativo?,intent_classification,conversacao_geral,conversacao_geral,0.8066784648820078,svm,True
+Traçar rota para Hospital Municipal,intent_classification,solicitar_rota,solicitar_rota,0.9953819495495417,svm,True
+Mostre notícias de tecnologia,intent_classification,desconhecido,desconhecido,0.9943646509956409,svm,True
+Ta funcionando bem,intent_classification,conversacao_geral,conversacao_geral,0.5660065342137535,svm,True
+Me mostra a previsão do tempo de Paris,intent_classification,desconhecido,desconhecido,0.9944090977385359,svm,True
+Quero ir de Sumaré para Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9968687541634557,svm,True
+Preciso ir até Rodoviária saindo de Vila Nova,intent_classification,solicitar_rota,solicitar_rota,0.9935097272493846,svm,True
+Rota do ponto Hortolândia ao Praça Matriz,intent_classification,solicitar_rota,solicitar_rota,0.9947789949262716,svm,True
+Traduza isto para francês,intent_classification,desconhecido,desconhecido,0.9939856086758008,svm,True
+Motorista muito ruim,intent_classification,feedback,feedback,0.9981898255822442,svm,True
+Tudo certinho?,intent_classification,conversacao_geral,conversacao_geral,0.9762007617658455,svm,True
+Quero ir de Jardim Amanda para Shopping,intent_classification,solicitar_rota,solicitar_rota,0.9857715144702245,svm,True
+Motorista gente fina,intent_classification,feedback,feedback,0.9683334633524888,svm,True
+"Olá, tudo bem?",intent_classification,conversacao_geral,conversacao_geral,0.995459468152759,svm,True
+Como chego em Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.9940559014331063,svm,True
+A linha 701 foi muito bom,intent_classification,feedback,feedback,0.9798890789074951,svm,True
+Qual a capital da Noruega?,intent_classification,desconhecido,desconhecido,0.9942914081555113,svm,True
+Quero ir de Centro para Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9973111886091103,svm,True
+Abre o navegador,intent_classification,desconhecido,desconhecido,0.9935427517869101,svm,True
+O ônibus atrasou 28 minutos,intent_classification,feedback,feedback,0.99356250637396,svm,True
+Quero ir de Sumaré para Campinas,intent_classification,solicitar_rota,solicitar_rota,0.993006826756492,svm,True
+O ponto estava bem escuro,intent_classification,feedback,solicitar_rota,0.5500741701801033,svm,False
+Boa noite,intent_classification,conversacao_geral,conversacao_geral,0.9814878684484581,svm,True
+Rota do ponto Vila Nova ao Hospital Municipal,intent_classification,solicitar_rota,solicitar_rota,0.9943392594184038,svm,True
+Qual a capital da Noruega?,intent_classification,desconhecido,desconhecido,0.9942914081555113,svm,True
+Você é um assistente?,intent_classification,conversacao_geral,conversacao_geral,0.9960287065783217,svm,True
+Parabens para a linha 305,intent_classification,feedback,solicitar_rota,0.5538799360697807,svm,False
+Quem é você?,intent_classification,conversacao_geral,conversacao_geral,0.9956357413120318,svm,True
+Você pode me ajudar?,intent_classification,conversacao_geral,conversacao_geral,0.995643661107929,svm,True
+Qual o ponto mais perto de Rodoviária?,intent_classification,solicitar_rota,solicitar_rota,0.9945181758218707,svm,True
+Qual é o seu propósito?,intent_classification,conversacao_geral,conversacao_geral,0.8808449158270056,svm,True
+E aí?,intent_classification,conversacao_geral,conversacao_geral,0.9955904140051345,svm,True
+Boa tarde,intent_classification,conversacao_geral,conversacao_geral,0.995404152234563,svm,True
+Motorista foi rude,intent_classification,feedback,feedback,0.9918574660444839,svm,True
+Tudo certo?,intent_classification,conversacao_geral,conversacao_geral,0.98223917315892,svm,True
+Morotista dirigiu muito bem,intent_classification,feedback,feedback,0.9768181499665891,svm,True
+Qual ônibus para Universidade?,intent_classification,solicitar_rota,solicitar_rota,0.9964982931756455,svm,True
+Rota do ponto Centro ao Universidade,intent_classification,solicitar_rota,solicitar_rota,0.9960442727161977,svm,True
+Qual ônibus para Universidade?,intent_classification,solicitar_rota,solicitar_rota,0.9964982931756455,svm,True
+Estou testando o sistema,intent_classification,conversacao_geral,conversacao_geral,0.9899635365478865,svm,True
+Boa noite,intent_classification,conversacao_geral,conversacao_geral,0.9814878684484581,svm,True
+Banco todo lascado,intent_classification,feedback,feedback,0.5872573075275904,svm,True
+Estou testando você,intent_classification,conversacao_geral,conversacao_geral,0.9962514625954949,svm,True
+Aplicativo com problema,intent_classification,feedback,feedback,0.7112874552181392,svm,True
+Quem ganhou o Oscar?,intent_classification,desconhecido,desconhecido,0.993718969719786,svm,True
+Onibus todo sujo,intent_classification,feedback,solicitar_rota,0.6260121424377899,svm,False
+Sou de Vila Nova quero ir para Rodoviária,intent_classification,solicitar_rota,solicitar_rota,0.9961170132125549,svm,True
+Quero ir de Terminal A para Praça Matriz,intent_classification,solicitar_rota,solicitar_rota,0.9966156651315797,svm,True
+Só noite,intent_classification,conversacao_geral,conversacao_geral,0.880825770334849,svm,True
+Motorista dirige mal,intent_classification,feedback,feedback,0.9874443140857144,svm,True
+Quero ir de Sumaré para Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9968687541634557,svm,True
+Janela do onibus estava quebrada,intent_classification,feedback,feedback,0.9261400336789652,svm,True
+Você é quem?,intent_classification,conversacao_geral,conversacao_geral,0.9914232490975955,svm,True
+Quero assistir um filme agora,intent_classification,desconhecido,desconhecido,0.9942976824382582,svm,True
+Qual o ponto mais perto de Rodoviária?,intent_classification,solicitar_rota,solicitar_rota,0.9945181758218707,svm,True
+Traçar rota para Rodoviária,intent_classification,solicitar_rota,solicitar_rota,0.9952938290240617,svm,True
+Morotista sorriu pra mim,intent_classification,feedback,feedback,0.824129497448399,svm,True
+Qual o ponto mais perto de Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.9957562462749022,svm,True
+Não entendi,intent_classification,conversacao_geral,conversacao_geral,0.9953730696115469,svm,True
+sudo apt-get install algo,intent_classification,desconhecido,desconhecido,0.9943047061159899,svm,True
+Bastante gente no horario de pico,intent_classification,feedback,feedback,0.5351715997220687,llm,True
+Qual a senha do Wi-Fi?,intent_classification,desconhecido,desconhecido,0.9941242776182205,svm,True
+Aplicativo fechando sozinho,intent_classification,feedback,feedback,0.8391988320769785,svm,True
+Não estou entendendo você,intent_classification,conversacao_geral,conversacao_geral,0.937190683155487,svm,True
+um dois testando,intent_classification,conversacao_geral,conversacao_geral,0.9771765305301953,svm,True
+Tem ônibus Parque das Flores -> Shopping?,intent_classification,solicitar_rota,solicitar_rota,0.9869013684694424,svm,True
+Saindo de Sumaré indo até Praça Matriz,intent_classification,solicitar_rota,solicitar_rota,0.9946618930250803,svm,True
+O onibus estava sem luz,intent_classification,feedback,feedback,0.9303791257900357,svm,True
+Preciso ir até Praça Matriz saindo de Sumaré,intent_classification,solicitar_rota,solicitar_rota,0.9940756728535106,svm,True
+Atrasei 6 minutos hoje,intent_classification,feedback,feedback,0.9438656045554982,svm,True
+Quero assistir um filme agora,intent_classification,desconhecido,desconhecido,0.9942976824382582,svm,True
+Atendimento ótimo,intent_classification,feedback,feedback,0.664192868702227,svm,True
+Ar-condicionado não estava funcionando,intent_classification,feedback,feedback,0.9944543142590545,svm,True
+Traçar rota para Shopping,intent_classification,solicitar_rota,solicitar_rota,0.9843974007764276,svm,True
+O onibus estava quente,intent_classification,feedback,feedback,0.5222940928859758,llm,True
+Me mostra a previsão do tempo de Paris,intent_classification,desconhecido,desconhecido,0.9944090977385359,svm,True
+Traduza isto para francês,intent_classification,desconhecido,desconhecido,0.9939856086758008,svm,True
+Boa tarde,intent_classification,conversacao_geral,conversacao_geral,0.995404152234563,svm,True
+Quero assistir um filme agora,intent_classification,desconhecido,desconhecido,0.9942976824382582,svm,True
+Voce tem nome?,intent_classification,conversacao_geral,conversacao_geral,0.9831651906798226,svm,True
+Como você funciona?,intent_classification,conversacao_geral,conversacao_geral,0.9848081137635694,svm,True
+Posso testar você?,intent_classification,conversacao_geral,conversacao_geral,0.9933734642689548,svm,True
+Boa noite,intent_classification,conversacao_geral,conversacao_geral,0.9814878684484581,svm,True
+Rota do ponto Vila Nova ao Terminal B,intent_classification,solicitar_rota,solicitar_rota,0.9940700304187876,svm,True
+A rota mudou sem aviso prévio,intent_classification,feedback,feedback,0.9897595716401907,svm,True
+Qual o ponto mais perto de Praça Matriz?,intent_classification,solicitar_rota,solicitar_rota,0.9953221899112098,svm,True
+"Olá, tudo bem?",intent_classification,conversacao_geral,conversacao_geral,0.995459468152759,svm,True
+Abre o navegador,intent_classification,desconhecido,desconhecido,0.9935427517869101,svm,True
+Agenda uma reunião amanhã,intent_classification,desconhecido,desconhecido,0.994037224372577,svm,True
+Traduza isto para francês,intent_classification,desconhecido,desconhecido,0.9939856086758008,svm,True
+Tem ônibus Sumaré -> Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.9951957560495551,svm,True
+Apenas tarde,intent_classification,conversacao_geral,conversacao_geral,0.7707842586932482,svm,True
+Motorista estranho,intent_classification,feedback,feedback,0.9692006736891466,svm,True
+sudo apt-get install algo,intent_classification,desconhecido,desconhecido,0.9943047061159899,svm,True
+Qual ônibus para Campinas?,intent_classification,solicitar_rota,solicitar_rota,0.9916409232173845,svm,True
+Informações erradas do app,intent_classification,feedback,feedback,0.8907116582936173,svm,True
+O onibus estava todo molhado por dentro,intent_classification,feedback,solicitar_rota,0.5556807442553936,svm,False
+Abre o navegador,intent_classification,desconhecido,desconhecido,0.9935427517869101,svm,True
+O linha que você falou não esta correta,intent_classification,feedback,conversacao_geral,0.9175577300076583,svm,False
+Motorista horrivel,intent_classification,feedback,feedback,0.9886018305763867,svm,True
+Como chego em Rodoviária?,intent_classification,solicitar_rota,solicitar_rota,0.9946146300637196,svm,True
+Explique essa aplicativo pra mim,intent_classification,conversacao_geral,desconhecido,0.467713360889812,llm,False
+Estou perdido,intent_classification,feedback,conversacao_geral,0.9725672326386562,svm,False
+Preciso ir até Shopping saindo de Parque das Flores,intent_classification,solicitar_rota,solicitar_rota,0.9922021616929423,svm,True
+Gente perigosa no onibus a noite,intent_classification,feedback,feedback,0.5575933123987333,svm,True
+Banco rasgado,intent_classification,feedback,feedback,0.5301941132858575,llm,True
+Opa,intent_classification,conversacao_geral,conversacao_geral,0.966327799424645,svm,True
+Rota do ponto Jardim Amanda ao Hospital Municipal,intent_classification,solicitar_rota,solicitar_rota,0.9933392637839203,svm,True
+Me ligue mais tarde,intent_classification,desconhecido,desconhecido,0.9941439444813126,svm,True
+Quero ir de Hortolândia para Shopping,intent_classification,solicitar_rota,solicitar_rota,0.9932920652824874,svm,True
+Tem ônibus Centro -> Shopping?,intent_classification,solicitar_rota,solicitar_rota,0.9864100524607474,svm,True
+Me mostra a previsão do tempo de Paris,intent_classification,desconhecido,desconhecido,0.9944090977385359,svm,True
+Instale esse programa,intent_classification,desconhecido,desconhecido,0.9943567343815678,svm,True
+Elogio para a linha 305,intent_classification,feedback,feedback,0.9941695872975335,svm,True
+Bom dia,intent_classification,conversacao_geral,conversacao_geral,0.9850082925676289,svm,True
+Socorro,intent_classification,conversacao_geral,conversacao_geral,0.9170388923124019,svm,True
+Me ligue mais tarde,intent_classification,desconhecido,desconhecido,0.9941439444813126,svm,True
+Atendimento de qualidade,intent_classification,feedback,feedback,0.7916175116794685,svm,True
+Quero comprar um carro,intent_classification,desconhecido,desconhecido,0.9943936616612331,svm,True
+Agenda uma reunião amanhã,intent_classification,desconhecido,desconhecido,0.994037224372577,svm,True
+Qual o ponto mais perto de Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.9957562462749022,svm,True
+Sou de Centro quero ir para Shopping,intent_classification,solicitar_rota,solicitar_rota,0.9939842120708158,svm,True
+Morotista corre demais,intent_classification,feedback,feedback,0.9864235721977309,svm,True
+Como chego em Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.9940559014331063,svm,True
+Oba,intent_classification,conversacao_geral,conversacao_geral,0.966327799424645,svm,True
+Quero assistir um filme agora,intent_classification,desconhecido,desconhecido,0.9942976824382582,svm,True
+Sou de Parque das Flores quero ir para Shopping,intent_classification,solicitar_rota,solicitar_rota,0.9919470159829026,svm,True
+O onibus esta atrasado,intent_classification,feedback,feedback,0.8705642387064648,svm,True
+Pode me ajudar?,intent_classification,conversacao_geral,conversacao_geral,0.9900631081662438,svm,True
+Me ajude,intent_classification,conversacao_geral,conversacao_geral,0.9758238059872838,svm,True
+Rota do ponto Centro ao Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9961304941093649,svm,True
+Saindo de Terminal A indo até Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9962976646296817,svm,True
+Voce me fez errar,intent_classification,feedback,conversacao_geral,0.973775744575712,svm,False
+Saindo de Jardim Amanda indo até Terminal B,intent_classification,solicitar_rota,solicitar_rota,0.9924879957621257,svm,True
+Ta me escutando bem?,intent_classification,conversacao_geral,conversacao_geral,0.9746898038575144,svm,True
+Você pode me ajudar?,intent_classification,conversacao_geral,conversacao_geral,0.995643661107929,svm,True
+Ajuda me,intent_classification,conversacao_geral,conversacao_geral,0.9798267631127908,svm,True
+Qual ônibus para Rodoviária?,intent_classification,solicitar_rota,solicitar_rota,0.9967384100208206,svm,True
+pode tocar musica,intent_classification,desconhecido,desconhecido,0.9942403077297935,svm,True
+Você é um assistente virtual?,intent_classification,conversacao_geral,conversacao_geral,0.9947303631771417,svm,True
+Oi Oi,intent_classification,conversacao_geral,conversacao_geral,0.9217588808300472,svm,True
+Motorista simpático,intent_classification,feedback,feedback,0.9900559448230289,svm,True
+Preciso ir até Aeroporto saindo de Centro,intent_classification,solicitar_rota,solicitar_rota,0.9975095628938063,svm,True
+Bom dia meu querido,intent_classification,conversacao_geral,conversacao_geral,0.9724327603834663,svm,True
+Ajude,intent_classification,conversacao_geral,conversacao_geral,0.9788323402092449,svm,True
+Socorro,intent_classification,conversacao_geral,conversacao_geral,0.9170388923124019,svm,True
+Fale comigo,intent_classification,conversacao_geral,conversacao_geral,0.9859520470693187,svm,True
+Qual o ponto mais perto de Terminal B?,intent_classification,solicitar_rota,solicitar_rota,0.9953174143148732,svm,True
+E aí?,intent_classification,conversacao_geral,conversacao_geral,0.9955904140051345,svm,True
+Agenda uma reunião amanhã,intent_classification,desconhecido,desconhecido,0.994037224372577,svm,True
+pode tocar musica,intent_classification,desconhecido,desconhecido,0.9942403077297935,svm,True
+Você falou uma informação errada ai,intent_classification,feedback,conversacao_geral,0.6736850065005543,svm,False
+Morotista podre,intent_classification,feedback,feedback,0.5378418999211912,llm,True
+Valeu,intent_classification,conversacao_geral,conversacao_geral,0.9955611380745285,svm,True
+Informação errada,intent_classification,feedback,feedback,0.8921908903287216,svm,True
+Gostei do atendimento,intent_classification,feedback,feedback,0.9942434871774202,svm,True
+Como investir em ações?,intent_classification,desconhecido,desconhecido,0.9943464671199957,svm,True
+Quero comprar um carro,intent_classification,desconhecido,desconhecido,0.9943936616612331,svm,True
+Ar-condicionado não estava funcionando,intent_classification,feedback,feedback,0.9944543142590545,svm,True
+Mostre notícias de tecnologia,intent_classification,desconhecido,desconhecido,0.9943646509956409,svm,True
+Sugestão: mais horários no pico,intent_classification,feedback,feedback,0.9944316950121936,svm,True
+Qual a capital da Noruega?,intent_classification,desconhecido,desconhecido,0.9942914081555113,svm,True
+Traçar rota para Campinas,intent_classification,solicitar_rota,solicitar_rota,0.9886892215813136,svm,True
+Informação do app não confere,intent_classification,feedback,feedback,0.9945393737493552,svm,True
+Quem ganhou o Oscar?,intent_classification,desconhecido,desconhecido,0.993718969719786,svm,True
+Tem ônibus Vila Nova -> Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.9943176811098966,svm,True
+Informação do app não confere,intent_classification,feedback,feedback,0.9945393737493552,svm,True
+asdfghjk,intent_classification,desconhecido,desconhecido,0.9941530863017872,svm,True
+Qual ônibus para Campinas?,intent_classification,solicitar_rota,solicitar_rota,0.9916409232173845,svm,True
+Boa noite,intent_classification,conversacao_geral,conversacao_geral,0.9814878684484581,svm,True
+Rota do ponto Terminal A ao Universidade,intent_classification,solicitar_rota,solicitar_rota,0.9958741092588884,svm,True
+Linha 522 demorou demais,intent_classification,feedback,feedback,0.9952233312953384,svm,True
+Quero assistir um filme agora,intent_classification,desconhecido,desconhecido,0.9942976824382582,svm,True
+Quero ir de Sumaré para Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9968687541634557,svm,True
+Valeu,intent_classification,conversacao_geral,conversacao_geral,0.9955611380745285,svm,True
+Como fazer bolo de cenoura?,intent_classification,desconhecido,desconhecido,0.994267260754445,svm,True
+Saindo de Hortolândia indo até Hospital Municipal,intent_classification,solicitar_rota,solicitar_rota,0.9952339460247589,svm,True
+Me mostra a previsão do tempo de Paris,intent_classification,desconhecido,desconhecido,0.9944090977385359,svm,True
+Motorista foi educado,intent_classification,feedback,feedback,0.9945629136094304,svm,True
+Mostre notícias de tecnologia,intent_classification,desconhecido,desconhecido,0.9943646509956409,svm,True
+Banco quebrado no fundo,intent_classification,feedback,feedback,0.9944642930157938,svm,True
+Como fazer bolo de cenoura?,intent_classification,desconhecido,desconhecido,0.994267260754445,svm,True
+Como investir em ações?,intent_classification,desconhecido,desconhecido,0.9943464671199957,svm,True
+Você é um assistente?,intent_classification,conversacao_geral,conversacao_geral,0.9960287065783217,svm,True
+Traçar rota para Praça Matriz,intent_classification,solicitar_rota,solicitar_rota,0.9946601593941828,svm,True
+Sou de Vila Nova quero ir para Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9958599534379378,svm,True
+Motorista foi educado,intent_classification,feedback,feedback,0.9945629136094304,svm,True
+E aí?,intent_classification,conversacao_geral,conversacao_geral,0.9955904140051345,svm,True
+Rota mudou sem aviso,intent_classification,feedback,feedback,0.9943586207862244,svm,True
+Beleza?,intent_classification,conversacao_geral,conversacao_geral,0.9954882612855536,svm,True
+Pode explicar como usar?,intent_classification,conversacao_geral,conversacao_geral,0.9956145410359206,svm,True
+Qual ônibus para Terminal B?,intent_classification,solicitar_rota,solicitar_rota,0.9968847994698925,svm,True
+Sou de Jardim Amanda quero ir para Terminal B,intent_classification,solicitar_rota,solicitar_rota,0.993976292458043,svm,True
+"Olá, tudo bem?",intent_classification,conversacao_geral,conversacao_geral,0.995459468152759,svm,True
+Boa tarde,intent_classification,conversacao_geral,conversacao_geral,0.995404152234563,svm,True
+Tem ônibus Jardim Amanda -> Universidade?,intent_classification,solicitar_rota,solicitar_rota,0.9929794830556197,svm,True
+Valeu,intent_classification,conversacao_geral,conversacao_geral,0.9955611380745285,svm,True
+Aplicativo travando,intent_classification,feedback,feedback,0.9840715301807174,svm,True
+Bom dia,intent_classification,conversacao_geral,conversacao_geral,0.9850082925676289,svm,True
+Rota do ponto Hortolândia ao Praça Matriz,intent_classification,solicitar_rota,solicitar_rota,0.9947789949262716,svm,True
+Você é um assistente?,intent_classification,conversacao_geral,conversacao_geral,0.9960287065783217,svm,True
+Qual o ponto mais perto de Rodoviária?,intent_classification,solicitar_rota,solicitar_rota,0.9945181758218707,svm,True
+E aí?,intent_classification,conversacao_geral,conversacao_geral,0.9955904140051345,svm,True
+Gostei do atendimento,intent_classification,feedback,feedback,0.9942434871774202,svm,True
+Aplicativo travando,intent_classification,feedback,feedback,0.9840715301807174,svm,True
+Qual o ponto mais perto de Terminal B?,intent_classification,solicitar_rota,solicitar_rota,0.9953174143148732,svm,True
+Instale esse programa,intent_classification,desconhecido,desconhecido,0.9943567343815678,svm,True
+Ajuda por favor,intent_classification,conversacao_geral,conversacao_geral,0.9955158049036555,svm,True
+Aplicativo travando,intent_classification,feedback,feedback,0.9840715301807174,svm,True
+Como chego em Terminal B?,intent_classification,solicitar_rota,solicitar_rota,0.9947609182586441,svm,True
+Informação do app não confere,intent_classification,feedback,feedback,0.9945393737493552,svm,True
+Qual o preço do dólar hoje?,intent_classification,desconhecido,desconhecido,0.9942332604197489,svm,True
+Estou testando,intent_classification,conversacao_geral,conversacao_geral,0.9955762642253894,svm,True
+Banco quebrado no fundo,intent_classification,feedback,feedback,0.9944642930157938,svm,True
+Estou testando,intent_classification,conversacao_geral,conversacao_geral,0.9955762642253894,svm,True
+Como funciona você?,intent_classification,conversacao_geral,conversacao_geral,0.9951041777974744,svm,True
+E aí?,intent_classification,conversacao_geral,conversacao_geral,0.9955904140051345,svm,True
+Preciso ir até Rodoviária saindo de Hortolândia,intent_classification,solicitar_rota,solicitar_rota,0.9945502946472371,svm,True
+Quero ir de Sumaré para Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9968687541634557,svm,True
+Não gostei do motorista,intent_classification,feedback,feedback,0.995316753413964,svm,True
+Como investir em ações?,intent_classification,desconhecido,desconhecido,0.9943464671199957,svm,True
+Linha 522 demorou demais,intent_classification,feedback,feedback,0.9952233312953384,svm,True
+sudo apt-get install algo,intent_classification,desconhecido,desconhecido,0.9943047061159899,svm,True
+Ajuda por favor,intent_classification,conversacao_geral,conversacao_geral,0.9955158049036555,svm,True
+asdfghjk,intent_classification,desconhecido,desconhecido,0.9941530863017872,svm,True
+Traduza isto para francês,intent_classification,desconhecido,desconhecido,0.9939856086758008,svm,True
+Quem é você?,intent_classification,conversacao_geral,conversacao_geral,0.9956357413120318,svm,True
+Qual ônibus para Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.996258257248425,svm,True
+Quero comprar um carro,intent_classification,desconhecido,desconhecido,0.9943936616612331,svm,True
+Elogio para a linha 101,intent_classification,feedback,feedback,0.9945823061971396,svm,True
+"Olá, tudo bem?",intent_classification,conversacao_geral,conversacao_geral,0.995459468152759,svm,True
+Estou testando o sistema,intent_classification,conversacao_geral,conversacao_geral,0.9899635365478865,svm,True
+Qual o ponto mais perto de Rodoviária?,intent_classification,solicitar_rota,solicitar_rota,0.9945181758218707,svm,True
+"Olá, tudo bem?",intent_classification,conversacao_geral,conversacao_geral,0.995459468152759,svm,True
+Sou de Hortolândia quero ir para Terminal B,intent_classification,solicitar_rota,solicitar_rota,0.9966083481036665,svm,True
+Sou de Paulínia quero ir para Rodoviária,intent_classification,solicitar_rota,solicitar_rota,0.9961414547548558,svm,True
+Informação do app não confere,intent_classification,feedback,feedback,0.9945393737493552,svm,True
+Informação do app não confere,intent_classification,feedback,feedback,0.9945393737493552,svm,True
+Qual o ponto mais perto de Universidade?,intent_classification,solicitar_rota,solicitar_rota,0.9956777413899993,svm,True
+Como funciona você?,intent_classification,conversacao_geral,conversacao_geral,0.9951041777974744,svm,True
+Traçar rota para Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9951985107116802,svm,True
+Como chego em Praça Matriz?,intent_classification,solicitar_rota,solicitar_rota,0.9944769187443168,svm,True
+Pode explicar como usar?,intent_classification,conversacao_geral,conversacao_geral,0.9956145410359206,svm,True
+Não gostei do motorista,intent_classification,feedback,feedback,0.995316753413964,svm,True
+Ônibus muito lotado,intent_classification,feedback,feedback,0.9944713696477772,svm,True
+Parada sem iluminação,intent_classification,feedback,feedback,0.9938174688170892,svm,True
+Aplicativo travando,intent_classification,feedback,feedback,0.9840715301807174,svm,True
+Aplicativo travando,intent_classification,feedback,feedback,0.9840715301807174,svm,True
+Saindo de Sumaré indo até Campinas,intent_classification,solicitar_rota,solicitar_rota,0.9893611547336435,svm,True
+Quero ir de Parque das Flores para Rodoviária,intent_classification,solicitar_rota,solicitar_rota,0.9969862808440918,svm,True
+Qual ônibus para Aeroporto?,intent_classification,solicitar_rota,solicitar_rota,0.9966910845572912,svm,True
+pode tocar musica,intent_classification,desconhecido,desconhecido,0.9942403077297935,svm,True
+Preciso ir até Terminal B saindo de Paulínia,intent_classification,solicitar_rota,solicitar_rota,0.9945125291771447,svm,True
+Quero assistir um filme agora,intent_classification,desconhecido,desconhecido,0.9942976824382582,svm,True
+Motorista foi educado,intent_classification,feedback,feedback,0.9945629136094304,svm,True
+Não gostei do motorista,intent_classification,feedback,feedback,0.995316753413964,svm,True
+O ônibus atrasou 17 minutos,intent_classification,feedback,feedback,0.9959279204621141,svm,True
+Banco quebrado no fundo,intent_classification,feedback,feedback,0.9944642930157938,svm,True
+Beleza?,intent_classification,conversacao_geral,conversacao_geral,0.9954882612855536,svm,True
+Agenda uma reunião amanhã,intent_classification,desconhecido,desconhecido,0.994037224372577,svm,True
+Não gostei do motorista,intent_classification,feedback,feedback,0.995316753413964,svm,True
+Traçar rota para Shopping,intent_classification,solicitar_rota,solicitar_rota,0.9843974007764276,svm,True
+Tudo certo?,intent_classification,conversacao_geral,conversacao_geral,0.98223917315892,svm,True
+Você pode me ajudar?,intent_classification,conversacao_geral,conversacao_geral,0.995643661107929,svm,True
+Parada sem iluminação,intent_classification,feedback,feedback,0.9938174688170892,svm,True
+Como investir em ações?,intent_classification,desconhecido,desconhecido,0.9943464671199957,svm,True
+Como chego em Praça Matriz?,intent_classification,solicitar_rota,solicitar_rota,0.9944769187443168,svm,True
+Quem é você?,intent_classification,conversacao_geral,conversacao_geral,0.9956357413120318,svm,True
+pode tocar musica,intent_classification,desconhecido,desconhecido,0.9942403077297935,svm,True
+Rota do ponto Sumaré ao Hospital Municipal,intent_classification,solicitar_rota,solicitar_rota,0.9944205857271923,svm,True
+Me ligue mais tarde,intent_classification,desconhecido,desconhecido,0.9941439444813126,svm,True
+Abre o navegador,intent_classification,desconhecido,desconhecido,0.9935427517869101,svm,True
+Parada sem iluminação,intent_classification,feedback,feedback,0.9938174688170892,svm,True
+Quero comprar um carro,intent_classification,desconhecido,desconhecido,0.9943936616612331,svm,True
+Informação do app não confere,intent_classification,feedback,feedback,0.9945393737493552,svm,True
+Linha 701 demorou demais,intent_classification,feedback,feedback,0.9943372813485548,svm,True
+Sou de Parque das Flores quero ir para Terminal B,intent_classification,solicitar_rota,solicitar_rota,0.9962224368545378,svm,True
+Aplicativo travando,intent_classification,feedback,feedback,0.9840715301807174,svm,True
+Traçar rota para Shopping,intent_classification,solicitar_rota,solicitar_rota,0.9843974007764276,svm,True
+Como chego em Universidade?,intent_classification,solicitar_rota,solicitar_rota,0.9943754846865619,svm,True
+Traçar rota para Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9951985107116802,svm,True
+Aplicativo travando,intent_classification,feedback,feedback,0.9840715301807174,svm,True
+Qual o ponto mais perto de Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.9957562462749022,svm,True
+Qual o ponto mais perto de Aeroporto?,intent_classification,solicitar_rota,solicitar_rota,0.9946104117436182,svm,True
+Preciso ir até Praça Matriz saindo de Hortolândia,intent_classification,solicitar_rota,solicitar_rota,0.994749422997483,svm,True
+Informação do app não confere,intent_classification,feedback,feedback,0.9945393737493552,svm,True
+Você pode me ajudar?,intent_classification,conversacao_geral,conversacao_geral,0.995643661107929,svm,True
+Tem ônibus Centro -> Universidade?,intent_classification,solicitar_rota,solicitar_rota,0.9957818687369894,svm,True
+Rota mudou sem aviso,intent_classification,feedback,feedback,0.9943586207862244,svm,True
+Qual ônibus para Praça Matriz?,intent_classification,solicitar_rota,solicitar_rota,0.9966717004554018,svm,True
+pode tocar musica,intent_classification,desconhecido,desconhecido,0.9942403077297935,svm,True
+Quero ir de Paulínia para Terminal B,intent_classification,solicitar_rota,solicitar_rota,0.9972091113628322,svm,True
+Você é um assistente?,intent_classification,conversacao_geral,conversacao_geral,0.9960287065783217,svm,True
+Tudo certo?,intent_classification,conversacao_geral,conversacao_geral,0.98223917315892,svm,True
+Traçar rota para Shopping,intent_classification,solicitar_rota,solicitar_rota,0.9843974007764276,svm,True
+Me mostra a previsão do tempo de Paris,intent_classification,desconhecido,desconhecido,0.9944090977385359,svm,True
+Me mostra a previsão do tempo de Paris,intent_classification,desconhecido,desconhecido,0.9944090977385359,svm,True
+Quem ganhou o Oscar?,intent_classification,desconhecido,desconhecido,0.993718969719786,svm,True
+Qual a senha do Wi-Fi?,intent_classification,desconhecido,desconhecido,0.9941242776182205,svm,True
+Elogio para a linha 522,intent_classification,feedback,feedback,0.9939206215622948,svm,True
+Sugestão: mais horários no pico,intent_classification,feedback,feedback,0.9944316950121936,svm,True
+Mostre notícias de tecnologia,intent_classification,desconhecido,desconhecido,0.9943646509956409,svm,True
+Qual ônibus para Hospital Municipal?,intent_classification,solicitar_rota,solicitar_rota,0.996258257248425,svm,True
+Tá me ouvindo?,intent_classification,conversacao_geral,conversacao_geral,0.9955239176842184,svm,True
+Quem ganhou o Oscar?,intent_classification,desconhecido,desconhecido,0.993718969719786,svm,True
+sudo apt-get install algo,intent_classification,desconhecido,desconhecido,0.9943047061159899,svm,True
+Agenda uma reunião amanhã,intent_classification,desconhecido,desconhecido,0.994037224372577,svm,True
+E aí?,intent_classification,conversacao_geral,conversacao_geral,0.9955904140051345,svm,True
+Quero assistir um filme agora,intent_classification,desconhecido,desconhecido,0.9942976824382582,svm,True
+Qual o ponto mais perto de Rodoviária?,intent_classification,solicitar_rota,solicitar_rota,0.9945181758218707,svm,True
+Me mostra a previsão do tempo de Paris,intent_classification,desconhecido,desconhecido,0.9944090977385359,svm,True
+Sugestão: mais horários no pico,intent_classification,feedback,feedback,0.9944316950121936,svm,True
+Ajuda por favor,intent_classification,conversacao_geral,conversacao_geral,0.9955158049036555,svm,True
+Me mostra a previsão do tempo de Paris,intent_classification,desconhecido,desconhecido,0.9944090977385359,svm,True
+sudo apt-get install algo,intent_classification,desconhecido,desconhecido,0.9943047061159899,svm,True
+Oi,intent_classification,conversacao_geral,conversacao_geral,0.966327799424645,svm,True
+Informação do app não confere,intent_classification,feedback,feedback,0.9945393737493552,svm,True
+Tem ônibus Parque das Flores -> Terminal B?,intent_classification,solicitar_rota,solicitar_rota,0.9947173667116496,svm,True
+Valeu,intent_classification,conversacao_geral,conversacao_geral,0.9955611380745285,svm,True
+Como chego em Shopping?,intent_classification,solicitar_rota,solicitar_rota,0.9805856588113976,svm,True
+Quem ganhou o Oscar?,intent_classification,desconhecido,desconhecido,0.993718969719786,svm,True
+Beleza?,intent_classification,conversacao_geral,conversacao_geral,0.9954882612855536,svm,True
+Qual o ponto mais perto de Campinas?,intent_classification,solicitar_rota,solicitar_rota,0.9910286897796389,svm,True
+Ônibus muito lotado,intent_classification,feedback,feedback,0.9944713696477772,svm,True
+Como investir em ações?,intent_classification,desconhecido,desconhecido,0.9943464671199957,svm,True
+Traçar rota para Universidade,intent_classification,solicitar_rota,solicitar_rota,0.9953706475370835,svm,True
+E aí?,intent_classification,conversacao_geral,conversacao_geral,0.9955904140051345,svm,True
+Me ligue mais tarde,intent_classification,desconhecido,desconhecido,0.9941439444813126,svm,True
+Ar-condicionado não estava funcionando,intent_classification,feedback,feedback,0.9944543142590545,svm,True
+Mostre notícias de tecnologia,intent_classification,desconhecido,desconhecido,0.9943646509956409,svm,True
+Informação do app não confere,intent_classification,feedback,feedback,0.9945393737493552,svm,True
+asdfghjk,intent_classification,desconhecido,desconhecido,0.9941530863017872,svm,True
+Sou de Hortolândia quero ir para Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9959506242616837,svm,True
+Saindo de Vila Nova indo até Universidade,intent_classification,solicitar_rota,solicitar_rota,0.9943077970341595,svm,True
+Ajuda por favor,intent_classification,conversacao_geral,conversacao_geral,0.9955158049036555,svm,True
+O ônibus atrasou 12 minutos,intent_classification,feedback,feedback,0.9933563784563156,svm,True
+Mostre notícias de tecnologia,intent_classification,desconhecido,desconhecido,0.9943646509956409,svm,True
+Informação do app não confere,intent_classification,feedback,feedback,0.9945393737493552,svm,True
+Sou de Vila Nova quero ir para Shopping,intent_classification,solicitar_rota,solicitar_rota,0.9915546148889969,svm,True
+Elogio para a linha 701,intent_classification,feedback,feedback,0.993972334410747,svm,True
+Obrigado!,intent_classification,conversacao_geral,conversacao_geral,0.9955254074425935,svm,True
+Preciso ir até Universidade saindo de Jardim Amanda,intent_classification,solicitar_rota,solicitar_rota,0.993187194461241,svm,True
+Aplicativo travando,intent_classification,feedback,feedback,0.9840715301807174,svm,True
+Você é um assistente?,intent_classification,conversacao_geral,conversacao_geral,0.9960287065783217,svm,True
+Gostei do atendimento,intent_classification,feedback,feedback,0.9942434871774202,svm,True
+Banco quebrado no fundo,intent_classification,feedback,feedback,0.9944642930157938,svm,True
+Pode conversar comigo?,intent_classification,conversacao_geral,conversacao_geral,0.9955680958216014,svm,True
+pode tocar musica,intent_classification,desconhecido,desconhecido,0.9942403077297935,svm,True
+Me ligue mais tarde,intent_classification,desconhecido,desconhecido,0.9941439444813126,svm,True
+Estou testando,intent_classification,conversacao_geral,conversacao_geral,0.9955762642253894,svm,True
+Agenda uma reunião amanhã,intent_classification,desconhecido,desconhecido,0.994037224372577,svm,True
+Não entendi,intent_classification,conversacao_geral,conversacao_geral,0.9953730696115469,svm,True
+O ônibus atrasou 14 minutos,intent_classification,feedback,feedback,0.9937526601639138,svm,True
+Gostei do atendimento,intent_classification,feedback,feedback,0.9942434871774202,svm,True
+Como investir em ações?,intent_classification,desconhecido,desconhecido,0.9943464671199957,svm,True
+Preciso ir até Praça Matriz saindo de Jardim Amanda,intent_classification,solicitar_rota,solicitar_rota,0.992546570351625,svm,True
+Qual o resultado do jogo do Brasil?,intent_classification,desconhecido,desconhecido,0.9944187690787376,svm,True
+Banco quebrado no fundo,intent_classification,feedback,feedback,0.9944642930157938,svm,True
+Como fazer bolo de cenoura?,intent_classification,desconhecido,desconhecido,0.994267260754445,svm,True
+Não gostei do motorista,intent_classification,feedback,feedback,0.995316753413964,svm,True
+Ônibus muito lotado,intent_classification,feedback,feedback,0.9944713696477772,svm,True
+Tá me ouvindo?,intent_classification,conversacao_geral,conversacao_geral,0.9955239176842184,svm,True
+Pode conversar comigo?,intent_classification,conversacao_geral,conversacao_geral,0.9955680958216014,svm,True
+Traçar rota para Campinas,intent_classification,solicitar_rota,solicitar_rota,0.9886892215813136,svm,True
+asdfghjk,intent_classification,desconhecido,desconhecido,0.9941530863017872,svm,True
+Ônibus muito lotado,intent_classification,feedback,feedback,0.9944713696477772,svm,True
+Sugestão: mais horários no pico,intent_classification,feedback,feedback,0.9944316950121936,svm,True
+Qual ônibus para Aeroporto?,intent_classification,solicitar_rota,solicitar_rota,0.9966910845572912,svm,True
+pode tocar musica,intent_classification,desconhecido,desconhecido,0.9942403077297935,svm,True
+Me ligue mais tarde,intent_classification,desconhecido,desconhecido,0.9941439444813126,svm,True
+Ar-condicionado não estava funcionando,intent_classification,feedback,feedback,0.9944543142590545,svm,True
+Você é um assistente?,intent_classification,conversacao_geral,conversacao_geral,0.9960287065783217,svm,True
+vc joga?,intent_classification,desconhecido,desconhecido,0.9940110241114777,svm,True
+Qual ônibus para Rodoviária?,intent_classification,solicitar_rota,solicitar_rota,0.9967384100208206,svm,True
+Oi,intent_classification,conversacao_geral,conversacao_geral,0.966327799424645,svm,True
+Traçar rota para Aeroporto,intent_classification,solicitar_rota,solicitar_rota,0.9951985107116802,svm,True
+Como investir em ações?,intent_classification,desconhecido,desconhecido,0.9943464671199957,svm,True
+Tem ônibus Vila Nova -> Aeroporto?,intent_classification,solicitar_rota,solicitar_rota,0.9931919838560255,svm,True
+Sou de Parque das Flores quero ir para Praça Matriz,intent_classification,solicitar_rota,solicitar_rota,0.9961785655104619,svm,True
+Qual o resultado do jogo do Brasil?,intent_classification,desconhecido,desconhecido,0.9944187690787376,svm,True
+Não entendi,intent_classification,conversacao_geral,conversacao_geral,0.9953730696115469,svm,True
+"Olá, tudo bem?",intent_classification,conversacao_geral,conversacao_geral,0.995459468152759,svm,True
+O ônibus atrasou 13 minutos,intent_classification,feedback,feedback,0.996202697124565,svm,True
+Pode conversar comigo?,intent_classification,conversacao_geral,conversacao_geral,0.9955680958216014,svm,True
+Tudo certo?,intent_classification,conversacao_geral,conversacao_geral,0.98223917315892,svm,True
+Linha 417 demorou demais,intent_classification,feedback,feedback,0.9933480817284694,svm,True
+asdfghjk,intent_classification,desconhecido,desconhecido,0.9941530863017872,svm,True
+Qual a capital da Noruega?,intent_classification,desconhecido,desconhecido,0.9942914081555113,svm,True
+Motorista foi educado,intent_classification,feedback,feedback,0.9945629136094304,svm,True
+E aí?,intent_classification,conversacao_geral,conversacao_geral,0.9955904140051345,svm,True
+Informação do app não confere,intent_classification,feedback,feedback,0.9945393737493552,svm,True
+Ônibus muito lotado,intent_classification,feedback,feedback,0.9944713696477772,svm,True
+Quem ganhou o Oscar?,intent_classification,desconhecido,desconhecido,0.993718969719786,svm,True
+Instale esse programa,intent_classification,desconhecido,desconhecido,0.9943567343815678,svm,True
+Não entendi,intent_classification,conversacao_geral,conversacao_geral,0.9953730696115469,svm,True
+Qual o resultado do jogo do Brasil?,intent_classification,desconhecido,desconhecido,0.9944187690787376,svm,True
+Boa noite,intent_classification,conversacao_geral,conversacao_geral,0.9814878684484581,svm,True
+Obrigado!,intent_classification,conversacao_geral,conversacao_geral,0.9955254074425935,svm,True
+Quero comprar um carro,intent_classification,desconhecido,desconhecido,0.9943936616612331,svm,True
+asdfghjk,intent_classification,desconhecido,desconhecido,0.9941530863017872,svm,True
+Quero comprar um carro,intent_classification,desconhecido,desconhecido,0.9943936616612331,svm,True
+Parada sem iluminação,intent_classification,feedback,feedback,0.9938174688170892,svm,True
+O ônibus atrasou 30 minutos,intent_classification,feedback,feedback,0.996952471597866,svm,True
+Ajuda por favor,intent_classification,conversacao_geral,conversacao_geral,0.9955158049036555,svm,True
+Qual seu nome?,intent_classification,conversacao_geral,conversacao_geral,0.9955118632437792,svm,True
+Informação do app não confere,intent_classification,feedback,feedback,0.9945393737493552,svm,True
+Tá me ouvindo?,intent_classification,conversacao_geral,conversacao_geral,0.9955239176842184,svm,True
+Informação do app não confere,intent_classification,feedback,feedback,0.9945393737493552,svm,True
+Gostei do atendimento,intent_classification,feedback,feedback,0.9942434871774202,svm,True
+vc joga?,intent_classification,desconhecido,desconhecido,0.9940110241114777,svm,True
+Como fazer bolo de cenoura?,intent_classification,desconhecido,desconhecido,0.994267260754445,svm,True
+Quero comprar um carro,intent_classification,desconhecido,desconhecido,0.9943936616612331,svm,True
+Abre o navegador,intent_classification,desconhecido,desconhecido,0.9935427517869101,svm,True
+Me ligue mais tarde,intent_classification,desconhecido,desconhecido,0.9941439444813126,svm,True
+Qual a senha do Wi-Fi?,intent_classification,desconhecido,desconhecido,0.9941242776182205,svm,True
+Qual a senha do Wi-Fi?,intent_classification,desconhecido,desconhecido,0.9941242776182205,svm,True
+Como fazer bolo de cenoura?,intent_classification,desconhecido,desconhecido,0.994267260754445,svm,True
+Traduza isto para francês,intent_classification,desconhecido,desconhecido,0.9939856086758008,svm,True
+pode tocar musica,intent_classification,desconhecido,desconhecido,0.9942403077297935,svm,True
+Quero assistir um filme agora,intent_classification,desconhecido,desconhecido,0.9942976824382582,svm,True
+Qual a nossa capital?,intent_classification,desconhecido,desconhecido,0.9579107156247294,svm,True
+Como chego em Hospital Municipal?,entity_extraction_origin,Paulínia,UNKNOWN,,,False
+Como chego em Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Qual ônibus para Shopping?,entity_extraction_origin,Terminal A,UNKNOWN,,,False
+Qual ônibus para Shopping?,entity_extraction_destination,Shopping,Shopping,,,True
+Traçar rota para Hospital Municipal,entity_extraction_origin,Parque das Flores,UNKNOWN,,,False
+Traçar rota para Hospital Municipal,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Qual ônibus para Shopping?,entity_extraction_origin,Terminal A,UNKNOWN,,,False
+Qual ônibus para Shopping?,entity_extraction_destination,Shopping,Shopping,,,True
+Qual o ponto mais perto de Praça Matriz?,entity_extraction_origin,Jardim Amanda,UNKNOWN,,,False
+Qual o ponto mais perto de Praça Matriz?,entity_extraction_destination,Praça Matriz,UNKNOWN,,,False
+Rota do ponto Jardim Amanda ao Hospital Municipal,entity_extraction_origin,Jardim Amanda,Jardim,,,False
+Rota do ponto Jardim Amanda ao Hospital Municipal,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Como chego em Terminal B?,entity_extraction_origin,Centro,UNKNOWN,,,False
+Como chego em Terminal B?,entity_extraction_destination,Terminal B,Terminal B,,,True
+Traçar rota para Hospital Municipal,entity_extraction_origin,Centro,UNKNOWN,,,False
+Traçar rota para Hospital Municipal,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Preciso ir até Praça Matriz saindo de Paulínia,entity_extraction_origin,Paulínia,Paulínia,,,True
+Preciso ir até Praça Matriz saindo de Paulínia,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Saindo de Sumaré indo até Rodoviária,entity_extraction_origin,Sumaré,Sumare,,,False
+Saindo de Sumaré indo até Rodoviária,entity_extraction_destination,Rodoviária,Rodoviaria,,,False
+Como chego em Universidade?,entity_extraction_origin,Parque das Flores,UNKNOWN,,,False
+Como chego em Universidade?,entity_extraction_destination,Universidade,Universidade,,,True
+Como chego em Shopping?,entity_extraction_origin,Centro,UNKNOWN,,,False
+Como chego em Shopping?,entity_extraction_destination,Shopping,Shopping,,,True
+Qual ônibus para Praça Matriz?,entity_extraction_origin,Vila Nova,UNKNOWN,,,False
+Qual ônibus para Praça Matriz?,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Qual ônibus para Terminal B?,entity_extraction_origin,Centro,UNKNOWN,,,False
+Qual ônibus para Terminal B?,entity_extraction_destination,Terminal B,Terminal B,,,True
+Traçar rota para Rodoviária,entity_extraction_origin,Terminal A,UNKNOWN,,,False
+Traçar rota para Rodoviária,entity_extraction_destination,Rodoviária,Rodoviaria,,,False
+Qual ônibus para Hospital Municipal?,entity_extraction_origin,Terminal A,UNKNOWN,,,False
+Qual ônibus para Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Qual ônibus para Praça Matriz?,entity_extraction_origin,Sumaré,UNKNOWN,,,False
+Qual ônibus para Praça Matriz?,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Sou de Parque das Flores quero ir para Aeroporto,entity_extraction_origin,Parque das Flores,Parque das Flores,,,True
+Sou de Parque das Flores quero ir para Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Sou de Paulínia quero ir para Universidade,entity_extraction_origin,Paulínia,Paulínia,,,True
+Sou de Paulínia quero ir para Universidade,entity_extraction_destination,Universidade,Universidade,,,True
+Qual o ponto mais perto de Rodoviária?,entity_extraction_origin,Centro,UNKNOWN,,,False
+Qual o ponto mais perto de Rodoviária?,entity_extraction_destination,Rodoviária,Rodoviaria,,,False
+Qual o ponto mais perto de Hospital Municipal?,entity_extraction_origin,Hortolândia,UNKNOWN,,,False
+Qual o ponto mais perto de Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Quero ir de Terminal A para Shopping,entity_extraction_origin,Terminal A,Terminal A,,,True
+Quero ir de Terminal A para Shopping,entity_extraction_destination,Shopping,Shopping,,,True
+Qual ônibus para Hospital Municipal?,entity_extraction_origin,Vila Nova,UNKNOWN,,,False
+Qual ônibus para Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Saindo de Hortolândia indo até Universidade,entity_extraction_origin,Hortolândia,Hortolândia,,,True
+Saindo de Hortolândia indo até Universidade,entity_extraction_destination,Universidade,Universidade,,,True
+Rota do ponto Jardim Amanda ao Praça Matriz,entity_extraction_origin,Jardim Amanda,Jardim,,,False
+Rota do ponto Jardim Amanda ao Praça Matriz,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Saindo de Vila Nova indo até Campinas,entity_extraction_origin,Vila Nova,Vila Nova,,,True
+Saindo de Vila Nova indo até Campinas,entity_extraction_destination,Campinas,Campinas,,,True
+Saindo de Terminal A indo até Praça Matriz,entity_extraction_origin,Terminal A,SaidinA,,,False
+Saindo de Terminal A indo até Praça Matriz,entity_extraction_destination,Praça Matriz,PraçaMatriz,,,False
+Qual ônibus para Aeroporto?,entity_extraction_origin,Terminal A,UNKNOWN,,,False
+Qual ônibus para Aeroporto?,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Rota do ponto Terminal A ao Universidade,entity_extraction_origin,Terminal A,Terminal A,,,True
+Rota do ponto Terminal A ao Universidade,entity_extraction_destination,Universidade,Universidade,,,True
+Como chego em Praça Matriz?,entity_extraction_origin,Jardim Amanda,UNKNOWN,,,False
+Como chego em Praça Matriz?,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Saindo de Centro indo até Campinas,entity_extraction_origin,Centro,Centro,,,True
+Saindo de Centro indo até Campinas,entity_extraction_destination,Campinas,Campains,,,False
+Como chego em Aeroporto?,entity_extraction_origin,Sumaré,UNKNOWN,,,False
+Como chego em Aeroporto?,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Qual ônibus para Terminal B?,entity_extraction_origin,Centro,UNKNOWN,,,False
+Qual ônibus para Terminal B?,entity_extraction_destination,Terminal B,Terminal B,,,True
+Como chego em Shopping?,entity_extraction_origin,Hortolândia,UNKNOWN,,,False
+Como chego em Shopping?,entity_extraction_destination,Shopping,Shopping,,,True
+Saindo de Vila Nova indo até Aeroporto,entity_extraction_origin,Vila Nova,Vila Nova,,,True
+Saindo de Vila Nova indo até Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Como chego em Universidade?,entity_extraction_origin,Parque das Flores,UNKNOWN,,,False
+Como chego em Universidade?,entity_extraction_destination,Universidade,Universidade,,,True
+Traçar rota para Terminal B,entity_extraction_origin,Jardim Amanda,UNKNOWN,,,False
+Traçar rota para Terminal B,entity_extraction_destination,Terminal B,Terminal B,,,True
+Sou de Centro quero ir para Aeroporto,entity_extraction_origin,Centro,Centro,,,True
+Sou de Centro quero ir para Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Preciso ir até Terminal B saindo de Centro,entity_extraction_origin,Centro,Centro,,,True
+Preciso ir até Terminal B saindo de Centro,entity_extraction_destination,Terminal B,Terminal B,,,True
+Preciso ir até Hospital Municipal saindo de Parque das Flores,entity_extraction_origin,Parque das Flores,Parque das Flores,,,True
+Preciso ir até Hospital Municipal saindo de Parque das Flores,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Quero ir de Parque das Flores para Aeroporto,entity_extraction_origin,Parque das Flores,Parque das Flores,,,True
+Quero ir de Parque das Flores para Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Saindo de Hortolândia indo até Rodoviária,entity_extraction_origin,Hortolândia,Hortolândia,,,True
+Saindo de Hortolândia indo até Rodoviária,entity_extraction_destination,Rodoviária,Rodoviária,,,True
+Preciso ir até Rodoviária saindo de Vila Nova,entity_extraction_origin,Vila Nova,Vila Nova,,,True
+Preciso ir até Rodoviária saindo de Vila Nova,entity_extraction_destination,Rodoviária,Rodoviária,,,True
+Saindo de Centro indo até Shopping,entity_extraction_origin,Centro,Centro,,,True
+Saindo de Centro indo até Shopping,entity_extraction_destination,Shopping,Shopping,,,True
+Qual ônibus para Hospital Municipal?,entity_extraction_origin,Terminal A,UNKNOWN,,,False
+Qual ônibus para Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Tem ônibus Terminal A -> Terminal B?,entity_extraction_origin,Terminal A,Terminal A,,,True
+Tem ônibus Terminal A -> Terminal B?,entity_extraction_destination,Terminal B,Terminal B,,,True
+Sou de Hortolândia quero ir para Praça Matriz,entity_extraction_origin,Hortolândia,Hortolândia,,,True
+Sou de Hortolândia quero ir para Praça Matriz,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Qual o ponto mais perto de Shopping?,entity_extraction_origin,Centro,UNKNOWN,,,False
+Qual o ponto mais perto de Shopping?,entity_extraction_destination,Shopping,Shopping,,,True
+Tem ônibus Paulínia -> Hospital Municipal?,entity_extraction_origin,Paulínia,Paulínia,,,True
+Tem ônibus Paulínia -> Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Traçar rota para Hospital Municipal,entity_extraction_origin,Centro,UNKNOWN,,,False
+Traçar rota para Hospital Municipal,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Quero ir de Sumaré para Aeroporto,entity_extraction_origin,Sumaré,Sumaré,,,True
+Quero ir de Sumaré para Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Preciso ir até Rodoviária saindo de Vila Nova,entity_extraction_origin,Vila Nova,Vila Nova,,,True
+Preciso ir até Rodoviária saindo de Vila Nova,entity_extraction_destination,Rodoviária,Rodoviária,,,True
+Rota do ponto Hortolândia ao Praça Matriz,entity_extraction_origin,Hortolândia,Hortolândia,,,True
+Rota do ponto Hortolândia ao Praça Matriz,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Quero ir de Jardim Amanda para Shopping,entity_extraction_origin,Jardim Amanda,Jardim Amanda,,,True
+Quero ir de Jardim Amanda para Shopping,entity_extraction_destination,Shopping,Shopping,,,True
+Como chego em Hospital Municipal?,entity_extraction_origin,Sumaré,UNKNOWN,,,False
+Como chego em Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Quero ir de Centro para Aeroporto,entity_extraction_origin,Centro,Centro,,,True
+Quero ir de Centro para Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Quero ir de Sumaré para Campinas,entity_extraction_origin,Sumaré,Sumaré,,,True
+Quero ir de Sumaré para Campinas,entity_extraction_destination,Campinas,Campinas,,,True
+Rota do ponto Vila Nova ao Hospital Municipal,entity_extraction_origin,Vila Nova,Vila Nova,,,True
+Rota do ponto Vila Nova ao Hospital Municipal,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Qual o ponto mais perto de Rodoviária?,entity_extraction_origin,Vila Nova,UNKNOWN,,,False
+Qual o ponto mais perto de Rodoviária?,entity_extraction_destination,Rodoviária,Rodoviaria,,,False
+Qual ônibus para Universidade?,entity_extraction_origin,Jardim Amanda,UNKNOWN,,,False
+Qual ônibus para Universidade?,entity_extraction_destination,Universidade,UNKNOWN,,,False
+Rota do ponto Centro ao Universidade,entity_extraction_origin,Centro,Centro,,,True
+Rota do ponto Centro ao Universidade,entity_extraction_destination,Universidade,Universidade,,,True
+Qual ônibus para Universidade?,entity_extraction_origin,Paulínia,UNKNOWN,,,False
+Qual ônibus para Universidade?,entity_extraction_destination,Universidade,UNKNOWN,,,False
+Sou de Vila Nova quero ir para Rodoviária,entity_extraction_origin,Vila Nova,Vila Nova,,,True
+Sou de Vila Nova quero ir para Rodoviária,entity_extraction_destination,Rodoviária,Rodoviária,,,True
+Quero ir de Terminal A para Praça Matriz,entity_extraction_origin,Terminal A,Terminal A,,,True
+Quero ir de Terminal A para Praça Matriz,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Quero ir de Sumaré para Aeroporto,entity_extraction_origin,Sumaré,Sumaré,,,True
+Quero ir de Sumaré para Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Qual o ponto mais perto de Rodoviária?,entity_extraction_origin,Sumaré,UNKNOWN,,,False
+Qual o ponto mais perto de Rodoviária?,entity_extraction_destination,Rodoviária,Rodoviaria,,,False
+Traçar rota para Rodoviária,entity_extraction_origin,Paulínia,UNKNOWN,,,False
+Traçar rota para Rodoviária,entity_extraction_destination,Rodoviária,Rodoviaria,,,False
+Qual o ponto mais perto de Hospital Municipal?,entity_extraction_origin,Hortolândia,UNKNOWN,,,False
+Qual o ponto mais perto de Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Tem ônibus Parque das Flores -> Shopping?,entity_extraction_origin,Parque das Flores,Parque das Flores,,,True
+Tem ônibus Parque das Flores -> Shopping?,entity_extraction_destination,Shopping,Shopping,,,True
+Saindo de Sumaré indo até Praça Matriz,entity_extraction_origin,Sumaré,Sumare,,,False
+Saindo de Sumaré indo até Praça Matriz,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Preciso ir até Praça Matriz saindo de Sumaré,entity_extraction_origin,Sumaré,Sumaré,,,True
+Preciso ir até Praça Matriz saindo de Sumaré,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Traçar rota para Shopping,entity_extraction_origin,Parque das Flores,UNKNOWN,,,False
+Traçar rota para Shopping,entity_extraction_destination,Shopping,Shopping,,,True
+Rota do ponto Vila Nova ao Terminal B,entity_extraction_origin,Vila Nova,Vila Nova,,,True
+Rota do ponto Vila Nova ao Terminal B,entity_extraction_destination,Terminal B,Terminal B,,,True
+Qual o ponto mais perto de Praça Matriz?,entity_extraction_origin,Vila Nova,UNKNOWN,,,False
+Qual o ponto mais perto de Praça Matriz?,entity_extraction_destination,Praça Matriz,UNKNOWN,,,False
+Tem ônibus Sumaré -> Hospital Municipal?,entity_extraction_origin,Sumaré,Sumaré,,,True
+Tem ônibus Sumaré -> Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Qual ônibus para Campinas?,entity_extraction_origin,Terminal A,UNKNOWN,,,False
+Qual ônibus para Campinas?,entity_extraction_destination,Campinas,Campinhas,,,False
+Como chego em Rodoviária?,entity_extraction_origin,Parque das Flores,UNKNOWN,,,False
+Como chego em Rodoviária?,entity_extraction_destination,Rodoviária,Rodoviaria,,,False
+Preciso ir até Shopping saindo de Parque das Flores,entity_extraction_origin,Parque das Flores,Parque das Flores,,,True
+Preciso ir até Shopping saindo de Parque das Flores,entity_extraction_destination,Shopping,Shopping,,,True
+Rota do ponto Jardim Amanda ao Hospital Municipal,entity_extraction_origin,Jardim Amanda,Jardim,,,False
+Rota do ponto Jardim Amanda ao Hospital Municipal,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Quero ir de Hortolândia para Shopping,entity_extraction_origin,Hortolândia,Hortolândia,,,True
+Quero ir de Hortolândia para Shopping,entity_extraction_destination,Shopping,Shopping,,,True
+Tem ônibus Centro -> Shopping?,entity_extraction_origin,Centro,Centro,,,True
+Tem ônibus Centro -> Shopping?,entity_extraction_destination,Shopping,Shopping,,,True
+Qual o ponto mais perto de Hospital Municipal?,entity_extraction_origin,Jardim Amanda,UNKNOWN,,,False
+Qual o ponto mais perto de Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Sou de Centro quero ir para Shopping,entity_extraction_origin,Centro,Centro,,,True
+Sou de Centro quero ir para Shopping,entity_extraction_destination,Shopping,Shopping,,,True
+Como chego em Hospital Municipal?,entity_extraction_origin,Paulínia,UNKNOWN,,,False
+Como chego em Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Sou de Parque das Flores quero ir para Shopping,entity_extraction_origin,Parque das Flores,Parque das Flores,,,True
+Sou de Parque das Flores quero ir para Shopping,entity_extraction_destination,Shopping,Shopping,,,True
+Rota do ponto Centro ao Aeroporto,entity_extraction_origin,Centro,,,,False
+Rota do ponto Centro ao Aeroporto,entity_extraction_destination,Aeroporto,,,,False
+Saindo de Terminal A indo até Aeroporto,entity_extraction_origin,Terminal A,Saindo de Terminal A,,,False
+Saindo de Terminal A indo até Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Saindo de Jardim Amanda indo até Terminal B,entity_extraction_origin,Jardim Amanda,Jardim Amanda,,,True
+Saindo de Jardim Amanda indo até Terminal B,entity_extraction_destination,Terminal B,Terminal B,,,True
+Qual ônibus para Rodoviária?,entity_extraction_origin,Sumaré,UNKNOWN,,,False
+Qual ônibus para Rodoviária?,entity_extraction_destination,Rodoviária,UNKNOWN,,,False
+Preciso ir até Aeroporto saindo de Centro,entity_extraction_origin,Centro,Centro,,,True
+Preciso ir até Aeroporto saindo de Centro,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Qual o ponto mais perto de Terminal B?,entity_extraction_origin,Paulínia,UNKNOWN,,,False
+Qual o ponto mais perto de Terminal B?,entity_extraction_destination,Terminal B,Terminal B,,,True
+Traçar rota para Campinas,entity_extraction_origin,Centro,UNKNOWN,,,False
+Traçar rota para Campinas,entity_extraction_destination,Campinas,Campinas,,,True
+Tem ônibus Vila Nova -> Hospital Municipal?,entity_extraction_origin,Vila Nova,Vila Nova,,,True
+Tem ônibus Vila Nova -> Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Qual ônibus para Campinas?,entity_extraction_origin,Paulínia,UNKNOWN,,,False
+Qual ônibus para Campinas?,entity_extraction_destination,Campinas,Campinhas,,,False
+Rota do ponto Terminal A ao Universidade,entity_extraction_origin,Terminal A,Terminal A,,,True
+Rota do ponto Terminal A ao Universidade,entity_extraction_destination,Universidade,Universidade,,,True
+Quero ir de Sumaré para Aeroporto,entity_extraction_origin,Sumaré,Sumaré,,,True
+Quero ir de Sumaré para Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Saindo de Hortolândia indo até Hospital Municipal,entity_extraction_origin,Hortolândia,Hortolândia,,,True
+Saindo de Hortolândia indo até Hospital Municipal,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Traçar rota para Praça Matriz,entity_extraction_origin,Vila Nova,UNKNOWN,,,False
+Traçar rota para Praça Matriz,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Sou de Vila Nova quero ir para Aeroporto,entity_extraction_origin,Vila Nova,Vila Nova,,,True
+Sou de Vila Nova quero ir para Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Qual ônibus para Terminal B?,entity_extraction_origin,Vila Nova,UNKNOWN,,,False
+Qual ônibus para Terminal B?,entity_extraction_destination,Terminal B,Terminal B,,,True
+Sou de Jardim Amanda quero ir para Terminal B,entity_extraction_origin,Jardim Amanda,Jardim Amanda,,,True
+Sou de Jardim Amanda quero ir para Terminal B,entity_extraction_destination,Terminal B,Terminal B,,,True
+Tem ônibus Jardim Amanda -> Universidade?,entity_extraction_origin,Jardim Amanda,Jardim Amanda,,,True
+Tem ônibus Jardim Amanda -> Universidade?,entity_extraction_destination,Universidade,Universidade,,,True
+Rota do ponto Hortolândia ao Praça Matriz,entity_extraction_origin,Hortolândia,Hortolândia,,,True
+Rota do ponto Hortolândia ao Praça Matriz,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Qual o ponto mais perto de Rodoviária?,entity_extraction_origin,Vila Nova,UNKNOWN,,,False
+Qual o ponto mais perto de Rodoviária?,entity_extraction_destination,Rodoviária,Rodoviaria,,,False
+Qual o ponto mais perto de Terminal B?,entity_extraction_origin,Sumaré,UNKNOWN,,,False
+Qual o ponto mais perto de Terminal B?,entity_extraction_destination,Terminal B,UNKNOWN,,,False
+Como chego em Terminal B?,entity_extraction_origin,Terminal A,UNKNOWN,,,False
+Como chego em Terminal B?,entity_extraction_destination,Terminal B,Terminal B,,,True
+Preciso ir até Rodoviária saindo de Hortolândia,entity_extraction_origin,Hortolândia,Hortolândia,,,True
+Preciso ir até Rodoviária saindo de Hortolândia,entity_extraction_destination,Rodoviária,Rodoviária,,,True
+Quero ir de Sumaré para Aeroporto,entity_extraction_origin,Sumaré,Sumaré,,,True
+Quero ir de Sumaré para Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Qual ônibus para Hospital Municipal?,entity_extraction_origin,Paulínia,UNKNOWN,,,False
+Qual ônibus para Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Qual o ponto mais perto de Rodoviária?,entity_extraction_origin,Hortolândia,UNKNOWN,,,False
+Qual o ponto mais perto de Rodoviária?,entity_extraction_destination,Rodoviária,Rodoviaria,,,False
+Sou de Hortolândia quero ir para Terminal B,entity_extraction_origin,Hortolândia,Hortolândia,,,True
+Sou de Hortolândia quero ir para Terminal B,entity_extraction_destination,Terminal B,Terminal B,,,True
+Sou de Paulínia quero ir para Rodoviária,entity_extraction_origin,Paulínia,Paulínia,,,True
+Sou de Paulínia quero ir para Rodoviária,entity_extraction_destination,Rodoviária,Rodoviária,,,True
+Qual o ponto mais perto de Universidade?,entity_extraction_origin,Hortolândia,UNKNOWN,,,False
+Qual o ponto mais perto de Universidade?,entity_extraction_destination,Universidade,UNKNOWN,,,False
+Traçar rota para Aeroporto,entity_extraction_origin,Centro,UNKNOWN,,,False
+Traçar rota para Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Como chego em Praça Matriz?,entity_extraction_origin,Jardim Amanda,UNKNOWN,,,False
+Como chego em Praça Matriz?,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Saindo de Sumaré indo até Campinas,entity_extraction_origin,Sumaré,Sumare,,,False
+Saindo de Sumaré indo até Campinas,entity_extraction_destination,Campinas,Campinas,,,True
+Quero ir de Parque das Flores para Rodoviária,entity_extraction_origin,Parque das Flores,Parque das Flores,,,True
+Quero ir de Parque das Flores para Rodoviária,entity_extraction_destination,Rodoviária,Rodoviária,,,True
+Qual ônibus para Aeroporto?,entity_extraction_origin,Paulínia,UNKNOWN,,,False
+Qual ônibus para Aeroporto?,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Preciso ir até Terminal B saindo de Paulínia,entity_extraction_origin,Paulínia,Paulínia,,,True
+Preciso ir até Terminal B saindo de Paulínia,entity_extraction_destination,Terminal B,Terminal B,,,True
+Traçar rota para Shopping,entity_extraction_origin,Paulínia,UNKNOWN,,,False
+Traçar rota para Shopping,entity_extraction_destination,Shopping,Shopping,,,True
+Como chego em Praça Matriz?,entity_extraction_origin,Hortolândia,UNKNOWN,,,False
+Como chego em Praça Matriz?,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Rota do ponto Sumaré ao Hospital Municipal,entity_extraction_origin,Sumaré,Sumare,,,False
+Rota do ponto Sumaré ao Hospital Municipal,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Sou de Parque das Flores quero ir para Terminal B,entity_extraction_origin,Parque das Flores,Parque das Flores,,,True
+Sou de Parque das Flores quero ir para Terminal B,entity_extraction_destination,Terminal B,Terminal B,,,True
+Traçar rota para Shopping,entity_extraction_origin,Paulínia,UNKNOWN,,,False
+Traçar rota para Shopping,entity_extraction_destination,Shopping,Shopping,,,True
+Como chego em Universidade?,entity_extraction_origin,Vila Nova,UNKNOWN,,,False
+Como chego em Universidade?,entity_extraction_destination,Universidade,Universidade,,,True
+Traçar rota para Aeroporto,entity_extraction_origin,Parque das Flores,UNKNOWN,,,False
+Traçar rota para Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Qual o ponto mais perto de Hospital Municipal?,entity_extraction_origin,Terminal A,UNKNOWN,,,False
+Qual o ponto mais perto de Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Qual o ponto mais perto de Aeroporto?,entity_extraction_origin,Vila Nova,UNKNOWN,,,False
+Qual o ponto mais perto de Aeroporto?,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Preciso ir até Praça Matriz saindo de Hortolândia,entity_extraction_origin,Hortolândia,Hortolândia,,,True
+Preciso ir até Praça Matriz saindo de Hortolândia,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Tem ônibus Centro -> Universidade?,entity_extraction_origin,Centro,Centro,,,True
+Tem ônibus Centro -> Universidade?,entity_extraction_destination,Universidade,Universidade,,,True
+Qual ônibus para Praça Matriz?,entity_extraction_origin,Vila Nova,UNKNOWN,,,False
+Qual ônibus para Praça Matriz?,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Quero ir de Paulínia para Terminal B,entity_extraction_origin,Paulínia,Paulínia,,,True
+Quero ir de Paulínia para Terminal B,entity_extraction_destination,Terminal B,Terminal B,,,True
+Traçar rota para Shopping,entity_extraction_origin,Jardim Amanda,UNKNOWN,,,False
+Traçar rota para Shopping,entity_extraction_destination,Shopping,Shopping,,,True
+Qual ônibus para Hospital Municipal?,entity_extraction_origin,Terminal A,UNKNOWN,,,False
+Qual ônibus para Hospital Municipal?,entity_extraction_destination,Hospital Municipal,Hospital Municipal,,,True
+Qual o ponto mais perto de Rodoviária?,entity_extraction_origin,Jardim Amanda,UNKNOWN,,,False
+Qual o ponto mais perto de Rodoviária?,entity_extraction_destination,Rodoviária,Rodoviaria,,,False
+Tem ônibus Parque das Flores -> Terminal B?,entity_extraction_origin,Parque das Flores,Parque das Flores,,,True
+Tem ônibus Parque das Flores -> Terminal B?,entity_extraction_destination,Terminal B,Terminal B,,,True
+Como chego em Shopping?,entity_extraction_origin,Centro,UNKNOWN,,,False
+Como chego em Shopping?,entity_extraction_destination,Shopping,Shopping,,,True
+Qual o ponto mais perto de Campinas?,entity_extraction_origin,Jardim Amanda,Campinas,,,False
+Qual o ponto mais perto de Campinas?,entity_extraction_destination,Campinas,,,,False
+Traçar rota para Universidade,entity_extraction_origin,Terminal A,UNKNOWN,,,False
+Traçar rota para Universidade,entity_extraction_destination,Universidade,Universidade,,,True
+Sou de Hortolândia quero ir para Aeroporto,entity_extraction_origin,Hortolândia,Hortolândia,,,True
+Sou de Hortolândia quero ir para Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Saindo de Vila Nova indo até Universidade,entity_extraction_origin,Vila Nova,Vila Nova,,,True
+Saindo de Vila Nova indo até Universidade,entity_extraction_destination,Universidade,Universidade,,,True
+Sou de Vila Nova quero ir para Shopping,entity_extraction_origin,Vila Nova,Vila Nova,,,True
+Sou de Vila Nova quero ir para Shopping,entity_extraction_destination,Shopping,Shopping,,,True
+Preciso ir até Universidade saindo de Jardim Amanda,entity_extraction_origin,Jardim Amanda,Jardim Amanda,,,True
+Preciso ir até Universidade saindo de Jardim Amanda,entity_extraction_destination,Universidade,Universidade,,,True
+Preciso ir até Praça Matriz saindo de Jardim Amanda,entity_extraction_origin,Jardim Amanda,Jardim Amanda,,,True
+Preciso ir até Praça Matriz saindo de Jardim Amanda,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True
+Traçar rota para Campinas,entity_extraction_origin,Paulínia,UNKNOWN,,,False
+Traçar rota para Campinas,entity_extraction_destination,Campinas,Campinas,,,True
+Qual ônibus para Aeroporto?,entity_extraction_origin,Centro,UNKNOWN,,,False
+Qual ônibus para Aeroporto?,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Qual ônibus para Rodoviária?,entity_extraction_origin,Parque das Flores,UNKNOWN,,,False
+Qual ônibus para Rodoviária?,entity_extraction_destination,Rodoviária,UNKNOWN,,,False
+Traçar rota para Aeroporto,entity_extraction_origin,Parque das Flores,UNKNOWN,,,False
+Traçar rota para Aeroporto,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Tem ônibus Vila Nova -> Aeroporto?,entity_extraction_origin,Vila Nova,Vila Nova,,,True
+Tem ônibus Vila Nova -> Aeroporto?,entity_extraction_destination,Aeroporto,Aeroporto,,,True
+Sou de Parque das Flores quero ir para Praça Matriz,entity_extraction_origin,Parque das Flores,Parque das Flores,,,True
+Sou de Parque das Flores quero ir para Praça Matriz,entity_extraction_destination,Praça Matriz,Praça Matriz,,,True

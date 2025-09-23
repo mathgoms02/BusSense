@@ -11,8 +11,22 @@ class AnfitriaoState(State):
         from .feedback_state import FeedbackState
 
         print("[AnfitriaoState]: Classificando intenção...")
-        intent = self.assistant._classify_intent_with_llm(text)
-        print(f"[AnfitriaoState]: Intenção classificada como: {intent}")
+        intent_svm, conf = self.assistant.intent_svm.predict(text)
+        print(f"[AnfitriaoState]: SVM -> {intent_svm} ({conf:.2f})")
+
+        if conf < self.assistant.intent_svm.threshold:
+            # 2) fallback LLM
+            intent = self.assistant._classify_intent_with_llm(text)  # já existe
+            source = "llm"
+        else:
+            intent = intent_svm
+            source = "svm"
+
+
+        print(f"[AnfitriaoState]: Intenção final: {intent} (source={source})")
+        log_data = {"user_text": text, "predicted_intent": intent, "source": source}
+        self.assistant.last_interaction_id = self.assistant.logger.log(log_data)
+
 
         if intent == 'solicitar_rota':
             self.assistant.transition_to(RouteState(self.assistant))
@@ -23,6 +37,7 @@ class AnfitriaoState(State):
             self.assistant.state.handle_user_input(text)
 
         elif intent == 'conversacao_geral':
+            #TODO: Rechecar prompt
             system_prompt = (
                 "Você é 'BusSense', um assistente de IA focado em transporte público. Sua personalidade é útil e profissional."
                 "Siga estas regras RIGOROSAMENTE:\n"
@@ -30,8 +45,6 @@ class AnfitriaoState(State):
                 "2. Mantenha as respostas curtas, com no máximo duas frases.\n"
                 "3. NUNCA use emojis, emoticons ou gírias.\n"
                 "4. NUNCA faça perguntas pessoais como 'Tudo bem com você?'.\n\n"
-                "Exemplo de resposta ideal para a entrada 'Olá':\n"
-                "Olá! Sou o BusSense, seu assistente de transporte. Como posso ajudar com sua rota hoje?"
             )
 
             response = self.assistant.llm_client.chat_completion(

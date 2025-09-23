@@ -9,6 +9,7 @@ from model.client import LlamaClient
 from model.states.base_state import State
 from model.states.anfitriao_state import AnfitriaoState
 from utils import RouteEmbeddings, InteractionLogger
+from model.intent_svm import IntentSVM  # novo
 
 
 class BusSenseAssistant:
@@ -18,6 +19,7 @@ class BusSenseAssistant:
         routes_df = pd.read_csv(routes_data_path)
         self.recorder = AudioCapture()
         self.tts = TextTSpeech("")
+        self.intent_svm = IntentSVM(model_path="/home/matheusg/Documents/UNASP/BusSense/back-end/model/intent_svm.pkl", threshold=0.9)
         self.logger = InteractionLogger()
         self.route_searcher = RouteEmbeddings(routes_df)
         self.feedback_classifier = FeedbackClassifierAgent()
@@ -41,7 +43,7 @@ class BusSenseAssistant:
             while True:
                 # Simulando toque do usuário na tela para iniciar a interação
                 transcribed_text = self.recorder.listen()
-                transcribed_text = "Sou de Hortolândia quero ir para Campinas"
+                transcribed_text = "Sou de São Paulo, quero ir para Campinas"
 
                 print(f"[DEBUG]: Rota solicitada: {transcribed_text}")
 
@@ -84,10 +86,11 @@ class BusSenseAssistant:
         json_data = filtered_data.to_json(orient='records')
 
         prompt = f"""
-            Você é um assistente especialista em transporte público. Com base nas seguintes rotas de ônibus em formato JSON, 
+            Você é um assistente especialista em transporte público. Com base nas seguintes rotas de ônibus em formato JSON,
             sugira a melhor rota para o usuário. Sua tarefa é identificar a melhor rota e responder com uma frase concisa.
             Use 'Linha' para o RouteCode, 'Ponto Inicial' para RouteStart, e 'Ponto Final' para RouteEnd.
-            Por exemplo: "A melhor rota é a Linha 708, que vai de Monte Mor até Campinas."
+            Por exemplo:
+            ('origin': 'Monte Mor', 'destination': 'Campinas') A melhor rota é a Linha 708, que vai de Monte Mor até Campinas.
             Não inclua acentos graves (`) ou explicações adicionais. Retorne apenas a frase final.
 
             {json_data}

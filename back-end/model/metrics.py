@@ -12,6 +12,8 @@ from datetime import datetime
 # from model.client import LlamaClient
 from model.main_assistant import BusSenseAssistant
 from config import constants
+from model.intent_svm import IntentSVM  # importa o classificador SVM
+
 
 class ModelEvaluator:
     """
@@ -36,7 +38,11 @@ class ModelEvaluator:
 
         self.assistant = BusSenseAssistant(routes_data_path=constants.DATA_FILE_PATH + 'llm_generated_routes.csv')
         self.latencies = []
-        self.results_log = [] # Novo: para logar resultados detalhados
+        self.results_log = []
+
+        self.intent_svm = IntentSVM(model_path="/home/matheusg/Documents/UNASP/BusSense/back-end/model/intent_svm.pkl", threshold=0.55)
+        # self.intent_svm = IntentSVM(model_path="/home/matheusg/Documents/UNASP/BusSense/back-end/model/intent_svm.pkl", threshold=0.90)
+
 
     def _run_single_prediction(self, method_to_call, text):
         """ Roda uma única predição e mede sua latência. """
@@ -48,63 +54,62 @@ class ModelEvaluator:
 
     def evaluate_intent_classification(self):
         """
-        Avalia a acurácia da classificação de intenção.
+        Avalia a acurácia da classificação de intenção usando SVM + fallback LLM.
         """
-        print("\n--- Iniciando Avaliação: Classificação de Intenção ---")
+        print("\n--- Iniciando Avaliação: Classificação de Intenção (SVM + LLM) ---")
         intent_df = self.test_df[['text', 'expected_intent']].dropna()
-        
+
         y_true = intent_df['expected_intent'].tolist()
         y_pred = []
 
         for index, row in intent_df.iterrows():
             text = row['text']
             true_intent = row['expected_intent']
-            
-            # 1. PREVISÃO
-            predicted_intent_raw = self._run_single_prediction(self.assistant._classify_intent_with_llm, text)
-            
-            # 2. LIMPEZA ROBUSTA (A PRIMEIRA ALTERAÇÃO)
-            # Remove espaços, aspas, pontos e converte para minúsculas.
-            predicted_intent = predicted_intent_raw.strip().lower().replace("'", "").replace('"', '').replace("''", '').replace('.', '')
-            # temp_clean = predicted_intent_raw.lower()
-            # predicted_intent = re.sub(r'[^a-z0-9_]', '', temp_clean)
-            
+
+            # --- (1) PREDIÇÃO VIA SVM ---
+            svm_intent, conf = self.intent_svm.predict(text)
+
+            if conf < self.intent_svm.threshold:
+                # --- (2) FALLBACK PRO LLM ---
+                predicted_intent_raw = self._run_single_prediction(self.assistant._classify_intent_with_llm, text)
+                predicted_intent = predicted_intent_raw.strip().lower().replace("'", "").replace('"', '').replace("''", '').replace('.', '')
+                source = "llm"
+            else:
+                predicted_intent = svm_intent.lower()
+                source = "svm"
+
             y_pred.append(predicted_intent)
-            
+
             # Log detalhado
             self.results_log.append({
                 'test_case': text,
                 'task': 'intent_classification',
                 'expected': true_intent,
                 'predicted': predicted_intent,
+                'confidence': conf,
+                'source': source,
                 'is_correct': true_intent == predicted_intent
             })
 
         self.intent_accuracy = accuracy_score(y_true, y_pred)
-        self.intent_report = classification_report(y_true, y_pred, zero_division=0, output_dict=False) # Garante que seja string
-        
+        self.intent_report = classification_report(y_true, y_pred, zero_division=0, output_dict=False)
+
         print(f"\nAcurácia Geral da Classificação de Intenção: {self.intent_accuracy:.2%}")
         print("\nRelatório de Classificação:")
         print(self.intent_report)
-        
-        # Gerar Matriz de Confusão
+
+        # Matriz de Confusão
         labels = sorted(list(set(y_true)))
-        # labels = sorted(list(set(y_true + y_pred)))
         cm = confusion_matrix(y_true, y_pred, labels=labels)
-        plt.figure(figsize=(10, 8)) # Aumentei um pouco o tamanho
+        plt.figure(figsize=(10, 8))
         sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', xticklabels=labels, yticklabels=labels)
-        plt.title('Matriz de Confusão - Classificação de Intenção')
+        plt.title('Matriz de Confusão - Classificação de Intenção (SVM+LLM)')
         plt.xlabel('Intenção Prevista')
         plt.ylabel('Intenção Real')
-        
-        # 3. AJUSTE DE LAYOUT (A SEGUNDA ALTERAÇÃO)
-        # Rotaciona os rótulos do eixo X para evitar sobreposição
         plt.xticks(rotation=30, ha='right')
-        # Ajusta o layout para garantir que nada seja cortado
         plt.tight_layout(pad=2.0)
-        
-        plt.savefig('intent_confusion_matrix_2.png')
-        print("Matriz de confusão salva em 'intent_confusion_matrix_2.png'")
+        plt.savefig('intent_confusion_matrix_svm_llm.png')
+        print("Matriz de confusão salva em 'intent_confusion_matrix_svm_llm.png'")
 
     def evaluate_entity_extraction(self):
         """
@@ -129,7 +134,7 @@ class ModelEvaluator:
             # Pula linhas onde não há o que testar
             if pd.isna(row['expected_origin']) and pd.isna(row['expected_destination']):
                 continue
-            
+
             total_entity_tests += 1
             text = row['text']
             expected_origin = str(row['expected_origin'])
@@ -138,13 +143,13 @@ class ModelEvaluator:
             extracted_locations = self._run_single_prediction(self.assistant._extract_location_from_text, row['text'])
             predicted_origin = str(extracted_locations.get('origin', ''))
             predicted_destination = str(extracted_locations.get('destination', ''))
-            
+
             origin_correct = expected_origin.lower() == predicted_origin.lower()
             destination_correct = expected_destination.lower() == predicted_destination.lower()
 
             if origin_correct: correct_origins += 1
             if destination_correct: correct_destinations += 1
-            
+
             # Log detalhado
             self.results_log.append({
                 'test_case': text,
@@ -160,7 +165,7 @@ class ModelEvaluator:
                 'predicted': predicted_destination,
                 'is_correct': destination_correct
             })
-        
+
         self.origin_accuracy = correct_origins / total_entity_tests if total_entity_tests > 0 else 0
         self.destination_accuracy = correct_destinations / total_entity_tests if total_entity_tests > 0 else 0
 
@@ -172,7 +177,7 @@ class ModelEvaluator:
         if not self.latencies:
             self.latency_stats = "Nenhuma chamada ao LLM foi registrada."
             return
-            
+
         self.latency_stats = (
             f"Total de chamadas ao LLM: {len(self.latencies)}\n"
             f"Latência Média: {np.mean(self.latencies):.4f} segundos\n"
@@ -187,7 +192,7 @@ class ModelEvaluator:
         Salva o resumo e os detalhes da avaliação em arquivos .txt e .csv.
         """
         print("\n--- Salvando Resultados ---")
-        
+
         # 1. Salvar o resumo em .txt
         summary_filename = "evaluation_summary.txt"
         with open(summary_filename, "w", encoding="utf-8") as f:
@@ -195,14 +200,14 @@ class ModelEvaluator:
             f.write(f"Relatório de Avaliação do Modelo BusSense\n")
             f.write(f"Data da Avaliação: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
             f.write("="*50 + "\n\n")
-            
+
             f.write("1. Desempenho da Classificação de Intenção\n")
             f.write("-" * 40 + "\n")
             f.write(f"Acurácia Geral: {self.intent_accuracy:.2%}\n\n")
             f.write("Relatório de Classificação:\n")
             f.write(self.intent_report)
             f.write("\n\n")
-            
+
             f.write("2. Desempenho da Extração de Entidades\n")
             f.write("-" * 40 + "\n")
             f.write(f"Acurácia da Extração de 'Origem': {self.origin_accuracy:.2%}\n")
@@ -211,7 +216,7 @@ class ModelEvaluator:
             f.write("3. Métricas de Latência\n")
             f.write("-" * 40 + "\n")
             f.write(self.latency_stats + "\n")
-        
+
         print(f"Relatório de resumo salvo em '{summary_filename}'")
 
         # 2. Salvar os detalhes em .csv
@@ -234,6 +239,6 @@ class ModelEvaluator:
 
 if __name__ == "__main__":
     TEST_DATASET_PATH = 'model_test_data.csv'
-    
+
     evaluator = ModelEvaluator(test_data_path=TEST_DATASET_PATH)
     evaluator.run_full_evaluation()

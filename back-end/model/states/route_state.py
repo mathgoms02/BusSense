@@ -13,11 +13,12 @@ class RouteState(State):
         locations = self.assistant._extract_location_from_text(text)
         # Filtra no banco pela origin e destination
         filtered_data, _ = self.assistant.route_searcher.search(locations['origin'], locations['destination'])
+        print(filtered_data)
         # Gera o prompt para o modelo Llama
         prompt = self.assistant._generate_route_prompt(filtered_data)
 
         # Obtém a resposta do LLM
-        response_text = self.assistant.llm_client.chat_completion(system_prompt=prompt, user_prompt=text)
+        response_text = self.assistant.llm_client.chat_completion(system_prompt=prompt, user_prompt=text, temperature=0.2)
 
         print(f"[DEBUG]: IA Output: {response_text}")
 

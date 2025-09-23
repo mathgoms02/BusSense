@@ -1,34 +1,33 @@
 ==================================================
 Relatório de Avaliação do Modelo BusSense
-Data da Avaliação: 2025-08-08 09:02:26
+Data da Avaliação: 2025-09-15 23:28:46
 ==================================================
 
 1. Desempenho da Classificação de Intenção
 ----------------------------------------
-Acurácia Geral: 0.00%
+Acurácia Geral: 94.50%
 
 Relatório de Classificação:
-                    precision    recall  f1-score   support
+                   precision    recall  f1-score   support
 
- conversacao_geral       0.00      0.00      0.00     289.0
-conversacao_geral"       0.00      0.00      0.00       1.0
-      desconhecido       0.00      0.00      0.00       0.0
-          feedback       0.00      0.00      0.00     184.0
-    solicitar_rota       0.00      0.00      0.00     138.0
+conversacao_geral       0.88      0.98      0.93       150
+     desconhecido       0.98      0.90      0.94       150
+         feedback       0.99      0.90      0.94       150
+   solicitar_rota       0.94      1.00      0.97       150
 
-          accuracy                           0.00     612.0
-         macro avg       0.00      0.00      0.00     612.0
-      weighted avg       0.00      0.00      0.00     612.0
+         accuracy                           0.94       600
+        macro avg       0.95      0.94      0.94       600
+     weighted avg       0.95      0.94      0.94       600
 
 
 2. Desempenho da Extração de Entidades
 ----------------------------------------
-Acurácia da Extração de 'Origem': 34.06%
-Acurácia da Extração de 'Destino': 7.97%
+Acurácia da Extração de 'Origem': 44.67%
+Acurácia da Extração de 'Destino': 84.00%
 
 3. Métricas de Latência
 ----------------------------------------
-Total de chamadas ao LLM: 750
-Latência Média: 0.0007 segundos
-Latência Máxima (pior caso): 0.0013 segundos
-Latência Mínima (melhor caso): 0.0004 segundos
+Total de chamadas ao LLM: 162
+Latência Média: 0.3832 segundos
+Latência Máxima (pior caso): 0.6040 segundos
+Latência Mínima (melhor caso): 0.0643 segundos
