@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastro de {{ model_title }}</title>
+    <style>
+        body { font-family: sans-serif; margin: 2em; }
+        form { display: flex; flex-direction: column; max-width: 400px; }
+        p { display: flex; flex-direction: column; }
+        label { margin-bottom: 5px; }
+        input { padding: 8px; margin-bottom: 10px; }
+        button { padding: 10px; cursor: pointer; }
+        .errorlist { color: red; list-style-type: none; padding: 0;}
+    </style>
+</head>
+<body>
+    <h1>Cadastro de Novo {{ model_title }}</h1>
+
+    <form method="post">
+        {% csrf_token %}
+        
+        {{ form.as_p }}
+
+        <button type="submit">Salvar {{ model_title }}</button>
+    </form>
+
+</body>
+</html>

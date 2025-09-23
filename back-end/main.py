@@ -2,8 +2,8 @@ from dotenv import load_dotenv
 
 from config import constants
 from core import RouteFetcher
-from model import BusSenseAssistant
-from model import metrics
+from AI.model import BusSenseAssistant
+from AI.model import metrics
 
 #TODO:
 # [ ] - Verificar resultados do modelo e melhora-los

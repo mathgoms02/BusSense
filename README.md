@@ -1,69 +1,128 @@
-# BusSense AI - Ramo sandbox-ai
+# 🚍 BusSense – Assistente Inteligente para Transporte Público  
 
-Este projeto é um Trabalho de Conclusão de Curso (TCC) de nome **BusSense**, um assistente virtual desenvolvido com foco na **acessibilidade de pessoas cegas** no transporte público. Utiliza tecnologias de **Machine Learning**, **NLP** e **LLMs locais** para fornecer informações sobre horários de ônibus, rotas, atrasos e sugestões personalizadas com base no histórico do usuário.
+O **BusSense** é um Trabalho de Conclusão de Curso (TCC) que tem como objetivo criar um **assistente virtual inteligente** para o transporte público, com foco especial na **acessibilidade de pessoas com deficiência visual**.  
 
-## \:brain: Sobre este módulo (`main_assistant.py`)
+A solução combina:  
+- **Back-end com Django e MongoDB**, responsável por cadastros, rotas e gerenciamento de dados.  
+- **Módulo de Inteligência Artificial (IA)**, que utiliza **LLMs locais** e **embeddings vetoriais** para responder perguntas sobre transporte público de forma natural e personalizada.  
 
-Este script é o coração do modelo de assistente virtual, responsável por:
+---
 
-* Carregar a base de conhecimento (embeddings) com informações dos ônibus.
-* Inicializar o modelo de linguagem local (via HuggingFace ou LLMs como o LLaMA).
-* Processar a entrada do usuário (prompt) e retornar uma resposta natural com base nas rotas disponíveis.
+## 🚀 Tecnologias Utilizadas  
 
-## \:rocket: Tecnologias utilizadas
+### 🔧 Back-end
+- Python 3.10+  
+- Django + Django REST Framework  
+- MongoDB (NoSQL)  
+- MongoEngine (ODM para Python)  
 
-* Python 3.10+
-* [Transformers (HuggingFace)](https://huggingface.co/ggml-org/gemma-3-1b-it-GGUF)
-* [llama.cpp](https://github.com/ggml-org/llama.cpp) (para execução local de modelos LLaMA via CPU ou GPU)
+### 🤖 Inteligência Artificial
+- [Transformers (HuggingFace)](https://huggingface.co/)  
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) (execução local de modelos LLaMA via CPU/GPU)  
+- Embeddings vetoriais para rotas de transporte  
 
-## \:file\_folder: Estrutura de pastas relevante
+---
 
-```
+## 📂 Estrutura de Pastas  
+
+```bash
 BusSense/
 ├── back-end/
 │   ├── model/
 │   │   ├── main_assistant.py       # Script principal do assistente virtual
 │   ├── utils/
-│   │   ├── route_embeddings.py     # Armazena os embeddings vetorizados
+│   │   ├── route_embeddings.py     # Armazena e gerencia embeddings vetorizados
+│   ├── dump/                       # Backup do banco MongoDB
 │   └── ...
 ```
 
-## \:gear: Como usar
+---
 
-1. Clone o repositório:
+## ⚙️ Configuração do Ambiente  
+
+### 1. Clone o repositório  
 
 ```bash
 git clone https://github.com/mathgoms02/BusSense.git
 cd BusSense/back-end/
 ```
 
-2. Prepare o Ambiente (venv)
+### 2. Crie e ative o ambiente virtual  
 
+**Linux/macOS**  
 ```bash
 python3 -m venv venv
 source venv/bin/activate
+```
+
+**Windows**  
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+### 3. Instale as dependências  
+
+```bash
 pip install -r requirements.txt
 ```
 
-3. Configure o modelo LLaMA local com `llama.cpp`:
+### 4. Configure o banco de dados MongoDB  
 
-   * Acesse o repositório oficial: [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
-   * Siga as instruções de instalação para compilar o projeto e baixar um modelo compatível.
-   * Use a API local ou integre diretamente via bindings Python (como `llama-cpp-python`) conforme seu ambiente.
-
-4. Execute o script principal:
-
+Importe o dump inicial:  
 ```bash
-python -m main.py
+mongorestore --db emtu_db dump/emtu_db
 ```
 
-## \:bulb: Objetivos futuros
+### 5. Inicie o servidor Django  
 
-* Melhorar resultados do modelo.
-* Aprendizado contínuo com base na experiência do usuário.
-* Previsão de atrasos com base em dados históricos.
-* Sugestões de rotas personalizadas.
+```bash
+python manage.py runserver
+```
 
-## \:scroll: Créditos
+- API: [http://127.0.0.1:8000/api/](http://127.0.0.1:8000/api/)  
+- Formulários: [http://127.0.0.1:8000/api/forms/](http://127.0.0.1:8000/api/forms/)  
 
-Este projeto utiliza a implementação da Meta AI para execução local de LLMs via o projeto [llama.cpp](https://github.com/ggml-org/llama.cpp), desenvolvido por [@ggerganov](https://github.com/ggerganov) e comunidade. Recomendamos fortemente visitar o repositório oficial para entender melhor seu funcionamento e potencial.
+---
+
+## 🧠 Executando o Assistente de IA  
+
+1. Configure e compile o **llama.cpp**:  
+   - [Repositório oficial](https://github.com/ggml-org/llama.cpp)  
+   - Baixe um modelo compatível (ex.: LLaMA ou Gemma).  
+
+2. Execute o script principal:  
+```bash
+python model/main_assistant.py
+```
+
+Esse módulo carrega embeddings de rotas e responde perguntas com base no histórico do usuário.  
+
+---
+
+## 📦 Gerenciamento do Banco de Dados  
+
+### Exportar (Backup)  
+```bash
+mongodump --db emtu_db --out dump
+```
+
+### Importar (Restaurar)  
+```bash
+mongorestore --db emtu_db dump/emtu_db
+```
+
+---
+
+## 🔮 Objetivos Futuros  
+
+- Previsão de atrasos baseada em dados históricos.  
+- Sugestões personalizadas de rotas.  
+- Aprendizado contínuo com base na experiência do usuário.  
+- Integração em tempo real com APIs de transporte público.  
+
+---
+
+## 📜 Créditos  
+
+Este projeto utiliza a implementação da **Meta AI** para execução local de LLMs via [llama.cpp](https://github.com/ggml-org/llama.cpp), desenvolvido por [@ggerganov](https://github.com/ggerganov) e comunidade.  
