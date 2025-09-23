@@ -1,0 +1,601 @@
+text,expected_intent,expected_origin,expected_destination
+Obrigado ae,conversacao_geral,,
+Esse aplicativo esta travando,feedback,,
+Pode conversar comigo?,conversacao_geral,,
+Como chego em Hospital Municipal?,solicitar_rota,Paulínia,Hospital Municipal
+Me fala noticias de quarta,desconhecido,,
+Houve mudança na rota,feedback,,
+O ultimo banco do onibus esta quebrado,feedback,,
+Valeu,conversacao_geral,,
+Qual ônibus para Shopping?,solicitar_rota,Terminal A,Shopping
+Traduz essa frase,desconhecido,,
+O que é um sudo?,desconhecido,,
+Traçar rota para Hospital Municipal,solicitar_rota,Parque das Flores,Hospital Municipal
+Qual ônibus para Shopping?,solicitar_rota,Terminal A,Shopping
+Testanto aqui,conversacao_geral,,
+Sapo faz qual som?,desconhecido,,
+Não estou reconhecendo essa rota,feedback,,
+Agora estou em horario de pico,feedback,,
+Qual o ponto mais perto de Praça Matriz?,solicitar_rota,Jardim Amanda,Praça Matriz
+Baguete é gostoso?,desconhecido,,
+Carros é um bom filme?,desconhecido,,
+Rota do ponto Jardim Amanda ao Hospital Municipal,solicitar_rota,Jardim Amanda,Hospital Municipal
+Como chego em Terminal B?,solicitar_rota,Centro,Terminal B
+Onibus esta super lotado,feedback,,
+Obrigado!,conversacao_geral,,
+Ponto de onibus muito escuro,feedback,,
+Me fala um filme ai,desconhecido,,
+Existe navegador?,desconhecido,,
+Motorista muito simpático,feedback,,
+Traçar rota para Hospital Municipal,solicitar_rota,Centro,Hospital Municipal
+A rota mudou do nada,feedback,,
+Não gostei desse motorista,feedback,,
+Valeu,conversacao_geral,,
+Preciso ir até Praça Matriz saindo de Paulínia,solicitar_rota,Paulínia,Praça Matriz
+Ta chovendo em Paris?,desconhecido,,
+Saindo de Sumaré indo até Rodoviária,solicitar_rota,Sumaré,Rodoviária
+Parada muito escuro,feedback,,
+Bom dia,conversacao_geral,,
+Como chego em Universidade?,solicitar_rota,Parque das Flores,Universidade
+Como chego em Shopping?,solicitar_rota,Centro,Shopping
+Ponto sem luz,feedback,,
+Qual ônibus para Praça Matriz?,solicitar_rota,Vila Nova,Praça Matriz
+Qual ônibus para Terminal B?,solicitar_rota,Centro,Terminal B
+Traçar rota para Rodoviária,solicitar_rota,Terminal A,Rodoviária
+Qual ônibus para Hospital Municipal?,solicitar_rota,Terminal A,Hospital Municipal
+"Olá, tudo bem?",conversacao_geral,,
+Boa noite,conversacao_geral,,
+Me liga,desconhecido,,
+Qual ônibus para Praça Matriz?,solicitar_rota,Sumaré,Praça Matriz
+lkjhgfd,desconhecido,,
+Boa tarde,conversacao_geral,,
+Motorista foi muito legal,feedback,,
+Valeu ai,conversacao_geral,,
+Sou de Parque das Flores quero ir para Aeroporto,solicitar_rota,Parque das Flores,Aeroporto
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Sou de Paulínia quero ir para Universidade,solicitar_rota,Paulínia,Universidade
+O que você joga?,desconhecido,,
+Sentei em um banco quebrado,feedback,,
+O aplicativo esta muito bugado,feedback,,
+Curte um valorant?,desconhecido,,
+Peguei muita gente voltando do trabalho agora,feedback,,
+Qual o ponto mais perto de Rodoviária?,solicitar_rota,Centro,Rodoviária
+Qual o ponto mais perto de Hospital Municipal?,solicitar_rota,Hortolândia,Hospital Municipal
+Elogio para o motorista da linha 522,feedback,,
+Quero ir de Terminal A para Shopping,solicitar_rota,Terminal A,Shopping
+Qual ônibus para Hospital Municipal?,solicitar_rota,Vila Nova,Hospital Municipal
+O motorista me atendeu bem,feedback,,
+Onibus extremamente lotado,feedback,,
+Linha 701 demorou demais,feedback,,
+E aí?,conversacao_geral,,
+Saindo de Hortolândia indo até Universidade,solicitar_rota,Hortolândia,Universidade
+Muito obrigado,conversacao_geral,,
+Quero investir na bolsa,desconhecido,,
+Voce fala alemão?,desconhecido,,
+Obrigadinho,conversacao_geral,,
+Rota do ponto Jardim Amanda ao Praça Matriz,solicitar_rota,Jardim Amanda,Praça Matriz
+Saindo de Vila Nova indo até Campinas,solicitar_rota,Vila Nova,Campinas
+Quanto é um Fiat Uno?,desconhecido,,
+Qual é o carro mais popular?,desconhecido,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Que jogo esta rolando hoje?,desconhecido,,
+Quem é você?,conversacao_geral,,
+Fala comigo,conversacao_geral,,
+Peguei o horario de pico,feedback,,
+Converse comigo,conversacao_geral,,
+Tudo bem ai?,conversacao_geral,,
+Saindo de Terminal A indo até Praça Matriz,solicitar_rota,Terminal A,Praça Matriz
+Tem alguma cadeira barata?,desconhecido,,
+Banco estava desconfortavel,feedback,,
+Cala a boca,desconhecido,,
+Fedendo,desconhecido,,
+Qual ônibus para Aeroporto?,solicitar_rota,Terminal A,Aeroporto
+Aplicativo esta bem ruim,feedback,,
+Noticias,desconhecido,,
+Essa rota não parece a comum,feedback,,
+Obrigado,conversacao_geral,,
+Rota do ponto Terminal A ao Universidade,solicitar_rota,Terminal A,Universidade
+Como investir em ações?,desconhecido,,
+Qual o melhor site de apostas?,desconhecido,,
+Como chego em Praça Matriz?,solicitar_rota,Jardim Amanda,Praça Matriz
+Tem algum tutorial?,conversacao_geral,,
+Tudo certo!,conversacao_geral,,
+Saindo de Centro indo até Campinas,solicitar_rota,Centro,Campinas
+Como chego em Aeroporto?,solicitar_rota,Sumaré,Aeroporto
+Bom dia Bussense,conversacao_geral,,
+Ônibus está horrivel,feedback,,
+O motorista foi mal educado comigo,feedback,,
+Olá!,conversacao_geral,,
+Qual ônibus para Terminal B?,solicitar_rota,Centro,Terminal B
+Como chego em Shopping?,solicitar_rota,Hortolândia,Shopping
+Como que usa isso?,conversacao_geral,,
+fale um filme de terror,desconhecido,,
+Saindo de Vila Nova indo até Aeroporto,solicitar_rota,Vila Nova,Aeroporto
+Qual jogo esta passando agora,desconhecido,,
+Você tem nome?,conversacao_geral,,
+Como chego em Universidade?,solicitar_rota,Parque das Flores,Universidade
+Obrigado demais,conversacao_geral,,
+Traçar rota para Terminal B,solicitar_rota,Jardim Amanda,Terminal B
+Sou de Centro quero ir para Aeroporto,solicitar_rota,Centro,Aeroporto
+Você me passou uma informação errada,feedback,,
+Tudo certo?,conversacao_geral,,
+Qual a capital da alemanha?,desconhecido,,
+Maioria dos bancos esta quebrado,feedback,,
+Linha 417 demorou mais que o costume,feedback,,
+Ajuda por favor,conversacao_geral,,
+Onibus tá entupido de gente,feedback,,
+Não estou entendendo,conversacao_geral,,
+Boa noite Bussense,conversacao_geral,,
+O ponto de onibus estava sem luz no poste,feedback,,
+Me passou informação errada,feedback,,
+Motorista ruim,feedback,,
+Comandos linux?,desconhecido,,
+Linha 202 demorou bastante,feedback,,
+Obrigadão,conversacao_geral,,
+Me ouve?,conversacao_geral,,
+A parada estava perigosa,feedback,,
+Preciso ir até Terminal B saindo de Centro,solicitar_rota,Centro,Terminal B
+Preciso ir até Hospital Municipal saindo de Parque das Flores,solicitar_rota,Parque das Flores,Hospital Municipal
+Você esta funcionando bem?,conversacao_geral,,
+Estou perdido,feedback,,
+Adele,desconhecido,,
+Que horas são no Japão?,desconhecido,,
+Aplicativo bugado demais,feedback,,
+Quero assistir um filme agora,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+Na escuta?,conversacao_geral,,
+Quero ir de Parque das Flores para Aeroporto,solicitar_rota,Parque das Flores,Aeroporto
+Opa,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Belezinha?,conversacao_geral,,
+Saindo de Hortolândia indo até Rodoviária,solicitar_rota,Hortolândia,Rodoviária
+Tudo certo ai?,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Tem coisa errada,feedback,,
+Preciso de ajuda,conversacao_geral,,
+Preciso ir até Rodoviária saindo de Vila Nova,solicitar_rota,Vila Nova,Rodoviária
+Ajuda por favor,conversacao_geral,,
+Saindo de Centro indo até Shopping,solicitar_rota,Centro,Shopping
+Quero assistir um filme agora,desconhecido,,
+Obrigado Bussense,conversacao_geral,,
+Abre o navegador,desconhecido,,
+Boa tarde ai viu,conversacao_geral,,
+Me escuta bem?,conversacao_geral,,
+Qual ônibus para Hospital Municipal?,solicitar_rota,Terminal A,Hospital Municipal
+Tem ônibus Terminal A -> Terminal B?,solicitar_rota,Terminal A,Terminal B
+Olá,conversacao_geral,,
+Não conheço essa rua,feedback,,
+Sou de Hortolândia quero ir para Praça Matriz,solicitar_rota,Hortolândia,Praça Matriz
+asdfghjk,desconhecido,,
+Qual o preço do dólar hoje?,desconhecido,,
+Qual o ponto mais perto de Shopping?,solicitar_rota,Centro,Shopping
+asdfghjk,desconhecido,,
+Mostre notícias de tecnologia,desconhecido,,
+Noite,conversacao_geral,,
+onibus lotado,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Linha 101 atrasou,feedback,,
+E ai?,conversacao_geral,,
+Boa noite,conversacao_geral,,
+Tem ônibus Paulínia -> Hospital Municipal?,solicitar_rota,Paulínia,Hospital Municipal
+Como que usa esse aplicativo?,conversacao_geral,,
+Traçar rota para Hospital Municipal,solicitar_rota,Centro,Hospital Municipal
+Mostre notícias de tecnologia,desconhecido,,
+Ta funcionando bem,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Quero ir de Sumaré para Aeroporto,solicitar_rota,Sumaré,Aeroporto
+Preciso ir até Rodoviária saindo de Vila Nova,solicitar_rota,Vila Nova,Rodoviária
+Rota do ponto Hortolândia ao Praça Matriz,solicitar_rota,Hortolândia,Praça Matriz
+Traduza isto para francês,desconhecido,,
+Motorista muito ruim,feedback,,
+Tudo certinho?,conversacao_geral,,
+Quero ir de Jardim Amanda para Shopping,solicitar_rota,Jardim Amanda,Shopping
+Motorista gente fina,feedback,,
+"Olá, tudo bem?",conversacao_geral,,
+Como chego em Hospital Municipal?,solicitar_rota,Sumaré,Hospital Municipal
+A linha 701 foi muito bom,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+Quero ir de Centro para Aeroporto,solicitar_rota,Centro,Aeroporto
+Abre o navegador,desconhecido,,
+O ônibus atrasou 28 minutos,feedback,,
+Quero ir de Sumaré para Campinas,solicitar_rota,Sumaré,Campinas
+O ponto estava bem escuro,feedback,,
+Boa noite,conversacao_geral,,
+Rota do ponto Vila Nova ao Hospital Municipal,solicitar_rota,Vila Nova,Hospital Municipal
+Qual a capital da Noruega?,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+Parabens para a linha 305,feedback,,
+Quem é você?,conversacao_geral,,
+Você pode me ajudar?,conversacao_geral,,
+Qual o ponto mais perto de Rodoviária?,solicitar_rota,Vila Nova,Rodoviária
+Qual é o seu propósito?,conversacao_geral,,
+E aí?,conversacao_geral,,
+Boa tarde,conversacao_geral,,
+Motorista foi rude,feedback,,
+Tudo certo?,conversacao_geral,,
+Morotista dirigiu muito bem,feedback,,
+Qual ônibus para Universidade?,solicitar_rota,Jardim Amanda,Universidade
+Rota do ponto Centro ao Universidade,solicitar_rota,Centro,Universidade
+Qual ônibus para Universidade?,solicitar_rota,Paulínia,Universidade
+Estou testando o sistema,conversacao_geral,,
+Boa noite,conversacao_geral,,
+Banco todo lascado,feedback,,
+Estou testando você,conversacao_geral,,
+Aplicativo com problema,feedback,,
+Quem ganhou o Oscar?,desconhecido,,
+Onibus todo sujo,feedback,,
+Sou de Vila Nova quero ir para Rodoviária,solicitar_rota,Vila Nova,Rodoviária
+Quero ir de Terminal A para Praça Matriz,solicitar_rota,Terminal A,Praça Matriz
+Só noite,conversacao_geral,,
+Motorista dirige mal,feedback,,
+Quero ir de Sumaré para Aeroporto,solicitar_rota,Sumaré,Aeroporto
+Janela do onibus estava quebrada,feedback,,
+Você é quem?,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Qual o ponto mais perto de Rodoviária?,solicitar_rota,Sumaré,Rodoviária
+Traçar rota para Rodoviária,solicitar_rota,Paulínia,Rodoviária
+Morotista sorriu pra mim,feedback,,
+Qual o ponto mais perto de Hospital Municipal?,solicitar_rota,Hortolândia,Hospital Municipal
+Não entendi,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Bastante gente no horario de pico,feedback,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Aplicativo fechando sozinho,feedback,,
+Não estou entendendo você,conversacao_geral,,
+um dois testando,conversacao_geral,,
+Tem ônibus Parque das Flores -> Shopping?,solicitar_rota,Parque das Flores,Shopping
+Saindo de Sumaré indo até Praça Matriz,solicitar_rota,Sumaré,Praça Matriz
+O onibus estava sem luz,feedback,,
+Preciso ir até Praça Matriz saindo de Sumaré,solicitar_rota,Sumaré,Praça Matriz
+Atrasei 6 minutos hoje,feedback,,
+Quero assistir um filme agora,desconhecido,,
+Atendimento ótimo,feedback,,
+Ar-condicionado não estava funcionando,feedback,,
+Traçar rota para Shopping,solicitar_rota,Parque das Flores,Shopping
+O onibus estava quente,feedback,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Traduza isto para francês,desconhecido,,
+Boa tarde,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Voce tem nome?,conversacao_geral,,
+Como você funciona?,conversacao_geral,,
+Posso testar você?,conversacao_geral,,
+Boa noite,conversacao_geral,,
+Rota do ponto Vila Nova ao Terminal B,solicitar_rota,Vila Nova,Terminal B
+A rota mudou sem aviso prévio,feedback,,
+Qual o ponto mais perto de Praça Matriz?,solicitar_rota,Vila Nova,Praça Matriz
+"Olá, tudo bem?",conversacao_geral,,
+Abre o navegador,desconhecido,,
+Agenda uma reunião amanhã,desconhecido,,
+Traduza isto para francês,desconhecido,,
+Tem ônibus Sumaré -> Hospital Municipal?,solicitar_rota,Sumaré,Hospital Municipal
+Apenas tarde,conversacao_geral,,
+Motorista estranho,feedback,,
+sudo apt-get install algo,desconhecido,,
+Qual ônibus para Campinas?,solicitar_rota,Terminal A,Campinas
+Informações erradas do app,feedback,,
+O onibus estava todo molhado por dentro,feedback,,
+Abre o navegador,desconhecido,,
+O linha que você falou não esta correta,feedback,,
+Motorista horrivel,feedback,,
+Como chego em Rodoviária?,solicitar_rota,Parque das Flores,Rodoviária
+Explique essa aplicativo pra mim,conversacao_geral,,
+Estou perdido,feedback,,
+Preciso ir até Shopping saindo de Parque das Flores,solicitar_rota,Parque das Flores,Shopping
+Gente perigosa no onibus a noite,feedback,,
+Banco rasgado,feedback,,
+Opa,conversacao_geral,,
+Rota do ponto Jardim Amanda ao Hospital Municipal,solicitar_rota,Jardim Amanda,Hospital Municipal
+Me ligue mais tarde,desconhecido,,
+Quero ir de Hortolândia para Shopping,solicitar_rota,Hortolândia,Shopping
+Tem ônibus Centro -> Shopping?,solicitar_rota,Centro,Shopping
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Instale esse programa,desconhecido,,
+Elogio para a linha 305,feedback,,
+Bom dia,conversacao_geral,,
+Socorro,conversacao_geral,,
+Me ligue mais tarde,desconhecido,,
+Atendimento de qualidade,feedback,,
+Quero comprar um carro,desconhecido,,
+Agenda uma reunião amanhã,desconhecido,,
+Qual o ponto mais perto de Hospital Municipal?,solicitar_rota,Jardim Amanda,Hospital Municipal
+Sou de Centro quero ir para Shopping,solicitar_rota,Centro,Shopping
+Morotista corre demais,feedback,,
+Como chego em Hospital Municipal?,solicitar_rota,Paulínia,Hospital Municipal
+Oba,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Sou de Parque das Flores quero ir para Shopping,solicitar_rota,Parque das Flores,Shopping
+O onibus esta atrasado,feedback,,
+Pode me ajudar?,conversacao_geral,,
+Me ajude,conversacao_geral,,
+Rota do ponto Centro ao Aeroporto,solicitar_rota,Centro,Aeroporto
+Saindo de Terminal A indo até Aeroporto,solicitar_rota,Terminal A,Aeroporto
+Voce me fez errar,feedback,,
+Saindo de Jardim Amanda indo até Terminal B,solicitar_rota,Jardim Amanda,Terminal B
+Ta me escutando bem?,conversacao_geral,,
+Você pode me ajudar?,conversacao_geral,,
+Ajuda me,conversacao_geral,,
+Qual ônibus para Rodoviária?,solicitar_rota,Sumaré,Rodoviária
+pode tocar musica,desconhecido,,
+Você é um assistente virtual?,conversacao_geral,,
+Oi Oi,conversacao_geral,,
+Motorista simpático,feedback,,
+Preciso ir até Aeroporto saindo de Centro,solicitar_rota,Centro,Aeroporto
+Bom dia meu querido,conversacao_geral,,
+Ajude,conversacao_geral,,
+Socorro,conversacao_geral,,
+Fale comigo,conversacao_geral,,
+Qual o ponto mais perto de Terminal B?,solicitar_rota,Paulínia,Terminal B
+E aí?,conversacao_geral,,
+Agenda uma reunião amanhã,desconhecido,,
+pode tocar musica,desconhecido,,
+Você falou uma informação errada ai,feedback,,
+Morotista podre,feedback,,
+Valeu,conversacao_geral,,
+Informação errada,feedback,,
+Gostei do atendimento,feedback,,
+Como investir em ações?,desconhecido,,
+Quero comprar um carro,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Mostre notícias de tecnologia,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+Traçar rota para Campinas,solicitar_rota,Centro,Campinas
+Informação do app não confere,feedback,,
+Quem ganhou o Oscar?,desconhecido,,
+Tem ônibus Vila Nova -> Hospital Municipal?,solicitar_rota,Vila Nova,Hospital Municipal
+Informação do app não confere,feedback,,
+asdfghjk,desconhecido,,
+Qual ônibus para Campinas?,solicitar_rota,Paulínia,Campinas
+Boa noite,conversacao_geral,,
+Rota do ponto Terminal A ao Universidade,solicitar_rota,Terminal A,Universidade
+Linha 522 demorou demais,feedback,,
+Quero assistir um filme agora,desconhecido,,
+Quero ir de Sumaré para Aeroporto,solicitar_rota,Sumaré,Aeroporto
+Valeu,conversacao_geral,,
+Como fazer bolo de cenoura?,desconhecido,,
+Saindo de Hortolândia indo até Hospital Municipal,solicitar_rota,Hortolândia,Hospital Municipal
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Motorista foi educado,feedback,,
+Mostre notícias de tecnologia,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+Como investir em ações?,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+Traçar rota para Praça Matriz,solicitar_rota,Vila Nova,Praça Matriz
+Sou de Vila Nova quero ir para Aeroporto,solicitar_rota,Vila Nova,Aeroporto
+Motorista foi educado,feedback,,
+E aí?,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+Beleza?,conversacao_geral,,
+Pode explicar como usar?,conversacao_geral,,
+Qual ônibus para Terminal B?,solicitar_rota,Vila Nova,Terminal B
+Sou de Jardim Amanda quero ir para Terminal B,solicitar_rota,Jardim Amanda,Terminal B
+"Olá, tudo bem?",conversacao_geral,,
+Boa tarde,conversacao_geral,,
+Tem ônibus Jardim Amanda -> Universidade?,solicitar_rota,Jardim Amanda,Universidade
+Valeu,conversacao_geral,,
+Aplicativo travando,feedback,,
+Bom dia,conversacao_geral,,
+Rota do ponto Hortolândia ao Praça Matriz,solicitar_rota,Hortolândia,Praça Matriz
+Você é um assistente?,conversacao_geral,,
+Qual o ponto mais perto de Rodoviária?,solicitar_rota,Vila Nova,Rodoviária
+E aí?,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Aplicativo travando,feedback,,
+Qual o ponto mais perto de Terminal B?,solicitar_rota,Sumaré,Terminal B
+Instale esse programa,desconhecido,,
+Ajuda por favor,conversacao_geral,,
+Aplicativo travando,feedback,,
+Como chego em Terminal B?,solicitar_rota,Terminal A,Terminal B
+Informação do app não confere,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Estou testando,conversacao_geral,,
+Banco quebrado no fundo,feedback,,
+Estou testando,conversacao_geral,,
+Como funciona você?,conversacao_geral,,
+E aí?,conversacao_geral,,
+Preciso ir até Rodoviária saindo de Hortolândia,solicitar_rota,Hortolândia,Rodoviária
+Quero ir de Sumaré para Aeroporto,solicitar_rota,Sumaré,Aeroporto
+Não gostei do motorista,feedback,,
+Como investir em ações?,desconhecido,,
+Linha 522 demorou demais,feedback,,
+sudo apt-get install algo,desconhecido,,
+Ajuda por favor,conversacao_geral,,
+asdfghjk,desconhecido,,
+Traduza isto para francês,desconhecido,,
+Quem é você?,conversacao_geral,,
+Qual ônibus para Hospital Municipal?,solicitar_rota,Paulínia,Hospital Municipal
+Quero comprar um carro,desconhecido,,
+Elogio para a linha 101,feedback,,
+"Olá, tudo bem?",conversacao_geral,,
+Estou testando o sistema,conversacao_geral,,
+Qual o ponto mais perto de Rodoviária?,solicitar_rota,Hortolândia,Rodoviária
+"Olá, tudo bem?",conversacao_geral,,
+Sou de Hortolândia quero ir para Terminal B,solicitar_rota,Hortolândia,Terminal B
+Sou de Paulínia quero ir para Rodoviária,solicitar_rota,Paulínia,Rodoviária
+Informação do app não confere,feedback,,
+Informação do app não confere,feedback,,
+Qual o ponto mais perto de Universidade?,solicitar_rota,Hortolândia,Universidade
+Como funciona você?,conversacao_geral,,
+Traçar rota para Aeroporto,solicitar_rota,Centro,Aeroporto
+Como chego em Praça Matriz?,solicitar_rota,Jardim Amanda,Praça Matriz
+Pode explicar como usar?,conversacao_geral,,
+Não gostei do motorista,feedback,,
+Ônibus muito lotado,feedback,,
+Parada sem iluminação,feedback,,
+Aplicativo travando,feedback,,
+Aplicativo travando,feedback,,
+Saindo de Sumaré indo até Campinas,solicitar_rota,Sumaré,Campinas
+Quero ir de Parque das Flores para Rodoviária,solicitar_rota,Parque das Flores,Rodoviária
+Qual ônibus para Aeroporto?,solicitar_rota,Paulínia,Aeroporto
+pode tocar musica,desconhecido,,
+Preciso ir até Terminal B saindo de Paulínia,solicitar_rota,Paulínia,Terminal B
+Quero assistir um filme agora,desconhecido,,
+Motorista foi educado,feedback,,
+Não gostei do motorista,feedback,,
+O ônibus atrasou 17 minutos,feedback,,
+Banco quebrado no fundo,feedback,,
+Beleza?,conversacao_geral,,
+Agenda uma reunião amanhã,desconhecido,,
+Não gostei do motorista,feedback,,
+Traçar rota para Shopping,solicitar_rota,Paulínia,Shopping
+Tudo certo?,conversacao_geral,,
+Você pode me ajudar?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+Como investir em ações?,desconhecido,,
+Como chego em Praça Matriz?,solicitar_rota,Hortolândia,Praça Matriz
+Quem é você?,conversacao_geral,,
+pode tocar musica,desconhecido,,
+Rota do ponto Sumaré ao Hospital Municipal,solicitar_rota,Sumaré,Hospital Municipal
+Me ligue mais tarde,desconhecido,,
+Abre o navegador,desconhecido,,
+Parada sem iluminação,feedback,,
+Quero comprar um carro,desconhecido,,
+Informação do app não confere,feedback,,
+Linha 701 demorou demais,feedback,,
+Sou de Parque das Flores quero ir para Terminal B,solicitar_rota,Parque das Flores,Terminal B
+Aplicativo travando,feedback,,
+Traçar rota para Shopping,solicitar_rota,Paulínia,Shopping
+Como chego em Universidade?,solicitar_rota,Vila Nova,Universidade
+Traçar rota para Aeroporto,solicitar_rota,Parque das Flores,Aeroporto
+Aplicativo travando,feedback,,
+Qual o ponto mais perto de Hospital Municipal?,solicitar_rota,Terminal A,Hospital Municipal
+Qual o ponto mais perto de Aeroporto?,solicitar_rota,Vila Nova,Aeroporto
+Preciso ir até Praça Matriz saindo de Hortolândia,solicitar_rota,Hortolândia,Praça Matriz
+Informação do app não confere,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+Tem ônibus Centro -> Universidade?,solicitar_rota,Centro,Universidade
+Rota mudou sem aviso,feedback,,
+Qual ônibus para Praça Matriz?,solicitar_rota,Vila Nova,Praça Matriz
+pode tocar musica,desconhecido,,
+Quero ir de Paulínia para Terminal B,solicitar_rota,Paulínia,Terminal B
+Você é um assistente?,conversacao_geral,,
+Tudo certo?,conversacao_geral,,
+Traçar rota para Shopping,solicitar_rota,Jardim Amanda,Shopping
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Quem ganhou o Oscar?,desconhecido,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Elogio para a linha 522,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Mostre notícias de tecnologia,desconhecido,,
+Qual ônibus para Hospital Municipal?,solicitar_rota,Terminal A,Hospital Municipal
+Tá me ouvindo?,conversacao_geral,,
+Quem ganhou o Oscar?,desconhecido,,
+sudo apt-get install algo,desconhecido,,
+Agenda uma reunião amanhã,desconhecido,,
+E aí?,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Qual o ponto mais perto de Rodoviária?,solicitar_rota,Jardim Amanda,Rodoviária
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Ajuda por favor,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+sudo apt-get install algo,desconhecido,,
+Oi,conversacao_geral,,
+Informação do app não confere,feedback,,
+Tem ônibus Parque das Flores -> Terminal B?,solicitar_rota,Parque das Flores,Terminal B
+Valeu,conversacao_geral,,
+Como chego em Shopping?,solicitar_rota,Centro,Shopping
+Quem ganhou o Oscar?,desconhecido,,
+Beleza?,conversacao_geral,,
+Qual o ponto mais perto de Campinas?,solicitar_rota,Jardim Amanda,Campinas
+Ônibus muito lotado,feedback,,
+Como investir em ações?,desconhecido,,
+Traçar rota para Universidade,solicitar_rota,Terminal A,Universidade
+E aí?,conversacao_geral,,
+Me ligue mais tarde,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Mostre notícias de tecnologia,desconhecido,,
+Informação do app não confere,feedback,,
+asdfghjk,desconhecido,,
+Sou de Hortolândia quero ir para Aeroporto,solicitar_rota,Hortolândia,Aeroporto
+Saindo de Vila Nova indo até Universidade,solicitar_rota,Vila Nova,Universidade
+Ajuda por favor,conversacao_geral,,
+O ônibus atrasou 12 minutos,feedback,,
+Mostre notícias de tecnologia,desconhecido,,
+Informação do app não confere,feedback,,
+Sou de Vila Nova quero ir para Shopping,solicitar_rota,Vila Nova,Shopping
+Elogio para a linha 701,feedback,,
+Obrigado!,conversacao_geral,,
+Preciso ir até Universidade saindo de Jardim Amanda,solicitar_rota,Jardim Amanda,Universidade
+Aplicativo travando,feedback,,
+Você é um assistente?,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Banco quebrado no fundo,feedback,,
+Pode conversar comigo?,conversacao_geral,,
+pode tocar musica,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+Estou testando,conversacao_geral,,
+Agenda uma reunião amanhã,desconhecido,,
+Não entendi,conversacao_geral,,
+O ônibus atrasou 14 minutos,feedback,,
+Gostei do atendimento,feedback,,
+Como investir em ações?,desconhecido,,
+Preciso ir até Praça Matriz saindo de Jardim Amanda,solicitar_rota,Jardim Amanda,Praça Matriz
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+Não gostei do motorista,feedback,,
+Ônibus muito lotado,feedback,,
+Tá me ouvindo?,conversacao_geral,,
+Pode conversar comigo?,conversacao_geral,,
+Traçar rota para Campinas,solicitar_rota,Paulínia,Campinas
+asdfghjk,desconhecido,,
+Ônibus muito lotado,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Qual ônibus para Aeroporto?,solicitar_rota,Centro,Aeroporto
+pode tocar musica,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Você é um assistente?,conversacao_geral,,
+vc joga?,desconhecido,,
+Qual ônibus para Rodoviária?,solicitar_rota,Parque das Flores,Rodoviária
+Oi,conversacao_geral,,
+Traçar rota para Aeroporto,solicitar_rota,Parque das Flores,Aeroporto
+Como investir em ações?,desconhecido,,
+Tem ônibus Vila Nova -> Aeroporto?,solicitar_rota,Vila Nova,Aeroporto
+Sou de Parque das Flores quero ir para Praça Matriz,solicitar_rota,Parque das Flores,Praça Matriz
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Não entendi,conversacao_geral,,
+"Olá, tudo bem?",conversacao_geral,,
+O ônibus atrasou 13 minutos,feedback,,
+Pode conversar comigo?,conversacao_geral,,
+Tudo certo?,conversacao_geral,,
+Linha 417 demorou demais,feedback,,
+asdfghjk,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+Motorista foi educado,feedback,,
+E aí?,conversacao_geral,,
+Informação do app não confere,feedback,,
+Ônibus muito lotado,feedback,,
+Quem ganhou o Oscar?,desconhecido,,
+Instale esse programa,desconhecido,,
+Não entendi,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Boa noite,conversacao_geral,,
+Obrigado!,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+asdfghjk,desconhecido,,
+Quero comprar um carro,desconhecido,,
+Parada sem iluminação,feedback,,
+O ônibus atrasou 30 minutos,feedback,,
+Ajuda por favor,conversacao_geral,,
+Qual seu nome?,conversacao_geral,,
+Informação do app não confere,feedback,,
+Tá me ouvindo?,conversacao_geral,,
+Informação do app não confere,feedback,,
+Gostei do atendimento,feedback,,
+vc joga?,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Quero comprar um carro,desconhecido,,
+Abre o navegador,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Traduza isto para francês,desconhecido,,
+pode tocar musica,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+Qual a nossa capital?,desconhecido,,

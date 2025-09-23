@@ -1,0 +1,3001 @@
+text,expected_intent,expected_origin,expected_destination
+Qual seu nome?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+Estou testando,conversacao_geral,,
+Qual o caminho de ônibus de Hortolândia até Rodoviária em Campinas?,solicitar_rota,Hortolândia,Rodoviária
+sudo apt-get install algo,desconhecido,,
+Ônibus muito lotado,feedback,,
+Não gostei do motorista,feedback,,
+Quem é você?,conversacao_geral,,
+"Saindo de Vila Nova, qual ônibus pego para chegar em Aeroporto em Campinas?",solicitar_rota,Vila Nova,Aeroporto
+vc joga?,desconhecido,,
+Traduza isto para francês,desconhecido,,
+"Preciso de uma rota de Jardim Amanda para Hospital Municipal em Campinas, qual ônibus usar?",solicitar_rota,Jardim Amanda,Hospital Municipal
+"Estou no bairro Sumaré, quero chegar no Rodoviária em Campinas, qual é a rota?",solicitar_rota,Sumaré,Rodoviária
+Não entendi,conversacao_geral,,
+Como fazer bolo de cenoura?,desconhecido,,
+O ônibus atrasou 15 minutos,feedback,,
+Ônibus muito lotado,feedback,,
+"Saindo de Centro, qual ônibus devo pegar para chegar no Campinas?",solicitar_rota,Centro,Campinas
+pode tocar musica,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+"Estou no bairro Sumaré, quero chegar no Rodoviária em Campinas, qual é a rota?",solicitar_rota,Sumaré,Rodoviária
+"Estou em Terminal A e quero ir até Shopping, qual linha devo pegar?",solicitar_rota,Terminal A,Shopping
+Aplicativo travando,feedback,,
+E aí?,conversacao_geral,,
+Motorista foi educado,feedback,,
+Abre o navegador,desconhecido,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Informação do app não confere,feedback,,
+"Saindo de Paulínia, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Paulínia,Shopping
+Linha 305 demorou demais,feedback,,
+Gostei do atendimento,feedback,,
+Quem é você?,conversacao_geral,,
+"Saindo de Sumaré, qual ônibus devo pegar para chegar no Rodoviária?",solicitar_rota,Sumaré,Rodoviária
+Agenda uma reunião amanhã,desconhecido,,
+"Preciso de uma rota de Centro para Shopping em Campinas, qual ônibus usar?",solicitar_rota,Centro,Shopping
+Elogio para a linha 417,feedback,,
+Ajuda por favor,conversacao_geral,,
+"Saindo de Paulínia, qual ônibus devo pegar para chegar no Aeroporto?",solicitar_rota,Paulínia,Aeroporto
+Como vou de Terminal A até Terminal B em Campinas de ônibus?,solicitar_rota,Terminal A,Terminal B
+Sugestão: mais horários no pico,feedback,,
+Qual o caminho de ônibus de Terminal A até Terminal B em Campinas?,solicitar_rota,Terminal A,Terminal B
+Qual o caminho de ônibus de Sumaré até Aeroporto em Campinas?,solicitar_rota,Sumaré,Aeroporto
+Qual o caminho de ônibus de Hortolândia até Hospital Municipal em Campinas?,solicitar_rota,Hortolândia,Hospital Municipal
+"Preciso de uma rota de Paulínia para Shopping em Campinas, qual ônibus usar?",solicitar_rota,Paulínia,Shopping
+Estou testando,conversacao_geral,,
+Tudo certo?,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+"Preciso de uma rota de Hortolândia para Rodoviária em Campinas, qual ônibus usar?",solicitar_rota,Hortolândia,Rodoviária
+Qual o preço do dólar hoje?,desconhecido,,
+Você pode me ajudar?,conversacao_geral,,
+Linha 305 demorou demais,feedback,,
+Valeu,conversacao_geral,,
+Qual o caminho de ônibus de Vila Nova até Campinas em Campinas?,solicitar_rota,Vila Nova,Campinas
+Abre o navegador,desconhecido,,
+Qual o ônibus que sai de Parque das Flores e vai para Campinas em Campinas?,solicitar_rota,Parque das Flores,Campinas
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Informação do app não confere,feedback,,
+Não gostei do motorista,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Motorista foi educado,feedback,,
+Como vou de Parque das Flores até Campinas em Campinas de ônibus?,solicitar_rota,Parque das Flores,Campinas
+Preciso ir de Sumaré até Terminal B em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Terminal B
+Motorista foi educado,feedback,,
+"Saindo de Parque das Flores, qual ônibus devo pegar para chegar no Terminal B?",solicitar_rota,Parque das Flores,Terminal B
+"Estou em Paulínia, quero ir para Praça Matriz em Campinas. Como faço?",solicitar_rota,Paulínia,Praça Matriz
+Não gostei do motorista,feedback,,
+Aplicativo travando,feedback,,
+Ônibus muito lotado,feedback,,
+Obrigado!,conversacao_geral,,
+"Saindo de Vila Nova, qual ônibus pego para chegar em Campinas em Campinas?",solicitar_rota,Vila Nova,Campinas
+Boa tarde,conversacao_geral,,
+Mostre notícias de tecnologia,desconhecido,,
+Agenda uma reunião amanhã,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+"Estou no bairro Hortolândia, quero chegar no Shopping em Campinas, qual é a rota?",solicitar_rota,Hortolândia,Shopping
+"Saindo de Paulínia, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Paulínia,Shopping
+Instale esse programa,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Traduza isto para francês,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Ajuda por favor,conversacao_geral,,
+Oi,conversacao_geral,,
+Informação do app não confere,feedback,,
+Não entendi,conversacao_geral,,
+Estou testando o sistema,conversacao_geral,,
+"Saindo de Parque das Flores, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Parque das Flores,Shopping
+Qual a senha do Wi-Fi?,desconhecido,,
+Não gostei do motorista,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+"Estou em Parque das Flores, quero ir para Hospital Municipal em Campinas. Como faço?",solicitar_rota,Parque das Flores,Hospital Municipal
+Sugestão: mais horários no pico,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+Linha 305 demorou demais,feedback,,
+Boa tarde,conversacao_geral,,
+"Estou no bairro Vila Nova, quero chegar no Hospital Municipal em Campinas, qual é a rota?",solicitar_rota,Vila Nova,Hospital Municipal
+Qual a capital da Noruega?,desconhecido,,
+Abre o navegador,desconhecido,,
+"Preciso de uma rota de Paulínia para Praça Matriz em Campinas, qual ônibus usar?",solicitar_rota,Paulínia,Praça Matriz
+Bom dia,conversacao_geral,,
+Ajuda por favor,conversacao_geral,,
+"Estou em Vila Nova, quero ir para Rodoviária em Campinas. Como faço?",solicitar_rota,Vila Nova,Rodoviária
+Preciso ir de Sumaré até Rodoviária em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Rodoviária
+Ajuda por favor,conversacao_geral,,
+Não gostei do motorista,feedback,,
+Aplicativo travando,feedback,,
+Boa noite,conversacao_geral,,
+"Estou em Centro, quero ir para Rodoviária em Campinas. Como faço?",solicitar_rota,Centro,Rodoviária
+"Estou em Vila Nova, quero ir para Hospital Municipal em Campinas. Como faço?",solicitar_rota,Vila Nova,Hospital Municipal
+"Olá, tudo bem?",conversacao_geral,,
+Quem ganhou o Oscar?,desconhecido,,
+"Estou em Sumaré, quero ir para Aeroporto em Campinas. Como faço?",solicitar_rota,Sumaré,Aeroporto
+Me ligue mais tarde,desconhecido,,
+Como funciona você?,conversacao_geral,,
+Preciso ir de Paulínia até Universidade em Campinas. Qual linha pegar?,solicitar_rota,Paulínia,Universidade
+Você é um assistente?,conversacao_geral,,
+"Saindo de Sumaré, qual ônibus devo pegar para chegar no Terminal B?",solicitar_rota,Sumaré,Terminal B
+"Preciso de uma rota de Hortolândia para Universidade em Campinas, qual ônibus usar?",solicitar_rota,Hortolândia,Universidade
+Linha 305 demorou demais,feedback,,
+Não entendi,conversacao_geral,,
+Qual o preço do dólar hoje?,desconhecido,,
+Linha 305 demorou demais,feedback,,
+Gostei do atendimento,feedback,,
+Quem é você?,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Valeu,conversacao_geral,,
+Pode explicar como usar?,conversacao_geral,,
+Linha 305 demorou demais,feedback,,
+Ônibus muito lotado,feedback,,
+Rota mudou sem aviso,feedback,,
+Como investir em ações?,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Tudo certo?,conversacao_geral,,
+Qual seu nome?,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Como vou de Centro até Praça Matriz em Campinas de ônibus?,solicitar_rota,Centro,Praça Matriz
+"Preciso de uma rota de Jardim Amanda para Praça Matriz em Campinas, qual ônibus usar?",solicitar_rota,Jardim Amanda,Praça Matriz
+Ajuda por favor,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Instale esse programa,desconhecido,,
+Qual o preço do dólar hoje?,desconhecido,,
+Motorista foi educado,feedback,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Ajuda por favor,conversacao_geral,,
+"Estou em Paulínia e quero ir até Praça Matriz, qual linha devo pegar?",solicitar_rota,Paulínia,Praça Matriz
+Quem é você?,conversacao_geral,,
+Abre o navegador,desconhecido,,
+Oi,conversacao_geral,,
+"Saindo de Sumaré, qual ônibus devo pegar para chegar no Shopping?",solicitar_rota,Sumaré,Shopping
+Como funciona você?,conversacao_geral,,
+Qual a capital da Noruega?,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Como funciona você?,conversacao_geral,,
+Preciso ir de Vila Nova até Campinas em Campinas. Qual linha pegar?,solicitar_rota,Vila Nova,Campinas
+Boa tarde,conversacao_geral,,
+"Estou em Hortolândia, quero ir para Hospital Municipal em Campinas. Como faço?",solicitar_rota,Hortolândia,Hospital Municipal
+vc joga?,desconhecido,,
+Pode conversar comigo?,conversacao_geral,,
+pode tocar musica,desconhecido,,
+Pode conversar comigo?,conversacao_geral,,
+Bom dia,conversacao_geral,,
+Preciso ir de Hortolândia até Praça Matriz em Campinas. Qual linha pegar?,solicitar_rota,Hortolândia,Praça Matriz
+Qual o ônibus que sai de Jardim Amanda e vai para Terminal B em Campinas?,solicitar_rota,Jardim Amanda,Terminal B
+Ajuda por favor,conversacao_geral,,
+Banco quebrado no fundo,feedback,,
+"Saindo de Paulínia, qual ônibus devo pegar para chegar no Terminal B?",solicitar_rota,Paulínia,Terminal B
+vc joga?,desconhecido,,
+Traduza isto para francês,desconhecido,,
+Preciso ir de Centro até Hospital Municipal em Campinas. Qual linha pegar?,solicitar_rota,Centro,Hospital Municipal
+asdfghjk,desconhecido,,
+vc joga?,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+Aplicativo travando,feedback,,
+Mostre notícias de tecnologia,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+Qual seu nome?,conversacao_geral,,
+"Preciso de uma rota de Vila Nova para Rodoviária em Campinas, qual ônibus usar?",solicitar_rota,Vila Nova,Rodoviária
+Valeu,conversacao_geral,,
+"Estou em Parque das Flores, quero ir para Shopping em Campinas. Como faço?",solicitar_rota,Parque das Flores,Shopping
+Como investir em ações?,desconhecido,,
+Estou testando o sistema,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+"Preciso de uma rota de Sumaré para Rodoviária em Campinas, qual ônibus usar?",solicitar_rota,Sumaré,Rodoviária
+"Estou no bairro Parque das Flores, quero chegar no Universidade em Campinas, qual é a rota?",solicitar_rota,Parque das Flores,Universidade
+"Saindo de Parque das Flores, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Parque das Flores,Shopping
+Traduza isto para francês,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Obrigado!,conversacao_geral,,
+Qual o ônibus que sai de Hortolândia e vai para Hospital Municipal em Campinas?,solicitar_rota,Hortolândia,Hospital Municipal
+Banco quebrado no fundo,feedback,,
+Qual seu nome?,conversacao_geral,,
+"Preciso de uma rota de Centro para Universidade em Campinas, qual ônibus usar?",solicitar_rota,Centro,Universidade
+Não gostei do motorista,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+"Saindo de Terminal A, qual ônibus devo pegar para chegar no Praça Matriz?",solicitar_rota,Terminal A,Praça Matriz
+Quem ganhou o Oscar?,desconhecido,,
+Rota mudou sem aviso,feedback,,
+"Estou em Hortolândia e quero ir até Praça Matriz, qual linha devo pegar?",solicitar_rota,Hortolândia,Praça Matriz
+Banco quebrado no fundo,feedback,,
+Não entendi,conversacao_geral,,
+Como vou de Centro até Campinas em Campinas de ônibus?,solicitar_rota,Centro,Campinas
+sudo apt-get install algo,desconhecido,,
+Estou testando,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Boa noite,conversacao_geral,,
+Estou testando o sistema,conversacao_geral,,
+Qual o caminho de ônibus de Jardim Amanda até Universidade em Campinas?,solicitar_rota,Jardim Amanda,Universidade
+E aí?,conversacao_geral,,
+Valeu,conversacao_geral,,
+Obrigado!,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+E aí?,conversacao_geral,,
+O ônibus atrasou 15 minutos,feedback,,
+"Saindo de Hortolândia, qual ônibus pego para chegar em Hospital Municipal em Campinas?",solicitar_rota,Hortolândia,Hospital Municipal
+Como vou de Terminal A até Shopping em Campinas de ônibus?,solicitar_rota,Terminal A,Shopping
+"Estou em Centro e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Centro,Hospital Municipal
+Pode conversar comigo?,conversacao_geral,,
+Bom dia,conversacao_geral,,
+Parada sem iluminação,feedback,,
+"Olá, tudo bem?",conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Instale esse programa,desconhecido,,
+O ônibus atrasou 15 minutos,feedback,,
+"Saindo de Centro, qual ônibus pego para chegar em Hospital Municipal em Campinas?",solicitar_rota,Centro,Hospital Municipal
+Qual o ônibus que sai de Hortolândia e vai para Campinas em Campinas?,solicitar_rota,Hortolândia,Campinas
+Não entendi,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Qual o ônibus que sai de Jardim Amanda e vai para Campinas em Campinas?,solicitar_rota,Jardim Amanda,Campinas
+Ônibus muito lotado,feedback,,
+Obrigado!,conversacao_geral,,
+Instale esse programa,desconhecido,,
+"Saindo de Vila Nova, qual ônibus pego para chegar em Aeroporto em Campinas?",solicitar_rota,Vila Nova,Aeroporto
+"Estou em Vila Nova e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Vila Nova,Hospital Municipal
+Não gostei do motorista,feedback,,
+"Estou em Jardim Amanda e quero ir até Shopping, qual linha devo pegar?",solicitar_rota,Jardim Amanda,Shopping
+Não entendi,conversacao_geral,,
+Qual a capital da Noruega?,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Abre o navegador,desconhecido,,
+Linha 305 demorou demais,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+Ajuda por favor,conversacao_geral,,
+"Preciso de uma rota de Parque das Flores para Terminal B em Campinas, qual ônibus usar?",solicitar_rota,Parque das Flores,Terminal B
+"Estou em Vila Nova e quero ir até Terminal B, qual linha devo pegar?",solicitar_rota,Vila Nova,Terminal B
+Linha 305 demorou demais,feedback,,
+Como vou de Hortolândia até Terminal B em Campinas de ônibus?,solicitar_rota,Hortolândia,Terminal B
+Motorista foi educado,feedback,,
+vc joga?,desconhecido,,
+Não gostei do motorista,feedback,,
+O ônibus atrasou 15 minutos,feedback,,
+"Preciso de uma rota de Hortolândia para Shopping em Campinas, qual ônibus usar?",solicitar_rota,Hortolândia,Shopping
+Motorista foi educado,feedback,,
+pode tocar musica,desconhecido,,
+Como investir em ações?,desconhecido,,
+Ajuda por favor,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Como funciona você?,conversacao_geral,,
+Você é um assistente?,conversacao_geral,,
+Ajuda por favor,conversacao_geral,,
+Pode conversar comigo?,conversacao_geral,,
+"Preciso de uma rota de Jardim Amanda para Shopping em Campinas, qual ônibus usar?",solicitar_rota,Jardim Amanda,Shopping
+Rota mudou sem aviso,feedback,,
+Como vou de Paulínia até Aeroporto em Campinas de ônibus?,solicitar_rota,Paulínia,Aeroporto
+Boa tarde,conversacao_geral,,
+pode tocar musica,desconhecido,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Mostre notícias de tecnologia,desconhecido,,
+"Preciso de uma rota de Hortolândia para Shopping em Campinas, qual ônibus usar?",solicitar_rota,Hortolândia,Shopping
+Estou testando,conversacao_geral,,
+Gostei do atendimento,feedback,,
+sudo apt-get install algo,desconhecido,,
+"Estou em Hortolândia e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Hortolândia,Hospital Municipal
+Aplicativo travando,feedback,,
+Linha 305 demorou demais,feedback,,
+asdfghjk,desconhecido,,
+Parada sem iluminação,feedback,,
+Banco quebrado no fundo,feedback,,
+"Saindo de Vila Nova, qual ônibus devo pegar para chegar no Universidade?",solicitar_rota,Vila Nova,Universidade
+Pode explicar como usar?,conversacao_geral,,
+O ônibus atrasou 15 minutos,feedback,,
+"Preciso de uma rota de Terminal A para Campinas em Campinas, qual ônibus usar?",solicitar_rota,Terminal A,Campinas
+Parada sem iluminação,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Ajuda por favor,conversacao_geral,,
+Preciso ir de Sumaré até Shopping em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Shopping
+Qual a capital da Noruega?,desconhecido,,
+Preciso ir de Centro até Shopping em Campinas. Qual linha pegar?,solicitar_rota,Centro,Shopping
+"Preciso de uma rota de Centro para Shopping em Campinas, qual ônibus usar?",solicitar_rota,Centro,Shopping
+Quem ganhou o Oscar?,desconhecido,,
+Instale esse programa,desconhecido,,
+Motorista foi educado,feedback,,
+Valeu,conversacao_geral,,
+Bom dia,conversacao_geral,,
+Me ligue mais tarde,desconhecido,,
+Gostei do atendimento,feedback,,
+Mostre notícias de tecnologia,desconhecido,,
+Quero comprar um carro,desconhecido,,
+"Saindo de Vila Nova, qual ônibus devo pegar para chegar no Campinas?",solicitar_rota,Vila Nova,Campinas
+"Estou em Terminal A e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Terminal A,Hospital Municipal
+Informação do app não confere,feedback,,
+Preciso ir de Terminal A até Hospital Municipal em Campinas. Qual linha pegar?,solicitar_rota,Terminal A,Hospital Municipal
+Tá me ouvindo?,conversacao_geral,,
+Qual a senha do Wi-Fi?,desconhecido,,
+"Preciso de uma rota de Parque das Flores para Rodoviária em Campinas, qual ônibus usar?",solicitar_rota,Parque das Flores,Rodoviária
+Linha 305 demorou demais,feedback,,
+Qual seu nome?,conversacao_geral,,
+"Olá, tudo bem?",conversacao_geral,,
+Qual o caminho de ônibus de Terminal A até Shopping em Campinas?,solicitar_rota,Terminal A,Shopping
+Qual o caminho de ônibus de Terminal A até Aeroporto em Campinas?,solicitar_rota,Terminal A,Aeroporto
+Gostei do atendimento,feedback,,
+"Saindo de Terminal A, qual ônibus devo pegar para chegar no Rodoviária?",solicitar_rota,Terminal A,Rodoviária
+Tá me ouvindo?,conversacao_geral,,
+E aí?,conversacao_geral,,
+Beleza?,conversacao_geral,,
+"Estou no bairro Centro, quero chegar no Universidade em Campinas, qual é a rota?",solicitar_rota,Centro,Universidade
+Abre o navegador,desconhecido,,
+Pode conversar comigo?,conversacao_geral,,
+Estou testando,conversacao_geral,,
+O ônibus atrasou 15 minutos,feedback,,
+"Estou em Terminal A, quero ir para Campinas em Campinas. Como faço?",solicitar_rota,Terminal A,Campinas
+Pode explicar como usar?,conversacao_geral,,
+Obrigado!,conversacao_geral,,
+Pode explicar como usar?,conversacao_geral,,
+E aí?,conversacao_geral,,
+"Estou em Centro, quero ir para Campinas em Campinas. Como faço?",solicitar_rota,Centro,Campinas
+Como funciona você?,conversacao_geral,,
+pode tocar musica,desconhecido,,
+Traduza isto para francês,desconhecido,,
+Não gostei do motorista,feedback,,
+Elogio para a linha 417,feedback,,
+Qual seu nome?,conversacao_geral,,
+Aplicativo travando,feedback,,
+Parada sem iluminação,feedback,,
+Como investir em ações?,desconhecido,,
+vc joga?,desconhecido,,
+Aplicativo travando,feedback,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Aplicativo travando,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Preciso ir de Vila Nova até Shopping em Campinas. Qual linha pegar?,solicitar_rota,Vila Nova,Shopping
+Informação do app não confere,feedback,,
+Quem ganhou o Oscar?,desconhecido,,
+"Estou em Terminal A, quero ir para Rodoviária em Campinas. Como faço?",solicitar_rota,Terminal A,Rodoviária
+O ônibus atrasou 15 minutos,feedback,,
+Instale esse programa,desconhecido,,
+"Estou em Centro e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Centro,Rodoviária
+Tudo certo?,conversacao_geral,,
+"Preciso de uma rota de Sumaré para Terminal B em Campinas, qual ônibus usar?",solicitar_rota,Sumaré,Terminal B
+Ônibus muito lotado,feedback,,
+Mostre notícias de tecnologia,desconhecido,,
+"Estou no bairro Terminal A, quero chegar no Praça Matriz em Campinas, qual é a rota?",solicitar_rota,Terminal A,Praça Matriz
+Pode conversar comigo?,conversacao_geral,,
+Qual o preço do dólar hoje?,desconhecido,,
+"Estou em Terminal A e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Terminal A,Rodoviária
+Instale esse programa,desconhecido,,
+Gostei do atendimento,feedback,,
+vc joga?,desconhecido,,
+Não gostei do motorista,feedback,,
+Quero comprar um carro,desconhecido,,
+Traduza isto para francês,desconhecido,,
+Oi,conversacao_geral,,
+Preciso ir de Hortolândia até Aeroporto em Campinas. Qual linha pegar?,solicitar_rota,Hortolândia,Aeroporto
+"Estou no bairro Sumaré, quero chegar no Hospital Municipal em Campinas, qual é a rota?",solicitar_rota,Sumaré,Hospital Municipal
+Ônibus muito lotado,feedback,,
+E aí?,conversacao_geral,,
+Não gostei do motorista,feedback,,
+Boa tarde,conversacao_geral,,
+Bom dia,conversacao_geral,,
+"Saindo de Jardim Amanda, qual ônibus pego para chegar em Praça Matriz em Campinas?",solicitar_rota,Jardim Amanda,Praça Matriz
+"Preciso de uma rota de Parque das Flores para Rodoviária em Campinas, qual ônibus usar?",solicitar_rota,Parque das Flores,Rodoviária
+Você é um assistente?,conversacao_geral,,
+Obrigado!,conversacao_geral,,
+"Saindo de Parque das Flores, qual ônibus devo pegar para chegar no Shopping?",solicitar_rota,Parque das Flores,Shopping
+Tudo certo?,conversacao_geral,,
+Não gostei do motorista,feedback,,
+"Olá, tudo bem?",conversacao_geral,,
+"Estou em Centro, quero ir para Praça Matriz em Campinas. Como faço?",solicitar_rota,Centro,Praça Matriz
+Não entendi,conversacao_geral,,
+"Estou em Paulínia, quero ir para Terminal B em Campinas. Como faço?",solicitar_rota,Paulínia,Terminal B
+Não entendi,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+Motorista foi educado,feedback,,
+Preciso ir de Sumaré até Campinas em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Campinas
+Me ligue mais tarde,desconhecido,,
+Como funciona você?,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Como vou de Parque das Flores até Rodoviária em Campinas de ônibus?,solicitar_rota,Parque das Flores,Rodoviária
+Linha 305 demorou demais,feedback,,
+Abre o navegador,desconhecido,,
+Tudo certo?,conversacao_geral,,
+Informação do app não confere,feedback,,
+Como funciona você?,conversacao_geral,,
+Você é um assistente?,conversacao_geral,,
+Qual seu nome?,conversacao_geral,,
+"Saindo de Parque das Flores, qual ônibus devo pegar para chegar no Rodoviária?",solicitar_rota,Parque das Flores,Rodoviária
+"Saindo de Sumaré, qual ônibus devo pegar para chegar no Shopping?",solicitar_rota,Sumaré,Shopping
+O ônibus atrasou 15 minutos,feedback,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Não gostei do motorista,feedback,,
+Me ligue mais tarde,desconhecido,,
+Beleza?,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Tá me ouvindo?,conversacao_geral,,
+"Preciso de uma rota de Vila Nova para Aeroporto em Campinas, qual ônibus usar?",solicitar_rota,Vila Nova,Aeroporto
+Qual o preço do dólar hoje?,desconhecido,,
+Aplicativo travando,feedback,,
+Qual seu nome?,conversacao_geral,,
+Estou testando,conversacao_geral,,
+"Saindo de Vila Nova, qual ônibus devo pegar para chegar no Campinas?",solicitar_rota,Vila Nova,Campinas
+Como funciona você?,conversacao_geral,,
+"Estou em Vila Nova e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Vila Nova,Hospital Municipal
+"Estou em Centro, quero ir para Hospital Municipal em Campinas. Como faço?",solicitar_rota,Centro,Hospital Municipal
+Sugestão: mais horários no pico,feedback,,
+Linha 305 demorou demais,feedback,,
+Como vou de Hortolândia até Praça Matriz em Campinas de ônibus?,solicitar_rota,Hortolândia,Praça Matriz
+Tudo certo?,conversacao_geral,,
+"Preciso de uma rota de Paulínia para Hospital Municipal em Campinas, qual ônibus usar?",solicitar_rota,Paulínia,Hospital Municipal
+"Estou em Vila Nova e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Vila Nova,Hospital Municipal
+Bom dia,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Linha 305 demorou demais,feedback,,
+Rota mudou sem aviso,feedback,,
+Banco quebrado no fundo,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Preciso ir de Centro até Universidade em Campinas. Qual linha pegar?,solicitar_rota,Centro,Universidade
+"Estou em Sumaré, quero ir para Rodoviária em Campinas. Como faço?",solicitar_rota,Sumaré,Rodoviária
+Qual o ônibus que sai de Centro e vai para Hospital Municipal em Campinas?,solicitar_rota,Centro,Hospital Municipal
+Me ligue mais tarde,desconhecido,,
+"Saindo de Vila Nova, qual ônibus devo pegar para chegar no Hospital Municipal?",solicitar_rota,Vila Nova,Hospital Municipal
+Abre o navegador,desconhecido,,
+Parada sem iluminação,feedback,,
+Ônibus muito lotado,feedback,,
+Motorista foi educado,feedback,,
+Motorista foi educado,feedback,,
+Você é um assistente?,conversacao_geral,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Banco quebrado no fundo,feedback,,
+"Estou em Terminal A, quero ir para Praça Matriz em Campinas. Como faço?",solicitar_rota,Terminal A,Praça Matriz
+"Olá, tudo bem?",conversacao_geral,,
+Você pode me ajudar?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+Mostre notícias de tecnologia,desconhecido,,
+Qual o ônibus que sai de Vila Nova e vai para Praça Matriz em Campinas?,solicitar_rota,Vila Nova,Praça Matriz
+"Olá, tudo bem?",conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Qual o ônibus que sai de Paulínia e vai para Hospital Municipal em Campinas?,solicitar_rota,Paulínia,Hospital Municipal
+Quem ganhou o Oscar?,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+Aplicativo travando,feedback,,
+sudo apt-get install algo,desconhecido,,
+O ônibus atrasou 15 minutos,feedback,,
+Banco quebrado no fundo,feedback,,
+"Estou em Paulínia e quero ir até Shopping, qual linha devo pegar?",solicitar_rota,Paulínia,Shopping
+Linha 305 demorou demais,feedback,,
+"Estou em Parque das Flores e quero ir até Shopping, qual linha devo pegar?",solicitar_rota,Parque das Flores,Shopping
+Qual o ônibus que sai de Paulínia e vai para Hospital Municipal em Campinas?,solicitar_rota,Paulínia,Hospital Municipal
+"Preciso de uma rota de Parque das Flores para Praça Matriz em Campinas, qual ônibus usar?",solicitar_rota,Parque das Flores,Praça Matriz
+Motorista foi educado,feedback,,
+Qual o caminho de ônibus de Parque das Flores até Aeroporto em Campinas?,solicitar_rota,Parque das Flores,Aeroporto
+Qual o caminho de ônibus de Terminal A até Universidade em Campinas?,solicitar_rota,Terminal A,Universidade
+"Estou em Centro e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Centro,Hospital Municipal
+O ônibus atrasou 15 minutos,feedback,,
+Ajuda por favor,conversacao_geral,,
+"Estou no bairro Paulínia, quero chegar no Hospital Municipal em Campinas, qual é a rota?",solicitar_rota,Paulínia,Hospital Municipal
+Elogio para a linha 417,feedback,,
+"Estou no bairro Terminal A, quero chegar no Universidade em Campinas, qual é a rota?",solicitar_rota,Terminal A,Universidade
+Abre o navegador,desconhecido,,
+"Preciso de uma rota de Sumaré para Aeroporto em Campinas, qual ônibus usar?",solicitar_rota,Sumaré,Aeroporto
+E aí?,conversacao_geral,,
+E aí?,conversacao_geral,,
+Preciso ir de Jardim Amanda até Terminal B em Campinas. Qual linha pegar?,solicitar_rota,Jardim Amanda,Terminal B
+Traduza isto para francês,desconhecido,,
+sudo apt-get install algo,desconhecido,,
+sudo apt-get install algo,desconhecido,,
+Instale esse programa,desconhecido,,
+Motorista foi educado,feedback,,
+Sugestão: mais horários no pico,feedback,,
+vc joga?,desconhecido,,
+Qual o caminho de ônibus de Hortolândia até Praça Matriz em Campinas?,solicitar_rota,Hortolândia,Praça Matriz
+Estou testando o sistema,conversacao_geral,,
+Abre o navegador,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Agenda uma reunião amanhã,desconhecido,,
+Quem é você?,conversacao_geral,,
+Qual o preço do dólar hoje?,desconhecido,,
+"Saindo de Sumaré, qual ônibus pego para chegar em Praça Matriz em Campinas?",solicitar_rota,Sumaré,Praça Matriz
+Me ligue mais tarde,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Instale esse programa,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+Banco quebrado no fundo,feedback,,
+Qual o ônibus que sai de Hortolândia e vai para Campinas em Campinas?,solicitar_rota,Hortolândia,Campinas
+Oi,conversacao_geral,,
+Preciso ir de Parque das Flores até Aeroporto em Campinas. Qual linha pegar?,solicitar_rota,Parque das Flores,Aeroporto
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Boa noite,conversacao_geral,,
+"Estou em Sumaré, quero ir para Aeroporto em Campinas. Como faço?",solicitar_rota,Sumaré,Aeroporto
+Rota mudou sem aviso,feedback,,
+vc joga?,desconhecido,,
+Como vou de Centro até Shopping em Campinas de ônibus?,solicitar_rota,Centro,Shopping
+Oi,conversacao_geral,,
+asdfghjk,desconhecido,,
+Ônibus muito lotado,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Informação do app não confere,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+"Saindo de Sumaré, qual ônibus pego para chegar em Rodoviária em Campinas?",solicitar_rota,Sumaré,Rodoviária
+"Estou em Paulínia e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Paulínia,Rodoviária
+Não entendi,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Traduza isto para francês,desconhecido,,
+Elogio para a linha 417,feedback,,
+Qual o ônibus que sai de Jardim Amanda e vai para Hospital Municipal em Campinas?,solicitar_rota,Jardim Amanda,Hospital Municipal
+Aplicativo travando,feedback,,
+Valeu,conversacao_geral,,
+"Estou em Jardim Amanda, quero ir para Rodoviária em Campinas. Como faço?",solicitar_rota,Jardim Amanda,Rodoviária
+Ar-condicionado não estava funcionando,feedback,,
+Qual seu nome?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+Ônibus muito lotado,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+Me ligue mais tarde,desconhecido,,
+Como investir em ações?,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Estou testando o sistema,conversacao_geral,,
+Elogio para a linha 417,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Traduza isto para francês,desconhecido,,
+"Estou no bairro Terminal A, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Terminal A,Terminal B
+Mostre notícias de tecnologia,desconhecido,,
+Não gostei do motorista,feedback,,
+Abre o navegador,desconhecido,,
+Motorista foi educado,feedback,,
+Elogio para a linha 417,feedback,,
+Boa noite,conversacao_geral,,
+Quem é você?,conversacao_geral,,
+"Saindo de Hortolândia, qual ônibus devo pegar para chegar no Shopping?",solicitar_rota,Hortolândia,Shopping
+Instale esse programa,desconhecido,,
+Elogio para a linha 417,feedback,,
+Parada sem iluminação,feedback,,
+"Saindo de Parque das Flores, qual ônibus pego para chegar em Praça Matriz em Campinas?",solicitar_rota,Parque das Flores,Praça Matriz
+Como fazer bolo de cenoura?,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+Rota mudou sem aviso,feedback,,
+Pode conversar comigo?,conversacao_geral,,
+Abre o navegador,desconhecido,,
+"Preciso de uma rota de Jardim Amanda para Campinas em Campinas, qual ônibus usar?",solicitar_rota,Jardim Amanda,Campinas
+Ajuda por favor,conversacao_geral,,
+Como vou de Jardim Amanda até Hospital Municipal em Campinas de ônibus?,solicitar_rota,Jardim Amanda,Hospital Municipal
+sudo apt-get install algo,desconhecido,,
+"Saindo de Paulínia, qual ônibus devo pegar para chegar no Rodoviária?",solicitar_rota,Paulínia,Rodoviária
+"Saindo de Centro, qual ônibus pego para chegar em Hospital Municipal em Campinas?",solicitar_rota,Centro,Hospital Municipal
+"Estou em Centro e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Centro,Hospital Municipal
+Como vou de Paulínia até Rodoviária em Campinas de ônibus?,solicitar_rota,Paulínia,Rodoviária
+sudo apt-get install algo,desconhecido,,
+Boa tarde,conversacao_geral,,
+"Olá, tudo bem?",conversacao_geral,,
+Linha 305 demorou demais,feedback,,
+Como vou de Paulínia até Terminal B em Campinas de ônibus?,solicitar_rota,Paulínia,Terminal B
+Bom dia,conversacao_geral,,
+Qual seu nome?,conversacao_geral,,
+"Estou em Terminal A e quero ir até Universidade, qual linha devo pegar?",solicitar_rota,Terminal A,Universidade
+Motorista foi educado,feedback,,
+Quero comprar um carro,desconhecido,,
+"Estou em Hortolândia e quero ir até Aeroporto, qual linha devo pegar?",solicitar_rota,Hortolândia,Aeroporto
+Qual o ônibus que sai de Hortolândia e vai para Praça Matriz em Campinas?,solicitar_rota,Hortolândia,Praça Matriz
+Quero assistir um filme agora,desconhecido,,
+Elogio para a linha 417,feedback,,
+Bom dia,conversacao_geral,,
+"Estou em Sumaré, quero ir para Rodoviária em Campinas. Como faço?",solicitar_rota,Sumaré,Rodoviária
+"Preciso de uma rota de Paulínia para Universidade em Campinas, qual ônibus usar?",solicitar_rota,Paulínia,Universidade
+Informação do app não confere,feedback,,
+Elogio para a linha 417,feedback,,
+"Saindo de Terminal A, qual ônibus pego para chegar em Terminal B em Campinas?",solicitar_rota,Terminal A,Terminal B
+"Estou em Sumaré e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Sumaré,Rodoviária
+Qual o caminho de ônibus de Vila Nova até Campinas em Campinas?,solicitar_rota,Vila Nova,Campinas
+Traduza isto para francês,desconhecido,,
+Agenda uma reunião amanhã,desconhecido,,
+Qual o caminho de ônibus de Centro até Campinas em Campinas?,solicitar_rota,Centro,Campinas
+Estou testando o sistema,conversacao_geral,,
+Como fazer bolo de cenoura?,desconhecido,,
+Boa tarde,conversacao_geral,,
+"Estou em Centro, quero ir para Hospital Municipal em Campinas. Como faço?",solicitar_rota,Centro,Hospital Municipal
+Boa tarde,conversacao_geral,,
+Agenda uma reunião amanhã,desconhecido,,
+vc joga?,desconhecido,,
+Qual o preço do dólar hoje?,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Motorista foi educado,feedback,,
+"Estou em Hortolândia e quero ir até Universidade, qual linha devo pegar?",solicitar_rota,Hortolândia,Universidade
+Tá me ouvindo?,conversacao_geral,,
+"Preciso de uma rota de Hortolândia para Aeroporto em Campinas, qual ônibus usar?",solicitar_rota,Hortolândia,Aeroporto
+Boa noite,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+Qual o ônibus que sai de Sumaré e vai para Shopping em Campinas?,solicitar_rota,Sumaré,Shopping
+Qual o ônibus que sai de Centro e vai para Campinas em Campinas?,solicitar_rota,Centro,Campinas
+"Estou em Jardim Amanda, quero ir para Hospital Municipal em Campinas. Como faço?",solicitar_rota,Jardim Amanda,Hospital Municipal
+Valeu,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Valeu,conversacao_geral,,
+Aplicativo travando,feedback,,
+Obrigado!,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Preciso ir de Sumaré até Campinas em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Campinas
+Como fazer bolo de cenoura?,desconhecido,,
+Ônibus muito lotado,feedback,,
+Informação do app não confere,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Pode conversar comigo?,conversacao_geral,,
+Ar-condicionado não estava funcionando,feedback,,
+"Saindo de Jardim Amanda, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Jardim Amanda,Shopping
+"Saindo de Jardim Amanda, qual ônibus devo pegar para chegar no Shopping?",solicitar_rota,Jardim Amanda,Shopping
+Qual o preço do dólar hoje?,desconhecido,,
+"Saindo de Hortolândia, qual ônibus pego para chegar em Aeroporto em Campinas?",solicitar_rota,Hortolândia,Aeroporto
+Qual seu nome?,conversacao_geral,,
+Pode explicar como usar?,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Instale esse programa,desconhecido,,
+Preciso ir de Vila Nova até Campinas em Campinas. Qual linha pegar?,solicitar_rota,Vila Nova,Campinas
+Rota mudou sem aviso,feedback,,
+Como funciona você?,conversacao_geral,,
+Qual o caminho de ônibus de Jardim Amanda até Shopping em Campinas?,solicitar_rota,Jardim Amanda,Shopping
+"Estou em Terminal A e quero ir até Universidade, qual linha devo pegar?",solicitar_rota,Terminal A,Universidade
+Traduza isto para francês,desconhecido,,
+Instale esse programa,desconhecido,,
+Instale esse programa,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+Qual o ônibus que sai de Sumaré e vai para Aeroporto em Campinas?,solicitar_rota,Sumaré,Aeroporto
+Qual o preço do dólar hoje?,desconhecido,,
+Como vou de Jardim Amanda até Campinas em Campinas de ônibus?,solicitar_rota,Jardim Amanda,Campinas
+Traduza isto para francês,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Estou testando,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+asdfghjk,desconhecido,,
+Aplicativo travando,feedback,,
+Rota mudou sem aviso,feedback,,
+Quem ganhou o Oscar?,desconhecido,,
+"Preciso de uma rota de Terminal A para Aeroporto em Campinas, qual ônibus usar?",solicitar_rota,Terminal A,Aeroporto
+"Preciso de uma rota de Parque das Flores para Shopping em Campinas, qual ônibus usar?",solicitar_rota,Parque das Flores,Shopping
+Valeu,conversacao_geral,,
+Como funciona você?,conversacao_geral,,
+"Estou em Terminal A e quero ir até Campinas, qual linha devo pegar?",solicitar_rota,Terminal A,Campinas
+asdfghjk,desconhecido,,
+Quero comprar um carro,desconhecido,,
+sudo apt-get install algo,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Quero assistir um filme agora,desconhecido,,
+Informação do app não confere,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+Informação do app não confere,feedback,,
+Quero comprar um carro,desconhecido,,
+Qual a senha do Wi-Fi?,desconhecido,,
+"Preciso de uma rota de Hortolândia para Aeroporto em Campinas, qual ônibus usar?",solicitar_rota,Hortolândia,Aeroporto
+"Preciso de uma rota de Paulínia para Shopping em Campinas, qual ônibus usar?",solicitar_rota,Paulínia,Shopping
+Como investir em ações?,desconhecido,,
+Quero comprar um carro,desconhecido,,
+Qual o ônibus que sai de Parque das Flores e vai para Universidade em Campinas?,solicitar_rota,Parque das Flores,Universidade
+Valeu,conversacao_geral,,
+Estou testando o sistema,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+Ajuda por favor,conversacao_geral,,
+Aplicativo travando,feedback,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Linha 305 demorou demais,feedback,,
+vc joga?,desconhecido,,
+Aplicativo travando,feedback,,
+Não gostei do motorista,feedback,,
+Estou testando,conversacao_geral,,
+Motorista foi educado,feedback,,
+Quero assistir um filme agora,desconhecido,,
+Instale esse programa,desconhecido,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Banco quebrado no fundo,feedback,,
+"Estou em Sumaré e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Sumaré,Rodoviária
+Estou testando o sistema,conversacao_geral,,
+Informação do app não confere,feedback,,
+Como funciona você?,conversacao_geral,,
+Estou testando o sistema,conversacao_geral,,
+Parada sem iluminação,feedback,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Abre o navegador,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Abre o navegador,desconhecido,,
+Quem é você?,conversacao_geral,,
+Me ligue mais tarde,desconhecido,,
+Qual seu nome?,conversacao_geral,,
+Informação do app não confere,feedback,,
+Qual o ônibus que sai de Hortolândia e vai para Universidade em Campinas?,solicitar_rota,Hortolândia,Universidade
+"Olá, tudo bem?",conversacao_geral,,
+Preciso ir de Centro até Aeroporto em Campinas. Qual linha pegar?,solicitar_rota,Centro,Aeroporto
+Qual a capital da Noruega?,desconhecido,,
+Preciso ir de Paulínia até Universidade em Campinas. Qual linha pegar?,solicitar_rota,Paulínia,Universidade
+asdfghjk,desconhecido,,
+"Saindo de Centro, qual ônibus pego para chegar em Aeroporto em Campinas?",solicitar_rota,Centro,Aeroporto
+Qual o ônibus que sai de Centro e vai para Terminal B em Campinas?,solicitar_rota,Centro,Terminal B
+Qual o ônibus que sai de Terminal A e vai para Terminal B em Campinas?,solicitar_rota,Terminal A,Terminal B
+Como fazer bolo de cenoura?,desconhecido,,
+Bom dia,conversacao_geral,,
+Linha 305 demorou demais,feedback,,
+Preciso ir de Parque das Flores até Universidade em Campinas. Qual linha pegar?,solicitar_rota,Parque das Flores,Universidade
+Motorista foi educado,feedback,,
+Mostre notícias de tecnologia,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Instale esse programa,desconhecido,,
+Linha 305 demorou demais,feedback,,
+Rota mudou sem aviso,feedback,,
+Elogio para a linha 417,feedback,,
+Gostei do atendimento,feedback,,
+Boa noite,conversacao_geral,,
+Instale esse programa,desconhecido,,
+Como vou de Paulínia até Aeroporto em Campinas de ônibus?,solicitar_rota,Paulínia,Aeroporto
+Ar-condicionado não estava funcionando,feedback,,
+Informação do app não confere,feedback,,
+Qual o caminho de ônibus de Paulínia até Hospital Municipal em Campinas?,solicitar_rota,Paulínia,Hospital Municipal
+Bom dia,conversacao_geral,,
+Qual o preço do dólar hoje?,desconhecido,,
+Como vou de Jardim Amanda até Hospital Municipal em Campinas de ônibus?,solicitar_rota,Jardim Amanda,Hospital Municipal
+sudo apt-get install algo,desconhecido,,
+Oi,conversacao_geral,,
+"Estou em Terminal A, quero ir para Praça Matriz em Campinas. Como faço?",solicitar_rota,Terminal A,Praça Matriz
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Ônibus muito lotado,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+"Saindo de Hortolândia, qual ônibus pego para chegar em Terminal B em Campinas?",solicitar_rota,Hortolândia,Terminal B
+Qual o caminho de ônibus de Terminal A até Praça Matriz em Campinas?,solicitar_rota,Terminal A,Praça Matriz
+Sugestão: mais horários no pico,feedback,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Não gostei do motorista,feedback,,
+Gostei do atendimento,feedback,,
+"Estou no bairro Parque das Flores, quero chegar no Hospital Municipal em Campinas, qual é a rota?",solicitar_rota,Parque das Flores,Hospital Municipal
+Não gostei do motorista,feedback,,
+Me ligue mais tarde,desconhecido,,
+"Estou em Paulínia, quero ir para Praça Matriz em Campinas. Como faço?",solicitar_rota,Paulínia,Praça Matriz
+Quem é você?,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Qual seu nome?,conversacao_geral,,
+"Estou em Sumaré e quero ir até Universidade, qual linha devo pegar?",solicitar_rota,Sumaré,Universidade
+Instale esse programa,desconhecido,,
+"Estou no bairro Parque das Flores, quero chegar no Aeroporto em Campinas, qual é a rota?",solicitar_rota,Parque das Flores,Aeroporto
+Ar-condicionado não estava funcionando,feedback,,
+Boa tarde,conversacao_geral,,
+"Estou no bairro Terminal A, quero chegar no Campinas em Campinas, qual é a rota?",solicitar_rota,Terminal A,Campinas
+sudo apt-get install algo,desconhecido,,
+"Estou em Sumaré, quero ir para Shopping em Campinas. Como faço?",solicitar_rota,Sumaré,Shopping
+"Saindo de Terminal A, qual ônibus pego para chegar em Universidade em Campinas?",solicitar_rota,Terminal A,Universidade
+Pode conversar comigo?,conversacao_geral,,
+Não gostei do motorista,feedback,,
+Elogio para a linha 417,feedback,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+"Preciso de uma rota de Hortolândia para Universidade em Campinas, qual ônibus usar?",solicitar_rota,Hortolândia,Universidade
+Tá me ouvindo?,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Preciso ir de Jardim Amanda até Terminal B em Campinas. Qual linha pegar?,solicitar_rota,Jardim Amanda,Terminal B
+sudo apt-get install algo,desconhecido,,
+pode tocar musica,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Valeu,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+Pode conversar comigo?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+Qual o caminho de ônibus de Paulínia até Campinas em Campinas?,solicitar_rota,Paulínia,Campinas
+Informação do app não confere,feedback,,
+Elogio para a linha 417,feedback,,
+Abre o navegador,desconhecido,,
+"Estou em Centro e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Centro,Rodoviária
+"Saindo de Parque das Flores, qual ônibus pego para chegar em Hospital Municipal em Campinas?",solicitar_rota,Parque das Flores,Hospital Municipal
+"Estou em Hortolândia e quero ir até Praça Matriz, qual linha devo pegar?",solicitar_rota,Hortolândia,Praça Matriz
+Tudo certo?,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+"Estou no bairro Vila Nova, quero chegar no Hospital Municipal em Campinas, qual é a rota?",solicitar_rota,Vila Nova,Hospital Municipal
+Sugestão: mais horários no pico,feedback,,
+O ônibus atrasou 15 minutos,feedback,,
+Quem ganhou o Oscar?,desconhecido,,
+Qual o preço do dólar hoje?,desconhecido,,
+Como investir em ações?,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Pode explicar como usar?,conversacao_geral,,
+O ônibus atrasou 15 minutos,feedback,,
+"Estou em Centro, quero ir para Shopping em Campinas. Como faço?",solicitar_rota,Centro,Shopping
+"Saindo de Jardim Amanda, qual ônibus devo pegar para chegar no Praça Matriz?",solicitar_rota,Jardim Amanda,Praça Matriz
+Ar-condicionado não estava funcionando,feedback,,
+Estou testando,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Rota mudou sem aviso,feedback,,
+Me ligue mais tarde,desconhecido,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Qual o caminho de ônibus de Centro até Shopping em Campinas?,solicitar_rota,Centro,Shopping
+Estou testando o sistema,conversacao_geral,,
+Estou testando o sistema,conversacao_geral,,
+"Preciso de uma rota de Hortolândia para Campinas em Campinas, qual ônibus usar?",solicitar_rota,Hortolândia,Campinas
+Elogio para a linha 417,feedback,,
+Abre o navegador,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Qual o caminho de ônibus de Parque das Flores até Praça Matriz em Campinas?,solicitar_rota,Parque das Flores,Praça Matriz
+Parada sem iluminação,feedback,,
+"Estou em Sumaré, quero ir para Praça Matriz em Campinas. Como faço?",solicitar_rota,Sumaré,Praça Matriz
+Como vou de Centro até Campinas em Campinas de ônibus?,solicitar_rota,Centro,Campinas
+Você pode me ajudar?,conversacao_geral,,
+E aí?,conversacao_geral,,
+Elogio para a linha 417,feedback,,
+Aplicativo travando,feedback,,
+Instale esse programa,desconhecido,,
+Oi,conversacao_geral,,
+Qual o caminho de ônibus de Hortolândia até Hospital Municipal em Campinas?,solicitar_rota,Hortolândia,Hospital Municipal
+Traduza isto para francês,desconhecido,,
+Informação do app não confere,feedback,,
+Estou testando,conversacao_geral,,
+"Estou em Jardim Amanda e quero ir até Praça Matriz, qual linha devo pegar?",solicitar_rota,Jardim Amanda,Praça Matriz
+Quero assistir um filme agora,desconhecido,,
+"Estou em Jardim Amanda, quero ir para Hospital Municipal em Campinas. Como faço?",solicitar_rota,Jardim Amanda,Hospital Municipal
+Me ligue mais tarde,desconhecido,,
+Como funciona você?,conversacao_geral,,
+Você é um assistente?,conversacao_geral,,
+Motorista foi educado,feedback,,
+O ônibus atrasou 15 minutos,feedback,,
+Parada sem iluminação,feedback,,
+asdfghjk,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Elogio para a linha 417,feedback,,
+Não gostei do motorista,feedback,,
+"Estou no bairro Parque das Flores, quero chegar no Aeroporto em Campinas, qual é a rota?",solicitar_rota,Parque das Flores,Aeroporto
+"Estou em Centro, quero ir para Praça Matriz em Campinas. Como faço?",solicitar_rota,Centro,Praça Matriz
+Como vou de Jardim Amanda até Praça Matriz em Campinas de ônibus?,solicitar_rota,Jardim Amanda,Praça Matriz
+Estou testando o sistema,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Como investir em ações?,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Qual o preço do dólar hoje?,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+Tá me ouvindo?,conversacao_geral,,
+Não gostei do motorista,feedback,,
+"Saindo de Hortolândia, qual ônibus pego para chegar em Campinas em Campinas?",solicitar_rota,Hortolândia,Campinas
+Traduza isto para francês,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Você é um assistente?,conversacao_geral,,
+Ar-condicionado não estava funcionando,feedback,,
+Boa noite,conversacao_geral,,
+Pode explicar como usar?,conversacao_geral,,
+Estou testando o sistema,conversacao_geral,,
+Bom dia,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Preciso ir de Paulínia até Hospital Municipal em Campinas. Qual linha pegar?,solicitar_rota,Paulínia,Hospital Municipal
+Elogio para a linha 417,feedback,,
+E aí?,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+Instale esse programa,desconhecido,,
+"Saindo de Parque das Flores, qual ônibus devo pegar para chegar no Rodoviária?",solicitar_rota,Parque das Flores,Rodoviária
+O ônibus atrasou 15 minutos,feedback,,
+Motorista foi educado,feedback,,
+Preciso ir de Hortolândia até Praça Matriz em Campinas. Qual linha pegar?,solicitar_rota,Hortolândia,Praça Matriz
+Mostre notícias de tecnologia,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Pode conversar comigo?,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+pode tocar musica,desconhecido,,
+Preciso ir de Terminal A até Rodoviária em Campinas. Qual linha pegar?,solicitar_rota,Terminal A,Rodoviária
+"Saindo de Parque das Flores, qual ônibus pego para chegar em Praça Matriz em Campinas?",solicitar_rota,Parque das Flores,Praça Matriz
+"Estou em Paulínia, quero ir para Aeroporto em Campinas. Como faço?",solicitar_rota,Paulínia,Aeroporto
+Qual o preço do dólar hoje?,desconhecido,,
+Preciso ir de Sumaré até Aeroporto em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Aeroporto
+Qual o caminho de ônibus de Centro até Terminal B em Campinas?,solicitar_rota,Centro,Terminal B
+Elogio para a linha 417,feedback,,
+Ajuda por favor,conversacao_geral,,
+Não gostei do motorista,feedback,,
+Preciso ir de Vila Nova até Universidade em Campinas. Qual linha pegar?,solicitar_rota,Vila Nova,Universidade
+Quero assistir um filme agora,desconhecido,,
+Quem é você?,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Valeu,conversacao_geral,,
+Qual o caminho de ônibus de Sumaré até Campinas em Campinas?,solicitar_rota,Sumaré,Campinas
+Mostre notícias de tecnologia,desconhecido,,
+Estou testando o sistema,conversacao_geral,,
+pode tocar musica,desconhecido,,
+"Saindo de Paulínia, qual ônibus pego para chegar em Aeroporto em Campinas?",solicitar_rota,Paulínia,Aeroporto
+Tá me ouvindo?,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Não gostei do motorista,feedback,,
+Qual o caminho de ônibus de Terminal A até Shopping em Campinas?,solicitar_rota,Terminal A,Shopping
+Como funciona você?,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Parada sem iluminação,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+"Estou em Parque das Flores, quero ir para Terminal B em Campinas. Como faço?",solicitar_rota,Parque das Flores,Terminal B
+Como vou de Parque das Flores até Terminal B em Campinas de ônibus?,solicitar_rota,Parque das Flores,Terminal B
+"Saindo de Paulínia, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Paulínia,Shopping
+Como vou de Paulínia até Terminal B em Campinas de ônibus?,solicitar_rota,Paulínia,Terminal B
+Traduza isto para francês,desconhecido,,
+Qual o ônibus que sai de Vila Nova e vai para Shopping em Campinas?,solicitar_rota,Vila Nova,Shopping
+Estou testando o sistema,conversacao_geral,,
+Não gostei do motorista,feedback,,
+Informação do app não confere,feedback,,
+O ônibus atrasou 15 minutos,feedback,,
+"Saindo de Paulínia, qual ônibus pego para chegar em Campinas em Campinas?",solicitar_rota,Paulínia,Campinas
+"Preciso de uma rota de Parque das Flores para Universidade em Campinas, qual ônibus usar?",solicitar_rota,Parque das Flores,Universidade
+Quero assistir um filme agora,desconhecido,,
+Abre o navegador,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+"Saindo de Sumaré, qual ônibus pego para chegar em Rodoviária em Campinas?",solicitar_rota,Sumaré,Rodoviária
+Informação do app não confere,feedback,,
+Tá me ouvindo?,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+Gostei do atendimento,feedback,,
+"Estou em Vila Nova, quero ir para Aeroporto em Campinas. Como faço?",solicitar_rota,Vila Nova,Aeroporto
+Traduza isto para francês,desconhecido,,
+Qual o ônibus que sai de Centro e vai para Terminal B em Campinas?,solicitar_rota,Centro,Terminal B
+asdfghjk,desconhecido,,
+Qual o ônibus que sai de Sumaré e vai para Praça Matriz em Campinas?,solicitar_rota,Sumaré,Praça Matriz
+Pode conversar comigo?,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Sugestão: mais horários no pico,feedback,,
+"Olá, tudo bem?",conversacao_geral,,
+Motorista foi educado,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+"Saindo de Centro, qual ônibus devo pegar para chegar no Rodoviária?",solicitar_rota,Centro,Rodoviária
+Não gostei do motorista,feedback,,
+Você é um assistente?,conversacao_geral,,
+Não entendi,conversacao_geral,,
+Quem ganhou o Oscar?,desconhecido,,
+Tudo certo?,conversacao_geral,,
+Oi,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Tá me ouvindo?,conversacao_geral,,
+Não gostei do motorista,feedback,,
+Abre o navegador,desconhecido,,
+"Estou em Paulínia e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Paulínia,Hospital Municipal
+Não gostei do motorista,feedback,,
+Aplicativo travando,feedback,,
+Preciso ir de Parque das Flores até Aeroporto em Campinas. Qual linha pegar?,solicitar_rota,Parque das Flores,Aeroporto
+Gostei do atendimento,feedback,,
+"Estou no bairro Parque das Flores, quero chegar no Universidade em Campinas, qual é a rota?",solicitar_rota,Parque das Flores,Universidade
+Qual a capital da Noruega?,desconhecido,,
+Beleza?,conversacao_geral,,
+Linha 305 demorou demais,feedback,,
+Valeu,conversacao_geral,,
+Oi,conversacao_geral,,
+"Estou em Hortolândia e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Hortolândia,Rodoviária
+Instale esse programa,desconhecido,,
+Informação do app não confere,feedback,,
+"Estou em Vila Nova, quero ir para Universidade em Campinas. Como faço?",solicitar_rota,Vila Nova,Universidade
+Como funciona você?,conversacao_geral,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Qual o caminho de ônibus de Centro até Campinas em Campinas?,solicitar_rota,Centro,Campinas
+Traduza isto para francês,desconhecido,,
+Motorista foi educado,feedback,,
+Aplicativo travando,feedback,,
+Preciso ir de Terminal A até Universidade em Campinas. Qual linha pegar?,solicitar_rota,Terminal A,Universidade
+asdfghjk,desconhecido,,
+vc joga?,desconhecido,,
+Banco quebrado no fundo,feedback,,
+pode tocar musica,desconhecido,,
+Qual o ônibus que sai de Sumaré e vai para Universidade em Campinas?,solicitar_rota,Sumaré,Universidade
+Linha 305 demorou demais,feedback,,
+Rota mudou sem aviso,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+Obrigado!,conversacao_geral,,
+"Preciso de uma rota de Hortolândia para Shopping em Campinas, qual ônibus usar?",solicitar_rota,Hortolândia,Shopping
+Não gostei do motorista,feedback,,
+Abre o navegador,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+Qual a capital da Noruega?,desconhecido,,
+Não entendi,conversacao_geral,,
+Motorista foi educado,feedback,,
+O ônibus atrasou 15 minutos,feedback,,
+Como investir em ações?,desconhecido,,
+Estou testando,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+Abre o navegador,desconhecido,,
+Ajuda por favor,conversacao_geral,,
+"Estou em Jardim Amanda, quero ir para Hospital Municipal em Campinas. Como faço?",solicitar_rota,Jardim Amanda,Hospital Municipal
+Sugestão: mais horários no pico,feedback,,
+Oi,conversacao_geral,,
+Qual o preço do dólar hoje?,desconhecido,,
+Preciso ir de Centro até Praça Matriz em Campinas. Qual linha pegar?,solicitar_rota,Centro,Praça Matriz
+Pode conversar comigo?,conversacao_geral,,
+Qual o preço do dólar hoje?,desconhecido,,
+Tudo certo?,conversacao_geral,,
+"Estou em Hortolândia e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Hortolândia,Hospital Municipal
+Preciso ir de Terminal A até Campinas em Campinas. Qual linha pegar?,solicitar_rota,Terminal A,Campinas
+Informação do app não confere,feedback,,
+Aplicativo travando,feedback,,
+Motorista foi educado,feedback,,
+Abre o navegador,desconhecido,,
+"Estou em Hortolândia e quero ir até Campinas, qual linha devo pegar?",solicitar_rota,Hortolândia,Campinas
+Rota mudou sem aviso,feedback,,
+Preciso ir de Parque das Flores até Campinas em Campinas. Qual linha pegar?,solicitar_rota,Parque das Flores,Campinas
+Qual o ônibus que sai de Parque das Flores e vai para Aeroporto em Campinas?,solicitar_rota,Parque das Flores,Aeroporto
+sudo apt-get install algo,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Informação do app não confere,feedback,,
+Quero comprar um carro,desconhecido,,
+"Estou em Vila Nova, quero ir para Hospital Municipal em Campinas. Como faço?",solicitar_rota,Vila Nova,Hospital Municipal
+Elogio para a linha 417,feedback,,
+Qual a senha do Wi-Fi?,desconhecido,,
+"Estou no bairro Paulínia, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Paulínia,Terminal B
+Ar-condicionado não estava funcionando,feedback,,
+Quem ganhou o Oscar?,desconhecido,,
+Boa tarde,conversacao_geral,,
+"Estou em Sumaré e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Sumaré,Rodoviária
+Estou testando,conversacao_geral,,
+Preciso ir de Jardim Amanda até Shopping em Campinas. Qual linha pegar?,solicitar_rota,Jardim Amanda,Shopping
+Valeu,conversacao_geral,,
+Aplicativo travando,feedback,,
+Gostei do atendimento,feedback,,
+Qual o ônibus que sai de Sumaré e vai para Rodoviária em Campinas?,solicitar_rota,Sumaré,Rodoviária
+Pode conversar comigo?,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+"Saindo de Vila Nova, qual ônibus devo pegar para chegar no Aeroporto?",solicitar_rota,Vila Nova,Aeroporto
+O ônibus atrasou 15 minutos,feedback,,
+Informação do app não confere,feedback,,
+Rota mudou sem aviso,feedback,,
+Banco quebrado no fundo,feedback,,
+Instale esse programa,desconhecido,,
+Quem ganhou o Oscar?,desconhecido,,
+Informação do app não confere,feedback,,
+Como vou de Paulínia até Shopping em Campinas de ônibus?,solicitar_rota,Paulínia,Shopping
+Você é um assistente?,conversacao_geral,,
+Pode explicar como usar?,conversacao_geral,,
+Preciso ir de Sumaré até Hospital Municipal em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Hospital Municipal
+Obrigado!,conversacao_geral,,
+Linha 305 demorou demais,feedback,,
+asdfghjk,desconhecido,,
+Quem ganhou o Oscar?,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Abre o navegador,desconhecido,,
+Aplicativo travando,feedback,,
+Abre o navegador,desconhecido,,
+Gostei do atendimento,feedback,,
+E aí?,conversacao_geral,,
+Qual o caminho de ônibus de Parque das Flores até Hospital Municipal em Campinas?,solicitar_rota,Parque das Flores,Hospital Municipal
+Como funciona você?,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Mostre notícias de tecnologia,desconhecido,,
+Tudo certo?,conversacao_geral,,
+E aí?,conversacao_geral,,
+Elogio para a linha 417,feedback,,
+Tá me ouvindo?,conversacao_geral,,
+pode tocar musica,desconhecido,,
+Elogio para a linha 417,feedback,,
+Qual seu nome?,conversacao_geral,,
+"Saindo de Paulínia, qual ônibus devo pegar para chegar no Terminal B?",solicitar_rota,Paulínia,Terminal B
+asdfghjk,desconhecido,,
+Beleza?,conversacao_geral,,
+Estou testando o sistema,conversacao_geral,,
+Como vou de Terminal A até Campinas em Campinas de ônibus?,solicitar_rota,Terminal A,Campinas
+Parada sem iluminação,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Tá me ouvindo?,conversacao_geral,,
+Ajuda por favor,conversacao_geral,,
+Instale esse programa,desconhecido,,
+Traduza isto para francês,desconhecido,,
+E aí?,conversacao_geral,,
+Qual o ônibus que sai de Terminal A e vai para Aeroporto em Campinas?,solicitar_rota,Terminal A,Aeroporto
+Valeu,conversacao_geral,,
+"Preciso de uma rota de Paulínia para Aeroporto em Campinas, qual ônibus usar?",solicitar_rota,Paulínia,Aeroporto
+O ônibus atrasou 15 minutos,feedback,,
+Como vou de Terminal A até Terminal B em Campinas de ônibus?,solicitar_rota,Terminal A,Terminal B
+Você é um assistente?,conversacao_geral,,
+Gostei do atendimento,feedback,,
+O ônibus atrasou 15 minutos,feedback,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+"Estou em Hortolândia e quero ir até Universidade, qual linha devo pegar?",solicitar_rota,Hortolândia,Universidade
+"Estou em Paulínia, quero ir para Aeroporto em Campinas. Como faço?",solicitar_rota,Paulínia,Aeroporto
+Ajuda por favor,conversacao_geral,,
+Elogio para a linha 417,feedback,,
+Como vou de Paulínia até Rodoviária em Campinas de ônibus?,solicitar_rota,Paulínia,Rodoviária
+"Saindo de Parque das Flores, qual ônibus devo pegar para chegar no Praça Matriz?",solicitar_rota,Parque das Flores,Praça Matriz
+Estou testando o sistema,conversacao_geral,,
+Traduza isto para francês,desconhecido,,
+Abre o navegador,desconhecido,,
+Elogio para a linha 417,feedback,,
+Rota mudou sem aviso,feedback,,
+"Estou em Terminal A e quero ir até Universidade, qual linha devo pegar?",solicitar_rota,Terminal A,Universidade
+"Estou no bairro Sumaré, quero chegar no Rodoviária em Campinas, qual é a rota?",solicitar_rota,Sumaré,Rodoviária
+Você é um assistente?,conversacao_geral,,
+Qual o ônibus que sai de Parque das Flores e vai para Terminal B em Campinas?,solicitar_rota,Parque das Flores,Terminal B
+Tudo certo?,conversacao_geral,,
+Obrigado!,conversacao_geral,,
+Informação do app não confere,feedback,,
+Abre o navegador,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Informação do app não confere,feedback,,
+"Saindo de Jardim Amanda, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Jardim Amanda,Shopping
+Como funciona você?,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+"Preciso de uma rota de Sumaré para Hospital Municipal em Campinas, qual ônibus usar?",solicitar_rota,Sumaré,Hospital Municipal
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+vc joga?,desconhecido,,
+vc joga?,desconhecido,,
+Gostei do atendimento,feedback,,
+Não entendi,conversacao_geral,,
+Você pode me ajudar?,conversacao_geral,,
+"Preciso de uma rota de Sumaré para Terminal B em Campinas, qual ônibus usar?",solicitar_rota,Sumaré,Terminal B
+Tudo certo?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+Quero assistir um filme agora,desconhecido,,
+Qual o caminho de ônibus de Terminal A até Praça Matriz em Campinas?,solicitar_rota,Terminal A,Praça Matriz
+Boa noite,conversacao_geral,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+Gostei do atendimento,feedback,,
+Valeu,conversacao_geral,,
+Linha 305 demorou demais,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+"Estou em Paulínia e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Paulínia,Rodoviária
+"Estou no bairro Sumaré, quero chegar no Campinas em Campinas, qual é a rota?",solicitar_rota,Sumaré,Campinas
+Informação do app não confere,feedback,,
+Preciso ir de Sumaré até Universidade em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Universidade
+Oi,conversacao_geral,,
+Qual o ônibus que sai de Sumaré e vai para Terminal B em Campinas?,solicitar_rota,Sumaré,Terminal B
+Como funciona você?,conversacao_geral,,
+Oi,conversacao_geral,,
+Preciso ir de Paulínia até Shopping em Campinas. Qual linha pegar?,solicitar_rota,Paulínia,Shopping
+Qual a senha do Wi-Fi?,desconhecido,,
+O ônibus atrasou 15 minutos,feedback,,
+Ajuda por favor,conversacao_geral,,
+Ajuda por favor,conversacao_geral,,
+Elogio para a linha 417,feedback,,
+"Preciso de uma rota de Sumaré para Hospital Municipal em Campinas, qual ônibus usar?",solicitar_rota,Sumaré,Hospital Municipal
+"Estou em Terminal A e quero ir até Terminal B, qual linha devo pegar?",solicitar_rota,Terminal A,Terminal B
+Abre o navegador,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Banco quebrado no fundo,feedback,,
+Quero comprar um carro,desconhecido,,
+Aplicativo travando,feedback,,
+Rota mudou sem aviso,feedback,,
+Ajuda por favor,conversacao_geral,,
+"Preciso de uma rota de Parque das Flores para Campinas em Campinas, qual ônibus usar?",solicitar_rota,Parque das Flores,Campinas
+O ônibus atrasou 15 minutos,feedback,,
+Pode conversar comigo?,conversacao_geral,,
+Como funciona você?,conversacao_geral,,
+Como funciona você?,conversacao_geral,,
+Beleza?,conversacao_geral,,
+Motorista foi educado,feedback,,
+"Preciso de uma rota de Sumaré para Terminal B em Campinas, qual ônibus usar?",solicitar_rota,Sumaré,Terminal B
+E aí?,conversacao_geral,,
+Motorista foi educado,feedback,,
+O ônibus atrasou 15 minutos,feedback,,
+Não entendi,conversacao_geral,,
+"Saindo de Parque das Flores, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Parque das Flores,Shopping
+"Saindo de Vila Nova, qual ônibus pego para chegar em Campinas em Campinas?",solicitar_rota,Vila Nova,Campinas
+"Estou no bairro Sumaré, quero chegar no Aeroporto em Campinas, qual é a rota?",solicitar_rota,Sumaré,Aeroporto
+Não gostei do motorista,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+O ônibus atrasou 15 minutos,feedback,,
+O ônibus atrasou 15 minutos,feedback,,
+Traduza isto para francês,desconhecido,,
+Qual a senha do Wi-Fi?,desconhecido,,
+pode tocar musica,desconhecido,,
+Beleza?,conversacao_geral,,
+"Estou em Jardim Amanda, quero ir para Rodoviária em Campinas. Como faço?",solicitar_rota,Jardim Amanda,Rodoviária
+Qual o preço do dólar hoje?,desconhecido,,
+Como vou de Terminal A até Terminal B em Campinas de ônibus?,solicitar_rota,Terminal A,Terminal B
+Gostei do atendimento,feedback,,
+Quero comprar um carro,desconhecido,,
+Qual o caminho de ônibus de Terminal A até Campinas em Campinas?,solicitar_rota,Terminal A,Campinas
+Linha 305 demorou demais,feedback,,
+Estou testando o sistema,conversacao_geral,,
+Agenda uma reunião amanhã,desconhecido,,
+"Estou em Centro e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Centro,Hospital Municipal
+asdfghjk,desconhecido,,
+Como vou de Vila Nova até Rodoviária em Campinas de ônibus?,solicitar_rota,Vila Nova,Rodoviária
+Linha 305 demorou demais,feedback,,
+Rota mudou sem aviso,feedback,,
+Como investir em ações?,desconhecido,,
+Qual o preço do dólar hoje?,desconhecido,,
+Como vou de Sumaré até Praça Matriz em Campinas de ônibus?,solicitar_rota,Sumaré,Praça Matriz
+vc joga?,desconhecido,,
+Ônibus muito lotado,feedback,,
+Banco quebrado no fundo,feedback,,
+pode tocar musica,desconhecido,,
+Bom dia,conversacao_geral,,
+Como vou de Paulínia até Universidade em Campinas de ônibus?,solicitar_rota,Paulínia,Universidade
+"Preciso de uma rota de Terminal A para Campinas em Campinas, qual ônibus usar?",solicitar_rota,Terminal A,Campinas
+Não entendi,conversacao_geral,,
+Não gostei do motorista,feedback,,
+"Estou em Terminal A e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Terminal A,Hospital Municipal
+Preciso ir de Terminal A até Hospital Municipal em Campinas. Qual linha pegar?,solicitar_rota,Terminal A,Hospital Municipal
+Como vou de Parque das Flores até Shopping em Campinas de ônibus?,solicitar_rota,Parque das Flores,Shopping
+Como vou de Paulínia até Rodoviária em Campinas de ônibus?,solicitar_rota,Paulínia,Rodoviária
+Me ligue mais tarde,desconhecido,,
+Qual o ônibus que sai de Centro e vai para Rodoviária em Campinas?,solicitar_rota,Centro,Rodoviária
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Ônibus muito lotado,feedback,,
+O ônibus atrasou 15 minutos,feedback,,
+Boa tarde,conversacao_geral,,
+vc joga?,desconhecido,,
+Linha 305 demorou demais,feedback,,
+Como investir em ações?,desconhecido,,
+Banco quebrado no fundo,feedback,,
+"Saindo de Paulínia, qual ônibus pego para chegar em Rodoviária em Campinas?",solicitar_rota,Paulínia,Rodoviária
+Sugestão: mais horários no pico,feedback,,
+Gostei do atendimento,feedback,,
+Agenda uma reunião amanhã,desconhecido,,
+"Preciso de uma rota de Terminal A para Universidade em Campinas, qual ônibus usar?",solicitar_rota,Terminal A,Universidade
+Como fazer bolo de cenoura?,desconhecido,,
+"Saindo de Jardim Amanda, qual ônibus devo pegar para chegar no Hospital Municipal?",solicitar_rota,Jardim Amanda,Hospital Municipal
+asdfghjk,desconhecido,,
+Agenda uma reunião amanhã,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+Informação do app não confere,feedback,,
+Estou testando o sistema,conversacao_geral,,
+Obrigado!,conversacao_geral,,
+Como vou de Paulínia até Praça Matriz em Campinas de ônibus?,solicitar_rota,Paulínia,Praça Matriz
+Tá me ouvindo?,conversacao_geral,,
+Boa tarde,conversacao_geral,,
+Pode conversar comigo?,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Qual o caminho de ônibus de Centro até Terminal B em Campinas?,solicitar_rota,Centro,Terminal B
+"Estou em Terminal A e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Terminal A,Hospital Municipal
+Gostei do atendimento,feedback,,
+Instale esse programa,desconhecido,,
+"Estou em Parque das Flores e quero ir até Aeroporto, qual linha devo pegar?",solicitar_rota,Parque das Flores,Aeroporto
+O ônibus atrasou 15 minutos,feedback,,
+"Saindo de Sumaré, qual ônibus devo pegar para chegar no Campinas?",solicitar_rota,Sumaré,Campinas
+Como vou de Centro até Hospital Municipal em Campinas de ônibus?,solicitar_rota,Centro,Hospital Municipal
+Quem é você?,conversacao_geral,,
+Preciso ir de Terminal A até Campinas em Campinas. Qual linha pegar?,solicitar_rota,Terminal A,Campinas
+Qual seu nome?,conversacao_geral,,
+"Saindo de Terminal A, qual ônibus pego para chegar em Rodoviária em Campinas?",solicitar_rota,Terminal A,Rodoviária
+"Estou em Paulínia, quero ir para Rodoviária em Campinas. Como faço?",solicitar_rota,Paulínia,Rodoviária
+Instale esse programa,desconhecido,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Me ligue mais tarde,desconhecido,,
+pode tocar musica,desconhecido,,
+Quem é você?,conversacao_geral,,
+"Estou no bairro Hortolândia, quero chegar no Hospital Municipal em Campinas, qual é a rota?",solicitar_rota,Hortolândia,Hospital Municipal
+Motorista foi educado,feedback,,
+Você é um assistente?,conversacao_geral,,
+Traduza isto para francês,desconhecido,,
+vc joga?,desconhecido,,
+sudo apt-get install algo,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Qual o ônibus que sai de Vila Nova e vai para Aeroporto em Campinas?,solicitar_rota,Vila Nova,Aeroporto
+Aplicativo travando,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+"Saindo de Paulínia, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Paulínia,Shopping
+Ônibus muito lotado,feedback,,
+Ar-condicionado não estava funcionando,feedback,,
+Oi,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Instale esse programa,desconhecido,,
+Preciso ir de Centro até Hospital Municipal em Campinas. Qual linha pegar?,solicitar_rota,Centro,Hospital Municipal
+Você pode me ajudar?,conversacao_geral,,
+Valeu,conversacao_geral,,
+Informação do app não confere,feedback,,
+Me ligue mais tarde,desconhecido,,
+Instale esse programa,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+vc joga?,desconhecido,,
+"Estou no bairro Terminal A, quero chegar no Campinas em Campinas, qual é a rota?",solicitar_rota,Terminal A,Campinas
+Qual o ônibus que sai de Centro e vai para Terminal B em Campinas?,solicitar_rota,Centro,Terminal B
+E aí?,conversacao_geral,,
+Motorista foi educado,feedback,,
+"Saindo de Centro, qual ônibus pego para chegar em Campinas em Campinas?",solicitar_rota,Centro,Campinas
+"Saindo de Vila Nova, qual ônibus pego para chegar em Terminal B em Campinas?",solicitar_rota,Vila Nova,Terminal B
+Bom dia,conversacao_geral,,
+Como funciona você?,conversacao_geral,,
+Preciso ir de Sumaré até Universidade em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Universidade
+Boa noite,conversacao_geral,,
+Boa tarde,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+vc joga?,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Não entendi,conversacao_geral,,
+"Preciso de uma rota de Parque das Flores para Terminal B em Campinas, qual ônibus usar?",solicitar_rota,Parque das Flores,Terminal B
+Qual o caminho de ônibus de Terminal A até Universidade em Campinas?,solicitar_rota,Terminal A,Universidade
+Como investir em ações?,desconhecido,,
+"Estou no bairro Sumaré, quero chegar no Hospital Municipal em Campinas, qual é a rota?",solicitar_rota,Sumaré,Hospital Municipal
+Aplicativo travando,feedback,,
+Parada sem iluminação,feedback,,
+"Saindo de Jardim Amanda, qual ônibus devo pegar para chegar no Praça Matriz?",solicitar_rota,Jardim Amanda,Praça Matriz
+Boa noite,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+Qual o ônibus que sai de Jardim Amanda e vai para Campinas em Campinas?,solicitar_rota,Jardim Amanda,Campinas
+"Estou no bairro Jardim Amanda, quero chegar no Aeroporto em Campinas, qual é a rota?",solicitar_rota,Jardim Amanda,Aeroporto
+Motorista foi educado,feedback,,
+"Preciso de uma rota de Sumaré para Praça Matriz em Campinas, qual ônibus usar?",solicitar_rota,Sumaré,Praça Matriz
+"Estou em Parque das Flores, quero ir para Shopping em Campinas. Como faço?",solicitar_rota,Parque das Flores,Shopping
+Qual a capital da Noruega?,desconhecido,,
+"Estou em Centro e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Centro,Rodoviária
+Linha 305 demorou demais,feedback,,
+"Saindo de Parque das Flores, qual ônibus devo pegar para chegar no Praça Matriz?",solicitar_rota,Parque das Flores,Praça Matriz
+"Estou em Parque das Flores e quero ir até Shopping, qual linha devo pegar?",solicitar_rota,Parque das Flores,Shopping
+Valeu,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Gostei do atendimento,feedback,,
+Não entendi,conversacao_geral,,
+Elogio para a linha 417,feedback,,
+O ônibus atrasou 15 minutos,feedback,,
+Estou testando o sistema,conversacao_geral,,
+Linha 305 demorou demais,feedback,,
+Estou testando,conversacao_geral,,
+Qual o caminho de ônibus de Parque das Flores até Campinas em Campinas?,solicitar_rota,Parque das Flores,Campinas
+Como fazer bolo de cenoura?,desconhecido,,
+Qual seu nome?,conversacao_geral,,
+Como vou de Parque das Flores até Shopping em Campinas de ônibus?,solicitar_rota,Parque das Flores,Shopping
+Ar-condicionado não estava funcionando,feedback,,
+Oi,conversacao_geral,,
+Você pode me ajudar?,conversacao_geral,,
+pode tocar musica,desconhecido,,
+E aí?,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+O ônibus atrasou 15 minutos,feedback,,
+Aplicativo travando,feedback,,
+"Saindo de Vila Nova, qual ônibus devo pegar para chegar no Hospital Municipal?",solicitar_rota,Vila Nova,Hospital Municipal
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Parada sem iluminação,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Bom dia,conversacao_geral,,
+Instale esse programa,desconhecido,,
+asdfghjk,desconhecido,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Beleza?,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Quero assistir um filme agora,desconhecido,,
+"Saindo de Terminal A, qual ônibus devo pegar para chegar no Praça Matriz?",solicitar_rota,Terminal A,Praça Matriz
+Traduza isto para francês,desconhecido,,
+Como vou de Terminal A até Rodoviária em Campinas de ônibus?,solicitar_rota,Terminal A,Rodoviária
+Agenda uma reunião amanhã,desconhecido,,
+Gostei do atendimento,feedback,,
+Linha 305 demorou demais,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+"Preciso de uma rota de Terminal A para Hospital Municipal em Campinas, qual ônibus usar?",solicitar_rota,Terminal A,Hospital Municipal
+Sugestão: mais horários no pico,feedback,,
+Pode conversar comigo?,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+"Saindo de Sumaré, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Sumaré,Shopping
+Ajuda por favor,conversacao_geral,,
+"Estou no bairro Parque das Flores, quero chegar no Campinas em Campinas, qual é a rota?",solicitar_rota,Parque das Flores,Campinas
+Instale esse programa,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+"Estou em Centro e quero ir até Universidade, qual linha devo pegar?",solicitar_rota,Centro,Universidade
+Preciso ir de Paulínia até Universidade em Campinas. Qual linha pegar?,solicitar_rota,Paulínia,Universidade
+Beleza?,conversacao_geral,,
+Você é um assistente?,conversacao_geral,,
+Agenda uma reunião amanhã,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+Aplicativo travando,feedback,,
+Estou testando o sistema,conversacao_geral,,
+Elogio para a linha 417,feedback,,
+Obrigado!,conversacao_geral,,
+Você pode me ajudar?,conversacao_geral,,
+"Saindo de Hortolândia, qual ônibus devo pegar para chegar no Aeroporto?",solicitar_rota,Hortolândia,Aeroporto
+Ajuda por favor,conversacao_geral,,
+"Olá, tudo bem?",conversacao_geral,,
+Ar-condicionado não estava funcionando,feedback,,
+Qual o ônibus que sai de Terminal A e vai para Praça Matriz em Campinas?,solicitar_rota,Terminal A,Praça Matriz
+Sugestão: mais horários no pico,feedback,,
+asdfghjk,desconhecido,,
+Qual o ônibus que sai de Paulínia e vai para Hospital Municipal em Campinas?,solicitar_rota,Paulínia,Hospital Municipal
+Rota mudou sem aviso,feedback,,
+Como funciona você?,conversacao_geral,,
+Ajuda por favor,conversacao_geral,,
+Tá me ouvindo?,conversacao_geral,,
+Preciso ir de Sumaré até Campinas em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Campinas
+Rota mudou sem aviso,feedback,,
+Como investir em ações?,desconhecido,,
+Agenda uma reunião amanhã,desconhecido,,
+Como vou de Hortolândia até Hospital Municipal em Campinas de ônibus?,solicitar_rota,Hortolândia,Hospital Municipal
+Qual a capital da Noruega?,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+Elogio para a linha 417,feedback,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+"Preciso de uma rota de Centro para Hospital Municipal em Campinas, qual ônibus usar?",solicitar_rota,Centro,Hospital Municipal
+Me ligue mais tarde,desconhecido,,
+Parada sem iluminação,feedback,,
+"Saindo de Sumaré, qual ônibus devo pegar para chegar no Universidade?",solicitar_rota,Sumaré,Universidade
+Ar-condicionado não estava funcionando,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+Pode conversar comigo?,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+vc joga?,desconhecido,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Valeu,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Qual o ônibus que sai de Centro e vai para Shopping em Campinas?,solicitar_rota,Centro,Shopping
+"Estou no bairro Jardim Amanda, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Jardim Amanda,Terminal B
+Elogio para a linha 417,feedback,,
+Linha 305 demorou demais,feedback,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Motorista foi educado,feedback,,
+Instale esse programa,desconhecido,,
+"Saindo de Jardim Amanda, qual ônibus pego para chegar em Universidade em Campinas?",solicitar_rota,Jardim Amanda,Universidade
+Como vou de Hortolândia até Hospital Municipal em Campinas de ônibus?,solicitar_rota,Hortolândia,Hospital Municipal
+Não gostei do motorista,feedback,,
+Como funciona você?,conversacao_geral,,
+Mostre notícias de tecnologia,desconhecido,,
+O ônibus atrasou 15 minutos,feedback,,
+Qual o ônibus que sai de Vila Nova e vai para Aeroporto em Campinas?,solicitar_rota,Vila Nova,Aeroporto
+E aí?,conversacao_geral,,
+Tudo certo?,conversacao_geral,,
+Preciso ir de Vila Nova até Rodoviária em Campinas. Qual linha pegar?,solicitar_rota,Vila Nova,Rodoviária
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+Ônibus muito lotado,feedback,,
+"Estou em Hortolândia e quero ir até Universidade, qual linha devo pegar?",solicitar_rota,Hortolândia,Universidade
+E aí?,conversacao_geral,,
+Motorista foi educado,feedback,,
+Traduza isto para francês,desconhecido,,
+"Estou no bairro Paulínia, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Paulínia,Terminal B
+"Estou em Sumaré, quero ir para Campinas em Campinas. Como faço?",solicitar_rota,Sumaré,Campinas
+Qual o caminho de ônibus de Jardim Amanda até Shopping em Campinas?,solicitar_rota,Jardim Amanda,Shopping
+asdfghjk,desconhecido,,
+asdfghjk,desconhecido,,
+Gostei do atendimento,feedback,,
+Você é um assistente?,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Estou testando o sistema,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Obrigado!,conversacao_geral,,
+Ar-condicionado não estava funcionando,feedback,,
+Preciso ir de Sumaré até Rodoviária em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Rodoviária
+Me ligue mais tarde,desconhecido,,
+"Estou no bairro Terminal A, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Terminal A,Terminal B
+Você é um assistente?,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+Qual o preço do dólar hoje?,desconhecido,,
+Estou testando,conversacao_geral,,
+Motorista foi educado,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+E aí?,conversacao_geral,,
+Traduza isto para francês,desconhecido,,
+sudo apt-get install algo,desconhecido,,
+Aplicativo travando,feedback,,
+Quero assistir um filme agora,desconhecido,,
+Qual o caminho de ônibus de Sumaré até Praça Matriz em Campinas?,solicitar_rota,Sumaré,Praça Matriz
+Elogio para a linha 417,feedback,,
+Banco quebrado no fundo,feedback,,
+Aplicativo travando,feedback,,
+E aí?,conversacao_geral,,
+"Saindo de Sumaré, qual ônibus devo pegar para chegar no Aeroporto?",solicitar_rota,Sumaré,Aeroporto
+Sugestão: mais horários no pico,feedback,,
+asdfghjk,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+"Olá, tudo bem?",conversacao_geral,,
+Banco quebrado no fundo,feedback,,
+Gostei do atendimento,feedback,,
+Como vou de Hortolândia até Aeroporto em Campinas de ônibus?,solicitar_rota,Hortolândia,Aeroporto
+Qual a senha do Wi-Fi?,desconhecido,,
+Qual o caminho de ônibus de Sumaré até Terminal B em Campinas?,solicitar_rota,Sumaré,Terminal B
+O ônibus atrasou 15 minutos,feedback,,
+"Saindo de Parque das Flores, qual ônibus pego para chegar em Campinas em Campinas?",solicitar_rota,Parque das Flores,Campinas
+Tá me ouvindo?,conversacao_geral,,
+Instale esse programa,desconhecido,,
+Ajuda por favor,conversacao_geral,,
+"Preciso de uma rota de Hortolândia para Shopping em Campinas, qual ônibus usar?",solicitar_rota,Hortolândia,Shopping
+Qual o preço do dólar hoje?,desconhecido,,
+Estou testando o sistema,conversacao_geral,,
+Banco quebrado no fundo,feedback,,
+Banco quebrado no fundo,feedback,,
+Preciso ir de Hortolândia até Universidade em Campinas. Qual linha pegar?,solicitar_rota,Hortolândia,Universidade
+"Saindo de Centro, qual ônibus pego para chegar em Praça Matriz em Campinas?",solicitar_rota,Centro,Praça Matriz
+Tudo certo?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+Beleza?,conversacao_geral,,
+Banco quebrado no fundo,feedback,,
+"Estou no bairro Sumaré, quero chegar no Praça Matriz em Campinas, qual é a rota?",solicitar_rota,Sumaré,Praça Matriz
+Pode explicar como usar?,conversacao_geral,,
+Ajuda por favor,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Como vou de Hortolândia até Campinas em Campinas de ônibus?,solicitar_rota,Hortolândia,Campinas
+Elogio para a linha 417,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Rota mudou sem aviso,feedback,,
+Mostre notícias de tecnologia,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Gostei do atendimento,feedback,,
+"Saindo de Sumaré, qual ônibus devo pegar para chegar no Rodoviária?",solicitar_rota,Sumaré,Rodoviária
+Preciso ir de Jardim Amanda até Hospital Municipal em Campinas. Qual linha pegar?,solicitar_rota,Jardim Amanda,Hospital Municipal
+"Saindo de Hortolândia, qual ônibus pego para chegar em Hospital Municipal em Campinas?",solicitar_rota,Hortolândia,Hospital Municipal
+Banco quebrado no fundo,feedback,,
+Tudo certo?,conversacao_geral,,
+asdfghjk,desconhecido,,
+vc joga?,desconhecido,,
+Não entendi,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Elogio para a linha 417,feedback,,
+Não gostei do motorista,feedback,,
+Instale esse programa,desconhecido,,
+Boa tarde,conversacao_geral,,
+Motorista foi educado,feedback,,
+vc joga?,desconhecido,,
+Boa tarde,conversacao_geral,,
+vc joga?,desconhecido,,
+Parada sem iluminação,feedback,,
+Instale esse programa,desconhecido,,
+Valeu,conversacao_geral,,
+Linha 305 demorou demais,feedback,,
+Quem é você?,conversacao_geral,,
+Como funciona você?,conversacao_geral,,
+Não entendi,conversacao_geral,,
+Beleza?,conversacao_geral,,
+Agenda uma reunião amanhã,desconhecido,,
+Abre o navegador,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+Pode conversar comigo?,conversacao_geral,,
+Banco quebrado no fundo,feedback,,
+Aplicativo travando,feedback,,
+Como investir em ações?,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+Preciso ir de Hortolândia até Shopping em Campinas. Qual linha pegar?,solicitar_rota,Hortolândia,Shopping
+"Saindo de Hortolândia, qual ônibus devo pegar para chegar no Hospital Municipal?",solicitar_rota,Hortolândia,Hospital Municipal
+Elogio para a linha 417,feedback,,
+"Estou em Vila Nova, quero ir para Hospital Municipal em Campinas. Como faço?",solicitar_rota,Vila Nova,Hospital Municipal
+"Estou em Centro, quero ir para Praça Matriz em Campinas. Como faço?",solicitar_rota,Centro,Praça Matriz
+"Saindo de Jardim Amanda, qual ônibus devo pegar para chegar no Rodoviária?",solicitar_rota,Jardim Amanda,Rodoviária
+"Saindo de Hortolândia, qual ônibus pego para chegar em Rodoviária em Campinas?",solicitar_rota,Hortolândia,Rodoviária
+Como vou de Jardim Amanda até Shopping em Campinas de ônibus?,solicitar_rota,Jardim Amanda,Shopping
+Oi,conversacao_geral,,
+O ônibus atrasou 15 minutos,feedback,,
+Motorista foi educado,feedback,,
+"Preciso de uma rota de Terminal A para Universidade em Campinas, qual ônibus usar?",solicitar_rota,Terminal A,Universidade
+"Saindo de Vila Nova, qual ônibus devo pegar para chegar no Praça Matriz?",solicitar_rota,Vila Nova,Praça Matriz
+Agenda uma reunião amanhã,desconhecido,,
+"Saindo de Hortolândia, qual ônibus devo pegar para chegar no Universidade?",solicitar_rota,Hortolândia,Universidade
+Como fazer bolo de cenoura?,desconhecido,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Banco quebrado no fundo,feedback,,
+"Saindo de Jardim Amanda, qual ônibus pego para chegar em Hospital Municipal em Campinas?",solicitar_rota,Jardim Amanda,Hospital Municipal
+Qual o caminho de ônibus de Terminal A até Praça Matriz em Campinas?,solicitar_rota,Terminal A,Praça Matriz
+Quem é você?,conversacao_geral,,
+Aplicativo travando,feedback,,
+"Saindo de Terminal A, qual ônibus pego para chegar em Praça Matriz em Campinas?",solicitar_rota,Terminal A,Praça Matriz
+Qual o caminho de ônibus de Vila Nova até Aeroporto em Campinas?,solicitar_rota,Vila Nova,Aeroporto
+Como fazer bolo de cenoura?,desconhecido,,
+Como vou de Sumaré até Campinas em Campinas de ônibus?,solicitar_rota,Sumaré,Campinas
+Qual a senha do Wi-Fi?,desconhecido,,
+"Estou em Terminal A e quero ir até Terminal B, qual linha devo pegar?",solicitar_rota,Terminal A,Terminal B
+Quero assistir um filme agora,desconhecido,,
+pode tocar musica,desconhecido,,
+sudo apt-get install algo,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+asdfghjk,desconhecido,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Tá me ouvindo?,conversacao_geral,,
+Preciso ir de Sumaré até Hospital Municipal em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Hospital Municipal
+"Estou em Jardim Amanda e quero ir até Shopping, qual linha devo pegar?",solicitar_rota,Jardim Amanda,Shopping
+"Estou em Centro, quero ir para Praça Matriz em Campinas. Como faço?",solicitar_rota,Centro,Praça Matriz
+Gostei do atendimento,feedback,,
+"Saindo de Paulínia, qual ônibus devo pegar para chegar no Rodoviária?",solicitar_rota,Paulínia,Rodoviária
+"Preciso de uma rota de Hortolândia para Campinas em Campinas, qual ônibus usar?",solicitar_rota,Hortolândia,Campinas
+Valeu,conversacao_geral,,
+Motorista foi educado,feedback,,
+Não gostei do motorista,feedback,,
+Motorista foi educado,feedback,,
+asdfghjk,desconhecido,,
+"Saindo de Paulínia, qual ônibus devo pegar para chegar no Shopping?",solicitar_rota,Paulínia,Shopping
+Tá me ouvindo?,conversacao_geral,,
+"Preciso de uma rota de Parque das Flores para Praça Matriz em Campinas, qual ônibus usar?",solicitar_rota,Parque das Flores,Praça Matriz
+Rota mudou sem aviso,feedback,,
+Abre o navegador,desconhecido,,
+O ônibus atrasou 15 minutos,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+Estou testando,conversacao_geral,,
+Instale esse programa,desconhecido,,
+Pode conversar comigo?,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+"Preciso de uma rota de Parque das Flores para Praça Matriz em Campinas, qual ônibus usar?",solicitar_rota,Parque das Flores,Praça Matriz
+Me ligue mais tarde,desconhecido,,
+Como vou de Parque das Flores até Hospital Municipal em Campinas de ônibus?,solicitar_rota,Parque das Flores,Hospital Municipal
+Rota mudou sem aviso,feedback,,
+Estou testando o sistema,conversacao_geral,,
+Motorista foi educado,feedback,,
+Bom dia,conversacao_geral,,
+Estou testando o sistema,conversacao_geral,,
+Informação do app não confere,feedback,,
+Qual o caminho de ônibus de Vila Nova até Shopping em Campinas?,solicitar_rota,Vila Nova,Shopping
+Qual o caminho de ônibus de Hortolândia até Hospital Municipal em Campinas?,solicitar_rota,Hortolândia,Hospital Municipal
+Ajuda por favor,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Parada sem iluminação,feedback,,
+sudo apt-get install algo,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+"Estou no bairro Centro, quero chegar no Hospital Municipal em Campinas, qual é a rota?",solicitar_rota,Centro,Hospital Municipal
+"Olá, tudo bem?",conversacao_geral,,
+Elogio para a linha 417,feedback,,
+Preciso ir de Paulínia até Shopping em Campinas. Qual linha pegar?,solicitar_rota,Paulínia,Shopping
+Sugestão: mais horários no pico,feedback,,
+Ar-condicionado não estava funcionando,feedback,,
+"Estou no bairro Hortolândia, quero chegar no Aeroporto em Campinas, qual é a rota?",solicitar_rota,Hortolândia,Aeroporto
+Você pode me ajudar?,conversacao_geral,,
+Qual o preço do dólar hoje?,desconhecido,,
+"Estou no bairro Hortolândia, quero chegar no Universidade em Campinas, qual é a rota?",solicitar_rota,Hortolândia,Universidade
+Você é um assistente?,conversacao_geral,,
+Qual o ônibus que sai de Jardim Amanda e vai para Universidade em Campinas?,solicitar_rota,Jardim Amanda,Universidade
+Banco quebrado no fundo,feedback,,
+Qual seu nome?,conversacao_geral,,
+"Estou em Vila Nova, quero ir para Terminal B em Campinas. Como faço?",solicitar_rota,Vila Nova,Terminal B
+Não entendi,conversacao_geral,,
+"Preciso de uma rota de Vila Nova para Rodoviária em Campinas, qual ônibus usar?",solicitar_rota,Vila Nova,Rodoviária
+sudo apt-get install algo,desconhecido,,
+"Estou no bairro Terminal A, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Terminal A,Terminal B
+"Estou no bairro Parque das Flores, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Parque das Flores,Terminal B
+"Estou em Paulínia e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Paulínia,Rodoviária
+Quem ganhou o Oscar?,desconhecido,,
+Não gostei do motorista,feedback,,
+Beleza?,conversacao_geral,,
+Qual a capital da Noruega?,desconhecido,,
+"Saindo de Vila Nova, qual ônibus devo pegar para chegar no Terminal B?",solicitar_rota,Vila Nova,Terminal B
+Banco quebrado no fundo,feedback,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Bom dia,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+Beleza?,conversacao_geral,,
+Traduza isto para francês,desconhecido,,
+Boa noite,conversacao_geral,,
+Traduza isto para francês,desconhecido,,
+Não gostei do motorista,feedback,,
+"Preciso de uma rota de Sumaré para Aeroporto em Campinas, qual ônibus usar?",solicitar_rota,Sumaré,Aeroporto
+Ajuda por favor,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Você é um assistente?,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+Traduza isto para francês,desconhecido,,
+Obrigado!,conversacao_geral,,
+Informação do app não confere,feedback,,
+Pode conversar comigo?,conversacao_geral,,
+"Preciso de uma rota de Hortolândia para Aeroporto em Campinas, qual ônibus usar?",solicitar_rota,Hortolândia,Aeroporto
+"Estou em Parque das Flores, quero ir para Campinas em Campinas. Como faço?",solicitar_rota,Parque das Flores,Campinas
+Valeu,conversacao_geral,,
+Boa tarde,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+Abre o navegador,desconhecido,,
+Pode conversar comigo?,conversacao_geral,,
+Ajuda por favor,conversacao_geral,,
+Obrigado!,conversacao_geral,,
+asdfghjk,desconhecido,,
+Motorista foi educado,feedback,,
+Ar-condicionado não estava funcionando,feedback,,
+Tudo certo?,conversacao_geral,,
+Qual o caminho de ônibus de Jardim Amanda até Hospital Municipal em Campinas?,solicitar_rota,Jardim Amanda,Hospital Municipal
+Tudo certo?,conversacao_geral,,
+Motorista foi educado,feedback,,
+"Preciso de uma rota de Terminal A para Aeroporto em Campinas, qual ônibus usar?",solicitar_rota,Terminal A,Aeroporto
+Bom dia,conversacao_geral,,
+Tá me ouvindo?,conversacao_geral,,
+"Preciso de uma rota de Vila Nova para Shopping em Campinas, qual ônibus usar?",solicitar_rota,Vila Nova,Shopping
+Como vou de Parque das Flores até Universidade em Campinas de ônibus?,solicitar_rota,Parque das Flores,Universidade
+Quem é você?,conversacao_geral,,
+Quem é você?,conversacao_geral,,
+asdfghjk,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+Pode conversar comigo?,conversacao_geral,,
+Qual seu nome?,conversacao_geral,,
+Você é um assistente?,conversacao_geral,,
+Tá me ouvindo?,conversacao_geral,,
+Instale esse programa,desconhecido,,
+Qual a senha do Wi-Fi?,desconhecido,,
+pode tocar musica,desconhecido,,
+Obrigado!,conversacao_geral,,
+"Saindo de Centro, qual ônibus pego para chegar em Hospital Municipal em Campinas?",solicitar_rota,Centro,Hospital Municipal
+Preciso ir de Centro até Terminal B em Campinas. Qual linha pegar?,solicitar_rota,Centro,Terminal B
+"Estou em Centro, quero ir para Terminal B em Campinas. Como faço?",solicitar_rota,Centro,Terminal B
+Pode explicar como usar?,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+Preciso ir de Hortolândia até Shopping em Campinas. Qual linha pegar?,solicitar_rota,Hortolândia,Shopping
+Estou testando o sistema,conversacao_geral,,
+Pode explicar como usar?,conversacao_geral,,
+Pode conversar comigo?,conversacao_geral,,
+Ajuda por favor,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Elogio para a linha 417,feedback,,
+Ônibus muito lotado,feedback,,
+Traduza isto para francês,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Obrigado!,conversacao_geral,,
+Não entendi,conversacao_geral,,
+Qual a senha do Wi-Fi?,desconhecido,,
+"Estou no bairro Terminal A, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Terminal A,Terminal B
+Aplicativo travando,feedback,,
+E aí?,conversacao_geral,,
+Bom dia,conversacao_geral,,
+Valeu,conversacao_geral,,
+"Estou em Parque das Flores e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Parque das Flores,Rodoviária
+Informação do app não confere,feedback,,
+Agenda uma reunião amanhã,desconhecido,,
+"Preciso de uma rota de Paulínia para Shopping em Campinas, qual ônibus usar?",solicitar_rota,Paulínia,Shopping
+Não gostei do motorista,feedback,,
+Quero comprar um carro,desconhecido,,
+Qual seu nome?,conversacao_geral,,
+Mostre notícias de tecnologia,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+Tudo certo?,conversacao_geral,,
+Não entendi,conversacao_geral,,
+Qual o caminho de ônibus de Parque das Flores até Universidade em Campinas?,solicitar_rota,Parque das Flores,Universidade
+Agenda uma reunião amanhã,desconhecido,,
+Quem é você?,conversacao_geral,,
+Tá me ouvindo?,conversacao_geral,,
+Linha 305 demorou demais,feedback,,
+"Estou em Sumaré e quero ir até Shopping, qual linha devo pegar?",solicitar_rota,Sumaré,Shopping
+Ar-condicionado não estava funcionando,feedback,,
+Estou testando o sistema,conversacao_geral,,
+Parada sem iluminação,feedback,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Qual o preço do dólar hoje?,desconhecido,,
+Pode conversar comigo?,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Instale esse programa,desconhecido,,
+"Saindo de Hortolândia, qual ônibus devo pegar para chegar no Rodoviária?",solicitar_rota,Hortolândia,Rodoviária
+Obrigado!,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+Informação do app não confere,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Valeu,conversacao_geral,,
+Informação do app não confere,feedback,,
+"Estou no bairro Terminal A, quero chegar no Hospital Municipal em Campinas, qual é a rota?",solicitar_rota,Terminal A,Hospital Municipal
+E aí?,conversacao_geral,,
+Qual o preço do dólar hoje?,desconhecido,,
+Estou testando o sistema,conversacao_geral,,
+"Estou no bairro Centro, quero chegar no Universidade em Campinas, qual é a rota?",solicitar_rota,Centro,Universidade
+"Estou no bairro Paulínia, quero chegar no Praça Matriz em Campinas, qual é a rota?",solicitar_rota,Paulínia,Praça Matriz
+Ajuda por favor,conversacao_geral,,
+Motorista foi educado,feedback,,
+Preciso ir de Centro até Rodoviária em Campinas. Qual linha pegar?,solicitar_rota,Centro,Rodoviária
+E aí?,conversacao_geral,,
+Pode conversar comigo?,conversacao_geral,,
+Pode conversar comigo?,conversacao_geral,,
+Preciso ir de Jardim Amanda até Praça Matriz em Campinas. Qual linha pegar?,solicitar_rota,Jardim Amanda,Praça Matriz
+Boa tarde,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+Não gostei do motorista,feedback,,
+Oi,conversacao_geral,,
+Banco quebrado no fundo,feedback,,
+Qual o caminho de ônibus de Paulínia até Rodoviária em Campinas?,solicitar_rota,Paulínia,Rodoviária
+Você pode me ajudar?,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Elogio para a linha 417,feedback,,
+"Estou em Sumaré, quero ir para Praça Matriz em Campinas. Como faço?",solicitar_rota,Sumaré,Praça Matriz
+"Olá, tudo bem?",conversacao_geral,,
+Ajuda por favor,conversacao_geral,,
+Quem ganhou o Oscar?,desconhecido,,
+E aí?,conversacao_geral,,
+Mostre notícias de tecnologia,desconhecido,,
+Boa tarde,conversacao_geral,,
+"Estou no bairro Parque das Flores, quero chegar no Hospital Municipal em Campinas, qual é a rota?",solicitar_rota,Parque das Flores,Hospital Municipal
+Elogio para a linha 417,feedback,,
+"Saindo de Centro, qual ônibus pego para chegar em Aeroporto em Campinas?",solicitar_rota,Centro,Aeroporto
+Qual o ônibus que sai de Terminal A e vai para Rodoviária em Campinas?,solicitar_rota,Terminal A,Rodoviária
+pode tocar musica,desconhecido,,
+sudo apt-get install algo,desconhecido,,
+"Estou em Sumaré, quero ir para Universidade em Campinas. Como faço?",solicitar_rota,Sumaré,Universidade
+Gostei do atendimento,feedback,,
+Informação do app não confere,feedback,,
+Quero comprar um carro,desconhecido,,
+O ônibus atrasou 15 minutos,feedback,,
+Ar-condicionado não estava funcionando,feedback,,
+Preciso ir de Vila Nova até Hospital Municipal em Campinas. Qual linha pegar?,solicitar_rota,Vila Nova,Hospital Municipal
+"Preciso de uma rota de Sumaré para Hospital Municipal em Campinas, qual ônibus usar?",solicitar_rota,Sumaré,Hospital Municipal
+Como vou de Hortolândia até Praça Matriz em Campinas de ônibus?,solicitar_rota,Hortolândia,Praça Matriz
+Instale esse programa,desconhecido,,
+Parada sem iluminação,feedback,,
+Ônibus muito lotado,feedback,,
+Preciso ir de Sumaré até Praça Matriz em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Praça Matriz
+Qual o caminho de ônibus de Terminal A até Shopping em Campinas?,solicitar_rota,Terminal A,Shopping
+Instale esse programa,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+"Saindo de Jardim Amanda, qual ônibus devo pegar para chegar no Universidade?",solicitar_rota,Jardim Amanda,Universidade
+"Saindo de Jardim Amanda, qual ônibus devo pegar para chegar no Shopping?",solicitar_rota,Jardim Amanda,Shopping
+Ônibus muito lotado,feedback,,
+Obrigado!,conversacao_geral,,
+Qual o ônibus que sai de Paulínia e vai para Praça Matriz em Campinas?,solicitar_rota,Paulínia,Praça Matriz
+Linha 305 demorou demais,feedback,,
+Não gostei do motorista,feedback,,
+Me ligue mais tarde,desconhecido,,
+Quero comprar um carro,desconhecido,,
+Boa tarde,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Gostei do atendimento,feedback,,
+Traduza isto para francês,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+Quem é você?,conversacao_geral,,
+Como fazer bolo de cenoura?,desconhecido,,
+Tá me ouvindo?,conversacao_geral,,
+Motorista foi educado,feedback,,
+Me ligue mais tarde,desconhecido,,
+"Estou em Parque das Flores e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Parque das Flores,Rodoviária
+asdfghjk,desconhecido,,
+Não gostei do motorista,feedback,,
+"Saindo de Paulínia, qual ônibus pego para chegar em Praça Matriz em Campinas?",solicitar_rota,Paulínia,Praça Matriz
+Não entendi,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Boa noite,conversacao_geral,,
+"Saindo de Vila Nova, qual ônibus devo pegar para chegar no Universidade?",solicitar_rota,Vila Nova,Universidade
+Preciso ir de Terminal A até Aeroporto em Campinas. Qual linha pegar?,solicitar_rota,Terminal A,Aeroporto
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Informação do app não confere,feedback,,
+Quero comprar um carro,desconhecido,,
+Linha 305 demorou demais,feedback,,
+Motorista foi educado,feedback,,
+Quem é você?,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+Ônibus muito lotado,feedback,,
+"Preciso de uma rota de Parque das Flores para Rodoviária em Campinas, qual ônibus usar?",solicitar_rota,Parque das Flores,Rodoviária
+Como investir em ações?,desconhecido,,
+O ônibus atrasou 15 minutos,feedback,,
+"Estou em Centro e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Centro,Hospital Municipal
+Como vou de Jardim Amanda até Praça Matriz em Campinas de ônibus?,solicitar_rota,Jardim Amanda,Praça Matriz
+Gostei do atendimento,feedback,,
+Sugestão: mais horários no pico,feedback,,
+"Saindo de Centro, qual ônibus devo pegar para chegar no Hospital Municipal?",solicitar_rota,Centro,Hospital Municipal
+Sugestão: mais horários no pico,feedback,,
+"Saindo de Parque das Flores, qual ônibus devo pegar para chegar no Shopping?",solicitar_rota,Parque das Flores,Shopping
+Preciso ir de Vila Nova até Aeroporto em Campinas. Qual linha pegar?,solicitar_rota,Vila Nova,Aeroporto
+"Estou em Vila Nova, quero ir para Praça Matriz em Campinas. Como faço?",solicitar_rota,Vila Nova,Praça Matriz
+Beleza?,conversacao_geral,,
+"Saindo de Centro, qual ônibus pego para chegar em Terminal B em Campinas?",solicitar_rota,Centro,Terminal B
+"Estou em Parque das Flores e quero ir até Aeroporto, qual linha devo pegar?",solicitar_rota,Parque das Flores,Aeroporto
+Quem é você?,conversacao_geral,,
+Banco quebrado no fundo,feedback,,
+Ônibus muito lotado,feedback,,
+Pode conversar comigo?,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+Tá me ouvindo?,conversacao_geral,,
+Não gostei do motorista,feedback,,
+Tudo certo?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+Estou testando o sistema,conversacao_geral,,
+Você é um assistente?,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Como vou de Hortolândia até Hospital Municipal em Campinas de ônibus?,solicitar_rota,Hortolândia,Hospital Municipal
+Qual a capital da Noruega?,desconhecido,,
+Instale esse programa,desconhecido,,
+Quero comprar um carro,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Como vou de Sumaré até Campinas em Campinas de ônibus?,solicitar_rota,Sumaré,Campinas
+Oi,conversacao_geral,,
+Qual o ônibus que sai de Vila Nova e vai para Terminal B em Campinas?,solicitar_rota,Vila Nova,Terminal B
+Obrigado!,conversacao_geral,,
+"Olá, tudo bem?",conversacao_geral,,
+Qual o preço do dólar hoje?,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Traduza isto para francês,desconhecido,,
+Estou testando o sistema,conversacao_geral,,
+Ar-condicionado não estava funcionando,feedback,,
+Elogio para a linha 417,feedback,,
+Traduza isto para francês,desconhecido,,
+Ônibus muito lotado,feedback,,
+Agenda uma reunião amanhã,desconhecido,,
+Qual o ônibus que sai de Vila Nova e vai para Hospital Municipal em Campinas?,solicitar_rota,Vila Nova,Hospital Municipal
+O ônibus atrasou 15 minutos,feedback,,
+Como investir em ações?,desconhecido,,
+Rota mudou sem aviso,feedback,,
+Ônibus muito lotado,feedback,,
+Gostei do atendimento,feedback,,
+"Olá, tudo bem?",conversacao_geral,,
+Como vou de Hortolândia até Campinas em Campinas de ônibus?,solicitar_rota,Hortolândia,Campinas
+Instale esse programa,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Boa tarde,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Oi,conversacao_geral,,
+Obrigado!,conversacao_geral,,
+Ar-condicionado não estava funcionando,feedback,,
+"Estou em Vila Nova e quero ir até Praça Matriz, qual linha devo pegar?",solicitar_rota,Vila Nova,Praça Matriz
+Instale esse programa,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+"Estou no bairro Paulínia, quero chegar no Campinas em Campinas, qual é a rota?",solicitar_rota,Paulínia,Campinas
+Qual o preço do dólar hoje?,desconhecido,,
+Elogio para a linha 417,feedback,,
+Informação do app não confere,feedback,,
+Linha 305 demorou demais,feedback,,
+Qual o caminho de ônibus de Vila Nova até Rodoviária em Campinas?,solicitar_rota,Vila Nova,Rodoviária
+Ar-condicionado não estava funcionando,feedback,,
+Qual o caminho de ônibus de Sumaré até Universidade em Campinas?,solicitar_rota,Sumaré,Universidade
+Elogio para a linha 417,feedback,,
+Elogio para a linha 417,feedback,,
+Instale esse programa,desconhecido,,
+Qual o ônibus que sai de Paulínia e vai para Terminal B em Campinas?,solicitar_rota,Paulínia,Terminal B
+Instale esse programa,desconhecido,,
+Qual o caminho de ônibus de Parque das Flores até Praça Matriz em Campinas?,solicitar_rota,Parque das Flores,Praça Matriz
+Banco quebrado no fundo,feedback,,
+Valeu,conversacao_geral,,
+"Saindo de Centro, qual ônibus devo pegar para chegar no Hospital Municipal?",solicitar_rota,Centro,Hospital Municipal
+Preciso ir de Jardim Amanda até Campinas em Campinas. Qual linha pegar?,solicitar_rota,Jardim Amanda,Campinas
+Parada sem iluminação,feedback,,
+"Preciso de uma rota de Jardim Amanda para Campinas em Campinas, qual ônibus usar?",solicitar_rota,Jardim Amanda,Campinas
+Linha 305 demorou demais,feedback,,
+Pode conversar comigo?,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+"Estou em Sumaré, quero ir para Universidade em Campinas. Como faço?",solicitar_rota,Sumaré,Universidade
+Ar-condicionado não estava funcionando,feedback,,
+Parada sem iluminação,feedback,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Valeu,conversacao_geral,,
+Preciso ir de Hortolândia até Shopping em Campinas. Qual linha pegar?,solicitar_rota,Hortolândia,Shopping
+Como vou de Hortolândia até Terminal B em Campinas de ônibus?,solicitar_rota,Hortolândia,Terminal B
+Sugestão: mais horários no pico,feedback,,
+Quem é você?,conversacao_geral,,
+Informação do app não confere,feedback,,
+asdfghjk,desconhecido,,
+Como vou de Paulínia até Praça Matriz em Campinas de ônibus?,solicitar_rota,Paulínia,Praça Matriz
+Boa tarde,conversacao_geral,,
+"Saindo de Paulínia, qual ônibus pego para chegar em Terminal B em Campinas?",solicitar_rota,Paulínia,Terminal B
+vc joga?,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+Aplicativo travando,feedback,,
+Linha 305 demorou demais,feedback,,
+Elogio para a linha 417,feedback,,
+Ônibus muito lotado,feedback,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Valeu,conversacao_geral,,
+Qual o ônibus que sai de Hortolândia e vai para Campinas em Campinas?,solicitar_rota,Hortolândia,Campinas
+"Estou em Sumaré e quero ir até Universidade, qual linha devo pegar?",solicitar_rota,Sumaré,Universidade
+Qual o ônibus que sai de Centro e vai para Terminal B em Campinas?,solicitar_rota,Centro,Terminal B
+Motorista foi educado,feedback,,
+sudo apt-get install algo,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+Como vou de Sumaré até Terminal B em Campinas de ônibus?,solicitar_rota,Sumaré,Terminal B
+vc joga?,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+Boa tarde,conversacao_geral,,
+Mostre notícias de tecnologia,desconhecido,,
+Não gostei do motorista,feedback,,
+"Saindo de Jardim Amanda, qual ônibus pego para chegar em Universidade em Campinas?",solicitar_rota,Jardim Amanda,Universidade
+Abre o navegador,desconhecido,,
+Como investir em ações?,desconhecido,,
+Você pode me ajudar?,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+Parada sem iluminação,feedback,,
+vc joga?,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Quem ganhou o Oscar?,desconhecido,,
+Como funciona você?,conversacao_geral,,
+"Estou no bairro Paulínia, quero chegar no Aeroporto em Campinas, qual é a rota?",solicitar_rota,Paulínia,Aeroporto
+Qual a senha do Wi-Fi?,desconhecido,,
+Instale esse programa,desconhecido,,
+Bom dia,conversacao_geral,,
+Bom dia,conversacao_geral,,
+Qual o caminho de ônibus de Vila Nova até Universidade em Campinas?,solicitar_rota,Vila Nova,Universidade
+Estou testando o sistema,conversacao_geral,,
+E aí?,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Tudo certo?,conversacao_geral,,
+"Saindo de Vila Nova, qual ônibus devo pegar para chegar no Rodoviária?",solicitar_rota,Vila Nova,Rodoviária
+Bom dia,conversacao_geral,,
+Como funciona você?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+Como fazer bolo de cenoura?,desconhecido,,
+Qual o ônibus que sai de Terminal A e vai para Rodoviária em Campinas?,solicitar_rota,Terminal A,Rodoviária
+Sugestão: mais horários no pico,feedback,,
+Instale esse programa,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+Aplicativo travando,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Elogio para a linha 417,feedback,,
+"Estou em Hortolândia, quero ir para Shopping em Campinas. Como faço?",solicitar_rota,Hortolândia,Shopping
+Você é um assistente?,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Qual o caminho de ônibus de Centro até Hospital Municipal em Campinas?,solicitar_rota,Centro,Hospital Municipal
+"Estou no bairro Terminal A, quero chegar no Shopping em Campinas, qual é a rota?",solicitar_rota,Terminal A,Shopping
+Boa noite,conversacao_geral,,
+Não entendi,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Motorista foi educado,feedback,,
+Não gostei do motorista,feedback,,
+vc joga?,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Qual a capital da Noruega?,desconhecido,,
+Tudo certo?,conversacao_geral,,
+Quem é você?,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+E aí?,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Linha 305 demorou demais,feedback,,
+Pode conversar comigo?,conversacao_geral,,
+Banco quebrado no fundo,feedback,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+vc joga?,desconhecido,,
+Ônibus muito lotado,feedback,,
+Mostre notícias de tecnologia,desconhecido,,
+Rota mudou sem aviso,feedback,,
+Qual seu nome?,conversacao_geral,,
+Ar-condicionado não estava funcionando,feedback,,
+Boa noite,conversacao_geral,,
+Quem é você?,conversacao_geral,,
+Instale esse programa,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+Como vou de Centro até Aeroporto em Campinas de ônibus?,solicitar_rota,Centro,Aeroporto
+Quem é você?,conversacao_geral,,
+Boa tarde,conversacao_geral,,
+Gostei do atendimento,feedback,,
+pode tocar musica,desconhecido,,
+Ônibus muito lotado,feedback,,
+Elogio para a linha 417,feedback,,
+"Saindo de Centro, qual ônibus pego para chegar em Hospital Municipal em Campinas?",solicitar_rota,Centro,Hospital Municipal
+Ônibus muito lotado,feedback,,
+Rota mudou sem aviso,feedback,,
+Qual o caminho de ônibus de Terminal A até Rodoviária em Campinas?,solicitar_rota,Terminal A,Rodoviária
+Gostei do atendimento,feedback,,
+Quem ganhou o Oscar?,desconhecido,,
+Você pode me ajudar?,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Parada sem iluminação,feedback,,
+Elogio para a linha 417,feedback,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Ajuda por favor,conversacao_geral,,
+"Estou em Vila Nova e quero ir até Praça Matriz, qual linha devo pegar?",solicitar_rota,Vila Nova,Praça Matriz
+Qual o ônibus que sai de Parque das Flores e vai para Universidade em Campinas?,solicitar_rota,Parque das Flores,Universidade
+asdfghjk,desconhecido,,
+Qual o ônibus que sai de Centro e vai para Campinas em Campinas?,solicitar_rota,Centro,Campinas
+Mostre notícias de tecnologia,desconhecido,,
+"Saindo de Parque das Flores, qual ônibus pego para chegar em Rodoviária em Campinas?",solicitar_rota,Parque das Flores,Rodoviária
+E aí?,conversacao_geral,,
+Qual o caminho de ônibus de Vila Nova até Hospital Municipal em Campinas?,solicitar_rota,Vila Nova,Hospital Municipal
+Qual o ônibus que sai de Hortolândia e vai para Hospital Municipal em Campinas?,solicitar_rota,Hortolândia,Hospital Municipal
+pode tocar musica,desconhecido,,
+"Preciso de uma rota de Hortolândia para Campinas em Campinas, qual ônibus usar?",solicitar_rota,Hortolândia,Campinas
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Como funciona você?,conversacao_geral,,
+Motorista foi educado,feedback,,
+Como investir em ações?,desconhecido,,
+"Estou em Centro e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Centro,Rodoviária
+Qual o ônibus que sai de Vila Nova e vai para Aeroporto em Campinas?,solicitar_rota,Vila Nova,Aeroporto
+Obrigado!,conversacao_geral,,
+vc joga?,desconhecido,,
+Estou testando o sistema,conversacao_geral,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Estou testando,conversacao_geral,,
+Pode explicar como usar?,conversacao_geral,,
+"Saindo de Vila Nova, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Vila Nova,Shopping
+Valeu,conversacao_geral,,
+Ar-condicionado não estava funcionando,feedback,,
+Ônibus muito lotado,feedback,,
+Gostei do atendimento,feedback,,
+"Estou em Terminal A, quero ir para Rodoviária em Campinas. Como faço?",solicitar_rota,Terminal A,Rodoviária
+Ar-condicionado não estava funcionando,feedback,,
+asdfghjk,desconhecido,,
+"Estou em Hortolândia, quero ir para Terminal B em Campinas. Como faço?",solicitar_rota,Hortolândia,Terminal B
+Como funciona você?,conversacao_geral,,
+Boa noite,conversacao_geral,,
+Oi,conversacao_geral,,
+Você é um assistente?,conversacao_geral,,
+Não gostei do motorista,feedback,,
+Elogio para a linha 417,feedback,,
+E aí?,conversacao_geral,,
+Qual o preço do dólar hoje?,desconhecido,,
+Tudo certo?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+Tá me ouvindo?,conversacao_geral,,
+Como fazer bolo de cenoura?,desconhecido,,
+Gostei do atendimento,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+Qual o preço do dólar hoje?,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Estou testando o sistema,conversacao_geral,,
+"Estou em Parque das Flores e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Parque das Flores,Rodoviária
+Elogio para a linha 417,feedback,,
+Abre o navegador,desconhecido,,
+pode tocar musica,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+Quem ganhou o Oscar?,desconhecido,,
+"Estou em Centro, quero ir para Aeroporto em Campinas. Como faço?",solicitar_rota,Centro,Aeroporto
+Preciso ir de Parque das Flores até Rodoviária em Campinas. Qual linha pegar?,solicitar_rota,Parque das Flores,Rodoviária
+Boa tarde,conversacao_geral,,
+Como vou de Jardim Amanda até Rodoviária em Campinas de ônibus?,solicitar_rota,Jardim Amanda,Rodoviária
+Sugestão: mais horários no pico,feedback,,
+Boa tarde,conversacao_geral,,
+asdfghjk,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Parada sem iluminação,feedback,,
+Boa tarde,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Quero comprar um carro,desconhecido,,
+Como funciona você?,conversacao_geral,,
+"Estou no bairro Parque das Flores, quero chegar no Campinas em Campinas, qual é a rota?",solicitar_rota,Parque das Flores,Campinas
+Como funciona você?,conversacao_geral,,
+"Estou em Terminal A e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Terminal A,Hospital Municipal
+Quero assistir um filme agora,desconhecido,,
+Agenda uma reunião amanhã,desconhecido,,
+Oi,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Quero comprar um carro,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+Quem ganhou o Oscar?,desconhecido,,
+Agenda uma reunião amanhã,desconhecido,,
+Informação do app não confere,feedback,,
+Qual o caminho de ônibus de Terminal A até Hospital Municipal em Campinas?,solicitar_rota,Terminal A,Hospital Municipal
+Pode conversar comigo?,conversacao_geral,,
+pode tocar musica,desconhecido,,
+Você pode me ajudar?,conversacao_geral,,
+Pode explicar como usar?,conversacao_geral,,
+Tá me ouvindo?,conversacao_geral,,
+"Estou em Centro e quero ir até Terminal B, qual linha devo pegar?",solicitar_rota,Centro,Terminal B
+Qual a capital da Noruega?,desconhecido,,
+Tá me ouvindo?,conversacao_geral,,
+Preciso ir de Paulínia até Rodoviária em Campinas. Qual linha pegar?,solicitar_rota,Paulínia,Rodoviária
+Linha 305 demorou demais,feedback,,
+Qual seu nome?,conversacao_geral,,
+Como vou de Vila Nova até Campinas em Campinas de ônibus?,solicitar_rota,Vila Nova,Campinas
+Ajuda por favor,conversacao_geral,,
+Você é um assistente?,conversacao_geral,,
+Você pode me ajudar?,conversacao_geral,,
+"Estou no bairro Jardim Amanda, quero chegar no Campinas em Campinas, qual é a rota?",solicitar_rota,Jardim Amanda,Campinas
+"Saindo de Jardim Amanda, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Jardim Amanda,Shopping
+Tá me ouvindo?,conversacao_geral,,
+Instale esse programa,desconhecido,,
+Qual o ônibus que sai de Paulínia e vai para Praça Matriz em Campinas?,solicitar_rota,Paulínia,Praça Matriz
+"Saindo de Hortolândia, qual ônibus pego para chegar em Universidade em Campinas?",solicitar_rota,Hortolândia,Universidade
+"Estou no bairro Terminal A, quero chegar no Aeroporto em Campinas, qual é a rota?",solicitar_rota,Terminal A,Aeroporto
+Como vou de Parque das Flores até Universidade em Campinas de ônibus?,solicitar_rota,Parque das Flores,Universidade
+Preciso ir de Terminal A até Terminal B em Campinas. Qual linha pegar?,solicitar_rota,Terminal A,Terminal B
+Mostre notícias de tecnologia,desconhecido,,
+Abre o navegador,desconhecido,,
+Motorista foi educado,feedback,,
+vc joga?,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Agenda uma reunião amanhã,desconhecido,,
+Aplicativo travando,feedback,,
+"Saindo de Sumaré, qual ônibus devo pegar para chegar no Universidade?",solicitar_rota,Sumaré,Universidade
+Não gostei do motorista,feedback,,
+Linha 305 demorou demais,feedback,,
+Boa noite,conversacao_geral,,
+Você é um assistente?,conversacao_geral,,
+"Estou em Centro, quero ir para Terminal B em Campinas. Como faço?",solicitar_rota,Centro,Terminal B
+Preciso ir de Terminal A até Rodoviária em Campinas. Qual linha pegar?,solicitar_rota,Terminal A,Rodoviária
+Qual seu nome?,conversacao_geral,,
+"Saindo de Centro, qual ônibus pego para chegar em Hospital Municipal em Campinas?",solicitar_rota,Centro,Hospital Municipal
+Preciso ir de Hortolândia até Aeroporto em Campinas. Qual linha pegar?,solicitar_rota,Hortolândia,Aeroporto
+Pode conversar comigo?,conversacao_geral,,
+Qual o caminho de ônibus de Sumaré até Praça Matriz em Campinas?,solicitar_rota,Sumaré,Praça Matriz
+"Saindo de Centro, qual ônibus pego para chegar em Universidade em Campinas?",solicitar_rota,Centro,Universidade
+Informação do app não confere,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Qual o caminho de ônibus de Sumaré até Aeroporto em Campinas?,solicitar_rota,Sumaré,Aeroporto
+Informação do app não confere,feedback,,
+"Preciso de uma rota de Jardim Amanda para Praça Matriz em Campinas, qual ônibus usar?",solicitar_rota,Jardim Amanda,Praça Matriz
+Como fazer bolo de cenoura?,desconhecido,,
+Motorista foi educado,feedback,,
+Instale esse programa,desconhecido,,
+Estou testando,conversacao_geral,,
+Quem é você?,conversacao_geral,,
+Mostre notícias de tecnologia,desconhecido,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Quem ganhou o Oscar?,desconhecido,,
+Estou testando,conversacao_geral,,
+Como fazer bolo de cenoura?,desconhecido,,
+Boa noite,conversacao_geral,,
+Valeu,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+Valeu,conversacao_geral,,
+"Estou em Terminal A, quero ir para Shopping em Campinas. Como faço?",solicitar_rota,Terminal A,Shopping
+asdfghjk,desconhecido,,
+O ônibus atrasou 15 minutos,feedback,,
+"Saindo de Jardim Amanda, qual ônibus devo pegar para chegar no Hospital Municipal?",solicitar_rota,Jardim Amanda,Hospital Municipal
+Como investir em ações?,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+asdfghjk,desconhecido,,
+"Saindo de Terminal A, qual ônibus devo pegar para chegar no Praça Matriz?",solicitar_rota,Terminal A,Praça Matriz
+"Saindo de Vila Nova, qual ônibus pego para chegar em Rodoviária em Campinas?",solicitar_rota,Vila Nova,Rodoviária
+Como fazer bolo de cenoura?,desconhecido,,
+Beleza?,conversacao_geral,,
+Pode explicar como usar?,conversacao_geral,,
+Preciso ir de Centro até Hospital Municipal em Campinas. Qual linha pegar?,solicitar_rota,Centro,Hospital Municipal
+"Saindo de Hortolândia, qual ônibus devo pegar para chegar no Hospital Municipal?",solicitar_rota,Hortolândia,Hospital Municipal
+Oi,conversacao_geral,,
+Motorista foi educado,feedback,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Boa noite,conversacao_geral,,
+Qual a capital da Noruega?,desconhecido,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Bom dia,conversacao_geral,,
+"Preciso de uma rota de Terminal A para Campinas em Campinas, qual ônibus usar?",solicitar_rota,Terminal A,Campinas
+Tá me ouvindo?,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+sudo apt-get install algo,desconhecido,,
+vc joga?,desconhecido,,
+Tá me ouvindo?,conversacao_geral,,
+Elogio para a linha 417,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Motorista foi educado,feedback,,
+O ônibus atrasou 15 minutos,feedback,,
+Não gostei do motorista,feedback,,
+Tudo certo?,conversacao_geral,,
+"Preciso de uma rota de Vila Nova para Rodoviária em Campinas, qual ônibus usar?",solicitar_rota,Vila Nova,Rodoviária
+Valeu,conversacao_geral,,
+"Saindo de Vila Nova, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Vila Nova,Shopping
+"Preciso de uma rota de Sumaré para Shopping em Campinas, qual ônibus usar?",solicitar_rota,Sumaré,Shopping
+Qual o caminho de ônibus de Jardim Amanda até Praça Matriz em Campinas?,solicitar_rota,Jardim Amanda,Praça Matriz
+Qual o caminho de ônibus de Centro até Universidade em Campinas?,solicitar_rota,Centro,Universidade
+"Estou no bairro Sumaré, quero chegar no Shopping em Campinas, qual é a rota?",solicitar_rota,Sumaré,Shopping
+"Saindo de Sumaré, qual ônibus devo pegar para chegar no Terminal B?",solicitar_rota,Sumaré,Terminal B
+"Saindo de Jardim Amanda, qual ônibus pego para chegar em Campinas em Campinas?",solicitar_rota,Jardim Amanda,Campinas
+Qual o preço do dólar hoje?,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Quero comprar um carro,desconhecido,,
+"Estou em Vila Nova, quero ir para Universidade em Campinas. Como faço?",solicitar_rota,Vila Nova,Universidade
+Não entendi,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+Ônibus muito lotado,feedback,,
+"Saindo de Vila Nova, qual ônibus pego para chegar em Hospital Municipal em Campinas?",solicitar_rota,Vila Nova,Hospital Municipal
+"Saindo de Hortolândia, qual ônibus devo pegar para chegar no Rodoviária?",solicitar_rota,Hortolândia,Rodoviária
+"Estou em Hortolândia, quero ir para Hospital Municipal em Campinas. Como faço?",solicitar_rota,Hortolândia,Hospital Municipal
+O ônibus atrasou 15 minutos,feedback,,
+Motorista foi educado,feedback,,
+Me ligue mais tarde,desconhecido,,
+"Olá, tudo bem?",conversacao_geral,,
+Você pode me ajudar?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+"Olá, tudo bem?",conversacao_geral,,
+"Saindo de Centro, qual ônibus pego para chegar em Praça Matriz em Campinas?",solicitar_rota,Centro,Praça Matriz
+Motorista foi educado,feedback,,
+Traduza isto para francês,desconhecido,,
+"Saindo de Hortolândia, qual ônibus pego para chegar em Campinas em Campinas?",solicitar_rota,Hortolândia,Campinas
+Ônibus muito lotado,feedback,,
+Como investir em ações?,desconhecido,,
+"Estou no bairro Vila Nova, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Vila Nova,Terminal B
+Quero assistir um filme agora,desconhecido,,
+"Saindo de Parque das Flores, qual ônibus devo pegar para chegar no Hospital Municipal?",solicitar_rota,Parque das Flores,Hospital Municipal
+Preciso ir de Parque das Flores até Shopping em Campinas. Qual linha pegar?,solicitar_rota,Parque das Flores,Shopping
+Como vou de Terminal A até Terminal B em Campinas de ônibus?,solicitar_rota,Terminal A,Terminal B
+Não entendi,conversacao_geral,,
+Como vou de Paulínia até Aeroporto em Campinas de ônibus?,solicitar_rota,Paulínia,Aeroporto
+Oi,conversacao_geral,,
+"Estou em Paulínia e quero ir até Terminal B, qual linha devo pegar?",solicitar_rota,Paulínia,Terminal B
+Banco quebrado no fundo,feedback,,
+Boa tarde,conversacao_geral,,
+Estou testando,conversacao_geral,,
+Abre o navegador,desconhecido,,
+Gostei do atendimento,feedback,,
+Qual seu nome?,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Qual o caminho de ônibus de Sumaré até Praça Matriz em Campinas?,solicitar_rota,Sumaré,Praça Matriz
+Você é um assistente?,conversacao_geral,,
+Qual o caminho de ônibus de Vila Nova até Hospital Municipal em Campinas?,solicitar_rota,Vila Nova,Hospital Municipal
+Elogio para a linha 417,feedback,,
+Beleza?,conversacao_geral,,
+"Estou no bairro Terminal A, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Terminal A,Terminal B
+Como funciona você?,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+Obrigado!,conversacao_geral,,
+"Estou no bairro Vila Nova, quero chegar no Hospital Municipal em Campinas, qual é a rota?",solicitar_rota,Vila Nova,Hospital Municipal
+Banco quebrado no fundo,feedback,,
+Ajuda por favor,conversacao_geral,,
+E aí?,conversacao_geral,,
+Informação do app não confere,feedback,,
+"Estou em Sumaré e quero ir até Campinas, qual linha devo pegar?",solicitar_rota,Sumaré,Campinas
+Sugestão: mais horários no pico,feedback,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+"Saindo de Sumaré, qual ônibus pego para chegar em Aeroporto em Campinas?",solicitar_rota,Sumaré,Aeroporto
+Qual o ônibus que sai de Centro e vai para Campinas em Campinas?,solicitar_rota,Centro,Campinas
+Ar-condicionado não estava funcionando,feedback,,
+Boa noite,conversacao_geral,,
+"Estou em Paulínia e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Paulínia,Rodoviária
+Aplicativo travando,feedback,,
+Ajuda por favor,conversacao_geral,,
+Não gostei do motorista,feedback,,
+Agenda uma reunião amanhã,desconhecido,,
+Boa noite,conversacao_geral,,
+"Estou no bairro Centro, quero chegar no Campinas em Campinas, qual é a rota?",solicitar_rota,Centro,Campinas
+Estou testando,conversacao_geral,,
+"Preciso de uma rota de Centro para Universidade em Campinas, qual ônibus usar?",solicitar_rota,Centro,Universidade
+Quero comprar um carro,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+Pode conversar comigo?,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+"Saindo de Terminal A, qual ônibus devo pegar para chegar no Praça Matriz?",solicitar_rota,Terminal A,Praça Matriz
+"Estou no bairro Sumaré, quero chegar no Campinas em Campinas, qual é a rota?",solicitar_rota,Sumaré,Campinas
+Instale esse programa,desconhecido,,
+Qual seu nome?,conversacao_geral,,
+"Saindo de Paulínia, qual ônibus devo pegar para chegar no Shopping?",solicitar_rota,Paulínia,Shopping
+Motorista foi educado,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+"Saindo de Jardim Amanda, qual ônibus pego para chegar em Campinas em Campinas?",solicitar_rota,Jardim Amanda,Campinas
+"Saindo de Centro, qual ônibus devo pegar para chegar no Terminal B?",solicitar_rota,Centro,Terminal B
+"Saindo de Parque das Flores, qual ônibus pego para chegar em Rodoviária em Campinas?",solicitar_rota,Parque das Flores,Rodoviária
+E aí?,conversacao_geral,,
+Como funciona você?,conversacao_geral,,
+Você é um assistente?,conversacao_geral,,
+Bom dia,conversacao_geral,,
+Abre o navegador,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Como vou de Paulínia até Campinas em Campinas de ônibus?,solicitar_rota,Paulínia,Campinas
+Ônibus muito lotado,feedback,,
+Como vou de Paulínia até Rodoviária em Campinas de ônibus?,solicitar_rota,Paulínia,Rodoviária
+asdfghjk,desconhecido,,
+Quem ganhou o Oscar?,desconhecido,,
+Pode conversar comigo?,conversacao_geral,,
+Você é um assistente?,conversacao_geral,,
+Motorista foi educado,feedback,,
+"Estou no bairro Jardim Amanda, quero chegar no Aeroporto em Campinas, qual é a rota?",solicitar_rota,Jardim Amanda,Aeroporto
+Instale esse programa,desconhecido,,
+Informação do app não confere,feedback,,
+Oi,conversacao_geral,,
+Ajuda por favor,conversacao_geral,,
+Pode explicar como usar?,conversacao_geral,,
+Qual o caminho de ônibus de Centro até Rodoviária em Campinas?,solicitar_rota,Centro,Rodoviária
+Qual o caminho de ônibus de Centro até Hospital Municipal em Campinas?,solicitar_rota,Centro,Hospital Municipal
+Preciso ir de Parque das Flores até Campinas em Campinas. Qual linha pegar?,solicitar_rota,Parque das Flores,Campinas
+"Estou no bairro Sumaré, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Sumaré,Terminal B
+sudo apt-get install algo,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Pode conversar comigo?,conversacao_geral,,
+Mostre notícias de tecnologia,desconhecido,,
+Qual o caminho de ônibus de Paulínia até Shopping em Campinas?,solicitar_rota,Paulínia,Shopping
+Ar-condicionado não estava funcionando,feedback,,
+Qual o caminho de ônibus de Sumaré até Hospital Municipal em Campinas?,solicitar_rota,Sumaré,Hospital Municipal
+Sugestão: mais horários no pico,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Gostei do atendimento,feedback,,
+"Estou no bairro Sumaré, quero chegar no Campinas em Campinas, qual é a rota?",solicitar_rota,Sumaré,Campinas
+Estou testando,conversacao_geral,,
+"Estou no bairro Paulínia, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Paulínia,Terminal B
+Pode conversar comigo?,conversacao_geral,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Mostre notícias de tecnologia,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Como vou de Jardim Amanda até Terminal B em Campinas de ônibus?,solicitar_rota,Jardim Amanda,Terminal B
+Estou testando o sistema,conversacao_geral,,
+Estou testando,conversacao_geral,,
+Como vou de Paulínia até Praça Matriz em Campinas de ônibus?,solicitar_rota,Paulínia,Praça Matriz
+Como vou de Sumaré até Shopping em Campinas de ônibus?,solicitar_rota,Sumaré,Shopping
+Boa tarde,conversacao_geral,,
+Qual o ônibus que sai de Sumaré e vai para Campinas em Campinas?,solicitar_rota,Sumaré,Campinas
+Obrigado!,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Boa tarde,conversacao_geral,,
+Me ligue mais tarde,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Valeu,conversacao_geral,,
+"Estou no bairro Parque das Flores, quero chegar no Shopping em Campinas, qual é a rota?",solicitar_rota,Parque das Flores,Shopping
+"Saindo de Vila Nova, qual ônibus pego para chegar em Rodoviária em Campinas?",solicitar_rota,Vila Nova,Rodoviária
+O ônibus atrasou 15 minutos,feedback,,
+"Preciso de uma rota de Terminal A para Terminal B em Campinas, qual ônibus usar?",solicitar_rota,Terminal A,Terminal B
+Mostre notícias de tecnologia,desconhecido,,
+Informação do app não confere,feedback,,
+Linha 305 demorou demais,feedback,,
+Ar-condicionado não estava funcionando,feedback,,
+Como vou de Centro até Campinas em Campinas de ônibus?,solicitar_rota,Centro,Campinas
+"Saindo de Paulínia, qual ônibus devo pegar para chegar no Rodoviária?",solicitar_rota,Paulínia,Rodoviária
+"Saindo de Terminal A, qual ônibus pego para chegar em Praça Matriz em Campinas?",solicitar_rota,Terminal A,Praça Matriz
+Parada sem iluminação,feedback,,
+O ônibus atrasou 15 minutos,feedback,,
+Ônibus muito lotado,feedback,,
+"Preciso de uma rota de Parque das Flores para Terminal B em Campinas, qual ônibus usar?",solicitar_rota,Parque das Flores,Terminal B
+Informação do app não confere,feedback,,
+Qual o preço do dólar hoje?,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+Linha 305 demorou demais,feedback,,
+Como funciona você?,conversacao_geral,,
+Você pode me ajudar?,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Beleza?,conversacao_geral,,
+Ar-condicionado não estava funcionando,feedback,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Preciso ir de Vila Nova até Hospital Municipal em Campinas. Qual linha pegar?,solicitar_rota,Vila Nova,Hospital Municipal
+Elogio para a linha 417,feedback,,
+Motorista foi educado,feedback,,
+Valeu,conversacao_geral,,
+Não entendi,conversacao_geral,,
+Me ligue mais tarde,desconhecido,,
+Beleza?,conversacao_geral,,
+"Estou no bairro Sumaré, quero chegar no Rodoviária em Campinas, qual é a rota?",solicitar_rota,Sumaré,Rodoviária
+Gostei do atendimento,feedback,,
+Gostei do atendimento,feedback,,
+Banco quebrado no fundo,feedback,,
+Rota mudou sem aviso,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+Ar-condicionado não estava funcionando,feedback,,
+Qual o ônibus que sai de Parque das Flores e vai para Shopping em Campinas?,solicitar_rota,Parque das Flores,Shopping
+vc joga?,desconhecido,,
+Quem ganhou o Oscar?,desconhecido,,
+Tudo certo?,conversacao_geral,,
+Você é um assistente?,conversacao_geral,,
+Motorista foi educado,feedback,,
+Elogio para a linha 417,feedback,,
+Banco quebrado no fundo,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+Boa tarde,conversacao_geral,,
+pode tocar musica,desconhecido,,
+Mostre notícias de tecnologia,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Qual o ônibus que sai de Parque das Flores e vai para Praça Matriz em Campinas?,solicitar_rota,Parque das Flores,Praça Matriz
+"Estou em Terminal A, quero ir para Rodoviária em Campinas. Como faço?",solicitar_rota,Terminal A,Rodoviária
+"Estou no bairro Hortolândia, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Hortolândia,Terminal B
+Qual o preço do dólar hoje?,desconhecido,,
+"Saindo de Paulínia, qual ônibus pego para chegar em Rodoviária em Campinas?",solicitar_rota,Paulínia,Rodoviária
+"Estou no bairro Vila Nova, quero chegar no Shopping em Campinas, qual é a rota?",solicitar_rota,Vila Nova,Shopping
+sudo apt-get install algo,desconhecido,,
+Ônibus muito lotado,feedback,,
+vc joga?,desconhecido,,
+Obrigado!,conversacao_geral,,
+Não gostei do motorista,feedback,,
+Aplicativo travando,feedback,,
+"Estou em Centro, quero ir para Campinas em Campinas. Como faço?",solicitar_rota,Centro,Campinas
+Qual o ônibus que sai de Parque das Flores e vai para Universidade em Campinas?,solicitar_rota,Parque das Flores,Universidade
+Qual seu nome?,conversacao_geral,,
+"Estou em Centro, quero ir para Campinas em Campinas. Como faço?",solicitar_rota,Centro,Campinas
+pode tocar musica,desconhecido,,
+Ajuda por favor,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Quem é você?,conversacao_geral,,
+Instale esse programa,desconhecido,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+Tudo certo?,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+Linha 305 demorou demais,feedback,,
+Oi,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Obrigado!,conversacao_geral,,
+Motorista foi educado,feedback,,
+Oi,conversacao_geral,,
+Linha 305 demorou demais,feedback,,
+Rota mudou sem aviso,feedback,,
+Preciso ir de Vila Nova até Hospital Municipal em Campinas. Qual linha pegar?,solicitar_rota,Vila Nova,Hospital Municipal
+"Estou no bairro Vila Nova, quero chegar no Hospital Municipal em Campinas, qual é a rota?",solicitar_rota,Vila Nova,Hospital Municipal
+Quero comprar um carro,desconhecido,,
+Gostei do atendimento,feedback,,
+Quero comprar um carro,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+Aplicativo travando,feedback,,
+Ar-condicionado não estava funcionando,feedback,,
+Ajuda por favor,conversacao_geral,,
+Aplicativo travando,feedback,,
+Não gostei do motorista,feedback,,
+Banco quebrado no fundo,feedback,,
+Quem ganhou o Oscar?,desconhecido,,
+Ônibus muito lotado,feedback,,
+"Saindo de Sumaré, qual ônibus pego para chegar em Hospital Municipal em Campinas?",solicitar_rota,Sumaré,Hospital Municipal
+vc joga?,desconhecido,,
+Ônibus muito lotado,feedback,,
+"Preciso de uma rota de Terminal A para Terminal B em Campinas, qual ônibus usar?",solicitar_rota,Terminal A,Terminal B
+sudo apt-get install algo,desconhecido,,
+Como vou de Vila Nova até Hospital Municipal em Campinas de ônibus?,solicitar_rota,Vila Nova,Hospital Municipal
+Qual o caminho de ônibus de Centro até Shopping em Campinas?,solicitar_rota,Centro,Shopping
+Qual o ônibus que sai de Parque das Flores e vai para Universidade em Campinas?,solicitar_rota,Parque das Flores,Universidade
+Agenda uma reunião amanhã,desconhecido,,
+Oi,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Preciso ir de Jardim Amanda até Campinas em Campinas. Qual linha pegar?,solicitar_rota,Jardim Amanda,Campinas
+O ônibus atrasou 15 minutos,feedback,,
+Instale esse programa,desconhecido,,
+Como funciona você?,conversacao_geral,,
+Qual o caminho de ônibus de Terminal A até Shopping em Campinas?,solicitar_rota,Terminal A,Shopping
+Ajuda por favor,conversacao_geral,,
+Parada sem iluminação,feedback,,
+Como funciona você?,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+Como investir em ações?,desconhecido,,
+Agenda uma reunião amanhã,desconhecido,,
+Beleza?,conversacao_geral,,
+"Estou no bairro Paulínia, quero chegar no Shopping em Campinas, qual é a rota?",solicitar_rota,Paulínia,Shopping
+Instale esse programa,desconhecido,,
+Obrigado!,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+Gostei do atendimento,feedback,,
+Você é um assistente?,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+Tá me ouvindo?,conversacao_geral,,
+"Estou em Centro e quero ir até Shopping, qual linha devo pegar?",solicitar_rota,Centro,Shopping
+"Estou no bairro Hortolândia, quero chegar no Rodoviária em Campinas, qual é a rota?",solicitar_rota,Hortolândia,Rodoviária
+Como vou de Parque das Flores até Universidade em Campinas de ônibus?,solicitar_rota,Parque das Flores,Universidade
+Boa noite,conversacao_geral,,
+Quem é você?,conversacao_geral,,
+Aplicativo travando,feedback,,
+Qual o caminho de ônibus de Vila Nova até Shopping em Campinas?,solicitar_rota,Vila Nova,Shopping
+"Estou no bairro Hortolândia, quero chegar no Praça Matriz em Campinas, qual é a rota?",solicitar_rota,Hortolândia,Praça Matriz
+"Preciso de uma rota de Paulínia para Rodoviária em Campinas, qual ônibus usar?",solicitar_rota,Paulínia,Rodoviária
+Ajuda por favor,conversacao_geral,,
+Quero assistir um filme agora,desconhecido,,
+"Estou em Parque das Flores e quero ir até Shopping, qual linha devo pegar?",solicitar_rota,Parque das Flores,Shopping
+Qual seu nome?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+E aí?,conversacao_geral,,
+"Estou em Hortolândia, quero ir para Praça Matriz em Campinas. Como faço?",solicitar_rota,Hortolândia,Praça Matriz
+Instale esse programa,desconhecido,,
+"Estou em Terminal A e quero ir até Campinas, qual linha devo pegar?",solicitar_rota,Terminal A,Campinas
+Não gostei do motorista,feedback,,
+Gostei do atendimento,feedback,,
+Gostei do atendimento,feedback,,
+asdfghjk,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+Traduza isto para francês,desconhecido,,
+Boa noite,conversacao_geral,,
+Qual a capital da Noruega?,desconhecido,,
+asdfghjk,desconhecido,,
+Qual seu nome?,conversacao_geral,,
+Informação do app não confere,feedback,,
+Não entendi,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+"Preciso de uma rota de Sumaré para Hospital Municipal em Campinas, qual ônibus usar?",solicitar_rota,Sumaré,Hospital Municipal
+Abre o navegador,desconhecido,,
+Quem é você?,conversacao_geral,,
+Preciso ir de Sumaré até Shopping em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Shopping
+"Preciso de uma rota de Paulínia para Praça Matriz em Campinas, qual ônibus usar?",solicitar_rota,Paulínia,Praça Matriz
+Motorista foi educado,feedback,,
+Linha 305 demorou demais,feedback,,
+Abre o navegador,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+E aí?,conversacao_geral,,
+Bom dia,conversacao_geral,,
+Estou testando o sistema,conversacao_geral,,
+Qual o ônibus que sai de Centro e vai para Campinas em Campinas?,solicitar_rota,Centro,Campinas
+vc joga?,desconhecido,,
+Motorista foi educado,feedback,,
+Ajuda por favor,conversacao_geral,,
+Como vou de Hortolândia até Rodoviária em Campinas de ônibus?,solicitar_rota,Hortolândia,Rodoviária
+Qual a senha do Wi-Fi?,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+Instale esse programa,desconhecido,,
+Agenda uma reunião amanhã,desconhecido,,
+Informação do app não confere,feedback,,
+Quero assistir um filme agora,desconhecido,,
+Aplicativo travando,feedback,,
+Tá me ouvindo?,conversacao_geral,,
+Como funciona você?,conversacao_geral,,
+Linha 305 demorou demais,feedback,,
+O ônibus atrasou 15 minutos,feedback,,
+Instale esse programa,desconhecido,,
+Ônibus muito lotado,feedback,,
+Quem é você?,conversacao_geral,,
+"Preciso de uma rota de Vila Nova para Campinas em Campinas, qual ônibus usar?",solicitar_rota,Vila Nova,Campinas
+Qual o resultado do jogo do Brasil?,desconhecido,,
+"Preciso de uma rota de Centro para Campinas em Campinas, qual ônibus usar?",solicitar_rota,Centro,Campinas
+Linha 305 demorou demais,feedback,,
+Qual o caminho de ônibus de Terminal A até Campinas em Campinas?,solicitar_rota,Terminal A,Campinas
+Ônibus muito lotado,feedback,,
+Parada sem iluminação,feedback,,
+Preciso ir de Parque das Flores até Terminal B em Campinas. Qual linha pegar?,solicitar_rota,Parque das Flores,Terminal B
+Qual o ônibus que sai de Vila Nova e vai para Terminal B em Campinas?,solicitar_rota,Vila Nova,Terminal B
+Ar-condicionado não estava funcionando,feedback,,
+Elogio para a linha 417,feedback,,
+Qual o caminho de ônibus de Sumaré até Aeroporto em Campinas?,solicitar_rota,Sumaré,Aeroporto
+"Saindo de Vila Nova, qual ônibus pego para chegar em Hospital Municipal em Campinas?",solicitar_rota,Vila Nova,Hospital Municipal
+Me ligue mais tarde,desconhecido,,
+Pode explicar como usar?,conversacao_geral,,
+Informação do app não confere,feedback,,
+Valeu,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+Quero comprar um carro,desconhecido,,
+Qual o ônibus que sai de Centro e vai para Shopping em Campinas?,solicitar_rota,Centro,Shopping
+"Estou em Terminal A e quero ir até Terminal B, qual linha devo pegar?",solicitar_rota,Terminal A,Terminal B
+Qual a capital da Noruega?,desconhecido,,
+Bom dia,conversacao_geral,,
+O ônibus atrasou 15 minutos,feedback,,
+Beleza?,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+"Estou no bairro Parque das Flores, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Parque das Flores,Terminal B
+"Estou em Jardim Amanda, quero ir para Universidade em Campinas. Como faço?",solicitar_rota,Jardim Amanda,Universidade
+vc joga?,desconhecido,,
+Abre o navegador,desconhecido,,
+Qual o preço do dólar hoje?,desconhecido,,
+"Estou no bairro Terminal A, quero chegar no Hospital Municipal em Campinas, qual é a rota?",solicitar_rota,Terminal A,Hospital Municipal
+"Saindo de Vila Nova, qual ônibus devo pegar para chegar no Praça Matriz?",solicitar_rota,Vila Nova,Praça Matriz
+Qual o ônibus que sai de Vila Nova e vai para Praça Matriz em Campinas?,solicitar_rota,Vila Nova,Praça Matriz
+"Preciso de uma rota de Vila Nova para Aeroporto em Campinas, qual ônibus usar?",solicitar_rota,Vila Nova,Aeroporto
+Parada sem iluminação,feedback,,
+Ônibus muito lotado,feedback,,
+Não gostei do motorista,feedback,,
+Ônibus muito lotado,feedback,,
+Gostei do atendimento,feedback,,
+Preciso ir de Hortolândia até Hospital Municipal em Campinas. Qual linha pegar?,solicitar_rota,Hortolândia,Hospital Municipal
+Boa tarde,conversacao_geral,,
+Traduza isto para francês,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Gostei do atendimento,feedback,,
+"Estou em Centro e quero ir até Terminal B, qual linha devo pegar?",solicitar_rota,Centro,Terminal B
+Estou testando,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+Beleza?,conversacao_geral,,
+Motorista foi educado,feedback,,
+"Estou em Centro e quero ir até Terminal B, qual linha devo pegar?",solicitar_rota,Centro,Terminal B
+"Estou em Centro, quero ir para Shopping em Campinas. Como faço?",solicitar_rota,Centro,Shopping
+Aplicativo travando,feedback,,
+Você pode me ajudar?,conversacao_geral,,
+Obrigado!,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Ar-condicionado não estava funcionando,feedback,,
+Linha 305 demorou demais,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+Você pode me ajudar?,conversacao_geral,,
+Sugestão: mais horários no pico,feedback,,
+Qual o ônibus que sai de Parque das Flores e vai para Rodoviária em Campinas?,solicitar_rota,Parque das Flores,Rodoviária
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+"Preciso de uma rota de Vila Nova para Shopping em Campinas, qual ônibus usar?",solicitar_rota,Vila Nova,Shopping
+Como vou de Parque das Flores até Hospital Municipal em Campinas de ônibus?,solicitar_rota,Parque das Flores,Hospital Municipal
+Preciso ir de Vila Nova até Campinas em Campinas. Qual linha pegar?,solicitar_rota,Vila Nova,Campinas
+Quem ganhou o Oscar?,desconhecido,,
+"Saindo de Vila Nova, qual ônibus devo pegar para chegar no Universidade?",solicitar_rota,Vila Nova,Universidade
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Valeu,conversacao_geral,,
+Tá me ouvindo?,conversacao_geral,,
+"Saindo de Terminal A, qual ônibus devo pegar para chegar no Praça Matriz?",solicitar_rota,Terminal A,Praça Matriz
+Obrigado!,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Qual o ônibus que sai de Sumaré e vai para Aeroporto em Campinas?,solicitar_rota,Sumaré,Aeroporto
+Linha 305 demorou demais,feedback,,
+Rota mudou sem aviso,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+"Estou no bairro Vila Nova, quero chegar no Aeroporto em Campinas, qual é a rota?",solicitar_rota,Vila Nova,Aeroporto
+Tá me ouvindo?,conversacao_geral,,
+"Saindo de Terminal A, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Terminal A,Shopping
+Quem ganhou o Oscar?,desconhecido,,
+Linha 305 demorou demais,feedback,,
+"Estou em Centro, quero ir para Campinas em Campinas. Como faço?",solicitar_rota,Centro,Campinas
+Como investir em ações?,desconhecido,,
+Bom dia,conversacao_geral,,
+E aí?,conversacao_geral,,
+Oi,conversacao_geral,,
+"Saindo de Vila Nova, qual ônibus devo pegar para chegar no Hospital Municipal?",solicitar_rota,Vila Nova,Hospital Municipal
+Quero comprar um carro,desconhecido,,
+Estou testando o sistema,conversacao_geral,,
+Não gostei do motorista,feedback,,
+Abre o navegador,desconhecido,,
+Como vou de Terminal A até Aeroporto em Campinas de ônibus?,solicitar_rota,Terminal A,Aeroporto
+O ônibus atrasou 15 minutos,feedback,,
+Linha 305 demorou demais,feedback,,
+Qual o ônibus que sai de Centro e vai para Aeroporto em Campinas?,solicitar_rota,Centro,Aeroporto
+"Estou em Jardim Amanda e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Jardim Amanda,Hospital Municipal
+Preciso ir de Centro até Rodoviária em Campinas. Qual linha pegar?,solicitar_rota,Centro,Rodoviária
+Como vou de Parque das Flores até Rodoviária em Campinas de ônibus?,solicitar_rota,Parque das Flores,Rodoviária
+asdfghjk,desconhecido,,
+Mostre notícias de tecnologia,desconhecido,,
+Aplicativo travando,feedback,,
+Abre o navegador,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+Quero comprar um carro,desconhecido,,
+Aplicativo travando,feedback,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Não entendi,conversacao_geral,,
+Não gostei do motorista,feedback,,
+"Preciso de uma rota de Hortolândia para Aeroporto em Campinas, qual ônibus usar?",solicitar_rota,Hortolândia,Aeroporto
+Me mostra a previsão do tempo de Paris,desconhecido,,
+"Estou em Vila Nova e quero ir até Praça Matriz, qual linha devo pegar?",solicitar_rota,Vila Nova,Praça Matriz
+"Preciso de uma rota de Parque das Flores para Campinas em Campinas, qual ônibus usar?",solicitar_rota,Parque das Flores,Campinas
+Instale esse programa,desconhecido,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Estou testando o sistema,conversacao_geral,,
+O ônibus atrasou 15 minutos,feedback,,
+Quero comprar um carro,desconhecido,,
+Rota mudou sem aviso,feedback,,
+"Estou em Hortolândia, quero ir para Shopping em Campinas. Como faço?",solicitar_rota,Hortolândia,Shopping
+Não entendi,conversacao_geral,,
+Pode conversar comigo?,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Mostre notícias de tecnologia,desconhecido,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Beleza?,conversacao_geral,,
+Pode conversar comigo?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+"Saindo de Jardim Amanda, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Jardim Amanda,Shopping
+Não gostei do motorista,feedback,,
+Agenda uma reunião amanhã,desconhecido,,
+Qual o ônibus que sai de Terminal A e vai para Rodoviária em Campinas?,solicitar_rota,Terminal A,Rodoviária
+Como investir em ações?,desconhecido,,
+Motorista foi educado,feedback,,
+Rota mudou sem aviso,feedback,,
+Parada sem iluminação,feedback,,
+asdfghjk,desconhecido,,
+Oi,conversacao_geral,,
+Qual a capital da Noruega?,desconhecido,,
+Gostei do atendimento,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+Pode conversar comigo?,conversacao_geral,,
+"Estou em Sumaré e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Sumaré,Rodoviária
+Quem é você?,conversacao_geral,,
+Ar-condicionado não estava funcionando,feedback,,
+Como fazer bolo de cenoura?,desconhecido,,
+Linha 305 demorou demais,feedback,,
+Bom dia,conversacao_geral,,
+Obrigado!,conversacao_geral,,
+Estou testando o sistema,conversacao_geral,,
+Qual o caminho de ônibus de Parque das Flores até Aeroporto em Campinas?,solicitar_rota,Parque das Flores,Aeroporto
+Quero comprar um carro,desconhecido,,
+Como investir em ações?,desconhecido,,
+"Saindo de Parque das Flores, qual ônibus pego para chegar em Terminal B em Campinas?",solicitar_rota,Parque das Flores,Terminal B
+Preciso ir de Parque das Flores até Aeroporto em Campinas. Qual linha pegar?,solicitar_rota,Parque das Flores,Aeroporto
+Rota mudou sem aviso,feedback,,
+Aplicativo travando,feedback,,
+Valeu,conversacao_geral,,
+"Preciso de uma rota de Centro para Terminal B em Campinas, qual ônibus usar?",solicitar_rota,Centro,Terminal B
+Preciso ir de Hortolândia até Terminal B em Campinas. Qual linha pegar?,solicitar_rota,Hortolândia,Terminal B
+Boa noite,conversacao_geral,,
+Boa tarde,conversacao_geral,,
+"Olá, tudo bem?",conversacao_geral,,
+"Saindo de Sumaré, qual ônibus pego para chegar em Praça Matriz em Campinas?",solicitar_rota,Sumaré,Praça Matriz
+Parada sem iluminação,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+Boa tarde,conversacao_geral,,
+Tá me ouvindo?,conversacao_geral,,
+asdfghjk,desconhecido,,
+"Estou no bairro Jardim Amanda, quero chegar no Rodoviária em Campinas, qual é a rota?",solicitar_rota,Jardim Amanda,Rodoviária
+Como investir em ações?,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+Elogio para a linha 417,feedback,,
+Me ligue mais tarde,desconhecido,,
+"Preciso de uma rota de Paulínia para Terminal B em Campinas, qual ônibus usar?",solicitar_rota,Paulínia,Terminal B
+Qual a capital da Noruega?,desconhecido,,
+Como investir em ações?,desconhecido,,
+Você pode me ajudar?,conversacao_geral,,
+"Preciso de uma rota de Centro para Terminal B em Campinas, qual ônibus usar?",solicitar_rota,Centro,Terminal B
+Boa noite,conversacao_geral,,
+Banco quebrado no fundo,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+Tá me ouvindo?,conversacao_geral,,
+Traduza isto para francês,desconhecido,,
+Bom dia,conversacao_geral,,
+Qual o ônibus que sai de Hortolândia e vai para Campinas em Campinas?,solicitar_rota,Hortolândia,Campinas
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+Qual a capital da Noruega?,desconhecido,,
+Pode conversar comigo?,conversacao_geral,,
+"Saindo de Terminal A, qual ônibus devo pegar para chegar no Terminal B?",solicitar_rota,Terminal A,Terminal B
+Qual seu nome?,conversacao_geral,,
+Oi,conversacao_geral,,
+"Estou em Jardim Amanda, quero ir para Campinas em Campinas. Como faço?",solicitar_rota,Jardim Amanda,Campinas
+Ajuda por favor,conversacao_geral,,
+Pode conversar comigo?,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+pode tocar musica,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Qual o caminho de ônibus de Hortolândia até Terminal B em Campinas?,solicitar_rota,Hortolândia,Terminal B
+Não entendi,conversacao_geral,,
+vc joga?,desconhecido,,
+Qual o ônibus que sai de Jardim Amanda e vai para Aeroporto em Campinas?,solicitar_rota,Jardim Amanda,Aeroporto
+Gostei do atendimento,feedback,,
+Preciso ir de Sumaré até Aeroporto em Campinas. Qual linha pegar?,solicitar_rota,Sumaré,Aeroporto
+Valeu,conversacao_geral,,
+Estou testando o sistema,conversacao_geral,,
+"Estou em Terminal A, quero ir para Universidade em Campinas. Como faço?",solicitar_rota,Terminal A,Universidade
+Quero comprar um carro,desconhecido,,
+"Estou no bairro Parque das Flores, quero chegar no Shopping em Campinas, qual é a rota?",solicitar_rota,Parque das Flores,Shopping
+Não gostei do motorista,feedback,,
+Como vou de Paulínia até Hospital Municipal em Campinas de ônibus?,solicitar_rota,Paulínia,Hospital Municipal
+"Estou em Paulínia e quero ir até Praça Matriz, qual linha devo pegar?",solicitar_rota,Paulínia,Praça Matriz
+"Saindo de Jardim Amanda, qual ônibus pego para chegar em Terminal B em Campinas?",solicitar_rota,Jardim Amanda,Terminal B
+Aplicativo travando,feedback,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Linha 305 demorou demais,feedback,,
+"Olá, tudo bem?",conversacao_geral,,
+Obrigado!,conversacao_geral,,
+Mostre notícias de tecnologia,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Informação do app não confere,feedback,,
+Quem é você?,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+Obrigado!,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+Tá me ouvindo?,conversacao_geral,,
+Agenda uma reunião amanhã,desconhecido,,
+Qual o caminho de ônibus de Vila Nova até Hospital Municipal em Campinas?,solicitar_rota,Vila Nova,Hospital Municipal
+Qual o ônibus que sai de Paulínia e vai para Terminal B em Campinas?,solicitar_rota,Paulínia,Terminal B
+Estou testando o sistema,conversacao_geral,,
+"Saindo de Sumaré, qual ônibus pego para chegar em Universidade em Campinas?",solicitar_rota,Sumaré,Universidade
+Não entendi,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+vc joga?,desconhecido,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+Tudo certo?,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+Bom dia,conversacao_geral,,
+Como funciona você?,conversacao_geral,,
+Qual o caminho de ônibus de Sumaré até Rodoviária em Campinas?,solicitar_rota,Sumaré,Rodoviária
+Preciso ir de Paulínia até Universidade em Campinas. Qual linha pegar?,solicitar_rota,Paulínia,Universidade
+Ônibus muito lotado,feedback,,
+"Saindo de Hortolândia, qual ônibus devo pegar para chegar no Shopping?",solicitar_rota,Hortolândia,Shopping
+Qual o ônibus que sai de Parque das Flores e vai para Rodoviária em Campinas?,solicitar_rota,Parque das Flores,Rodoviária
+O ônibus atrasou 15 minutos,feedback,,
+Elogio para a linha 417,feedback,,
+Qual o caminho de ônibus de Vila Nova até Hospital Municipal em Campinas?,solicitar_rota,Vila Nova,Hospital Municipal
+Rota mudou sem aviso,feedback,,
+Pode conversar comigo?,conversacao_geral,,
+Elogio para a linha 417,feedback,,
+vc joga?,desconhecido,,
+Mostre notícias de tecnologia,desconhecido,,
+Linha 305 demorou demais,feedback,,
+Banco quebrado no fundo,feedback,,
+Aplicativo travando,feedback,,
+Boa noite,conversacao_geral,,
+Banco quebrado no fundo,feedback,,
+Qual seu nome?,conversacao_geral,,
+Boa noite,conversacao_geral,,
+Tá me ouvindo?,conversacao_geral,,
+O ônibus atrasou 15 minutos,feedback,,
+vc joga?,desconhecido,,
+asdfghjk,desconhecido,,
+Beleza?,conversacao_geral,,
+Motorista foi educado,feedback,,
+Elogio para a linha 417,feedback,,
+asdfghjk,desconhecido,,
+Ajuda por favor,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+Me ligue mais tarde,desconhecido,,
+Abre o navegador,desconhecido,,
+Valeu,conversacao_geral,,
+Valeu,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Me ligue mais tarde,desconhecido,,
+Motorista foi educado,feedback,,
+"Saindo de Terminal A, qual ônibus pego para chegar em Universidade em Campinas?",solicitar_rota,Terminal A,Universidade
+Você pode me ajudar?,conversacao_geral,,
+pode tocar musica,desconhecido,,
+vc joga?,desconhecido,,
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Qual seu nome?,conversacao_geral,,
+Quem é você?,conversacao_geral,,
+Preciso ir de Vila Nova até Praça Matriz em Campinas. Qual linha pegar?,solicitar_rota,Vila Nova,Praça Matriz
+Informação do app não confere,feedback,,
+"Saindo de Terminal A, qual ônibus devo pegar para chegar no Aeroporto?",solicitar_rota,Terminal A,Aeroporto
+pode tocar musica,desconhecido,,
+Linha 305 demorou demais,feedback,,
+Sugestão: mais horários no pico,feedback,,
+Você é um assistente?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+"Saindo de Paulínia, qual ônibus devo pegar para chegar no Aeroporto?",solicitar_rota,Paulínia,Aeroporto
+"Estou em Vila Nova, quero ir para Rodoviária em Campinas. Como faço?",solicitar_rota,Vila Nova,Rodoviária
+Instale esse programa,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+"Estou no bairro Terminal A, quero chegar no Praça Matriz em Campinas, qual é a rota?",solicitar_rota,Terminal A,Praça Matriz
+Como fazer bolo de cenoura?,desconhecido,,
+Como fazer bolo de cenoura?,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Abre o navegador,desconhecido,,
+Linha 305 demorou demais,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+Ar-condicionado não estava funcionando,feedback,,
+Quem é você?,conversacao_geral,,
+asdfghjk,desconhecido,,
+Bom dia,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+Boa tarde,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+Pode conversar comigo?,conversacao_geral,,
+Mostre notícias de tecnologia,desconhecido,,
+"Saindo de Paulínia, qual ônibus pego para chegar em Aeroporto em Campinas?",solicitar_rota,Paulínia,Aeroporto
+Informação do app não confere,feedback,,
+Bom dia,conversacao_geral,,
+"Preciso de uma rota de Centro para Praça Matriz em Campinas, qual ônibus usar?",solicitar_rota,Centro,Praça Matriz
+Pode explicar como usar?,conversacao_geral,,
+Quem é você?,conversacao_geral,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Tudo certo?,conversacao_geral,,
+Preciso ir de Vila Nova até Campinas em Campinas. Qual linha pegar?,solicitar_rota,Vila Nova,Campinas
+sudo apt-get install algo,desconhecido,,
+"Preciso de uma rota de Jardim Amanda para Hospital Municipal em Campinas, qual ônibus usar?",solicitar_rota,Jardim Amanda,Hospital Municipal
+Como funciona você?,conversacao_geral,,
+"Saindo de Parque das Flores, qual ônibus pego para chegar em Shopping em Campinas?",solicitar_rota,Parque das Flores,Shopping
+Abre o navegador,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+Banco quebrado no fundo,feedback,,
+Aplicativo travando,feedback,,
+Quem ganhou o Oscar?,desconhecido,,
+Pode conversar comigo?,conversacao_geral,,
+Ar-condicionado não estava funcionando,feedback,,
+Ar-condicionado não estava funcionando,feedback,,
+asdfghjk,desconhecido,,
+"Estou em Jardim Amanda e quero ir até Terminal B, qual linha devo pegar?",solicitar_rota,Jardim Amanda,Terminal B
+Boa noite,conversacao_geral,,
+Ônibus muito lotado,feedback,,
+"Estou em Vila Nova e quero ir até Rodoviária, qual linha devo pegar?",solicitar_rota,Vila Nova,Rodoviária
+Qual o ônibus que sai de Terminal A e vai para Terminal B em Campinas?,solicitar_rota,Terminal A,Terminal B
+Quem é você?,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Não gostei do motorista,feedback,,
+Rota mudou sem aviso,feedback,,
+Qual o ônibus que sai de Centro e vai para Terminal B em Campinas?,solicitar_rota,Centro,Terminal B
+Me mostra a previsão do tempo de Paris,desconhecido,,
+Abre o navegador,desconhecido,,
+Rota mudou sem aviso,feedback,,
+Ônibus muito lotado,feedback,,
+"Estou em Vila Nova e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Vila Nova,Hospital Municipal
+Não gostei do motorista,feedback,,
+Me ligue mais tarde,desconhecido,,
+Elogio para a linha 417,feedback,,
+Bom dia,conversacao_geral,,
+"Estou em Sumaré e quero ir até Hospital Municipal, qual linha devo pegar?",solicitar_rota,Sumaré,Hospital Municipal
+"Estou no bairro Terminal A, quero chegar no Terminal B em Campinas, qual é a rota?",solicitar_rota,Terminal A,Terminal B
+Valeu,conversacao_geral,,
+asdfghjk,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+Preciso ir de Hortolândia até Shopping em Campinas. Qual linha pegar?,solicitar_rota,Hortolândia,Shopping
+E aí?,conversacao_geral,,
+Elogio para a linha 417,feedback,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Não gostei do motorista,feedback,,
+Estou testando,conversacao_geral,,
+Estou testando o sistema,conversacao_geral,,
+Qual a capital da Noruega?,desconhecido,,
+Preciso ir de Paulínia até Universidade em Campinas. Qual linha pegar?,solicitar_rota,Paulínia,Universidade
+O ônibus atrasou 15 minutos,feedback,,
+Qual a capital da Noruega?,desconhecido,,
+Banco quebrado no fundo,feedback,,
+Elogio para a linha 417,feedback,,
+Pode explicar como usar?,conversacao_geral,,
+Elogio para a linha 417,feedback,,
+Qual o resultado do jogo do Brasil?,desconhecido,,
+Quero assistir um filme agora,desconhecido,,
+Tá me ouvindo?,conversacao_geral,,
+"Saindo de Terminal A, qual ônibus devo pegar para chegar no Terminal B?",solicitar_rota,Terminal A,Terminal B
+Qual seu nome?,conversacao_geral,,
+sudo apt-get install algo,desconhecido,,
+"Saindo de Sumaré, qual ônibus pego para chegar em Aeroporto em Campinas?",solicitar_rota,Sumaré,Aeroporto
+Agenda uma reunião amanhã,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Estou testando,conversacao_geral,,
+Como fazer bolo de cenoura?,desconhecido,,
+E aí?,conversacao_geral,,
+Qual o ônibus que sai de Sumaré e vai para Shopping em Campinas?,solicitar_rota,Sumaré,Shopping
+Tá me ouvindo?,conversacao_geral,,
+Como investir em ações?,desconhecido,,
+Sugestão: mais horários no pico,feedback,,
+Como funciona você?,conversacao_geral,,
+Como vou de Centro até Hospital Municipal em Campinas de ônibus?,solicitar_rota,Centro,Hospital Municipal
+Quem ganhou o Oscar?,desconhecido,,
+"Estou em Centro e quero ir até Terminal B, qual linha devo pegar?",solicitar_rota,Centro,Terminal B
+Boa noite,conversacao_geral,,
+Rota mudou sem aviso,feedback,,
+asdfghjk,desconhecido,,
+Pode conversar comigo?,conversacao_geral,,
+Quero comprar um carro,desconhecido,,
+Motorista foi educado,feedback,,
+"Preciso de uma rota de Vila Nova para Campinas em Campinas, qual ônibus usar?",solicitar_rota,Vila Nova,Campinas
+vc joga?,desconhecido,,
+"Saindo de Sumaré, qual ônibus pego para chegar em Terminal B em Campinas?",solicitar_rota,Sumaré,Terminal B
+asdfghjk,desconhecido,,
+Qual o caminho de ônibus de Hortolândia até Rodoviária em Campinas?,solicitar_rota,Hortolândia,Rodoviária
+"Preciso de uma rota de Jardim Amanda para Aeroporto em Campinas, qual ônibus usar?",solicitar_rota,Jardim Amanda,Aeroporto
+Aplicativo travando,feedback,,
+sudo apt-get install algo,desconhecido,,
+Parada sem iluminação,feedback,,
+Elogio para a linha 417,feedback,,
+Qual a senha do Wi-Fi?,desconhecido,,
+Instale esse programa,desconhecido,,
+Você é um assistente?,conversacao_geral,,
+pode tocar musica,desconhecido,,
+Ônibus muito lotado,feedback,,
+Boa noite,conversacao_geral,,
+Qual o caminho de ônibus de Vila Nova até Terminal B em Campinas?,solicitar_rota,Vila Nova,Terminal B
+Abre o navegador,desconhecido,,
+Pode conversar comigo?,conversacao_geral,,
+Parada sem iluminação,feedback,,
+Qual o caminho de ônibus de Jardim Amanda até Aeroporto em Campinas?,solicitar_rota,Jardim Amanda,Aeroporto
+Linha 305 demorou demais,feedback,,
+"Saindo de Hortolândia, qual ônibus devo pegar para chegar no Rodoviária?",solicitar_rota,Hortolândia,Rodoviária
+Você é um assistente?,conversacao_geral,,
+Oi,conversacao_geral,,
+Gostei do atendimento,feedback,,
+Ônibus muito lotado,feedback,,
+Não gostei do motorista,feedback,,
+Linha 305 demorou demais,feedback,,
