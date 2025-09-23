@@ -1,0 +1,33 @@
+==================================================
+Relatório de Avaliação do Modelo BusSense
+Data da Avaliação: 2025-08-19 21:07:36
+==================================================
+
+1. Desempenho da Classificação de Intenção
+----------------------------------------
+Acurácia Geral: 60.78%
+
+Relatório de Classificação:
+                   precision    recall  f1-score   support
+
+conversacao_geral       0.70      0.50      0.58       290
+     desconhecido       0.00      0.00      0.00         0
+         feedback       0.71      0.51      0.59       184
+   solicitar_rota       0.75      0.96      0.84       138
+
+         accuracy                           0.61       612
+        macro avg       0.54      0.49      0.50       612
+     weighted avg       0.71      0.61      0.64       612
+
+
+2. Desempenho da Extração de Entidades
+----------------------------------------
+Acurácia da Extração de 'Origem': 62.32%
+Acurácia da Extração de 'Destino': 60.14%
+
+3. Métricas de Latência
+----------------------------------------
+Total de chamadas ao LLM: 233
+Latência Média: 0.4697 segundos
+Latência Máxima (pior caso): 1.0920 segundos
+Latência Mínima (melhor caso): 0.0745 segundos

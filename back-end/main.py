@@ -1,26 +1,25 @@
-import os
-import pandas as pd
-import requests
 from dotenv import load_dotenv
-from AI.model.gemini_analysis import GeminiThinking
 
-def fetch_routes(url: str) -> pd.DataFrame:
-    response = requests.get(url)
-    if response.status_code == 200:
-        data = response.json()
-        df = pd.DataFrame(data)
-        df = df[['route_short_name', 'route_name_start', 'route_name_end']]
-        df.columns = ['RouteCode', 'RouteStart', 'RouteEnd']
-        return df
-    else:
-        raise Exception(f"API Error: {response.status_code}")
+from config import constants
+from core import RouteFetcher
+from AI.model import BusSenseAssistant
+from AI.model import metrics
+
+#TODO:
+# [ ] - Verificar resultados do modelo e melhora-los
+# [ ] - Adicionar os itens restantes no logs/user_interactions.csv pelo script
+# [ ] - Melhorar o output de audio
 
 if __name__ == "__main__":
     load_dotenv()
-    api_key = os.getenv("GOOGLE_API_KEY")
+    url = constants.REST_API_URL + "/bus-route"
+    get_routes = RouteFetcher(url)
+    routes_df = get_routes.fetch_routes()
 
-    url = "http://localhost:8000/api/bus-route/"
-    routes_df = fetch_routes(url)
+    # assistant = BusSenseAssistant(routes_data_path=constants.DATA_FILE_PATH + 'llm_generated_routes.csv')
+    # assistant.start()
 
-    assistant = GeminiThinking(api_key=api_key, routes_data=routes_df)
-    assistant.run()
+    # metric = metrics.ModelEvaluator("/home/matheusg/Documents/UNASP/BusSense/back-end/data/db_metrics.csv")
+    metric = metrics.ModelEvaluator("/home/matheusg/Documents/UNASP/BusSense/back-end/data/model_test_data_clean_utf8.csv")
+
+    metric.run_full_evaluation()

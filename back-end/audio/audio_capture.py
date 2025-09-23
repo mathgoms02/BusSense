@@ -1,11 +1,15 @@
+import os
 import speech_recognition as sr
+
 
 class AudioCapture:
     def __init__(self):
         self.r = sr.Recognizer()
 
+
     def listen(self):
         with sr.Microphone() as source:
+            # os.system("clear")  # Temporário para melhor degug
             print("Speak Something...")
             audio = self.r.listen(source, 5, 10)
 
