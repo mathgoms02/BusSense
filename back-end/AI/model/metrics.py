@@ -40,7 +40,7 @@ class ModelEvaluator:
         self.latencies = []
         self.results_log = []
 
-        self.intent_svm = IntentSVM(model_path="/home/matheusg/Documents/UNASP/BusSense/back-end/model/intent_svm.pkl", threshold=0.55)
+        self.intent_svm = IntentSVM(model_path="/home/matheusg/Documents/UNASP/BusSense/back-end/AI/model/intent_svm.pkl", threshold=0.55)
         # self.intent_svm = IntentSVM(model_path="/home/matheusg/Documents/UNASP/BusSense/back-end/model/intent_svm.pkl", threshold=0.90)
 
 

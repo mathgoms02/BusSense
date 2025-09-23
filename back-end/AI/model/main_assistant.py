@@ -19,7 +19,7 @@ class BusSenseAssistant:
         routes_df = pd.read_csv(routes_data_path)
         self.recorder = AudioCapture()
         self.tts = TextTSpeech("")
-        self.intent_svm = IntentSVM(model_path="/home/matheusg/Documents/UNASP/BusSense/back-end/model/intent_svm.pkl", threshold=0.9)
+        self.intent_svm = IntentSVM(model_path="/home/matheusg/Documents/UNASP/BusSense/back-end/AI/model/intent_svm.pkl", threshold=0.9)
         self.logger = InteractionLogger()
         self.route_searcher = RouteEmbeddings(routes_df)
         self.feedback_classifier = FeedbackClassifierAgent()
